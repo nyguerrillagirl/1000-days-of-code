@@ -23,14 +23,6 @@
 - Tech Reading
 - Non-tech Reading
 
-I decided to move some of the documentation I create as part of the 300-days-of-code 
-under Github.  I usually have them saved in OneDrive but I got a corrupt file which
-made me lose one day of notes.
-
-# BACKLOG:
-|Topic/Book/Course|Description                          |
-|-----------------|-------------------------------------|
-| Spring          | moved to backlog for now            |
 
 Under /docs
     - Note: The size of the documents uploaded is limited so I will keep on OneDrive (even if I have lost work!)
