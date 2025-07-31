@@ -4,6 +4,7 @@ body {
   place-items: center;  /* centers both horizontally and vertically */
   height: 100vh;
   margin: 0;
+  font-family: Arial, sans-serif;
 }
 
 .user-list-container {
@@ -37,11 +38,41 @@ body {
   border-radius: 10px;
   padding: 12px 16px;
   margin: 16px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+
 }
 
 .user-card:hover {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   transform: translateY(-2px);
   transition: 0.3s ease;
+}
+
+.user-card-name {
+  font-size: 24px;
+  font-weight: bold;
+  color: #3479F6;
+  margin: 0 0 8px;
+}
+
+.user-card-status {
+  font-weight: bold;
+}
+.user-card-button {
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+   width: 100%;
+   margin: 8px 0;
+
+}
+.user-card-button.deactivate{
+  background-color: #CB444A;
+}
+
+.user-card-button.activate{
+  background-color: #53A551;
 }

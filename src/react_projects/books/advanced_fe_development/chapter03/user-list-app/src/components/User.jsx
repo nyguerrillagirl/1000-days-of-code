@@ -5,7 +5,7 @@ import './UserList.css';
 const User = ({ id, name, email, isActive, toggleActivity }) => {
     return (
         <div className="user-card">
-            <h2>{name}</h2>
+            <h2 className="user-card-name">{name}</h2>
             <p>Email: {email}</p>
             <p className="user-card-status">Status: {isActive ? 'Active' : 'Inactive'}</p>
             <button className={`user-card-button ${isActive ? 'deactivate' : 'activate'}`} 
