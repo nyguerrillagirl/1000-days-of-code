@@ -14,7 +14,6 @@
 # GOAL #1: Complete all current Coursera courses
 - Meta Frontend Developer
 - Google Cybersecurity
-- Software Engineering
 
 # GOAL #2: Learning Data Science
 - Datacamp courses, taking all courses in the Associate Data Scientist in Python
