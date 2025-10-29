@@ -1,4 +1,4 @@
-# 300-days-of-code
+# 1000-days-of-code
 
 
 |Date|Description|

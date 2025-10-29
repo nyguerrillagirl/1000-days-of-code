@@ -6,29 +6,28 @@
 HANDLE wHnd;    // Handle to write to the console.
 HANDLE rHnd;    // Handle to read from the console.
 
-int _tmain(int argc, _TCHAR* argv[]) {
-    // Force it to be 80x50 characters:
-    system("mode con: cols=80 lines=50");
+void SetConsoleSize(HANDLE hConsole, int width, int height) {
+    // Create a COORD to hold the buffer size:
+    COORD bufferSize = { (SHORT)width, (SHORT)height };
+	SetConsoleScreenBufferSize(hConsole, bufferSize);
+ 
+    // Set up the required window size:
+    SMALL_RECT windowSize = { 0, 0, (SHORT)(width - 1), (SHORT)(height - 1) };
 
+    // Change the console window size:
+    SetConsoleWindowInfo(hConsole, TRUE, &windowSize);
+
+}
+
+int _tmain(int argc, _TCHAR* argv[]) {
     // Set up the handles for reading/writing:
     wHnd = GetStdHandle(STD_OUTPUT_HANDLE);
+	SetConsoleSize(wHnd, 80, 50);
+    system("mode con: cols=80 lines=50");
     rHnd = GetStdHandle(STD_INPUT_HANDLE);
 
     // Change the window title:
     SetConsoleTitle(TEXT("Win32 Console Control Demo"));
-
-    // Set up the required window size:
-    SMALL_RECT windowSize = { 0, 0, 79, 49 };
-
-    // Change the console window size:
-    SetConsoleWindowInfo(wHnd, TRUE, &windowSize);
-
-
-    // Create a COORD to hold the buffer size:
-    COORD bufferSize = { 80, 50 };
-
-    // Change the internal buffer size:
-    SetConsoleScreenBufferSize(wHnd, bufferSize);
 
     // Set up the character buffer:
     CHAR_INFO consoleBuffer[80 * 50];
