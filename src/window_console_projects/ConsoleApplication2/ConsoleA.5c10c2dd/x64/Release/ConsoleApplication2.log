@@ -1,6 +1,5 @@
-﻿  ConsoleApplication2.cpp
-  Generating code
+﻿  Generating code
   Previous IPDB not found, fall back to full compilation.
-  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   ConsoleApplication2.vcxproj -> C:\1000-days-of-code\src\window_console_projects\ConsoleApplication2\x64\Release\ConsoleApplication2.exe
