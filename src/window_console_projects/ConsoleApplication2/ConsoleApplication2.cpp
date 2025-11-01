@@ -38,6 +38,8 @@ int _tmain(int argc, _TCHAR* argv[]) {
 
     // Set the window and buffer size
     SetConsoleSize(wHnd, 80, 50);
+
+    // This is required to prevent extra line added to screen 
     system("mode con: cols=80 lines=50");
 
     // Change the window title:
