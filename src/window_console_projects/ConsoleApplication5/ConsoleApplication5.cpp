@@ -78,107 +78,74 @@ int _tmain(int argc, _TCHAR* argv[]) {
     // Copy to display:
     WriteConsoleOutputA(wHnd, consoleBuffer, charBufSize, characterPos, &writeArea);
 
-    // How many events have happened?
-    DWORD numEvents = 0;
+    // Enable mouse and window input events
+    DWORD prevMode;
+    GetConsoleMode(rHnd, &prevMode);
+    SetConsoleMode(rHnd, ENABLE_WINDOW_INPUT | ENABLE_MOUSE_INPUT | ENABLE_PROCESSED_INPUT);
 
-    // How many events have we read from the console?
-    DWORD numEventsRead = 0;
 
     // Boolean flag to state whether app is running or not.
     bool appIsRunning = true;
 
-    // If we set appIsRunning to false, the program will end!
+    INPUT_RECORD record;
+    DWORD events;
     while (appIsRunning) {
-        // Find out how many console events have happened:
-        GetNumberOfConsoleInputEvents(rHnd, &numEvents);
-
-        // If it's not zero (something happened...)
-        if (numEvents != 0) {
-            OutputDebugString(L"Debug: Processing input event\n");
-
-            // Allocate buffer for the maximum possible events
-            // FIX: Use a reasonable upper bound for allocation, e.g. 128, or use numEvents as before but ensure bounds
-            DWORD bufferSize = numEvents > 128 ? 128 : numEvents;
-            INPUT_RECORD* eventBuffer = new INPUT_RECORD[bufferSize];
-
-            // Read up to bufferSize, but actual read count is in numEventsRead
-            ReadConsoleInput(rHnd, eventBuffer, bufferSize, &numEventsRead);
-
-            // Only process up to numEventsRead events
-            for (DWORD i = 0; i < numEventsRead; ++i) {
-                // Check the event type: was it a key?
-                if (eventBuffer[i].EventType == KEY_EVENT) {
-                    std::wstring message = L"Debug: Keyboard event" + std::to_wstring(i) + L"\n";
-                    OutputDebugString(message.c_str());
-
-                    // Yes! Was the key code the escape key?
-                    if (eventBuffer[i].Event.KeyEvent.wVirtualKeyCode == VK_ESCAPE) {
-
-                        // Yes, it was, so set the appIsRunning to false.
-                        appIsRunning = false;
-
-                        // Was if the 'c' key?
-                    }
-                    else if (eventBuffer[i].Event.KeyEvent.uChar.AsciiChar == 'c') {
-                        OutputDebugString(L"Debug: User pressed 'c'\n");
-
-                        // Yes, so clear the buffer to spaces:
-                        for (int i = 0; i < 80 * 50; ++i) {
-                            consoleBuffer[i].Char.AsciiChar = ' ';
-                        }
-
-                        // Redraw our buffer:
-                        WriteConsoleOutputA(wHnd, consoleBuffer, charBufSize, characterPos, &writeArea);
-
-                    }
-
+        ReadConsoleInput(rHnd, &record, 1, &events);
+        // Check if user entered 'ESC' key to quit the app
+        if (record.EventType == KEY_EVENT && record.Event.KeyEvent.bKeyDown) {
+            OutputDebugString(L"Debug: Processing keyboard event\n");
+            if (record.Event.KeyEvent.wVirtualKeyCode == VK_ESCAPE) {
+                appIsRunning = false;
+            } else if (record.Event.KeyEvent.uChar.AsciiChar == 'c') {
+                OutputDebugString(L"Debug: User pressed 'c'\n");
+                // Yes, so clear the buffer to spaces:
+                for (int i = 0; i < 80 * 50; ++i) {
+                    consoleBuffer[i].Char.AsciiChar = ' ';
                 }
-                else if (eventBuffer[i].EventType == MOUSE_EVENT) {
-                    OutputDebugString(L"Debug: Mouse event\n");
-
-                    // Set the index to our buffer of CHAR_INFO
-                    int offsetPos =
-                        eventBuffer[i].Event.MouseEvent.dwMousePosition.X
-                        + 80 * eventBuffer[i].Event.MouseEvent.dwMousePosition.Y;
-
-                    // Is it a left click?
-                    if (eventBuffer[i].Event.MouseEvent.dwButtonState & FROM_LEFT_1ST_BUTTON_PRESSED) {
-                        OutputDebugString(L"Debug: Left mouse click\n");
-
-                        // Yep, so set with character 0xDB (solid block)
-                        consoleBuffer[offsetPos].Char.AsciiChar = (char)0xDB;
-
-                        // Redraw our buffer:
-                        WriteConsoleOutputA(wHnd, consoleBuffer, charBufSize, characterPos, &writeArea);
-
-                        // Is it a right click?
-                    }
-                    else if (eventBuffer[i].Event.MouseEvent.dwButtonState & RIGHTMOST_BUTTON_PRESSED) {
-                        OutputDebugString(L"Debug: Right mouse click\n");
-
-                        // Yep, so set with character 0xB1 (50% block)
-                        consoleBuffer[offsetPos].Char.AsciiChar = (char)0xB1;
-
-                        // Redraw our buffer:
-                        WriteConsoleOutputA(wHnd, consoleBuffer, charBufSize, characterPos, &writeArea);
-
-                        // Is it a middle click?
-                    }
-                    else if (eventBuffer[i].Event.MouseEvent.dwButtonState & FROM_LEFT_2ND_BUTTON_PRESSED) {
-                        OutputDebugString(L"Debug: Left 2nd button?? mouse click\n");
-
-                        // Yep, so set with character space.
-                        consoleBuffer[offsetPos].Char.AsciiChar = ' ';
-
-                        // Redraw our buffer:
-                        WriteConsoleOutputA(wHnd, consoleBuffer, charBufSize, characterPos, &writeArea);
-                    }
-                }
+                // Redraw our buffer:
+                WriteConsoleOutputA(wHnd, consoleBuffer, charBufSize, characterPos, &writeArea);
             }
 
-            // Clean up our event buffer:
-            delete[] eventBuffer;
-        }
+		} else if (record.EventType == MOUSE_EVENT) {
+            OutputDebugString(L"Debug: Processing mouse event\n");
+            // Set the index to our buffer of CHAR_INFO
+            int offsetPos =
+                record.Event.MouseEvent.dwMousePosition.X
+                + 80 * record.Event.MouseEvent.dwMousePosition.Y;
+
+            // Is it a left click?
+            if (record.Event.MouseEvent.dwButtonState & FROM_LEFT_1ST_BUTTON_PRESSED) {
+                OutputDebugString(L"Debug: Left mouse click\n");
+
+                // Yep, so set with character 0xDB (solid block)
+                consoleBuffer[offsetPos].Char.AsciiChar = (char)0xDB;
+
+                // Redraw our buffer:
+                WriteConsoleOutputA(wHnd, consoleBuffer, charBufSize, characterPos, &writeArea);
+
+                // Is it a right click?
+            }
+            else if (record.Event.MouseEvent.dwButtonState & RIGHTMOST_BUTTON_PRESSED) {
+                OutputDebugString(L"Debug: Right mouse click\n");
+
+                // Yep, so set with character 0xB1 (50% block)
+                consoleBuffer[offsetPos].Char.AsciiChar = (char)0xB1;
+
+                // Redraw our buffer:
+                WriteConsoleOutputA(wHnd, consoleBuffer, charBufSize, characterPos, &writeArea);
+
+                // Is it a middle click?
+            }
+            else if (record.Event.MouseEvent.dwButtonState & FROM_LEFT_2ND_BUTTON_PRESSED) {
+                OutputDebugString(L"Debug: Left 2nd button?? mouse click\n");
+
+                // Yep, so set with character space.
+                consoleBuffer[offsetPos].Char.AsciiChar = ' ';
+
+                // Redraw our buffer:
+                WriteConsoleOutputA(wHnd, consoleBuffer, charBufSize, characterPos, &writeArea);
+            }
+         }
     }
 
 }
