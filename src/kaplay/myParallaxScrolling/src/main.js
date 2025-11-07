@@ -19,15 +19,29 @@ const IMAGE_WIDTH = 576;
 
 k.add([k.sprite("sky"), k.pos(0, 0)]);
 
-const layers = [
-    {
-        speed: -20,
-        parts: [
-            k.add([k.sprite("clouds"), k.pos(0, 0)]),
-            k.add([k.sprite("clouds"), k.pos(IMAGE_WIDTH, 0)]),
-        ]
-    }
-]
+ const layers = [
+  {
+    speed: -20,
+    parts: [
+      k.add([k.sprite("clouds"), k.pos(0, 0)]),
+      k.add([k.sprite("clouds"), k.pos(IMAGE_WIDTH, 0)]),
+    ],
+  },
+  {
+    speed: -100,
+    parts: [
+      k.add([k.sprite("far-field"), k.pos(0, 0)]),
+      k.add([k.sprite("far-field"), k.pos(IMAGE_WIDTH, 0)]),
+    ],
+  },
+  {
+    speed: -300,
+    parts: [
+      k.add([k.sprite("near-field"), k.pos(0, 0)]),
+      k.add([k.sprite("near-field"), k.pos(IMAGE_WIDTH, 0)]),
+    ],
+  },
+];
 
 k.onUpdate(() => {
   for (const layer of layers) {
