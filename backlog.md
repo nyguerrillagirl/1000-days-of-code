@@ -15,6 +15,8 @@
 
 
 # BACKLOG LIST
+| **S P E C I A L I Z A T I O N S**||||
+| Coursera Cybersecurity Course|10/31/2024| | on Course 6/8 |
 | **P E R S O N A L PROJECTS**||||
 | Project Java [Project]|8/24/2025|10/21/2025| BACKLOGGED |
 | Project Retro System Emulator [Project]|10/07/2025|10/21/2025| BACKLOGGED |
@@ -42,6 +44,10 @@
   - Add Project: RateLimiter
   - [Github AppleWin](https://github.com/AppleWin/AppleWin/releases)
   - [Core War](https://corewar.co.uk/guides.htm)
+  - Coursera
+    - Coursera Working on  Module 4/4 in Course 6/8 [Sound the Alarm - Detection and Response] 
+      in [Google Cybersecurity Professional Certificate]   
+      - Working on Module 4
 - ARTICLES
   - [10 CSS Tricks for UI developers](https://dev.to/nnnirajn/10-css-tricks-for-ui-developers-2l5)
   - [Exploring Python’s Ellipsis (…) : More than Just Syntax Sugar](https://www.kdnuggets.com/exploring-pythons-ellipsis-more-than-just-syntax-sugar)
