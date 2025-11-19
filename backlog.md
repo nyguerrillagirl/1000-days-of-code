@@ -17,6 +17,8 @@
 # BACKLOG LIST
 | **S P E C I A L I Z A T I O N S**||||
 | Coursera Cybersecurity Course|10/31/2024| | on Course 6/8 |
+| **C O U R S E R A COURSES**||||
+| Coursera "Sound the Alarm, Detection and Response" Course |3/27/2025| | * |
 | **P E R S O N A L PROJECTS**||||
 | Project Java [Project]|8/24/2025|10/21/2025| BACKLOGGED |
 | Project Retro System Emulator [Project]|10/07/2025|10/21/2025| BACKLOGGED |
@@ -100,6 +102,9 @@
       - Working on 1/18 
     - Checkout [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine?tab=readme-ov-file)
     - Checkout: [JavaScript Game](https://www.youtube.com/@jslegenddev)
+- Coursera Working on  Module 4/4 in Course 6/8 [Sound the Alarm - Detection and Response] 
+    in [Google Cybersecurity Professional Certificate]   
+    - Working on Module 4
 - Books
   - Tech Reading
     - Data Science Books
