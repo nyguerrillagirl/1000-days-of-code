@@ -1,0 +1,105 @@
+### Day 464: January 3, 2026 (Saturday)
+- ORDER
+  - NYT, WAPO 
+    - Read at least 3 articles in each one
+  - DATACAMP
+    - ^[0-9].*XP$
+  - COURSERA
+  - REALPYTHON course
+  - READ/PROCESS AN ARTICLE (1/2 articles a day)
+  - Engineering Book Club Preparation
+  - PROJECT - Data Science with Python Workbook
+  - PROJECT - Math
+  - PROJECT - Arduino
+- NOTE FOR THE DAY:
+  - Starting Coursera Course first today
+    - I resumed the lab I did not complete and found one issue - I need to review
+      how Reducer works. I started the book - "Redux in Action" 
+      but never got pass Chapter 1. I am taking another look now. If I cannot
+      complete the first 4 chapters today...i will drop it and not add to my list.
+- Data Camp [DS]
+  - Assessment: Data Manipulation with Python
+    - Started REVIEW 20251226
+      - Intermediate | Score: 117 | Ptle: 71th
+      - NEW ASSESSMENT:
+        - Advanced | Score: 134 | Ptle: 87
+      - Need to re-take ...too many errors. Need review of key concepts
+  - PROJECT: Customer Analytics: Preparing Data for Modeling
+  - Practice:
+    - Introduction to R
+    - Course: Introduction to Object-Oriented Programming in Python
+    - Creating Tests with pytest
+  - Working on chapter 3/4 Cleaning Data in Python
+    - reviewing chapter 2
+  - Working chapter 2/4 in  Writing Efficient Python Code
+    - Completed chapter 2 
+    - Did practice on first two chapters
+  - Introduction to Testing in Python 
+    - working on chapter 2
+  - Working chapter 1/5 in Statistical Thinking in Python (Part 2)
+    - review chapter 1 of Part 1
+  - Review R
+- Coursera DEVELOPING FRONT-END APPS WITH REACT
+  - Working on my React Notes
+    - working on history and motivation in the creation of SPA and JavaScript Frameworks
+  - [Thinking in React](https://react.dev/learn/thinking-in-react)
+    - Working on this today 12/30/2025
+  - Working on Module 3/4
+    - I am about to do a lab and still have NO IDEA how Redux works. 
+    - Taking a look at the book Redux in Action to see if I can develop
+      a better sense of what Redux is
+    - Due date 12/5
+    - Number of sections 11/20 completed
+    - Complete at least 3 sections per day
+- Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
+  - Review for this course
+    - [An Introduction to Web Development from Back to Front](https://playbackpress.com/books/webdevbook/)
+      - 1/5 Sections (see notes)
+  - Working on Module 3 for  Course 7/9 - Prinicples of UX/UI Design
+  - TASK LIST:
+    - Create Flowchart {MON} - COMPLETED
+    - Fix Reservation Screen (make it prettier) {WED}
+      - selected a video [Form Design in Figma with Interactive Components](https://www.youtube.com/watch?v=ZWwE0GWEXDc)
+    - Work on prototype
+      - Complete prototype flowchart {THURS}
+      - Work on Reservation Page High-Fidelity #1 {THURS}
+      - Work on Reservation Page High-Fidelity #2 {FRI}
+      - Implement prototype Home Page into Page #1 {SAT}
+      - Implement prototype Page #2 {SUN}
+      - Add Spinner for entering completion {MON}
+      - Return back to home page {MON}
+      - Goal is to submit on 11/25
+- Project: REAL PYTHON
+  - Working on finishing up [Advent of Code: Solving Your Puzzles With Python](https://realpython.com/python-advent-of-code/)
+    - working on 20211205 - Part 1
+  - Working on Python Core Language: Intermediate
+    - [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
+      - working on this
+    - [Your Python Coding Environment on Windows: Setup Guide](https://realpython.com/python-coding-setup-windows/)
+    - [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
+- PROJECT: Advent of Code
+  - Completed on 2020 - Day 5 Part 1 and Part 2
+  - Working on 2021 - Day 5 Part 1 
+- Project Math
+  - Reading 
+    - Dropped/backlog The Joy of Abstraction (see 1/1/2026)
+    - I purchased (on Kindle) How to Bake π 
+    - reading chapter 1/15 - What is Math?
+- Project: Learning Data Science with Python Workbook (LDSPW)
+  - Working on Part I - Python Basics to Master
+- Project: Arduino
+  - Starting to work on The Most Complete Starter Kit - Mega Project
+    - reading pdf
+- Books
+ - Tech Reading
+  - React, The Comprehensive Guide 
+    - Completed chapter 2/21 - The First Steps in the Development Process
+      - current page: 102, last page: 116
+      - adding a PROXY in order to access backend URL in package.json
+      "proxy": "http://<the URL>"
+      - To access a backend using https
+      HTTPS=true npm start
+  - Non-Tech Reading
+    - Reading Civilization
+      - Reading Preface
+- GRADE: NA
