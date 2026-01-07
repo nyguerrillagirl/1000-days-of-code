@@ -1,8 +1,10 @@
-import BooksList from "./BooksList";
+
+import BooksList from './BooksList';
 
 function App() {
   return (
-    <div className="App">
+    <div>
+      <h1>Books management</h1>
       <BooksList />
     </div>
   );
