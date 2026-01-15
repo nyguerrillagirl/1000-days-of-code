@@ -4,15 +4,14 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import lombok.EqualsAndHashCode;
-import lombok.Getter;
+import lombok.AllArgsConstructor;
+import lombok.Data;
 import lombok.NoArgsConstructor;
-import lombok.Setter;
 
-@Getter
-@Setter
-@EqualsAndHashCode
+
+@Data
 @NoArgsConstructor
+@AllArgsConstructor
 @Entity
 public class Book {
 
@@ -20,11 +19,12 @@ public class Book {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private String title;
-    private String author;
-    
+    private String title;   // a column
+    private String author;  // a column
+
     public Book(String title, String author) {
         this.title = title;
         this.author = author;
     }
+
 }
