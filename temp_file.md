@@ -1,0 +1,142 @@
+### Day 486: January 26, 2026 (Monday)
+- ORDER
+  - NYT, WAPO 
+    - Read at least 3 articles in each one
+    - []()
+    - []()
+    - []()
+  - REACT READING
+    - 10 pages a day
+  - DATACAMP
+    - ^[0-9].*XP$
+    - GOAL: Get over 2000 XP daily
+  - COURSERA
+  - REALPYTHON course
+  - READ/PROCESS AN ARTICLE (1/2 articles a day)
+  - Engineering Book Club Preparation
+  - PROJECT - Data Science with Python Workbook
+  - PROJECT - Math
+  - PROJECT - Arduino
+- NOTE FOR THE DAY:
+  - NYT + WAPO
+  - NYT
+    - [Will Leaving My Terrible Job Make Me Look Flaky?](https://www.nytimes.com/2026/01/24/business/will-leaving-my-terrible-job-make-me-look-flaky.html)
+    - [State Terror Has Arrived](https://www.nytimes.com/2026/01/24/opinion/state-terror-has-arrived.html)
+    - [We Underestimated the Neanderthal](https://www.nytimes.com/2026/01/25/podcasts/the-daily/the-sunday-daily-we-underestimated-the-neanderthal.html)
+    - [Democrats Vow Not to Fund ICE After Shooting, Imperiling Spending Deal](https://www.nytimes.com/2026/01/24/us/democrats-congress-reaction.html)
+  - WAPO
+    - [I worked for Trump. He has changed.](https://www.washingtonpost.com/opinions/2026/01/23/ancestry-family-history-genealogy-video/)
+    - [Trump has ramped up lawsuits against the media. Here’s where they stand.](https://www.washingtonpost.com/business/2026/01/25/trump-media-lawsuits/)
+    - [What I discovered about Josh Shapiro at the Pennsylvania Farm Show](https://www.washingtonpost.com/opinions/2026/01/25/josh-shapiro-pennsylvania-president-democratic-party-rural-voters/)
+    - [Trump, in retreat, praises U.K. troops after royal family expresses hurt](https://www.washingtonpost.com/world/2026/01/25/trump-british-troops-afghanistan-charles/)
+  - ARTICLES/VIDEOS
+    - [Believe Your Eyes](https://www.theatlantic.com/technology/2026/01/minneapolis-protests-footage/685753/)
+    - []()
+    - []()
+  - Data Camp [DS]
+  - XP: 1750
+  - Assessment: Data Manipulation with Python
+    - Started REVIEW 20251226
+      - Intermediate | Score: 117 | Ptle: 71th
+      - NEW ASSESSMENT:
+        - Advanced | Score: 134 | Ptle: 87
+      - Need to re-take ...too many errors. Need review of key concepts
+    - Reviewed mistakes and issues I had in last assessment. I need to improve
+      - Numpy or associated library functions:
+        - stats.iqr
+        - np.corrcoef
+      - Dataframe
+        - working with index
+        - calculating inter-quartile (using Series.quantile(x))
+        - subsetting using &, | etc.
+        - using .sort_values('<col_name>')
+        - using pivot_table (THIS ONE WILL BE HARD!!! )
+      - Visualizations 
+        - matplotlib
+        - sns
+  - Practice:
+    - Writing Efficient Python Code
+    - Introduction to R
+    - Creating Tests with pytest
+    - Data Manipulation with pandas
+    - Statistical Thinking in Python (Part 1)
+    - Joining Data with pandas
+  - Working with Dates and Times in Python
+    - working on chapter 1
+  - Introduction to Testing in Python 
+    - working on chapter 2
+  - Working chapter 1/5 in Statistical Thinking in Python (Part 2)
+    - review chapter 1 of Part 1
+  - Working on chapter 2/4 in Reshaping Data with pandas
+  - Review R
+- Coursera DEVELOPING FRONT-END APPS WITH REACT
+  - Working on my React Notes
+    - working on history and motivation in the creation of SPA and JavaScript Frameworks
+  - [Thinking in React](https://react.dev/learn/thinking-in-react)
+    - Working on this today 12/30/2025
+  - Working on Module 3/4
+    - I am about to do a lab and still have NO IDEA how Redux works. 
+    - Taking a look at the book Redux in Action to see if I can develop
+      a better sense of what Redux is
+    - Due date 12/5
+    - Number of sections 11/20 completed
+    - Complete at least 3 sections per day
+- Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
+  - Review for this course
+    - [An Introduction to Web Development from Back to Front](https://playbackpress.com/books/webdevbook/)
+      - 1/5 Sections (see notes)
+  - Working on Module 3 for  Course 7/9 - Prinicples of UX/UI Design
+  - TASK LIST:
+    - Create Flowchart {MON} - COMPLETED
+    - Fix Reservation Screen (make it prettier) {WED}
+      - selected a video [Form Design in Figma with Interactive Components](https://www.youtube.com/watch?v=ZWwE0GWEXDc)
+    - Work on prototype
+      - Complete prototype flowchart {THURS}
+      - Work on Reservation Page High-Fidelity #1 {THURS}
+      - Work on Reservation Page High-Fidelity #2 {FRI}
+      - Implement prototype Home Page into Page #1 {SAT}
+      - Implement prototype Page #2 {SUN}
+      - Add Spinner for entering completion {MON}
+      - Return back to home page {MON}
+      - Goal is to submit on 11/25
+- Project: REAL PYTHON
+  - Working on [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/)
+  - Working on finishing up [Advent of Code: Solving Your Puzzles With Python](https://realpython.com/python-advent-of-code/)
+    - working on 20211205 - Part 1
+  - Working on Python Core Language: Intermediate
+    - [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
+      - working on this
+    - [Your Python Coding Environment on Windows: Setup Guide](https://realpython.com/python-coding-setup-windows/)
+    - [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
+- PROJECT: Advent of Code
+  - Completed on 2020 - Day 5 Part 1 and Part 2
+  - Working on 2021 - Day 5 Part 1 
+- Project Math
+    - Reading How to Bake π 
+      - Working on chapter 5/15 - Generalization
+- Project: Learning Data Science with Python Workbook (LDSPW)
+  - Working on Part I - Python Basics to Master
+  - Working on Part IV - Learning NumPy, pandas and matplotlib
+- Project: Arduino
+  - Changed to Grove Beginner Kit for Arduino
+    - Worked on Hello, World Serial exercise
+    - Worked on Lesson 1: Blinking with the LED
+    - Worked on Lesson 2: Pressing Button to Light Up LED
+  - Working on Arduino Notes
+    - Added history
+  - Arduino for Complete Idiots
+    - Reading chapter 1/25 What is Arduino?
+- Books
+ - Tech Reading
+  - React, The Comprehensive Guide 
+    - Working on chapter 4/21 - A Look Behind the Scenes: Further Topics
+      - current page: 236, last page: 245
+      - GOAL: The goal (to get a C and above) is to complete 10 pages a day
+        - This will allow me to complete the book in 90 days from today
+  - Learn Electronics with Arduino
+    - Completed chapter 1/9 Introduction to Arduino
+    - Reading chapter 2/9 Your Arduino
+ - Non-Tech Reading
+    - Civilization
+        - Reading Introduction: Rasselas's Question
+- GRADE: NA
