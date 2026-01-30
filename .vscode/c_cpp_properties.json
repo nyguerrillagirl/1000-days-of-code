@@ -3,18 +3,25 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/src/window_console_projects",
+                "${workspaceFolder}/src/windows_programming"
             ],
             "defines": [
                 "_DEBUG",
-                "UNICODE",
-                "_UNICODE"
+                "UNICODE"
             ],
-            "windowsSdkVersion": "10.0.22000.0",
             "compilerPath": "cl.exe",
             "cStandard": "c17",
-            "cppStandard": "c++17",
-            "intelliSenseMode": "windows-msvc-x64"
+            "cppStandard": "c++20",
+            "intelliSenseMode": "windows-msvc-x64",
+
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/src/window_console_projects",
+                    "${workspaceFolder}/src/windows_programming"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
         }
     ],
     "version": 4
