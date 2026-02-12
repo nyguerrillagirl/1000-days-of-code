@@ -1,0 +1,159 @@
+### Day 503: February 12, 2026 (Thursday)
+- ORDER
+  - COURSERA
+    - Developing Frontend Apps with React
+    - Meta Frontend - Principles of UX/UI Design
+  - NYT, WAPO 
+    - Read at least 3 articles in each one
+    - []()
+    - []()
+    - []()
+  - REACT READING
+    - 10 pages a day
+  - DATACAMP
+    - ^[0-9].*XP$
+    - GOAL: Get over 2000 XP daily
+   - REALPYTHON course
+  - READ/PROCESS AN ARTICLE (1/2 articles a day)
+  - Engineering Book Club Preparation
+  - PROJECT - Data Science with Python Workbook
+  - PROJECT - Math
+  - PROJECT - Arduino
+- NOTE FOR THE DAY:
+  - My thoughts on my inability to complete my Coursera courses:
+    1. Review the last course (watch videos, review notes). Track review
+        progress a bit better. 
+    2. Start the day with both courses. Spend at least 30 minutes on each one.
+  - Yesterday I found the book that facinated me when I read it in the early 1990's (~1993)
+    The book is "Having Our Say: The Delany Sisters' First 100 Years" by Amy Hill Hearth
+    https://en.wikipedia.org/wiki/Having_Our_Say:_The_Delany_Sisters%27_First_100_Years
+  - NYT
+    - [Mejia Declares Victory in New Jersey Race After Her Main Rival Concedes](https://www.nytimes.com/2026/02/10/nyregion/new-jersey-special-election-winner.html)
+    - [Starting at Harvard and Falling for Your First Tree](https://www.nytimes.com/2026/02/10/realestate/starting-at-harvard-and-falling-for-your-first-tree.html)
+      - A freshman seminar encourages students to behave differently in the world and feel more passionately about biodiversity.
+    - [OpenAI Is Making the Mistakes Facebook Made. I Quit.](https://www.nytimes.com/2026/02/11/opinion/openai-ads-chatgpt.html)
+  - WAPO
+    - [JD Vance vies for the gold medal in coarseness and flippancy](https://www.washingtonpost.com/opinions/2026/02/11/vice-president-vance-obscenities-flippancy/)
+    - [Breakdown between Pentagon, FAA led to flight stoppage, officials say](https://www.washingtonpost.com/transportation/2026/02/11/el-paso-us-airport-texas-faa-restrictions/)
+    - [Compass Coffee had Starbucks-size ambitions. Here’s how it unraveled.](https://www.washingtonpost.com/food/2026/02/11/compass-coffee-bankruptcy-lawsuits-history/)
+  - ARTICLES/VIDEOS
+    - []()
+    - []()
+    - []()
+- Data Camp [DS]
+  - XP: 1250 (Practice) --> 1607 (AI) --> 2007 (Courses)  [Tera]
+  - Assessment: Data Manipulation with Python
+    - Started REVIEW 20251226
+      - Intermediate | Score: 117 | Ptle: 71th
+      - NEW ASSESSMENT:
+        - Advanced | Score: 134 | Ptle: 87
+      - Need to re-take ...too many errors. Need review of key concepts
+  - Practice:
+    - Working with Dates and Times in Python
+    - Understnading Machine Learning
+    - Exploratory Data Analysis in Python
+    - Reshaping Data with pandas
+    - Testing in Python
+  - Introduction to AI for Work
+  - Working chapter 1/5 in Statistical Thinking in Python (Part 2)
+    - review chapter 1 of Part 1
+  - Working on chapter 2/4 in Reshaping Data with pandas
+    - covered melt()
+      - id_vars, value_vars, var_name, value_name
+  - Review R
+- Coursera DEVELOPING FRONT-END APPS WITH REACT
+  - Review of course from start to finish
+    - Module 1/4 Review
+      - Left off at "Introduction to JSX"
+      - Thoughts:
+        - There was a lot of material covered in the first module that really 
+          required that I take a step back and explore a bit more. I will do that
+          in my ReactNotes. See that section.
+  - Working on Module 4/4
+- Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
+  - REVIEW:
+    - Starting with Module 1
+      - They added a new section to this course module. Rather than starting directly
+        with answering the question "What is UX?" they added a new section titled,
+        "Course Introduction" It actually makes sense.
+  - Working on Module 3 for  Course 7/9 - Prinicples of UX/UI Design
+  - TASK LIST:
+    - Create Flowchart {MON} - COMPLETED
+    - Fix Reservation Screen (make it prettier) {WED}
+      - selected a video [Form Design in Figma with Interactive Components](https://www.youtube.com/watch?v=ZWwE0GWEXDc)
+    - Work on prototype
+      - Complete prototype flowchart {THURS}
+      - Work on Reservation Page High-Fidelity #1 {THURS}
+      - Work on Reservation Page High-Fidelity #2 {FRI}
+      - Implement prototype Home Page into Page #1 {SAT}
+      - Implement prototype Page #2 {SUN}
+      - Add Spinner for entering completion {MON}
+      - Return back to home page {MON}
+      - Goal is to submit on 11/25
+- Project: REAL PYTHON
+  - Working on [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/)
+  - Working on finishing up [Advent of Code: Solving Your Puzzles With Python](https://realpython.com/python-advent-of-code/)
+    - working on 20211205 - Part 1
+  - Working on Python Core Language: Intermediate
+    - [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
+      - working on this
+    - [Your Python Coding Environment on Windows: Setup Guide](https://realpython.com/python-coding-setup-windows/)
+    - [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
+- PROJECT: RADIO
+  - READING:
+    - Wireless, from Marconi's black-box to the audion
+      - Reading 1/7 - Hertzian Optics and Wireless Telegraphy
+- PROJECT: Advent of Code
+  - Completed on 2020 - Day 5 Part 1 and Part 2
+  - Working on 2021 - Day 5 Part 1 
+- Project Math
+  - Reading "Elements of Mathematics" by Gabor Toth
+    - Chapter 0/11 - Preliminaries: Sets, Relations, Maps
+  - Reading How to Bake π 
+      - Working on chapter 5/15 - Generalization
+- Project: Learning Data Science with Python Workbook (LDSPW)
+  - Working on Part I - Python Basics to Master
+  - Working on Part IV - Learning NumPy, pandas and matplotlib
+- PROJECT: React
+  - See Books below
+  - Worked on editing ReactNotes
+    - jQuery, LoDash
+  - Online material to conside
+    - [An Introduction to Web Development from Back to Front](https://playbackpress.com/books/webdevbook/)
+      - 1/5 Sections (see notes)
+    - [Thinking in React](https://react.dev/learn/thinking-in-react)
+- Project: Arduino
+  - Changed to Grove Beginner Kit for Arduino
+    - Worked on Hello, World Serial exercise
+    - Worked on Lesson 1: Blinking with the LED
+    - Worked on Lesson 2: Pressing Button to Light Up LED
+  - Working on Arduino Notes
+    - Added history
+  - Arduino for Complete Idiots
+    - Reading chapter 1/25 What is Arduino?
+- Books
+ - Tech Reading
+  - React, The Comprehensive Guide 
+    - Completed Chapter 7 - Type Safety in React Application with TypeScript
+      - current page: 366, section 7.5.4 last page: 373 
+      - This was a messy chapter. I would have preferred a set of simple
+        example React applications using purely classes and then functions. To
+        be honest since classes are no longer popular I would have preferred
+        a function component only approach. I did not understand how many of the examples
+        worked. It was quite frustrating. 
+    - Working on Chapter 8 - Styling React Components 
+      - current page: 374 last page: 410
+    - GOAL: The goal (to get a C and above) is to complete 10 pages a day
+      - This will allow me to complete the book in 90 days from today
+    - Why does the book include hooks in examples that have not been explained yet!
+  - Pandas Workout
+    - Reading Chapter 1/13 - Series
+  - Learn Electronics with Arduino
+    - Completed chapter 1/9 Introduction to Arduino
+    - Reading chapter 2/9 Your Arduino
+ - Non-Tech Reading
+    - Civilization
+        - Reading Introduction: Rasselas's Question
+    - The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
+      - Reading Chapter 1 - The Coroner Departs / 100
+- GRADE: NA
