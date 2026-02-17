@@ -1,0 +1,166 @@
+
+### Day 508: February 17, 2026 (Tuesday)
+- ORDER
+  - COURSERA
+    - Developing Frontend Apps with React
+    - Meta Frontend - Principles of UX/UI Design
+ - NYT, WAPO 
+    - Read at least 3 articles in each one
+    - []()
+    - []()
+    - []()
+  - REACT READING
+    - 10 pages a day
+  - DATACAMP
+    - ^[0-9].*XP$
+    - GOAL: Get over 2000 XP daily
+   - REALPYTHON course
+  - READ/PROCESS AN ARTICLE (1/2 articles a day)
+  - Engineering Book Club Preparation
+    - Reading Tidy First?
+  - PROJECT - Data Science with Python Workbook
+  - PROJECT - Math
+  - PROJECT - Arduino
+- NOTE FOR THE DAY:
+  - Washington, A Life Ron Chernow
+  - NYT
+    - [With Latest Rollback, the U.S. Essentially Has No Clean-Car Rules](https://www.nytimes.com/2026/02/16/climate/endangerment-finding-auto-emissions-regulations.html)
+    - [Confessions of a Former Body Positivity Influencer](https://www.nytimes.com/2026/02/16/opinion/body-positivity-social-media-weight-loss.html)
+      - Gabriella Lascano argues in the Opinion Video above. 
+        Recounting her journey from body positivity champion to critic, 
+        she describes how a well-intentioned movement has over time become 
+        self-destructive — with potentially fatal consequences.
+    - [How to Get From ‘Derry Girls’ to ‘Heaven’: Via Comedic Mystery](https://www.nytimes.com/2026/02/12/arts/television/lisa-mcgee-how-to-get-from-heaven-to-belfast.html)
+  - WAPO
+    - [Mitch McConnell is taking a beating in the race to replace him](https://www.washingtonpost.com/politics/2026/02/16/kentucky-senate-mcconnell-trump-midterms/)
+    - [‘Us versus them’: The battle that’s tearing a small Virginia town apart](https://www.washingtonpost.com/dc-md-va/2026/02/16/purcellville-virginia-town-conflict/)
+    - []()
+  - ARTICLES/VIDEOS
+    - [Vintage Technology: Electronics-- BASIC RADIO CIRCUITRY, Learn How Radio Works, 1971 (History)](https://www.youtube.com/watch?v=V5hVYZIcfyA)
+      - got a bit lost near the end. I am not sure why we need an IF (intermediate frequency)
+    - []()
+    - []()
+- Data Camp [DS]
+  - XP:  2200 (Practice) -->  [Tera - Last week: 13,957 XP]
+  - Assessment: Data Manipulation with Python
+    - Started REVIEW 20251226
+      - Intermediate | Score: 117 | Ptle: 71th
+      - Advanced | Score: 131 | Ptle: 84th
+      - NEW ASSESSMENT:
+        - Advanced | Score: 134 | Ptle: 87
+        - 9/15 correct
+      - Need to re-take ...too many errors. Need review of key concepts
+  - Practice:
+    - Cleaning Data in Python
+    - Statistical Thinking in Python (Part 1)
+    - Introduction to NumPy
+    - Introduction to Data Visualization with Seaborn
+    - Data Manipulation with pandas
+  - Completed chapter 1/4 in Software Engineering in Python
+    - Working on chapter 2/4 ...for more points...
+  - Introduction to AI for Work
+  - Working chapter 1/5 in Statistical Thinking in Python (Part 2)
+    - review chapter 1 of Part 1
+  - Working on chapter 2/4 in Reshaping Data with pandas
+    - spent a great deal of time - reviewing and studying stack(), unstack(), 
+      swaplevels() and sort_index() - OUTSIDE OF THE COURSE!!!
+  - Review R
+- Coursera DEVELOPING FRONT-END APPS WITH REACT
+  - Review of course from start to finish
+    - Working on Module 2/4 Review
+      - Working on section 1/3
+      - The entire 30 minutes were consumed doing a simple Event Planner lab!
+  - Working on Module 4/4
+- Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
+  - FIGMA
+    - https://figmamarathon.com/
+    - I did first lesson
+  - REVIEW:
+    - Starting with Module 3
+      - Figma Fundamentals
+  - Working on Module 3 for  Course 7/9 - Prinicples of UX/UI Design
+  - TASK LIST:
+    - Create Flowchart {MON} - COMPLETED
+    - Fix Reservation Screen (make it prettier) {WED}
+      - selected a video [Form Design in Figma with Interactive Components](https://www.youtube.com/watch?v=ZWwE0GWEXDc)
+    - Work on prototype
+      - Complete prototype flowchart {THURS}
+      - Work on Reservation Page High-Fidelity #1 {THURS}
+      - Work on Reservation Page High-Fidelity #2 {FRI}
+      - Implement prototype Home Page into Page #1 {SAT}
+      - Implement prototype Page #2 {SUN}
+      - Add Spinner for entering completion {MON}
+      - Return back to home page {MON}
+      - Goal is to submit on 11/25
+- Project: REAL PYTHON
+  - Working on [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/)
+  - Working on finishing up [Advent of Code: Solving Your Puzzles With Python](https://realpython.com/python-advent-of-code/)
+    - working on 20211205 - Part 1
+  - Working on Python Core Language: Intermediate
+    - [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
+      - working on this
+    - [Your Python Coding Environment on Windows: Setup Guide](https://realpython.com/python-coding-setup-windows/)
+    - [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
+- PROJECT: RADIO
+  - READING:
+    - Wireless, from Marconi's black-box to the audion
+      - Reading 1/7 - Hertzian Optics and Wireless Telegraphy
+- PROJECT: Advent of Code
+  - Completed on 2020 - Day 5 Part 1 and Part 2
+  - Working on 2021 - Day 5 Part 1 
+- Project Math
+  - Reading "Elements of Mathematics" by Gabor Toth
+    - Chapter 0/11 - Preliminaries: Sets, Relations, Maps
+  - Reading How to Bake π 
+      - Working on chapter 5/15 - Generalization
+- Project: Learning Data Science with Python Workbook (LDSPW)
+  - Working on Part I - Python Basics to Master
+  - Working on Part IV - Learning NumPy, pandas and matplotlib
+- PROJECT: React
+  - See Books below
+  - Worked on editing ReactNotes
+    - jQuery, LoDash
+  - Online material to conside
+    - [An Introduction to Web Development from Back to Front](https://playbackpress.com/books/webdevbook/)
+      - 1/5 Sections (see notes)
+    - [Thinking in React](https://react.dev/learn/thinking-in-react)
+- Project: Arduino
+  - Changed to Grove Beginner Kit for Arduino
+    - Worked on Hello, World Serial exercise
+    - Worked on Lesson 1: Blinking with the LED
+    - Worked on Lesson 2: Pressing Button to Light Up LED
+  - Working on Arduino Notes
+    - Added history
+  - Arduino for Complete Idiots
+    - Reading chapter 1/25 What is Arduino?
+- Books
+ - Tech Reading
+  - React, The Comprehensive Guide 
+    - Working on Chapter 8 (8.2)- Styling React Components 
+      - current page: 405
+       last page: 410
+      - Styling React Libraries
+        - [Emotion](https://emotion.sh/docs/introduction)
+        - [Gamourous](https://glamorous.rocks/)
+        - [Styled Components](https://styled-components.com/)
+         - Tailwind
+    - GOAL: The goal (to get a C and above) is to complete 10 pages a day
+      - This will allow me to complete the book in 90 days from today
+    - npm install -D sass
+  - Tidy First? 
+    - Complete reading Chapter 1/33 - Guard Clauses
+    - Target: Complete chapters 1/3 by 2/18
+  - Pandas Workout
+    - Reading Chapter 1/13 - Series
+  - Learn Electronics with Arduino
+    - Completed chapter 1/9 Introduction to Arduino
+    - Reading chapter 2/9 Your Arduino
+  - Beginning PyQt
+    - Reading Chapter 1/12 - Charting the Course
+    - Current Page: 
+ - Non-Tech Reading
+    - Civilization
+        - Reading Introduction: Rasselas's Question
+    - The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
+      - Reading Chapter 4 - Galvanized / 100
+- GRADE: NA
