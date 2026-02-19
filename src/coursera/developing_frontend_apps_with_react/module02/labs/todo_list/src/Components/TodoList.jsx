@@ -13,11 +13,13 @@ const TodoList = () => {
 
   // Function to add a new todo heading section (if input is not empty)
   const handleAddTodo = () => {
-    if (headingInput.trim() !== '') {
+    const exists = todos.some(item => item.heading === headingInput);
+    if (headingInput.trim() !== '' && !exists) {
       setTodos([...todos, { heading: headingInput, lists: [] }]);
       setHeadingInput('');
     }
   };
+  
   const handleDeleteTodo = (index) => {
     // Create a shallow copy of the current todos array
     const newTodos = [...todos];
