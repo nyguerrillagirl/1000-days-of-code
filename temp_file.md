@@ -1,0 +1,176 @@
+### Day 511: February 20, 2026 (Friday)
+- ORDER
+  - COURSERA
+    - Developing Frontend Apps with React
+    - Meta Frontend - Principles of UX/UI Design
+ - NYT, WAPO 
+    - Read at least 3 articles in each one
+    - []()
+    - []()
+    - []()
+  - REACT READING
+    - 10 pages a day
+  - DATACAMP
+    - ^[0-9].*XP$
+    - GOAL: Get over 2000 XP daily
+   - REALPYTHON course
+  - READ/PROCESS AN ARTICLE (1/2 articles a day)
+  - Engineering Book Club Preparation
+    - Reading Tidy First?
+  - PROJECT - Data Science with Python Workbook
+  - PROJECT - Math
+  - PROJECT - Arduino
+- NOTE FOR THE DAY:
+  - NYT
+    - [Live Updates: Supreme Court Strikes Down Trump’s Sweeping Tariffs](https://www.nytimes.com/live/2026/02/20/us/trump-tariffs-supreme-court)
+    - [7 Moves to Improve Your Balance and Overall Strength](https://www.nytimes.com/2026/02/18/well/move/strength-training-exercises-balance-unilateral.html)
+    - [How California Is Damaging Faith in Government](https://www.nytimes.com/2026/02/19/opinion/california-elections-vote-count-slow.html)
+  - WAPO
+    - [Another White House tariff tantrum](https://www.washingtonpost.com/opinions/2026/02/19/hassett-federal-reserve-tariffs-tax/)
+    - [See where snow could be measured in inches — or feet — in the East this weekend](https://www.washingtonpost.com/weather/2026/02/20/noreaster-snow-forecast-midatlantic-northeast/)
+    - [Is ‘brain rot’ real? How too much time online can affect your mind.](https://www.washingtonpost.com/wellness/2026/02/20/brain-rot-social-media/)
+      - Research suggests that scrolling through short videos on TikTok, 
+        Instagram or YouTube Shorts is affecting our attention, memory and 
+        mental health. A recent meta-analysis of the scientific literature found 
+        that increased use of short-form video was linked with poorer cognition 
+        and increased anxiety.
+  - ARTICLES/VIDEOS
+    - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
+    - []()
+    - []()
+- Data Camp [DS]
+  - XP:  TBD (Practice) --> 2050 [Tera - Last week: 13,957 XP]
+  - Assessment: Data Manipulation with Python
+    - Started REVIEW 20251226
+      - Intermediate | Score: 117 | Ptle: 71th
+      - Advanced | Score: 131 | Ptle: 84th
+      - NEW ASSESSMENT:
+        - Advanced | Score: 134 | Ptle: 87
+        - 9/15 correct
+      - Need to re-take ...too many errors. Need review of key concepts
+  - Practice:
+    - Data Manipulation with pandas, Python Toolbox
+    - Software Engineering Principles in Python
+    - Introduction to the Tidyverse
+    - Introduction to R
+    - OO Fundamentals
+    - Introduction to Data Visualization with Seaborn
+  - Working in chapter 2/4 of Object-Oriented Programming in Python 
+    - This is an advanced course
+  - Understanding ChatGPT
+    - Working on chatper 1/2
+  - Working chapter 1/5 in Statistical Thinking in Python (Part 2)
+    - review chapter 1 of Part 1
+  - Working on chapter 2/4 in Reshaping Data with pandas
+    - spent a great deal of time - reviewing and studying stack(), unstack(), 
+      swaplevels() and sort_index() - OUTSIDE OF THE COURSE!!!
+  - Review R
+- FIGMA Marathon
+  - Working on challenge 3/26 - Styling Foundaion
+    - Topics covered:
+      - Shade
+      - Gradient Fill
+      - Stroke
+      - Frames
+      - Image Fill
+      - Alignment
+- Coursera DEVELOPING FRONT-END APPS WITH REACT
+  - Review of course from start to finish
+    - In Module 3
+      - Section: Design Systems
+  - Working on Module 4/4
+- Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
+  - REVIEW:
+  - Working on Module 4 for  Course 7/9 - Prinicples of UX/UI Design
+    - Designing your UI
+      - Working on Section 1 - Enhancing your design
+      - Next up: Stylize High-fidelity design
+  - TASK LIST:
+    - Create Flowchart {MON} - COMPLETED
+    - Fix Reservation Screen (make it prettier) {WED}
+      - selected a video [Form Design in Figma with Interactive Components](https://www.youtube.com/watch?v=ZWwE0GWEXDc)
+    - Work on prototype
+      - Complete prototype flowchart {THURS}
+      - Work on Reservation Page High-Fidelity #1 {THURS}
+      - Work on Reservation Page High-Fidelity #2 {FRI}
+      - Implement prototype Home Page into Page #1 {SAT}
+      - Implement prototype Page #2 {SUN}
+      - Add Spinner for entering completion {MON}
+      - Return back to home page {MON}
+      - Goal is to submit on 11/25
+- Project: REAL PYTHON
+  - Working on [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/)
+  - Working on finishing up [Advent of Code: Solving Your Puzzles With Python](https://realpython.com/python-advent-of-code/)
+    - working on 20211205 - Part 1
+  - Working on Python Core Language: Intermediate
+    - [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
+      - working on this
+    - [Your Python Coding Environment on Windows: Setup Guide](https://realpython.com/python-coding-setup-windows/)
+    - [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
+- PROJECT: RADIO
+  - READING:
+    - Wireless, from Marconi's black-box to the audion
+      - Reading 1/7 - Hertzian Optics and Wireless Telegraphy
+- PROJECT: Advent of Code
+  - Completed on 2020 - Day 5 Part 1 and Part 2
+  - Working on 2021 - Day 5 Part 1 
+- Project Math
+  - Reading "Elements of Mathematics" by Gabor Toth
+    - Chapter 0/11 - Preliminaries: Sets, Relations, Maps
+  - Reading How to Bake π 
+      - Working on chapter 5/15 - Generalization
+- Project: Learning Data Science with Python Workbook (LDSPW)
+  - Working on Part I - Python Basics to Master
+  - Working on Part IV - Learning NumPy, pandas and matplotlib
+    - working on NumPy
+- PROJECT: React
+  - See Books below
+  - Worked on editing ReactNotes
+    - jQuery, LoDash
+  - Online material to conside
+    - [An Introduction to Web Development from Back to Front](https://playbackpress.com/books/webdevbook/)
+      - 1/5 Sections (see notes)
+    - [Thinking in React](https://react.dev/learn/thinking-in-react)
+- Project: Arduino
+  - Changed to Grove Beginner Kit for Arduino
+    - Worked on Hello, World Serial exercise
+    - Worked on Lesson 1: Blinking with the LED
+    - Worked on Lesson 2: Pressing Button to Light Up LED
+  - Working on Arduino Notes
+    - Added history
+  - Arduino for Complete Idiots
+    - Reading chapter 1/25 What is Arduino?
+- Books
+ - Tech Reading
+  - React, The Comprehensive Guide 
+    - Complete Chapter 8 (8.2)- Styling React Components 
+      - current page: 405
+       last page: 410
+      - I truly disliked this chapter. I think the topic deserved to be handled
+        with more details than what was provided in the book. I felt it dumped
+        all these libraries and failed to discuss them in any depth - just dumped
+        an example exercise. What a crappy chapter!! 
+    - Next chapter 9/21 - Securing a React Application through Testing
+      - start page: 411  end page: 461
+    - GOAL: The goal (to get a C and above) is to complete 10 pages a day
+      - This will allow me to complete the book in 90 days from today
+    - npm install -D sass
+  - Tidy First? 
+    - Completed reading Chapter 2/33 - Guard Clauses
+    - Completed reading Chapter 3/33 - Guard Clauses
+    - Target: Complete chapters 1/3 by 2/18
+  - Pandas Workout
+    - Reading Chapter 1/13 - Series
+  - Learn Electronics with Arduino
+    - Completed chapter 1/9 Introduction to Arduino
+    - Reading chapter 2/9 Your Arduino
+  - Beginning PyQt
+    - Reading Chapter 1/12 - Charting the Course
+    - Current Page: 
+ - Non-Tech Reading
+    - Civilization
+        - Reading Introduction: Rasselas's Question
+    - The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
+      - Reading Part III - Dread
+      - Reading Chapter 29 - Eagle Day / 100
+- GRADE: NA
