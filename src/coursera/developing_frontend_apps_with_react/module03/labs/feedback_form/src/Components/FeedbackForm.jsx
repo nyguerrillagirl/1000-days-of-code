@@ -46,6 +46,7 @@ const handleSubmit = (event) => {
       <form onSubmit={handleSubmit} className="feedback-form">
         <h2>We'd Love to Hear From You!</h2>
         <p>Please share your feedback with us.</p>
+        <label className="labelcss" htmlFor="name">Name:</label>
         <input
           type="text"
           name="name"
@@ -53,6 +54,7 @@ const handleSubmit = (event) => {
           value={formData.name}
           onChange={handleChange}
         />
+        <label className="labelcss" htmlFor="email">Email:</label>
         <input
           type="email"
           name="email"
@@ -60,6 +62,7 @@ const handleSubmit = (event) => {
           value={formData.email}
           onChange={handleChange}
         />
+        <label className="labelcss" htmlFor="feedback">Feedback:</label>
         <textarea
           name="feedback"
           placeholder="Your Feedback"
@@ -73,31 +76,31 @@ const handleSubmit = (event) => {
                         name="rating"
                         value="1"
                         onChange={handleChange}
-                    /> 1</p>
+                    />&nbsp;1</p>
                   <p>  <input
                         type="radio"
                         name="rating"
                         value="2"
                         onChange={handleChange}
-                    /> 2</p>
+                    />&nbsp;2</p>
                   <p>  <input
                         type="radio"
                         name="rating"
                         value="3"
                         onChange={handleChange}
-                    /> 3</p>
+                    />&nbsp;3</p>
                    <p> <input
                         type="radio"
                         name="rating"
                         value="4"
                         onChange={handleChange}
-                    /> 4</p>
+                    />&nbsp;4</p>
                     <p><input
                         type="radio"
                         name="rating"
                         value="5"
                         onChange={handleChange}
-                    /> 5</p>
+                    />&nbsp;5</p>
                 </div>
         <button type="submit">Submit Feedback</button>        
       </form>

@@ -1,8 +1,9 @@
-### Day 511: February 20, 2026 (Friday)
+### Day 513: February 22, 2026 (Sunday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
     - Meta Frontend - Principles of UX/UI Design
+  - Figma Marathon
  - NYT, WAPO 
     - Read at least 3 articles in each one
     - []()
@@ -22,18 +23,23 @@
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
   - NYT
-    - [Live Updates: Supreme Court Strikes Down Trump’s Sweeping Tariffs](https://www.nytimes.com/live/2026/02/20/us/trump-tariffs-supreme-court)
-    - [7 Moves to Improve Your Balance and Overall Strength](https://www.nytimes.com/2026/02/18/well/move/strength-training-exercises-balance-unilateral.html)
-    - [How California Is Damaging Faith in Government](https://www.nytimes.com/2026/02/19/opinion/california-elections-vote-count-slow.html)
+    - [6 Takeaways From the Supreme Court’s Tariff Decision](https://www.nytimes.com/2026/02/20/us/politics/supreme-court-trump-tariffs-takeaways.html)
+    - [How Stephen Miller Is Perceived in the White House](https://www.nytimes.com/video/opinion/100000010718523/how-stephen-miller-is-perceived-in-the-white-house.html) 
+      - audio by Ezra Klein, told by Ashley Parker and Michael Scherer (Atlantic)
+    - [He Researched Dishonesty. He Got Friendly With Jeffrey Epstein.](https://www.nytimes.com/2026/02/21/business/jeffrey-epstein-dan-ariely-dishonesty.html)
+      - Communications with Dan Ariely
   - WAPO
-    - [Another White House tariff tantrum](https://www.washingtonpost.com/opinions/2026/02/19/hassett-federal-reserve-tariffs-tax/)
-    - [See where snow could be measured in inches — or feet — in the East this weekend](https://www.washingtonpost.com/weather/2026/02/20/noreaster-snow-forecast-midatlantic-northeast/)
-    - [Is ‘brain rot’ real? How too much time online can affect your mind.](https://www.washingtonpost.com/wellness/2026/02/20/brain-rot-social-media/)
-      - Research suggests that scrolling through short videos on TikTok, 
-        Instagram or YouTube Shorts is affecting our attention, memory and 
-        mental health. A recent meta-analysis of the scientific literature found 
-        that increased use of short-form video was linked with poorer cognition 
-        and increased anxiety.
+    - [Trump’s response to Supreme Court tariff ruling opens new era of uncertainty](https://www.washingtonpost.com/business/2026/02/21/supreme-court-tariff-ruling/)
+    - [These activities could help postpone Alzheimer’s by 5 years, study suggests](https://www.washingtonpost.com/health/2026/02/21/alzheimers-busy-mind-study-delay/)
+      - The results lend new momentum to a provocative proposition: that the 
+        texture of daily life — what we practice, whom we see, how we fill an 
+        idle hour — may leave a measurable imprint on the aging brain.
+    - [The newest TV shows and movies to stream right now](https://www.washingtonpost.com/arts-entertainment/2023/04/24/what-to-watch-streaming-tv-movies/)
+      - 56 Days, Prime Video
+      - Fallout, Prime
+      - Goodbye June, Netflix
+      - Breakdown: 1975, Netflix
+      - Wake Up Dead Man: A Knives Out Mystery, Netflix
   - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
     - []()
@@ -49,12 +55,11 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Data Manipulation with pandas, Python Toolbox
-    - Software Engineering Principles in Python
-    - Introduction to the Tidyverse
-    - Introduction to R
-    - OO Fundamentals
-    - Introduction to Data Visualization with Seaborn
+    - Intermediate Importing Data in R
+    - Introduction to Data Visualization with Matplotlib
+    - Joining Data with pandas
+    - Statistical Thinking in Python (Part 1)
+    - Reshaping Data with pandas
   - Working in chapter 2/4 of Object-Oriented Programming in Python 
     - This is an advanced course
   - Understanding ChatGPT
@@ -62,11 +67,12 @@
   - Working chapter 1/5 in Statistical Thinking in Python (Part 2)
     - review chapter 1 of Part 1
   - Working on chapter 2/4 in Reshaping Data with pandas
-    - spent a great deal of time - reviewing and studying stack(), unstack(), 
-      swaplevels() and sort_index() - OUTSIDE OF THE COURSE!!!
+    - spent over an hour or so reviewing ... creating notebook with lecture
+      examples
   - Review R
 - FIGMA Marathon
-  - Working on challenge 3/26 - Styling Foundaion
+  - Completed challenge 3/26 - Styling Foundaion
+    - Reviewed the Lesson Video again
     - Topics covered:
       - Shade
       - Gradient Fill
@@ -74,17 +80,21 @@
       - Frames
       - Image Fill
       - Alignment
+  - Next Challenge: Constraints
 - Coursera DEVELOPING FRONT-END APPS WITH REACT
   - Review of course from start to finish
     - In Module 3
-      - Section: Design Systems
+      - Section: Hooks and Form Management in React
+        - React Hook Form (check it out)
+      - Next Section: Application State Management with Redux
+        - Need to supplement this material for better understanding
   - Working on Module 4/4
 - Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
   - REVIEW:
   - Working on Module 4 for  Course 7/9 - Prinicples of UX/UI Design
     - Designing your UI
-      - Working on Section 1 - Enhancing your design
-      - Next up: Stylize High-fidelity design
+      - Working on Section Design systems
+      - Next up: Prototyping, Sharing and testing your design
   - TASK LIST:
     - Create Flowchart {MON} - COMPLETED
     - Fix Reservation Screen (make it prettier) {WED}
@@ -143,14 +153,7 @@
 - Books
  - Tech Reading
   - React, The Comprehensive Guide 
-    - Complete Chapter 8 (8.2)- Styling React Components 
-      - current page: 405
-       last page: 410
-      - I truly disliked this chapter. I think the topic deserved to be handled
-        with more details than what was provided in the book. I felt it dumped
-        all these libraries and failed to discuss them in any depth - just dumped
-        an example exercise. What a crappy chapter!! 
-    - Next chapter 9/21 - Securing a React Application through Testing
+    - Working chapter 9/21 - Securing a React Application through Testing
       - start page: 411  end page: 461
     - GOAL: The goal (to get a C and above) is to complete 10 pages a day
       - This will allow me to complete the book in 90 days from today
