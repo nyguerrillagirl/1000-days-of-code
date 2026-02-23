@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Aligns to top */
+    align-items: flex-start;
+    height: 100vh; /* Optional: Sets full viewport height */
+}

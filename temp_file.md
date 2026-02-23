@@ -22,30 +22,28 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
+  - TODAY is SUNDAY - a free for all. I got C regardless of what I decide
+    to work on.
   - NYT
-    - [6 Takeaways From the Supreme Court’s Tariff Decision](https://www.nytimes.com/2026/02/20/us/politics/supreme-court-trump-tariffs-takeaways.html)
-    - [How Stephen Miller Is Perceived in the White House](https://www.nytimes.com/video/opinion/100000010718523/how-stephen-miller-is-perceived-in-the-white-house.html) 
-      - audio by Ezra Klein, told by Ashley Parker and Michael Scherer (Atlantic)
-    - [He Researched Dishonesty. He Got Friendly With Jeffrey Epstein.](https://www.nytimes.com/2026/02/21/business/jeffrey-epstein-dan-ariely-dishonesty.html)
-      - Communications with Dan Ariely
+    - [Trump’s Trade Gamble Will Continue, Despite Supreme Court Rebuke](https://www.nytimes.com/2026/02/21/business/economy/trump-tariffs-trade-war.html)
+      - To the president, tariffs are the antidote to globalization, a way to 
+        force more manufacturing back to the United States, reduce America’s 
+        reliance on foreign products and lower the trade deficit. But the 
+        economic evidence so far has not been in his favor. Instead of shifting 
+        manufacturing back into the United States, Mr. Trump’s tariffs mostly 
+        appear to have reshuffled trade, at great cost to U.S. companies.
+    - [Denmark Rejects Trump’s Plan to Send Hospital Boat to Greenland](https://www.nytimes.com/2026/02/22/us/politics/trump-greenland-hospital-ship.html)
+    - [The Ex-Taxi Driver at the Center of Russia’s Shadow War](https://www.nytimes.com/2026/02/22/world/europe/russia-sabotage-europe.html)
   - WAPO
-    - [Trump’s response to Supreme Court tariff ruling opens new era of uncertainty](https://www.washingtonpost.com/business/2026/02/21/supreme-court-tariff-ruling/)
-    - [These activities could help postpone Alzheimer’s by 5 years, study suggests](https://www.washingtonpost.com/health/2026/02/21/alzheimers-busy-mind-study-delay/)
-      - The results lend new momentum to a provocative proposition: that the 
-        texture of daily life — what we practice, whom we see, how we fill an 
-        idle hour — may leave a measurable imprint on the aging brain.
-    - [The newest TV shows and movies to stream right now](https://www.washingtonpost.com/arts-entertainment/2023/04/24/what-to-watch-streaming-tv-movies/)
-      - 56 Days, Prime Video
-      - Fallout, Prime
-      - Goodbye June, Netflix
-      - Breakdown: 1975, Netflix
-      - Wake Up Dead Man: A Knives Out Mystery, Netflix
-  - ARTICLES/VIDEOS
+    - [Josh Shapiro to neighbors: Get off my lawn](https://www.washingtonpost.com/politics/2026/02/22/josh-shapiro-neighbor-dispute-pennsylvania/)
+    - [Ilia Malinin returns to Olympic ice a changed skater](https://www.washingtonpost.com/sports/olympics/2026/02/21/ilia-malinin-olympics-skating-gala/)
+    - [Stand back, Congress needs a second Supreme Court jolt](https://www.washingtonpost.com/opinions/2026/02/22/supreme-court-trump-tariffs-major-questions/)
+- ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - []()
+    - [Coding backward](https://medium.com/codex/coding-backward-19797a921d2d)
     - []()
 - Data Camp [DS]
-  - XP:  TBD (Practice) --> 2050 [Tera - Last week: 13,957 XP]
+  - XP:  TBD (Practice) -->  [Tera - Last week: 13,957 XP]
   - Assessment: Data Manipulation with Python
     - Started REVIEW 20251226
       - Intermediate | Score: 117 | Ptle: 71th
@@ -55,11 +53,9 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Intermediate Importing Data in R
-    - Introduction to Data Visualization with Matplotlib
-    - Joining Data with pandas
-    - Statistical Thinking in Python (Part 1)
-    - Reshaping Data with pandas
+    - Inheritance and Polymorphism
+    - Working with Categorical Data in Python
+    - Introduction to Data Reshaping
   - Working in chapter 2/4 of Object-Oriented Programming in Python 
     - This is an advanced course
   - Understanding ChatGPT
@@ -71,16 +67,7 @@
       examples
   - Review R
 - FIGMA Marathon
-  - Completed challenge 3/26 - Styling Foundaion
-    - Reviewed the Lesson Video again
-    - Topics covered:
-      - Shade
-      - Gradient Fill
-      - Stroke
-      - Frames
-      - Image Fill
-      - Alignment
-  - Next Challenge: Constraints
+  - Working on  Challenge 4/26: Constraints
 - Coursera DEVELOPING FRONT-END APPS WITH REACT
   - Review of course from start to finish
     - In Module 3
@@ -161,7 +148,7 @@
   - Tidy First? 
     - Completed reading Chapter 2/33 - Guard Clauses
     - Completed reading Chapter 3/33 - Guard Clauses
-    - Target: Complete chapters 1/3 by 2/18
+    - Target: Complete chapters 4/10 by 2/25
   - Pandas Workout
     - Reading Chapter 1/13 - Series
   - Learn Electronics with Arduino
@@ -170,6 +157,8 @@
   - Beginning PyQt
     - Reading Chapter 1/12 - Charting the Course
     - Current Page: 
+  - Redux in Action
+    - Reading Chapter 1/12 - Introducing Redux
  - Non-Tech Reading
     - Civilization
         - Reading Introduction: Rasselas's Question

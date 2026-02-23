@@ -1,0 +1,25 @@
+  {
+  "books": [
+    {
+      "id": 1,
+      "title": "Attacking Problems in Logarithms & Exponential Functions",
+      "author": "David S. Kahn",
+      "isbn": "978-0486793467",
+      "read": false
+    },
+    {
+      "id": 2,
+      "title": "The Method of Coordinates",
+      "author": "I.M. Gelfand",
+      "isbn": "978-0486425658",
+      "read": true
+    },
+    {
+      "id": 3,
+      "title": "A Consise History of Mathematics",
+      "author": "Dirk J. Struik",
+      "isbn": "978-0486602554",
+      "read": false
+    }
+  ]
+}
