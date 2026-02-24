@@ -5,3 +5,15 @@
     align-items: flex-start;
     height: 100vh; /* Optional: Sets full viewport height */
 }
+th {
+  text-align: center;
+  background-color: lightblue;
+}
+
+td, th{
+  padding: 5px 15px;
+}
+
+td {
+  text-align: left;
+}

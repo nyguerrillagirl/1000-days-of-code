@@ -1,20 +1,24 @@
 import './BookList.css';
+import ShowBookItems from './ShowBookItems';
 import { useState, useEffect } from 'react';    
 
 function BookList() {
-    const [books, setBooks] = useState({});
+    const [books, setBooks] = useState([]);
     const [error, setError] = useState(null);
 
     useEffect(() => {
-        fetch('http://localhost:3001/books')
+        console.log("In useEffect....")
+        fetch('http://localhost:3001/books', {cache: "no-store"})
         .then((response) => {
-        if (!response.ok) {
-        throw new Error('Request failed');
-        }
-        response.json();
+            console.log("Processing response...")
+            if (!response.ok) {
+                throw new Error('Request failed');
+            }
+            return response.json();
         })
         .then((data) => {
-        setBooks(data);
+            console.log("books data:", data);
+            setBooks(data);
         })
         .catch((error) => setError(error));
     }, [])
@@ -24,25 +28,12 @@ function BookList() {
     } else if ( !books || books.length === 0) {
         return <div>No books found</div>;
     } else {
+        console.log("Rendering books:", books);
         return (
-        <table>
-            <thead>
-                <tr>
-                    <th>Title</th>
-                    <th>Author</th>
-                    <th>ISBN</th>
-                </tr>
-            </thead>
-            <tbody>
-                {books.map((book) => (
-                <tr key={book.id}>
-                <td>{book.title}</td>
-                <td>{book.author}</td>
-                <td>{book.isbn}</td>
-                </tr>
-                ))}
-            </tbody>
-        </table>
+            <div>
+                <h2>My Book List</h2>
+                <ShowBookItems books={books} />
+            </div>
         );
     }
 }

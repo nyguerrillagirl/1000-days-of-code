@@ -1,4 +1,4 @@
-### Day 513: February 22, 2026 (Sunday)
+### Day 515: February 24, 2026 (Tuesday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
@@ -22,28 +22,27 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
-  - TODAY is SUNDAY - a free for all. I got C regardless of what I decide
+  - TODAY is Monday - we had a large snow fall and a lot of snow (around 10-12 inches)
+    I was able to shovel our walkway and sidewalk. I even did 1/2 of my neighbor's 
+    sidewalk. I got help from 3 young men who helped me finish my neighbor's sidewalk.
+    I was extremely tired and did not get much done on this schedule but I will give
+    myself a C+ based on effort.
     to work on.
   - NYT
-    - [Trump’s Trade Gamble Will Continue, Despite Supreme Court Rebuke](https://www.nytimes.com/2026/02/21/business/economy/trump-tariffs-trade-war.html)
-      - To the president, tariffs are the antidote to globalization, a way to 
-        force more manufacturing back to the United States, reduce America’s 
-        reliance on foreign products and lower the trade deficit. But the 
-        economic evidence so far has not been in his favor. Instead of shifting 
-        manufacturing back into the United States, Mr. Trump’s tariffs mostly 
-        appear to have reshuffled trade, at great cost to U.S. companies.
-    - [Denmark Rejects Trump’s Plan to Send Hospital Boat to Greenland](https://www.nytimes.com/2026/02/22/us/politics/trump-greenland-hospital-ship.html)
-    - [The Ex-Taxi Driver at the Center of Russia’s Shadow War](https://www.nytimes.com/2026/02/22/world/europe/russia-sabotage-europe.html)
+    - [Live Updates: Mexico on Edge After Military Operation That Killed Cartel Boss](https://www.nytimes.com/live/2026/02/23/world/mexico-cartel-el-mencho)
+    - [Trump Administration Live Updates: ICE Whistle-Blower Calls Training for New Agents ‘Deficient’ and ‘Broken’](https://www.nytimes.com/live/2026/02/23/us/trump-news#ice-training-whistle-blower)
+    - [Putin Had High Hopes for Trump. They Have Been Dashed.](https://www.nytimes.com/2026/02/23/opinion/putin-trump-russia-ukraine.html)
   - WAPO
-    - [Josh Shapiro to neighbors: Get off my lawn](https://www.washingtonpost.com/politics/2026/02/22/josh-shapiro-neighbor-dispute-pennsylvania/)
-    - [Ilia Malinin returns to Olympic ice a changed skater](https://www.washingtonpost.com/sports/olympics/2026/02/21/ilia-malinin-olympics-skating-gala/)
-    - [Stand back, Congress needs a second Supreme Court jolt](https://www.washingtonpost.com/opinions/2026/02/22/supreme-court-trump-tariffs-major-questions/)
+    - [Trump’s top general foresees acute risks in an attack on Iran](https://www.washingtonpost.com/national-security/2026/02/23/dan-caine-iran-risk-trump/)
+    - [Coast Guard investigating swastika found at recruit training center](https://www.washingtonpost.com/national-security/2026/02/23/coast-guard-swastika-cape-may/)
+    - [The world’s biggest fast-food chain lands in the U.S. Here’s how it tastes.](https://www.washingtonpost.com/food/2026/02/23/mixue-fast-food-chain-new-york-review/)
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - [Coding backward](https://medium.com/codex/coding-backward-19797a921d2d)
+    - []()
+    - []()
     - []()
 - Data Camp [DS]
-  - XP:  TBD (Practice) -->  [Tera - Last week: 13,957 XP]
+  - XP:  TBD (Practice) -->  [Tera - Last week: 12,878 XP (down)]
   - Assessment: Data Manipulation with Python
     - Started REVIEW 20251226
       - Intermediate | Score: 117 | Ptle: 71th
@@ -71,17 +70,21 @@
 - Coursera DEVELOPING FRONT-END APPS WITH REACT
   - Review of course from start to finish
     - In Module 3
-      - Section: Hooks and Form Management in React
-        - React Hook Form (check it out)
       - Next Section: Application State Management with Redux
         - Need to supplement this material for better understanding
+        - Thunk and Saga for async operations
+      - Decided to only do 15 minutes and re-visit my React application and notes
+        that discusses how useReducer and Redux works.
   - Working on Module 4/4
 - Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
-  - REVIEW:
+  - The main assignment in this course is all about using Figma
+  - I think I need to read a book or two about UX/UI design in order to solidify
+    the material in this course...Also, I will be stuck again in the course if
+    I don't move faster in the Figma Marathon course!
   - Working on Module 4 for  Course 7/9 - Prinicples of UX/UI Design
     - Designing your UI
-      - Working on Section Design systems
-      - Next up: Prototyping, Sharing and testing your design
+      - Working on Prototyping, Sharing and testing your design
+      - Next up: Module 5 
   - TASK LIST:
     - Create Flowchart {MON} - COMPLETED
     - Fix Reservation Screen (make it prettier) {WED}
