@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Aligns to top */
+    align-items: flex-start;
+    height: 100vh; /* Optional: Sets full viewport height */
+}
+th {
+  text-align: center;
+  background-color: lightblue;
+}
+
+td, th{
+  padding: 5px 15px;
+}
+
+td {
+  text-align: left;
+}
+
+.button-blue {
+  background-color: #1e90ff;      /* DodgerBlue */
+  color: white;                   /* readable text */
+  padding: 10px 18px;             /* comfortable click area */
+  border: none;                   /* remove default border */
+  border-radius: 6px;             /* soft rounded corners */
+  font-size: 1rem;                /* readable text size */
+  cursor: pointer;                /* pointer cursor */
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.button-blue:hover {
+  background-color: #1c86ee;      /* slightly darker on hover */
+}
+
+.button-blue:active {
+  transform: scale(0.97);         /* subtle press effect */
+}

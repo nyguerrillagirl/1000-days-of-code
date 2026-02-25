@@ -1,8 +1,11 @@
-### Day 515: February 24, 2026 (Tuesday)
+
+### Day 516: February 25, 2026 (Wednesday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
     - Meta Frontend - Principles of UX/UI Design
+    - Continue to work on Figma Marathon and my personal React project to get
+      ready for the final projects/assignments in Coursera courses
   - Figma Marathon
  - NYT, WAPO 
     - Read at least 3 articles in each one
@@ -22,27 +25,23 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
-  - TODAY is Monday - we had a large snow fall and a lot of snow (around 10-12 inches)
-    I was able to shovel our walkway and sidewalk. I even did 1/2 of my neighbor's 
-    sidewalk. I got help from 3 young men who helped me finish my neighbor's sidewalk.
-    I was extremely tired and did not get much done on this schedule but I will give
-    myself a C+ based on effort.
-    to work on.
   - NYT
-    - [Live Updates: Mexico on Edge After Military Operation That Killed Cartel Boss](https://www.nytimes.com/live/2026/02/23/world/mexico-cartel-el-mencho)
-    - [Trump Administration Live Updates: ICE Whistle-Blower Calls Training for New Agents ‘Deficient’ and ‘Broken’](https://www.nytimes.com/live/2026/02/23/us/trump-news#ice-training-whistle-blower)
-    - [Putin Had High Hopes for Trump. They Have Been Dashed.](https://www.nytimes.com/2026/02/23/opinion/putin-trump-russia-ukraine.html)
+    - [The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored](https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html)
+    - [What Travelers Need to Know as Cartel Violence Rattles Mexico](https://www.nytimes.com/2026/02/23/travel/cartel-violence-mexico-el-mencho-travel-flights.html)
+    - [11 Million Visitors Short: Inside America’s Continuing Tourism Slump](https://www.nytimes.com/2026/02/20/travel/us-tourism-declines-eu-canada.html)
   - WAPO
-    - [Trump’s top general foresees acute risks in an attack on Iran](https://www.washingtonpost.com/national-security/2026/02/23/dan-caine-iran-risk-trump/)
-    - [Coast Guard investigating swastika found at recruit training center](https://www.washingtonpost.com/national-security/2026/02/23/coast-guard-swastika-cape-may/)
-    - [The world’s biggest fast-food chain lands in the U.S. Here’s how it tastes.](https://www.washingtonpost.com/food/2026/02/23/mixue-fast-food-chain-new-york-review/)
+    - [D.C. attorney general says Congress missed deadline, failed to block tax policy](https://www.washingtonpost.com/dc-md-va/2026/02/24/dc-congress-disapproval-taxes/)
+    - [As measles cases climb, these 9 diseases threaten comebacks](https://www.washingtonpost.com/wellness/2026/02/24/measles-vaccine-preventable-diseases/)
+    - [Even our favorite team has a human rights sportwashing problem](https://www.washingtonpost.com/opinions/2026/02/23/arsenal-sportswashing-uae-soccer-football/)
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - []()
-    - []()
-    - []()
+    - [Outcry Roils BAFTAs After Guest With Tourette Syndrome Shouts N-word at Michael B. Jordan and Delroy Lindo](https://www.vanityfair.com/hollywood/story/bafta-awards-2026-tourettes-n-word-outburst)
+    - [Andrew Mountbatten-Windsor: Four Decades of Scandal](https://www.vanityfair.com/style/story/andrew-mountbatten-windsor-four-decades-of-scandal)
+    - [Something’s Rotten in the Norwegian Royal Family](https://www.vanityfair.com/style/story/somethings-rotten-in-the-norwegian-royal-family#intcid=_vanity-fair-article-bottom-recirc-bkt-a_91ed5669-98e6-4f5b-9b15-381d7743c8ae_closr)
+    - [The Republican Party Has a Nazi Problem](https://www.theatlantic.com/magazine/2026/04/republican-party-nazi-problem/686055/)
 - Data Camp [DS]
-  - XP:  TBD (Practice) -->  [Tera - Last week: 12,878 XP (down)]
+  - XP:  1250 (Practice) --> 2400 [Tera - Last week: 12,878 XP (down)]
+    - Goal for the week: 2400 to make up for Monday's skip
   - Assessment: Data Manipulation with Python
     - Started REVIEW 20251226
       - Intermediate | Score: 117 | Ptle: 71th
@@ -52,18 +51,19 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Inheritance and Polymorphism
-    - Working with Categorical Data in Python
-    - Introduction to Data Reshaping
-  - Working in chapter 2/4 of Object-Oriented Programming in Python 
+    - Inheritance and Polymorphism*
+    - Software Engineering Principles in Python*
+    - Converting Between Wide and Long Format*
+    - Working with Dates and Times in Python*
+    - Introduction to Data Reshaping*
+  - Working in chapter 3/4 of Object-Oriented Programming in Python 
     - This is an advanced course
   - Understanding ChatGPT
     - Working on chatper 1/2
   - Working chapter 1/5 in Statistical Thinking in Python (Part 2)
     - review chapter 1 of Part 1
-  - Working on chapter 2/4 in Reshaping Data with pandas
-    - spent over an hour or so reviewing ... creating notebook with lecture
-      examples
+  - Working on chapter 4/4 in Reshaping Data with pandas
+    - Working on exercises in chapter 4
   - Review R
 - FIGMA Marathon
   - Working on  Challenge 4/26: Constraints
