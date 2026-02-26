@@ -1,5 +1,4 @@
-
-### Day 516: February 25, 2026 (Wednesday)
+### Day 517: February 26, 2026 (Thursday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
@@ -26,21 +25,21 @@
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
   - NYT
-    - [The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored](https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html)
-    - [What Travelers Need to Know as Cartel Violence Rattles Mexico](https://www.nytimes.com/2026/02/23/travel/cartel-violence-mexico-el-mencho-travel-flights.html)
-    - [11 Million Visitors Short: Inside America’s Continuing Tourism Slump](https://www.nytimes.com/2026/02/20/travel/us-tourism-declines-eu-canada.html)
+    - [‘Heated Rivalry’ Author Says Parkinson’s Symptoms Are Worsening and Delays Book](https://www.nytimes.com/2026/02/24/books/rachel-reid-parkinsons.html)
+    - [Lawrence Summers Will Resign From Harvard After Epstein Revelations](https://www.nytimes.com/2026/02/25/us/larry-summers-resignation-harvard-epstein.html)
+    - [7 Voters React to Trump’s State of the Union Speech](https://www.nytimes.com/2026/02/25/us/voters-trump-state-of-union-speech-reaction.html)
   - WAPO
-    - [D.C. attorney general says Congress missed deadline, failed to block tax policy](https://www.washingtonpost.com/dc-md-va/2026/02/24/dc-congress-disapproval-taxes/)
-    - [As measles cases climb, these 9 diseases threaten comebacks](https://www.washingtonpost.com/wellness/2026/02/24/measles-vaccine-preventable-diseases/)
-    - [Even our favorite team has a human rights sportwashing problem](https://www.washingtonpost.com/opinions/2026/02/23/arsenal-sportswashing-uae-soccer-football/)
+    - [Trump Treasury official to exit after objecting to Minneapolis crackdown](https://www.washingtonpost.com/business/2026/02/25/sanctions-chief-treasury/)
+    - [Don’t save Social Security](https://www.washingtonpost.com/opinions/2026/02/25/social-security-insolvency-federal-budget-entitlements/)
+    - [The moment Trump’s State of the Union speech changed](https://www.washingtonpost.com/politics/2026/02/25/trump-state-union-analysis/)
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - [Outcry Roils BAFTAs After Guest With Tourette Syndrome Shouts N-word at Michael B. Jordan and Delroy Lindo](https://www.vanityfair.com/hollywood/story/bafta-awards-2026-tourettes-n-word-outburst)
-    - [Andrew Mountbatten-Windsor: Four Decades of Scandal](https://www.vanityfair.com/style/story/andrew-mountbatten-windsor-four-decades-of-scandal)
-    - [Something’s Rotten in the Norwegian Royal Family](https://www.vanityfair.com/style/story/somethings-rotten-in-the-norwegian-royal-family#intcid=_vanity-fair-article-bottom-recirc-bkt-a_91ed5669-98e6-4f5b-9b15-381d7743c8ae_closr)
+    - []()
+    - []()
+    - []()
     - [The Republican Party Has a Nazi Problem](https://www.theatlantic.com/magazine/2026/04/republican-party-nazi-problem/686055/)
 - Data Camp [DS]
-  - XP:  1250 (Practice) --> 2400 [Tera - Last week: 12,878 XP (down)]
+  - XP:  1375 (Practice) --> TBD [Tera - Last week: 12,878 XP (down)]
     - Goal for the week: 2400 to make up for Monday's skip
   - Assessment: Data Manipulation with Python
     - Started REVIEW 20251226
@@ -51,11 +50,11 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Inheritance and Polymorphism*
-    - Software Engineering Principles in Python*
-    - Converting Between Wide and Long Format*
-    - Working with Dates and Times in Python*
-    - Introduction to Data Reshaping*
+    - Integrating with Standard Python
+    - Writing Functions in Python(2)
+    - Introduction to Data Reshaping(2)
+    - Software Engineering Principles
+    - 
   - Working in chapter 3/4 of Object-Oriented Programming in Python 
     - This is an advanced course
   - Understanding ChatGPT

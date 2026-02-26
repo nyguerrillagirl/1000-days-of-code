@@ -1,11 +1,31 @@
 import AddForm from './AddForm';
 import './BookList.css';
 import ShowBookItems from './ShowBookItems';
-import { useState, useEffect } from 'react';    
+import { useReducer, useState, useEffect } from 'react';    
+
+function bookReducer(state, action) {
+    switch (action.type) {
+        case "load":
+            return action.payload;  // relace state with fetched list
+        case 'add_book':
+            return [ ...state, action.payload ];
+        case 'delete_book':
+            return state.filter(book => book.id !== action.payload);
+        case 'toggle_read_status':
+            return state.map(book => 
+                book.id === action.payload ? { ...book, read: !book.read } : book
+            );
+        default:
+            return state;
+    }
+ }
 
 function BookList() {
-    const [books, setBooks] = useState([]);
+    const [books, dispatch] = useReducer(bookReducer, []);
     const [error, setError] = useState(null);
+
+
+
     // Get the book list from external source (json-server)
     useEffect(() => {
         console.log("In useEffect....")
@@ -19,29 +39,11 @@ function BookList() {
         })
         .then((data) => {
             console.log("books data:", data);
-            setBooks(data);
+            dispatch({ type: 'load', payload: data });
         })
         .catch((error) => setError(error));
     }, [])
 
-    // function to delete a book from the list
-    const deleteBook = (id) => {
-        setBooks(books.filter((book) => book.id !== id));
-    };
-
-    // function to toggle book reading status
-    const toggleReadStatus = (id) => {
-        setBooks(
-            books.map((book) =>
-                book.id === id ? { ...book, read: !book.read } : book
-            )
-        );
-    };
-
-    // function to add a new book to the list
-    const addBook = (newBook) => {
-        setBooks([...books, newBook]);
-    };
 
     if (error !== null) {
         return <div>An error has occurred: {error.message}</div>;
@@ -52,8 +54,8 @@ function BookList() {
         return (
             <div>
                 <h2>My Book List</h2>
-                <AddForm onAdd={addBook} />
-                <ShowBookItems books={books} deleteBookFunction={deleteBook} toggleReadStatusFunction={toggleReadStatus} />
+                <AddForm dispatch={dispatch} />
+                <ShowBookItems books={books} dispatch={dispatch} />
             </div>
         );
     }

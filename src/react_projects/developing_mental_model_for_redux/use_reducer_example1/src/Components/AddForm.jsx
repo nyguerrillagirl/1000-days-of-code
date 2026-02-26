@@ -1,9 +1,10 @@
 import { useState } from 'react';
+import PropTypes from "proptypes";
 import './AddForm.css';
 // This component is responsible for rendering a form to add a new book. 
 // It takes an onAdd prop, which is a function that will be called when 
 // the form is submitted with the new book data.
-function AddForm({ onAdd }) {
+function AddForm({ dispatch }) {
 
     function createEmptyBook() {
         return {
@@ -29,7 +30,7 @@ function AddForm({ onAdd }) {
       read: false
     };
 
-    onAdd(newBook);
+    dispatch({ type: 'add_book', payload: newBook });
 
     // clear the form
     setNewBookData(createEmptyBook());
@@ -74,5 +75,9 @@ function AddForm({ onAdd }) {
     </div>
   );
 }
+
+AddForm.propTypes = {
+  dispatch: PropTypes.func.isRequired
+};
 
 export default AddForm;
