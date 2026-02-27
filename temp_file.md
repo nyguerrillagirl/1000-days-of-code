@@ -1,4 +1,4 @@
-### Day 517: February 26, 2026 (Thursday)
+### Day 518: February 27, 2026 (Friday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
@@ -25,21 +25,20 @@
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
   - NYT
-    - [‘Heated Rivalry’ Author Says Parkinson’s Symptoms Are Worsening and Delays Book](https://www.nytimes.com/2026/02/24/books/rachel-reid-parkinsons.html)
-    - [Lawrence Summers Will Resign From Harvard After Epstein Revelations](https://www.nytimes.com/2026/02/25/us/larry-summers-resignation-harvard-epstein.html)
-    - [7 Voters React to Trump’s State of the Union Speech](https://www.nytimes.com/2026/02/25/us/voters-trump-state-of-union-speech-reaction.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Trump Treasury official to exit after objecting to Minneapolis crackdown](https://www.washingtonpost.com/business/2026/02/25/sanctions-chief-treasury/)
-    - [Don’t save Social Security](https://www.washingtonpost.com/opinions/2026/02/25/social-security-insolvency-federal-budget-entitlements/)
-    - [The moment Trump’s State of the Union speech changed](https://www.washingtonpost.com/politics/2026/02/25/trump-state-union-analysis/)
+    - []()
+    - []()
+    - []()
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - []()
-    - []()
-    - []()
-    - [The Republican Party Has a Nazi Problem](https://www.theatlantic.com/magazine/2026/04/republican-party-nazi-problem/686055/)
+    - [Sherrod Brown Is Grinding It Out](https://www.theatlantic.com/politics/2026/02/sherrod-brown-working-class/686136/)
+    - [Trump’s Favorite Voter-ID Bill Would Probably Backfire](https://www.theatlantic.com/politics/2026/02/save-america-act-turnout/686145/)
+    - [“You’re Still Nurses” — German Female POWs Shocked by How Canadians Treated Them](https://www.youtube.com/watch?v=ahd2CSwHQaY)
 - Data Camp [DS]
-  - XP:  1375 (Practice) --> TBD [Tera - Last week: 12,878 XP (down)]
+  - XP:  1375 (Practice) --> 2400 [Tera - Last week: 12,878 XP (down)]
     - Goal for the week: 2400 to make up for Monday's skip
   - Assessment: Data Manipulation with Python
     - Started REVIEW 20251226
@@ -50,11 +49,12 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Integrating with Standard Python
-    - Writing Functions in Python(2)
-    - Introduction to Data Reshaping(2)
-    - Software Engineering Principles
-    - 
+    - Introduction to Data Science in Python
+    - Intermediate R
+    - Sampling in Python
+    - Object-Oriented Programming in Python
+    - Understanding ChatGPT
+    - Reshaping Data with pandas
   - Working in chapter 3/4 of Object-Oriented Programming in Python 
     - This is an advanced course
   - Understanding ChatGPT
