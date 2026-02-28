@@ -1,4 +1,5 @@
-### Day 518: February 27, 2026 (Friday)
+
+### Day 519: February 28, 2026 (Saturday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
@@ -24,19 +25,20 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
+  - amazon search term: diy radio kits
   - NYT
-    - []()
-    - []()
-    - []()
+    - [The Birthrate Is Plunging. Why Some Say That’s a Good Thing.](https://www.nytimes.com/2026/02/27/us/politics/us-birthrate-decline-women.html)
+    - [Pentagon Standoff Is a Decisive Moment for How A.I. Will Be Used in War](https://www.nytimes.com/2026/02/27/technology/defense-department-anthropic-ai-safety.html)
+    - [I Grew Up Unvaccinated. Now I’m an Immunologist.](https://www.nytimes.com/2026/02/27/opinion/growing-up-unvaccinated.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Hegseth strikes new deal with Scouts: Girls allowed for now, DEI is banned](https://www.washingtonpost.com/national-security/2026/02/27/hegseth-scouting-america/)
+    - [The Kennedy Center Honors will continue during closure — with a new name](https://www.washingtonpost.com/style/2026/02/27/kennedy-center-honors-name/)
+    - [Hannah Gadsby walked away from Netflix. Now the comedian explains why.](https://www.washingtonpost.com/style/2026/02/26/hannah-gadsby-walked-away-netflix-now-comedian-explains-why/)
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - [Sherrod Brown Is Grinding It Out](https://www.theatlantic.com/politics/2026/02/sherrod-brown-working-class/686136/)
-    - [Trump’s Favorite Voter-ID Bill Would Probably Backfire](https://www.theatlantic.com/politics/2026/02/save-america-act-turnout/686145/)
-    - [“You’re Still Nurses” — German Female POWs Shocked by How Canadians Treated Them](https://www.youtube.com/watch?v=ahd2CSwHQaY)
+    - []()
+    - []()
+    - []()
 - Data Camp [DS]
   - XP:  1375 (Practice) --> 2400 [Tera - Last week: 12,878 XP (down)]
     - Goal for the week: 2400 to make up for Monday's skip
@@ -49,14 +51,14 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Introduction to Data Science in Python
-    - Intermediate R
-    - Sampling in Python
-    - Object-Oriented Programming in Python
+    - Introduction to Tidyverse*
+    - Writing Efficient Python Code*
+    - Introduction to Importing Data in R*
+    - Object-Oriented Programming in Python*
     - Understanding ChatGPT
     - Reshaping Data with pandas
-  - Working in chapter 3/4 of Object-Oriented Programming in Python 
-    - This is an advanced course
+  - Working in chapter 4/4 of Object-Oriented Programming in Python 
+    - Completed Course
   - Understanding ChatGPT
     - Working on chatper 1/2
   - Working chapter 1/5 in Statistical Thinking in Python (Part 2)
@@ -166,5 +168,6 @@
         - Reading Introduction: Rasselas's Question
     - The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
       - Reading Part III - Dread
-      - Reading Chapter 29 - Eagle Day / 100
+        - Working on chapter 51 - Sanctuary
+          - people's experience with the bombing     
 - GRADE: NA

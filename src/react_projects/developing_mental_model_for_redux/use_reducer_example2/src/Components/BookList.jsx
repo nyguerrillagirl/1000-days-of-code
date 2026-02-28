@@ -2,23 +2,38 @@ import AddForm from './AddForm';
 import './BookList.css';
 import ShowBookItems from './ShowBookItems';
 import { useReducer, useState, useEffect } from 'react';    
+import { produce } from 'immer';
+
 
 function bookReducer(state, action) {
+  return produce(state, draft => {
     switch (action.type) {
-        case "load":
-            return action.payload;  // relace state with fetched list
-        case 'add_book':
-            return [ ...state, action.payload ];
-        case 'delete_book':
-            return state.filter(book => book.id !== action.payload);
-        case 'toggle_read_status':
-            return state.map(book => 
-                book.id === action.payload ? { ...book, read: !book.read } : book
-            );
-        default:
-            return state;
+
+      case "load":
+        // Replace the entire state
+        return action.payload;   // <-- returning here replaces the draft entirely
+
+      case "add_book":
+        draft.push(action.payload);
+        break;
+
+      case "delete_book":
+        return draft.filter(book => book.id !== action.payload);
+        // Returning a new array replaces the draft
+
+      case "toggle_read_status": {
+        const book = draft.find(b => b.id === action.payload);
+        if (book) {
+          book.read = !book.read;
+        }
+        break;
+      }
+
+      default:
+        break;
     }
- }
+  });
+}
 
 function BookList() {
     const [books, dispatch] = useReducer(bookReducer, []);
