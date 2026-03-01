@@ -1,5 +1,4 @@
-
-### Day 519: February 28, 2026 (Saturday)
+### Day 520: March 1, 2026 (Sunday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
@@ -25,46 +24,55 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
-  - amazon search term: diy radio kits
+  - spending the morning learning the scipy.stats functions of:
+    - bernoulli.rvs, binom.rvs, .pmf and .cdf
   - NYT
-    - [The Birthrate Is Plunging. Why Some Say That’s a Good Thing.](https://www.nytimes.com/2026/02/27/us/politics/us-birthrate-decline-women.html)
-    - [Pentagon Standoff Is a Decisive Moment for How A.I. Will Be Used in War](https://www.nytimes.com/2026/02/27/technology/defense-department-anthropic-ai-safety.html)
-    - [I Grew Up Unvaccinated. Now I’m an Immunologist.](https://www.nytimes.com/2026/02/27/opinion/growing-up-unvaccinated.html)
+    - [Iran Hits Back Across the Mideast, Targeting U.S. Bases and Allies](https://www.nytimes.com/2026/02/28/world/middleeast/iran-retaliatory-strikes-region.html)
+    - []()
+    - []()
   - WAPO
-    - [Hegseth strikes new deal with Scouts: Girls allowed for now, DEI is banned](https://www.washingtonpost.com/national-security/2026/02/27/hegseth-scouting-america/)
-    - [The Kennedy Center Honors will continue during closure — with a new name](https://www.washingtonpost.com/style/2026/02/27/kennedy-center-honors-name/)
-    - [Hannah Gadsby walked away from Netflix. Now the comedian explains why.](https://www.washingtonpost.com/style/2026/02/26/hannah-gadsby-walked-away-netflix-now-comedian-explains-why/)
+    - []()
+    - []()
+    - []()
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
     - []()
     - []()
     - []()
 - Data Camp [DS]
-  - XP:  1375 (Practice) --> 2400 [Tera - Last week: 12,878 XP (down)]
+  - XP:   (Practice) --> 2175 [Tera - Last week: 12,878 XP (down)]
     - Goal for the week: 2400 to make up for Monday's skip
   - Assessment: Data Manipulation with Python
-    - Started REVIEW 20251226
-      - Intermediate | Score: 117 | Ptle: 71th
-      - Advanced | Score: 131 | Ptle: 84th
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
+  - PROJECT: Customer Analytics 
   - Practice:
-    - Introduction to Tidyverse*
-    - Writing Efficient Python Code*
-    - Introduction to Importing Data in R*
-    - Object-Oriented Programming in Python*
+    - Data Manipulation with pandas*
+    - Introduction to Data Visualization with Seaborn*
+    - Cleaning Data in Python*
+    - Object-Oriented Programming in Python
     - Understanding ChatGPT
-    - Reshaping Data with pandas
-  - Working in chapter 4/4 of Object-Oriented Programming in Python 
-    - Completed Course
+    - Reshaping Data with pandas(2)*
+    - Avoid:
+      - Data Manipulation with pandas
+      - Introduction to Functions in Python
+      - Python Toolbox
+  - Course: Foundations of Probability in Python
+    - Working on chapter 1/4
+  - Course: Analyzing Police Activity with pandas
+    - Working on chapter 1/4
   - Understanding ChatGPT
     - Working on chatper 1/2
   - Working chapter 1/5 in Statistical Thinking in Python (Part 2)
     - review chapter 1 of Part 1
   - Working on chapter 4/4 in Reshaping Data with pandas
-    - Working on exercises in chapter 4
+    - Completed Course
+    - This was a difficult course for me. The material was all new and quite 
+      important. The lecturer has a strong accent and the voice quality was
+      rather poor. I could not listen to it - AT ALL!! I had to work extra
+      hard with Copilot to understand the material (I guess that is good news)
   - Review R
 - FIGMA Marathon
   - Working on  Challenge 4/26: Constraints
