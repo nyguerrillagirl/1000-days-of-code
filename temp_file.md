@@ -1,4 +1,4 @@
-### Day 520: March 1, 2026 (Sunday)
+### Day 521: March 2, 2026 (Monday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
@@ -27,21 +27,21 @@
   - spending the morning learning the scipy.stats functions of:
     - bernoulli.rvs, binom.rvs, .pmf and .cdf
   - NYT
-    - [Iran Hits Back Across the Mideast, Targeting U.S. Bases and Allies](https://www.nytimes.com/2026/02/28/world/middleeast/iran-retaliatory-strikes-region.html)
-    - []()
-    - []()
+    - [Iranians Take to the Streets to Celebrate Khamenei’s Death](https://www.nytimes.com/2026/02/28/world/middleeast/iran-khameni-celebrations.html)
+    - [In Ukraine, a Community of ‘Simple Believers’ Shuns the Modern World](https://www.nytimes.com/2026/03/01/world/europe/ukraine-simple-believers.html)
+    - [Matthew Lillard, a Fan Favorite, Still Has to Hustle for Work](https://www.nytimes.com/2026/02/28/movies/matthew-lillard-scream-7.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Trump’s Iran strikes risk hitting American pocketbooks if they last](https://www.washingtonpost.com/business/2026/03/01/iran-strikes-economic-costs-usa-middle-east-trump/)
+    - [Push from Saudis, Israel helped move Trump to attack Iran](https://www.washingtonpost.com/politics/2026/02/28/trump-iran-decision-saudi-arabia-israel/)
+    - [An Ohio newspaper has a new star writer. It isn’t human.](https://www.washingtonpost.com/technology/2026/03/01/ai-journalism-writing-cleveland-plain-dealer/)
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - []()
-    - []()
+    - [Why Khamenei Is Dead](https://www.theatlantic.com/ideas/2026/03/why-khamenei-is-dead/686198/)
+    - ["He Will Not Go Back" — Why Robert E. Lee Realized Grant Was Unlike Any General He'd Ever Faced](https://www.youtube.com/watch?v=x2NXSjDstTw)
     - []()
 - Data Camp [DS]
-  - XP:   (Practice) --> 2175 [Tera - Last week: 12,878 XP (down)]
-    - Goal for the week: 2400 to make up for Monday's skip
+  - XP:   (Practice) --> 2175 [Peta - Last week: 12,025 XP (promoted to Peta League)]
+        - Goal for the week: 2000 to make up for Monday's skip
   - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
@@ -49,11 +49,9 @@
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - Practice:
-    - Data Manipulation with pandas*
-    - Introduction to Data Visualization with Seaborn*
-    - Cleaning Data in Python*
-    - Object-Oriented Programming in Python
-    - Understanding ChatGPT
+    - Introduction to Testing in Python
+    - Data Communication Concepts
+    - Intermediate Python
     - Reshaping Data with pandas(2)*
     - Avoid:
       - Data Manipulation with pandas
@@ -67,15 +65,10 @@
     - Working on chatper 1/2
   - Working chapter 1/5 in Statistical Thinking in Python (Part 2)
     - review chapter 1 of Part 1
-  - Working on chapter 4/4 in Reshaping Data with pandas
-    - Completed Course
-    - This was a difficult course for me. The material was all new and quite 
-      important. The lecturer has a strong accent and the voice quality was
-      rather poor. I could not listen to it - AT ALL!! I had to work extra
-      hard with Copilot to understand the material (I guess that is good news)
   - Review R
 - FIGMA Marathon
   - Working on  Challenge 4/26: Constraints
+    - working on this
 - Coursera DEVELOPING FRONT-END APPS WITH REACT
   - Review of course from start to finish
     - In Module 3
