@@ -1,0 +1,183 @@
+### Day 522: March 3, 2026 (Tuesday)
+- ORDER
+  - COURSERA
+    - Developing Frontend Apps with React
+    - Meta Frontend - Principles of UX/UI Design
+    - Continue to work on Figma Marathon and my personal React project to get
+      ready for the final projects/assignments in Coursera courses
+  - Figma Marathon
+ - NYT, WAPO 
+    - Read at least 3 articles in each one
+    - []()
+    - []()
+    - []()
+  - REACT READING
+    - 10 pages a day
+  - DATACAMP
+    - ^[0-9].*XP$
+    - GOAL: Get over 2000 XP daily
+   - REALPYTHON course
+  - READ/PROCESS AN ARTICLE (1/2 articles a day)
+  - Engineering Book Club Preparation
+    - Reading Tidy First?
+  - PROJECT - Data Science with Python Workbook
+  - PROJECT - Math
+  - PROJECT - Arduino
+- NOTE FOR THE DAY:
+   - NYT
+    - [How to Think About Trump’s War With Iran](https://www.nytimes.com/2026/03/02/opinion/trump-iran-war-future.html)
+    - [Stocks Fall as Investors Brace for Iran War’s Economic Repercussions](https://www.nytimes.com/2026/03/01/business/stock-market-iran-war-fallout.html)
+    - [Iranian Doctors Risked Their Lives So You Could See These Images](https://www.nytimes.com/2026/02/25/opinion/iran-protests-doctors-images.html)
+      - the video made me cry!
+  - WAPO
+    - [Trump pursues Iranian decapitation without a plan for what comes next](https://www.washingtonpost.com/national-security/2026/03/02/iran-regime-change-trump/)
+    - [Frontline leaders are disappearing. The Civil War shows why that’s a problem.](https://www.washingtonpost.com/business/2026/03/02/leadership-traits-frontline-managers-civil-war/)
+      - Do frontline managers matter? 
+      - The quality of the best leaders wasn’t always clear from the outset, 
+        but they tended to improve rapidly in their first few months — if they 
+        survived, that is. The analysis found that “high-quality captains were 
+        more likely to die in battle, consistent with leadership-by-example 
+        or leading-from-the-front.”
+    - [U.S. won’t rule out sending ground troops into Iran](https://www.washingtonpost.com/national-security/2026/03/02/hegseth-iran-ground-troops/)
+- ARTICLES/VIDEOS
+    - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
+    - [Automate Python Data Analysis With YData Profiling](https://realpython.com/ydata-profiling-eda/)
+    - []()
+    - []()
+- Data Camp [DS]
+  - XP: 1000  (Practice) --> 2100 [Peta - Last week: 12,025 XP (promoted to Peta League)]
+        - Goal for the week: 2000 to make up for Monday's skip
+  - Assessment: Data Manipulation with Python
+      - NEW ASSESSMENT:
+        - Advanced | Score: 134 | Ptle: 87
+        - 9/15 correct
+      - Need to re-take ...too many errors. Need review of key concepts
+  - PROJECT: Customer Analytics 
+  - Practice:
+    - Introduction to Testing in Python
+    - Understanding Data Visualization
+    - Supervised Learning with scikit-learn
+    - Introduction to Importing Data in Python
+    - Avoid:
+      - Data Manipulation with pandas
+      - Introduction to Functions in Python
+      - Python Toolbox
+  - Course: Foundations of Probability in Python
+    - Completed chapter 1/4
+    - todo: Working on chapter 2/4
+  - Course: Analyzing Police Activity with pandas
+    - Completed chapter 1/4
+      - repeat in a notebook
+    - Working on chapter 2/4
+  - Understanding ChatGPT
+    - Working on chatper 1/2
+  - Working chapter 1/5 in Statistical Thinking in Python (Part 2)
+    - review chapter 1 of Part 1
+  - Review R
+- FIGMA Marathon
+  - Working on  Challenge 4/26: Constraints
+    - working on this
+- Coursera DEVELOPING FRONT-END APPS WITH REACT
+  - Review of course from start to finish
+    - In Module 3
+      - Next Section: Application State Management with Redux
+        - Need to supplement this material for better understanding
+        - Thunk and Saga for async operations
+      - Decided to only do 15 minutes and re-visit my React application and notes
+        that discusses how useReducer and Redux works.
+  - Working on Module 4/4
+- Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
+  - The main assignment in this course is all about using Figma
+  - I think I need to read a book or two about UX/UI design in order to solidify
+    the material in this course...Also, I will be stuck again in the course if
+    I don't move faster in the Figma Marathon course!
+  - Working on Module 4 for  Course 7/9 - Prinicples of UX/UI Design
+    - Designing your UI
+      - Working on Prototyping, Sharing and testing your design
+      - Next up: Module 5 
+  - TASK LIST:
+    - Create Flowchart {MON} - COMPLETED
+    - Fix Reservation Screen (make it prettier) {WED}
+      - selected a video [Form Design in Figma with Interactive Components](https://www.youtube.com/watch?v=ZWwE0GWEXDc)
+    - Work on prototype
+      - Complete prototype flowchart {THURS}
+      - Work on Reservation Page High-Fidelity #1 {THURS}
+      - Work on Reservation Page High-Fidelity #2 {FRI}
+      - Implement prototype Home Page into Page #1 {SAT}
+      - Implement prototype Page #2 {SUN}
+      - Add Spinner for entering completion {MON}
+      - Return back to home page {MON}
+      - Goal is to submit on 11/25
+- Project: REAL PYTHON
+  - [Automate Python Data Analysis With YData Profiling](https://realpython.com/ydata-profiling-eda/)
+    - it took some time to set things up I entered some notes 
+  - Working on [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/)
+  - Working on finishing up [Advent of Code: Solving Your Puzzles With Python](https://realpython.com/python-advent-of-code/)
+    - working on 20211205 - Part 1
+  - Working on Python Core Language: Intermediate
+    - [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
+      - working on this
+    - [Your Python Coding Environment on Windows: Setup Guide](https://realpython.com/python-coding-setup-windows/)
+    - [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
+- PROJECT: RADIO
+  - READING:
+    - Wireless, from Marconi's black-box to the audion
+      - Reading 1/7 - Hertzian Optics and Wireless Telegraphy
+- PROJECT: Advent of Code
+  - Completed on 2020 - Day 5 Part 1 and Part 2
+  - Working on 2021 - Day 5 Part 1 
+- Project Math
+  - Reading "Elements of Mathematics" by Gabor Toth
+    - Chapter 0/11 - Preliminaries: Sets, Relations, Maps
+  - Reading How to Bake π 
+      - Working on chapter 5/15 - Generalization
+- Project: Learning Data Science with Python Workbook (LDSPW)
+  - Working on Part I - Python Basics to Master
+  - Working on Part IV - Learning NumPy, pandas and matplotlib
+    - working on NumPy
+- PROJECT: React
+  - See Books below
+  - Worked on editing ReactNotes
+    - jQuery, LoDash
+  - Online material to conside
+    - [An Introduction to Web Development from Back to Front](https://playbackpress.com/books/webdevbook/)
+      - 1/5 Sections (see notes)
+    - [Thinking in React](https://react.dev/learn/thinking-in-react)
+- Project: Arduino
+  - Changed to Grove Beginner Kit for Arduino
+    - Worked on Hello, World Serial exercise
+    - Worked on Lesson 1: Blinking with the LED
+    - Worked on Lesson 2: Pressing Button to Light Up LED
+  - Working on Arduino Notes
+    - Added history
+  - Arduino for Complete Idiots
+    - Reading chapter 1/25 What is Arduino?
+- Books
+ - Tech Reading
+  - React, The Comprehensive Guide 
+    - Working chapter 9/21 - Securing a React Application through Testing
+      - start page: 411  end page: 461
+    - GOAL: The goal (to get a C and above) is to complete 10 pages a day
+      - This will allow me to complete the book in 90 days from today
+    - npm install -D sass
+  - Tidy First? 
+    - Completed reading Chapter 2/33 - Guard Clauses
+    - Completed reading Chapter 3/33 - Guard Clauses
+    - Target: Complete chapters 4/10 by 2/25
+  - Pandas Workout
+    - Reading Chapter 1/13 - Series
+  - Learn Electronics with Arduino
+    - Completed chapter 1/9 Introduction to Arduino
+    - Reading chapter 2/9 Your Arduino
+  - Beginning PyQt
+    - Reading Chapter 1/12 - Charting the Course
+    - Current Page: 
+  - Redux in Action
+    - Reading Chapter 1/12 - Introducing Redux
+ - Non-Tech Reading
+    - Civilization
+        - Reading Introduction: Rasselas's Question
+    - The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
+      - Reading Part III - Dread
+        - Working on chapter 54 - Spendthrift 
+- GRADE: NA
