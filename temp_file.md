@@ -1,4 +1,4 @@
-### Day 522: March 3, 2026 (Tuesday)
+### Day 523: March 4, 2026 (Wednesday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
@@ -25,28 +25,21 @@
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
    - NYT
-    - [How to Think About Trump’s War With Iran](https://www.nytimes.com/2026/03/02/opinion/trump-iran-war-future.html)
-    - [Stocks Fall as Investors Brace for Iran War’s Economic Repercussions](https://www.nytimes.com/2026/03/01/business/stock-market-iran-war-fallout.html)
-    - [Iranian Doctors Risked Their Lives So You Could See These Images](https://www.nytimes.com/2026/02/25/opinion/iran-protests-doctors-images.html)
-      - the video made me cry!
+    - [How Trump Decided to Go to War](https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html)
+    - []()
+    - []()
   - WAPO
-    - [Trump pursues Iranian decapitation without a plan for what comes next](https://www.washingtonpost.com/national-security/2026/03/02/iran-regime-change-trump/)
-    - [Frontline leaders are disappearing. The Civil War shows why that’s a problem.](https://www.washingtonpost.com/business/2026/03/02/leadership-traits-frontline-managers-civil-war/)
-      - Do frontline managers matter? 
-      - The quality of the best leaders wasn’t always clear from the outset, 
-        but they tended to improve rapidly in their first few months — if they 
-        survived, that is. The analysis found that “high-quality captains were 
-        more likely to die in battle, consistent with leadership-by-example 
-        or leading-from-the-front.”
-    - [U.S. won’t rule out sending ground troops into Iran](https://www.washingtonpost.com/national-security/2026/03/02/hegseth-iran-ground-troops/)
+    - []()
+    - []()
+    - []()
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - [Automate Python Data Analysis With YData Profiling](https://realpython.com/ydata-profiling-eda/)
+    - []()
     - []()
     - []()
 - Data Camp [DS]
-  - XP: 1000  (Practice) --> 2100 [Peta - Last week: 12,025 XP (promoted to Peta League)]
-        - Goal for the week: 2000 to make up for Monday's skip
+  - XP: 1500  (Practice) --> 2500 [Peta - Last week: 12,025 XP (promoted to Peta League)]
+        - Goal for the week: 2500 to stay in Peta League
   - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
@@ -54,10 +47,12 @@
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - Practice:
-    - Introduction to Testing in Python
-    - Understanding Data Visualization
+    - Introduction to Object-Oriented Programming in Python
+    - Introduction to Data Visualization with Plotly in Python
+    - Statistical Thinking in Python (Part 1)
     - Supervised Learning with scikit-learn
-    - Introduction to Importing Data in Python
+    - Introduction to Statistics
+    - Joining Data with pandas
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -69,14 +64,16 @@
     - Completed chapter 1/4
       - repeat in a notebook
     - Working on chapter 2/4
-  - Understanding ChatGPT
-    - Working on chatper 1/2
+  - Course: Understanding ChatGPT
+    - Completed the Course
   - Working chapter 1/5 in Statistical Thinking in Python (Part 2)
     - review chapter 1 of Part 1
+  - Course: Large Language Models (LLMs) Concepts 
+    - Working on 1/4
   - Review R
 - FIGMA Marathon
-  - Working on  Challenge 4/26: Constraints
-    - working on this
+  -Completed  Challenge 4/26: Constraints
+  - Next up Challenge 5/26 - Local Styles
 - Coursera DEVELOPING FRONT-END APPS WITH REACT
   - Review of course from start to finish
     - In Module 3
@@ -179,5 +176,5 @@
         - Reading Introduction: Rasselas's Question
     - The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
       - Reading Part III - Dread
-        - Working on chapter 54 - Spendthrift 
+        - Working on chapter 61 - Special Delivery
 - GRADE: NA

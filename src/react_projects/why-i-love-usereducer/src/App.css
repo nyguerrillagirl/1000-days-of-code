@@ -9,6 +9,19 @@
   width: 400px;
 }
 
+.App2 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;   /* makes the button appear on its own line */
+  align-content: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+.App2 button {
+  align-self: center;   /* or: flex-start, if you want it left-aligned */
+  width: auto;          /* ensures it shrinks to fit its content */
+}
+
 .form {
   display: flex;
   flex-direction: column;
