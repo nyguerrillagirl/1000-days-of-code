@@ -1,4 +1,4 @@
-### Day 523: March 4, 2026 (Wednesday)
+### Day 524: March 5, 2026 (Thursday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
@@ -25,13 +25,13 @@
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
    - NYT
-    - [How Trump Decided to Go to War](https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html)
-    - []()
-    - []()
+    - [I Worked for Block. Its A.I. Job Cuts Aren’t What They Seem.](https://www.nytimes.com/2026/03/04/opinion/block-jack-dorsey-layoffs-ai.html)
+    - [Iran’s Secret Outreach Highlights Trump’s Challenge](https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html)
+    - [Allies of Gov. Sarah Huckabee Sanders suffer primary defeats in Arkansas.](https://www.nytimes.com/live/2026/03/04/us/primary-elections-midterms-tx-nc-ar#anti-prison-incumbents-arkansas-sanders)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Spanish prime minister slams Trump’s war in Iran, escalating feud](https://www.washingtonpost.com/world/2026/03/04/pedro-sanchez-trump-war-feud-spain/)
+    - [Putin is failing. These charts prove it.](https://www.washingtonpost.com/opinions/2026/03/04/russia-ukraine-war-territorial-gains-putin/)
+    - [Can’t stop overthinking? Here’s what experts say actually helps.](https://www.washingtonpost.com/wellness/2026/03/04/how-to-stop-overthinking/)
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
     - []()
@@ -47,26 +47,24 @@
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - Practice:
-    - Introduction to Object-Oriented Programming in Python
-    - Introduction to Data Visualization with Plotly in Python
-    - Statistical Thinking in Python (Part 1)
-    - Supervised Learning with scikit-learn
-    - Introduction to Statistics
-    - Joining Data with pandas
+    - Intermediate Object-Oriented Programming in Python*
+    - Introduction to R
+    - Understanding Data Science
+    - Reshaping with pandas
+    - Data Types in Python
+    - Exploratory Data Analysis in Python
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
       - Python Toolbox
+      - Data Types in Python
   - Course: Foundations of Probability in Python
-    - Completed chapter 1/4
-    - todo: Working on chapter 2/4
+    - Completed chapter 2/4
   - Course: Analyzing Police Activity with pandas
     - Completed chapter 1/4
       - repeat in a notebook
     - Working on chapter 2/4
-  - Course: Understanding ChatGPT
-    - Completed the Course
-  - Working chapter 1/5 in Statistical Thinking in Python (Part 2)
+  - Course: Statistical Thinking in Python (Part 2)
     - review chapter 1 of Part 1
   - Course: Large Language Models (LLMs) Concepts 
     - Working on 1/4
@@ -158,9 +156,8 @@
       - This will allow me to complete the book in 90 days from today
     - npm install -D sass
   - Tidy First? 
-    - Completed reading Chapter 2/33 - Guard Clauses
-    - Completed reading Chapter 3/33 - Guard Clauses
-    - Target: Complete chapters 4/10 by 2/25
+    - Target: Complete chapters 4-10 by 2/25
+    - Target: Reading chapters 11-15
   - Pandas Workout
     - Reading Chapter 1/13 - Series
   - Learn Electronics with Arduino
@@ -176,5 +173,5 @@
         - Reading Introduction: Rasselas's Question
     - The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
       - Reading Part III - Dread
-        - Working on chapter 61 - Special Delivery
+         - Working on chapter 67 - Christmas
 - GRADE: NA
