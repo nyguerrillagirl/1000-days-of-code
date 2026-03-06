@@ -1,4 +1,4 @@
-### Day 524: March 5, 2026 (Thursday)
+### Day 525: March 6, 2026 (Friday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
@@ -24,21 +24,25 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
-   - NYT
-    - [I Worked for Block. Its A.I. Job Cuts Aren’t What They Seem.](https://www.nytimes.com/2026/03/04/opinion/block-jack-dorsey-layoffs-ai.html)
-    - [Iran’s Secret Outreach Highlights Trump’s Challenge](https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html)
-    - [Allies of Gov. Sarah Huckabee Sanders suffer primary defeats in Arkansas.](https://www.nytimes.com/live/2026/03/04/us/primary-elections-midterms-tx-nc-ar#anti-prison-incumbents-arkansas-sanders)
+  - Best books to learn more about LLMs
+    - The Hundred-Page Language Models Book - Andriy Burkov
+    - Hands-On Large Language Models - Jay Alammar & Maarten Grootendorst
+      - likes of diagrams
+    - Introduction to Large Language Models - Tanmoy Chakraborty
+  - NYT
+    - [Senate Democrats Block D.H.S. Funding Again Over Enforcement Guardrails](https://www.nytimes.com/2026/03/05/us/politics/senate-democrats-dhs-shutdown-ice-immigration.html)
+    - [How the Decision to Start a War Became the President’s](https://www.nytimes.com/2026/03/05/us/politics/trump-iran-war-presidential-power.html)
+    - [Bulletproof Vests and Rolex Watches: The Rise and Fall of Kristi Noem](https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html)
   - WAPO
-    - [Spanish prime minister slams Trump’s war in Iran, escalating feud](https://www.washingtonpost.com/world/2026/03/04/pedro-sanchez-trump-war-feud-spain/)
-    - [Putin is failing. These charts prove it.](https://www.washingtonpost.com/opinions/2026/03/04/russia-ukraine-war-territorial-gains-putin/)
-    - [Can’t stop overthinking? Here’s what experts say actually helps.](https://www.washingtonpost.com/wellness/2026/03/04/how-to-stop-overthinking/)
+    - [DHS Secretary Kristi Noem is out, Trump says, after controversial tenure](https://www.washingtonpost.com/climate-environment/2026/03/05/kristi-noem-fired-trump-dhs/)
+    - [How a DHS shooting of a third U.S. citizen went unnoticed for months](https://www.washingtonpost.com/immigration/2026/03/05/texas-dhs-shooting-citizen-killed/)
+    - [America’s dating crisis is getting worse. What went wrong?](https://www.washingtonpost.com/opinions/2026/03/02/dating-recession-men-women-family-children/)
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - []()
-    - []()
-    - []()
+    - [Donald Trump Pushes Back on Kristi Noem Over $200 Million DHS Ad Campaign](https://www.newsweek.com/trump-noem-border-security-ad-campaign-reuters-11628737)
+    - [Can the Most Abstract Math Make the World a Better Place?](https://www.quantamagazine.org/can-the-most-abstract-math-make-the-world-a-better-place-20260304/)
 - Data Camp [DS]
-  - XP: 1500  (Practice) --> 2500 [Peta - Last week: 12,025 XP (promoted to Peta League)]
+  - XP: 1250  (Practice) --> 2450 [Peta - Last week: 12,025 XP (promoted to Peta League)]
         - Goal for the week: 2500 to stay in Peta League
   - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
@@ -47,12 +51,11 @@
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - Practice:
-    - Intermediate Object-Oriented Programming in Python*
-    - Introduction to R
-    - Understanding Data Science
-    - Reshaping with pandas
-    - Data Types in Python
-    - Exploratory Data Analysis in Python
+    - Introduction to Data Science in Python
+    - Intermediate R
+    - Understanding ChatGPT
+    - Working with Dates and Times in Python
+    - Reshaping Data in Python
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -67,11 +70,11 @@
   - Course: Statistical Thinking in Python (Part 2)
     - review chapter 1 of Part 1
   - Course: Large Language Models (LLMs) Concepts 
-    - Working on 1/4
+    - Working on 2/4
   - Review R
 - FIGMA Marathon
-  -Completed  Challenge 4/26: Constraints
   - Next up Challenge 5/26 - Local Styles
+    - Completed Challenge
 - Coursera DEVELOPING FRONT-END APPS WITH REACT
   - Review of course from start to finish
     - In Module 3
@@ -164,10 +167,17 @@
     - Completed chapter 1/9 Introduction to Arduino
     - Reading chapter 2/9 Your Arduino
   - Beginning PyQt
-    - Reading Chapter 1/12 - Charting the Course
-    - Current Page: 
+    - Completed Reading Chapter 1/12 - Charting the Course
+      - Current Page: 1
+      - Last Page: 6
+    - Reading Chapter 2/12 - Getting Started with PyQt
+      - Current Page: 7
+      - Last Page: 20
   - Redux in Action
-    - Reading Chapter 1/12 - Introducing Redux
+    - Completed Reading Chapter 1/12 - Introducing Redux
+    - Working on Reading Chapter 2/12 Your First Redux application
+      - current page: 16
+      - last page: 46
  - Non-Tech Reading
     - Civilization
         - Reading Introduction: Rasselas's Question
