@@ -1,4 +1,4 @@
-### Day 525: March 6, 2026 (Friday)
+### Day 526: March 7, 2026 (Saturday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
@@ -25,25 +25,23 @@
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
   - Best books to learn more about LLMs
-    - The Hundred-Page Language Models Book - Andriy Burkov
-    - Hands-On Large Language Models - Jay Alammar & Maarten Grootendorst
-      - likes of diagrams
-    - Introduction to Large Language Models - Tanmoy Chakraborty
+    - Need more work on Bayes' Rule
   - NYT
-    - [Senate Democrats Block D.H.S. Funding Again Over Enforcement Guardrails](https://www.nytimes.com/2026/03/05/us/politics/senate-democrats-dhs-shutdown-ice-immigration.html)
-    - [How the Decision to Start a War Became the President’s](https://www.nytimes.com/2026/03/05/us/politics/trump-iran-war-presidential-power.html)
-    - [Bulletproof Vests and Rolex Watches: The Rise and Fall of Kristi Noem](https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html)
+    - [Weak Jobs Data Underscores Fed’s Dilemma as War Stokes Inflation Risk](https://www.nytimes.com/2026/03/06/business/economy/federal-reserve-jobs-inflation.html)
+    - [Top Aide to Labor Secretary Is Placed on Leave](https://www.nytimes.com/2026/03/04/business/economy/labor-secretary-lori-chavez-deremer-staff.html)
+    - [Trump Justice Dept. Seeks to Stall State Bar Discipline of Its Lawyers](https://www.nytimes.com/2026/03/04/us/politics/justice-department-state-bar-associations-lawyers.html)
+    - [America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)
   - WAPO
-    - [DHS Secretary Kristi Noem is out, Trump says, after controversial tenure](https://www.washingtonpost.com/climate-environment/2026/03/05/kristi-noem-fired-trump-dhs/)
-    - [How a DHS shooting of a third U.S. citizen went unnoticed for months](https://www.washingtonpost.com/immigration/2026/03/05/texas-dhs-shooting-citizen-killed/)
-    - [America’s dating crisis is getting worse. What went wrong?](https://www.washingtonpost.com/opinions/2026/03/02/dating-recession-men-women-family-children/)
+    - [Cancellation of Army exercise fuels speculation about Mideast troop deployments](https://www.washingtonpost.com/national-security/2026/03/06/army-82nd-airborne-iran/)
+    - [Lily Allen’s new revenge dress is peak pettiness. We’re here for it.](https://www.washingtonpost.com/style/fashion/2026/03/06/lily-allen-receipts-dress/)
+    - [Carolyn Hax chat: How do I get over years of betrayal from my ex-husband?](https://www.washingtonpost.com/advice/2026/03/06/live-chat-carolyn-hax/)
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - [Donald Trump Pushes Back on Kristi Noem Over $200 Million DHS Ad Campaign](https://www.newsweek.com/trump-noem-border-security-ad-campaign-reuters-11628737)
-    - [Can the Most Abstract Math Make the World a Better Place?](https://www.quantamagazine.org/can-the-most-abstract-math-make-the-world-a-better-place-20260304/)
+    - [The Water Polo Scandal That Rocked LA’s Most Elite Private School](https://www.vanityfair.com/news/story/water-polo-scandal-harvard-westlake)
+    - []()
+    - []()
 - Data Camp [DS]
-  - XP: 1250  (Practice) --> 2450 [Peta - Last week: 12,025 XP (promoted to Peta League)]
-        - Goal for the week: 2500 to stay in Peta League
+  - XP:   (Practice) -->  [Peta - Last week: 12,025 XP (promoted to Peta League)]
   - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
@@ -51,11 +49,11 @@
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - Practice:
-    - Introduction to Data Science in Python
-    - Intermediate R
-    - Understanding ChatGPT
-    - Working with Dates and Times in Python
-    - Reshaping Data in Python
+    - Working with Categorical Data in Python
+    - Joining Data with pandas
+    - Software Engineering Principles in Python
+    - Introduction to NumPy
+    - Supervised Learning with scikit-learn
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -63,6 +61,7 @@
       - Data Types in Python
   - Course: Foundations of Probability in Python
     - Completed chapter 2/4
+    - Working on chapter 3/4
   - Course: Analyzing Police Activity with pandas
     - Completed chapter 1/4
       - repeat in a notebook
@@ -73,8 +72,8 @@
     - Working on 2/4
   - Review R
 - FIGMA Marathon
-  - Next up Challenge 5/26 - Local Styles
-    - Completed Challenge
+  - Next up Challenge 6/26 - Auto Layout
+    - Working...
 - Coursera DEVELOPING FRONT-END APPS WITH REACT
   - Review of course from start to finish
     - In Module 3
@@ -176,12 +175,13 @@
   - Redux in Action
     - Completed Reading Chapter 1/12 - Introducing Redux
     - Working on Reading Chapter 2/12 Your First Redux application
-      - current page: 16
+      - current page: 23
       - last page: 46
  - Non-Tech Reading
     - Civilization
         - Reading Introduction: Rasselas's Question
     - The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
-      - Reading Part III - Dread
-         - Working on chapter 67 - Christmas
+       - Reading Part IV - The Americans
+        - Working on chapter 71 - The Eleven-thirty Special
+          - Meeting Harry Hopkins
 - GRADE: NA
