@@ -1,4 +1,4 @@
-### Day 526: March 7, 2026 (Saturday)
+### Day 527: March 8, 2026 (Sunday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
@@ -24,20 +24,27 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
-  - Best books to learn more about LLMs
-    - Need more work on Bayes' Rule
+  - Recommended Modern Redux Books
+    - Modern Redux: Learn Redux Toolkit and the New Redux Best Practices
+      - Author: Ohans Emmanuel
+      - Why it’s great:
+        - Written specifically for Redux Toolkit
+        - Covers slices, thunks, store setup, and modern patterns
+        - Updated regularly
+        - Includes a free sample
+        - Clear, practical examples
+      - This is the most widely recommended modern Redux book.
   - NYT
-    - [Weak Jobs Data Underscores Fed’s Dilemma as War Stokes Inflation Risk](https://www.nytimes.com/2026/03/06/business/economy/federal-reserve-jobs-inflation.html)
-    - [Top Aide to Labor Secretary Is Placed on Leave](https://www.nytimes.com/2026/03/04/business/economy/labor-secretary-lori-chavez-deremer-staff.html)
-    - [Trump Justice Dept. Seeks to Stall State Bar Discipline of Its Lawyers](https://www.nytimes.com/2026/03/04/us/politics/justice-department-state-bar-associations-lawyers.html)
-    - [America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)
+    - [In War’s First Week, a Punishing Military Campaign With No Coherent Endgame](https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html)
+    - [Kristi Noem Survived Many Crises. Then She Crossed a Trump Red Line.](https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html)
+    - [Michael Pollan Wants to Know Where Consciousness Comes From](https://www.nytimes.com/2026/02/27/books/review/a-world-appears-michael-pollan.html)
   - WAPO
-    - [Cancellation of Army exercise fuels speculation about Mideast troop deployments](https://www.washingtonpost.com/national-security/2026/03/06/army-82nd-airborne-iran/)
-    - [Lily Allen’s new revenge dress is peak pettiness. We’re here for it.](https://www.washingtonpost.com/style/fashion/2026/03/06/lily-allen-receipts-dress/)
-    - [Carolyn Hax chat: How do I get over years of betrayal from my ex-husband?](https://www.washingtonpost.com/advice/2026/03/06/live-chat-carolyn-hax/)
+    - [A French grandmother took an American road trip — and was struck by what she saw](https://www.washingtonpost.com/lifestyle/interactive/2026/american-roadtrip-french-grandmother-arnaud-montagard/?itid=hp-top-table-main_p001_f009)
+    - [Trump administration asks court to restore punishments for law firms](https://www.washingtonpost.com/politics/2026/03/06/trump-law-firms-executive-orders/)
+    - [Medical Mysteries: After a Grand Canyon adventure, his body began to fail](https://www.washingtonpost.com/health/2026/03/07/medical-mysteries-stiff-joints/)
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - [The Water Polo Scandal That Rocked LA’s Most Elite Private School](https://www.vanityfair.com/news/story/water-polo-scandal-harvard-westlake)
+    - []()
     - []()
     - []()
 - Data Camp [DS]
@@ -49,11 +56,8 @@
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - Practice:
-    - Working with Categorical Data in Python
-    - Joining Data with pandas
-    - Software Engineering Principles in Python
-    - Introduction to NumPy
-    - Supervised Learning with scikit-learn
+    - Introduction to the Tidyverse
+    - Introduction to Importing Data in R
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -173,10 +177,9 @@
       - Current Page: 7
       - Last Page: 20
   - Redux in Action
-    - Completed Reading Chapter 1/12 - Introducing Redux
-    - Working on Reading Chapter 2/12 Your First Redux application
-      - current page: 23
-      - last page: 46
+    - CANCELED reading
+      - This book is too dated to be useful. I need a more modern book or video 
+        course that covers the 
  - Non-Tech Reading
     - Civilization
         - Reading Introduction: Rasselas's Question
