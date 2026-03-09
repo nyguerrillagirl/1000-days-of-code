@@ -1,4 +1,4 @@
-### Day 527: March 8, 2026 (Sunday)
+### Day 528: March 9, 2026 (Monday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
@@ -24,6 +24,12 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
+  - TOP ENGINEERING BOOKS
+    - Debugging, Agans
+    - The Art of Electronics, Horowitz and Hill
+    - Metalworking, Lipton (has youtube channel)
+    - Machinery's Handbook (large print)
+    - Building Scientific Apparatus
   - Recommended Modern Redux Books
     - Modern Redux: Learn Redux Toolkit and the New Redux Best Practices
       - Author: Ohans Emmanuel
@@ -35,17 +41,17 @@
         - Clear, practical examples
       - This is the most widely recommended modern Redux book.
   - NYT
-    - [In War’s First Week, a Punishing Military Campaign With No Coherent Endgame](https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html)
-    - [Kristi Noem Survived Many Crises. Then She Crossed a Trump Red Line.](https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html)
-    - [Michael Pollan Wants to Know Where Consciousness Comes From](https://www.nytimes.com/2026/02/27/books/review/a-world-appears-michael-pollan.html)
+    - [The Future We Feared Is Already Here](https://www.nytimes.com/2026/03/08/opinion/ai-anthropic-claude-pentagon-hegseth-amodei.html)
+    - [Trump Wants to ‘Take Over’ Elections. These States are Prime Targets.](https://www.nytimes.com/2026/03/08/us/politics/trump-elections-fulton-county-ballots.html)
+    - [Let Us Help You Find Your Next Book Historical Fiction](https://www.nytimes.com/interactive/2026/books/historical-fiction-books.html)
   - WAPO
-    - [A French grandmother took an American road trip — and was struck by what she saw](https://www.washingtonpost.com/lifestyle/interactive/2026/american-roadtrip-french-grandmother-arnaud-montagard/?itid=hp-top-table-main_p001_f009)
-    - [Trump administration asks court to restore punishments for law firms](https://www.washingtonpost.com/politics/2026/03/06/trump-law-firms-executive-orders/)
-    - [Medical Mysteries: After a Grand Canyon adventure, his body began to fail](https://www.washingtonpost.com/health/2026/03/07/medical-mysteries-stiff-joints/)
+    - [War with Iran spreading economic damage far beyond oil and gas markets](https://www.washingtonpost.com/business/2026/03/08/iran-war-economy-air-freight/)
+    - [A murdered professor, a fugitive yoga instructor and a judge’s punishment](https://www.washingtonpost.com/dc-md-va/2026/03/08/jorge-landeros-sentencing-murder-sue-marcum/)
+    - [Difficult people in your life might make you age faster, study suggests](https://www.washingtonpost.com/wellness/2026/03/08/difficult-people-longevity-study/)
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - []()
-    - []()
+    - [Timothée Chalamet Faces Criticism For Comments About Ballet, Opera](https://www.vanityfair.com/style/story/timothee-chalamet-breakfast-wonka)
+    - [She Got Fired for Reposting Charlie Kirk Criticism. Months Later, She’s Still Suffering](https://www.vanityfair.com/news/story/charlie-kirk-criticism-firings-university-of-mississippi)
     - []()
 - Data Camp [DS]
   - XP:   (Practice) -->  [Peta - Last week: 12,025 XP (promoted to Peta League)]
@@ -58,11 +64,16 @@
   - Practice:
     - Introduction to the Tidyverse
     - Introduction to Importing Data in R
+    - Introduction to Python
+    - Introduction to Data Visualization with Seaborn
+    - Reshaping Data with pandas
+    - Writing Efficient Python Code
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
       - Python Toolbox
       - Data Types in Python
+      - Introduction to Python
   - Course: Foundations of Probability in Python
     - Completed chapter 2/4
     - Working on chapter 3/4
@@ -137,6 +148,9 @@
   - Working on Part IV - Learning NumPy, pandas and matplotlib
     - working on NumPy
 - PROJECT: React
+  - Working on O'Reilly Course - The Redux Official Course Tutorial
+    - Completed Chapter 1/10 - Redux Essentials and Overview
+    - Working on Chapter 2/10 - Classic Redux 101 - Build an App from Scratch
   - See Books below
   - Worked on editing ReactNotes
     - jQuery, LoDash
