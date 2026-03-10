@@ -1,4 +1,4 @@
-### Day 528: March 9, 2026 (Monday)
+### Day 529: March 10, 2026 (Tuesday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
@@ -24,34 +24,18 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
-  - TOP ENGINEERING BOOKS
-    - Debugging, Agans
-    - The Art of Electronics, Horowitz and Hill
-    - Metalworking, Lipton (has youtube channel)
-    - Machinery's Handbook (large print)
-    - Building Scientific Apparatus
-  - Recommended Modern Redux Books
-    - Modern Redux: Learn Redux Toolkit and the New Redux Best Practices
-      - Author: Ohans Emmanuel
-      - Why it’s great:
-        - Written specifically for Redux Toolkit
-        - Covers slices, thunks, store setup, and modern patterns
-        - Updated regularly
-        - Includes a free sample
-        - Clear, practical examples
-      - This is the most widely recommended modern Redux book.
   - NYT
-    - [The Future We Feared Is Already Here](https://www.nytimes.com/2026/03/08/opinion/ai-anthropic-claude-pentagon-hegseth-amodei.html)
-    - [Trump Wants to ‘Take Over’ Elections. These States are Prime Targets.](https://www.nytimes.com/2026/03/08/us/politics/trump-elections-fulton-county-ballots.html)
-    - [Let Us Help You Find Your Next Book Historical Fiction](https://www.nytimes.com/interactive/2026/books/historical-fiction-books.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [War with Iran spreading economic damage far beyond oil and gas markets](https://www.washingtonpost.com/business/2026/03/08/iran-war-economy-air-freight/)
-    - [A murdered professor, a fugitive yoga instructor and a judge’s punishment](https://www.washingtonpost.com/dc-md-va/2026/03/08/jorge-landeros-sentencing-murder-sue-marcum/)
-    - [Difficult people in your life might make you age faster, study suggests](https://www.washingtonpost.com/wellness/2026/03/08/difficult-people-longevity-study/)
+    - []()
+    - []()
+    - []()
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - [Timothée Chalamet Faces Criticism For Comments About Ballet, Opera](https://www.vanityfair.com/style/story/timothee-chalamet-breakfast-wonka)
-    - [She Got Fired for Reposting Charlie Kirk Criticism. Months Later, She’s Still Suffering](https://www.vanityfair.com/news/story/charlie-kirk-criticism-firings-university-of-mississippi)
+    - []()
+    - []()
     - []()
 - Data Camp [DS]
   - XP:   (Practice) -->  [Peta - Last week: 12,025 XP (promoted to Peta League)]
@@ -62,12 +46,14 @@
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - Practice:
-    - Introduction to the Tidyverse
-    - Introduction to Importing Data in R
-    - Introduction to Python
-    - Introduction to Data Visualization with Seaborn
+    - Writing Functions in Python
+      - @contextlib.contextmanager
+    - Introduction to Statistics in Python
+    - Large Language Models(LLMs) Concepts
+    - Object-Oriented Programming in Python
+      - np.genfromtxt(self.file, delimiter=",")
     - Reshaping Data with pandas
-    - Writing Efficient Python Code
+    - Introduction to NumPy
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -78,8 +64,6 @@
     - Completed chapter 2/4
     - Working on chapter 3/4
   - Course: Analyzing Police Activity with pandas
-    - Completed chapter 1/4
-      - repeat in a notebook
     - Working on chapter 2/4
   - Course: Statistical Thinking in Python (Part 2)
     - review chapter 1 of Part 1
@@ -88,7 +72,8 @@
   - Review R
 - FIGMA Marathon
   - Next up Challenge 6/26 - Auto Layout
-    - Working...
+    - Trick - AutoLayout can only be applied to a Frame or a Group
+    - How do you selct AutoLayout? 
 - Coursera DEVELOPING FRONT-END APPS WITH REACT
   - Review of course from start to finish
     - In Module 3
@@ -99,27 +84,33 @@
         that discusses how useReducer and Redux works.
   - Working on Module 4/4
 - Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
-  - The main assignment in this course is all about using Figma
-  - I think I need to read a book or two about UX/UI design in order to solidify
-    the material in this course...Also, I will be stuck again in the course if
-    I don't move faster in the Figma Marathon course!
   - Working on Module 4 for  Course 7/9 - Prinicples of UX/UI Design
     - Designing your UI
       - Working on Prototyping, Sharing and testing your design
       - Next up: Module 5 
   - TASK LIST:
-    - Create Flowchart {MON} - COMPLETED
-    - Fix Reservation Screen (make it prettier) {WED}
+    - Create Flowchart - COMPLETED
+    - Fix Reservation Screen (make it prettier) 
       - selected a video [Form Design in Figma with Interactive Components](https://www.youtube.com/watch?v=ZWwE0GWEXDc)
     - Work on prototype
-      - Complete prototype flowchart {THURS}
-      - Work on Reservation Page High-Fidelity #1 {THURS}
-      - Work on Reservation Page High-Fidelity #2 {FRI}
-      - Implement prototype Home Page into Page #1 {SAT}
-      - Implement prototype Page #2 {SUN}
-      - Add Spinner for entering completion {MON}
-      - Return back to home page {MON}
-      - Goal is to submit on 11/25
+      - Prototype - COMPLETED
+      - JourneyMap - Completed
+      - Wireframe - HomePage
+        - Check that it uses Style Guide
+      - Wireframe - ReserveTable-Step1
+        - Check that is uses Style Guide
+       - Wireframe - ReserveTable-Step2
+        - Check that is uses Style Guide
+      - HighFidelityWireframe-ConfirmationDialog
+        - Check that is uses Style Guide       
+      - HighFidelityWireframe-Step 1
+        - Check that is uses Style Guide
+        - Prototype  
+      - HighFidelityWireframe-Step 2
+        - Check that is uses Style Guide
+        - Prototype       
+      - Return back to home page 
+      - Goal is to submit on 3/28
 - Project: REAL PYTHON
   - [Automate Python Data Analysis With YData Profiling](https://realpython.com/ydata-profiling-eda/)
     - it took some time to set things up I entered some notes 
@@ -190,10 +181,6 @@
     - Reading Chapter 2/12 - Getting Started with PyQt
       - Current Page: 7
       - Last Page: 20
-  - Redux in Action
-    - CANCELED reading
-      - This book is too dated to be useful. I need a more modern book or video 
-        course that covers the 
  - Non-Tech Reading
     - Civilization
         - Reading Introduction: Rasselas's Question
