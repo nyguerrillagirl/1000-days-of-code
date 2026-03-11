@@ -1,4 +1,4 @@
-### Day 529: March 10, 2026 (Tuesday)
+### Day 530: March 11, 2026 (Wednesday)
 - ORDER
   - COURSERA
     - Developing Frontend Apps with React
@@ -25,16 +25,16 @@
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
   - NYT
-    - []()
-    - []()
-    - []()
+    - [‘Nothing Will Remain of Tehran,’ Iranians Say Amid Heavy Bombing](https://www.nytimes.com/2026/03/10/world/middleeast/iran-bombing-tehran.html)
+    - [How Americans Are Feeling the Economic Effects of the War With Iran](https://www.nytimes.com/2026/03/09/business/iran-oil-prices-economic-impact.html)
+    - [Businesses Ask the TACO Question About Iran](https://www.nytimes.com/2026/03/10/business/dealbook/trump-iran-taco.html)
   - WAPO
-    - []()
-    - []()
+    - [White House tells House GOP to avoid mass deportation talk ahead of midterms](https://www.washingtonpost.com/politics/2026/03/10/trump-gop-deportations-midterms/)
+    - [Why Congress keeps handing Trump its power](https://www.washingtonpost.com/politics/2026/03/10/congress-trump-power-rules-war-spending/)
     - []()
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - []()
+    - [Unapologetic Facts About Jane Austen, The Literary Revolutionary](https://www.factinate.com/people/jane-austen-facts?headerimage=1)
     - []()
     - []()
 - Data Camp [DS]
@@ -46,14 +46,11 @@
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - Practice:
-    - Writing Functions in Python
-      - @contextlib.contextmanager
-    - Introduction to Statistics in Python
-    - Large Language Models(LLMs) Concepts
-    - Object-Oriented Programming in Python
-      - np.genfromtxt(self.file, delimiter=",")
+    - Sampling in Python
+    - Understanding Machine Learning
     - Reshaping Data with pandas
-    - Introduction to NumPy
+    - Software Engineering Principles in Python
+    - Cleaning Data in Python
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -64,7 +61,8 @@
     - Completed chapter 2/4
     - Working on chapter 3/4
   - Course: Analyzing Police Activity with pandas
-    - Working on chapter 2/4
+    - Completed chapter 2/4
+    - Working on chapter 3/4
   - Course: Statistical Thinking in Python (Part 2)
     - review chapter 1 of Part 1
   - Course: Large Language Models (LLMs) Concepts 
@@ -175,9 +173,6 @@
     - Completed chapter 1/9 Introduction to Arduino
     - Reading chapter 2/9 Your Arduino
   - Beginning PyQt
-    - Completed Reading Chapter 1/12 - Charting the Course
-      - Current Page: 1
-      - Last Page: 6
     - Reading Chapter 2/12 - Getting Started with PyQt
       - Current Page: 7
       - Last Page: 20

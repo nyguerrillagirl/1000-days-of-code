@@ -5,21 +5,24 @@ import { useState} from 'react';
 export default function Home() {
   const [movieTitle, setMovieTitle] = useState('');
   const dispatch = useDispatch();
-  const movies = useSelector((state) => state.movies);
-  const basket = useSelector((state) => state.basket);
-  const likedMovies = useSelector((state) => state.likedMovies);
+  const movies = useSelector(
+    (state: {movies: {title:string; liked: boolean; inBasket: boolean;}[];}) => state.movies);
+  const basket = useSelector((state: {basket: {title:string; liked: boolean; inBasket: boolean;}[];}) => state.basket);
+  const likedMovies = useSelector((state: {likedMovies: string[];}) => state.likedMovies);
 
   function handleAddMovie() {
-    dispatch({ type: 'ADD_MOVIE', payload: movieTitle });
+    if (!movieTitle.trim()) return; // Prevent adding empty titles
+    const newMovie = { title: movieTitle, liked: false, inBasket: false };
+    dispatch({ type: 'ADD_MOVIE', payload: newMovie });
     setMovieTitle('');
   }
 
   function handleAddToBasket(movie) {
-    dispatch({ type: 'ADD_TO_BASKET', payload: movie });
+    dispatch({ type: 'ADD_TO_BASKET', payload: movie.title });
   }
 
   function handleAddToLikedMovies(movie) {
-    dispatch({ type: 'LIKE_MOVIE', payload: movie });
+    dispatch({ type: 'LIKE_MOVIE', payload: movie.title });
   }
 
   return (
@@ -41,7 +44,7 @@ export default function Home() {
         <h2>Movies:</h2>
         <ul>
           {movies.map((movie, index) => (
-            <li key={index}>{movie}
+            <li key={index}>{movie.title}
               <button onClick={() => handleAddToBasket(movie)}>Add to Basket</button>
               <button onClick={() => handleAddToLikedMovies(movie)}>Like</button>
             </li>
