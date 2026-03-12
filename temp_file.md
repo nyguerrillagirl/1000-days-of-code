@@ -1,5 +1,8 @@
-### Day 530: March 11, 2026 (Wednesday)
+### Day 531: March 12, 2026 (Thursday)
 - ORDER
+  - DATACAMP
+    - ^[0-9].*XP$
+    - GOAL: Get over 2000 XP daily
   - COURSERA
     - Developing Frontend Apps with React
     - Meta Frontend - Principles of UX/UI Design
@@ -13,9 +16,6 @@
     - []()
   - REACT READING
     - 10 pages a day
-  - DATACAMP
-    - ^[0-9].*XP$
-    - GOAL: Get over 2000 XP daily
    - REALPYTHON course
   - READ/PROCESS AN ARTICLE (1/2 articles a day)
   - Engineering Book Club Preparation
@@ -24,21 +24,25 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
+  - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
+    - Investigate after completing OReilly course
+  - I reorganized the task order because it is important I do Datacamp first
+    when my mind is fresh and strong, otherwise I can't do much beyond practice
   - NYT
-    - [‘Nothing Will Remain of Tehran,’ Iranians Say Amid Heavy Bombing](https://www.nytimes.com/2026/03/10/world/middleeast/iran-bombing-tehran.html)
-    - [How Americans Are Feeling the Economic Effects of the War With Iran](https://www.nytimes.com/2026/03/09/business/iran-oil-prices-economic-impact.html)
-    - [Businesses Ask the TACO Question About Iran](https://www.nytimes.com/2026/03/10/business/dealbook/trump-iran-taco.html)
+    - [U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says](https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html)
+    - [Iran Attacks at Least One Ship in the Strait of Hormuz, a Key Oil Passage](https://www.nytimes.com/2026/03/11/world/middleeast/ships-attack-strait-hormuz-iran.html)
+    - [ICE Lawyer Who Told Judge She Was Overwhelmed Seeks New Role: Lawmaker](https://www.nytimes.com/2026/03/11/us/ice-lawyer-congress-julie-t-le.html)
   - WAPO
-    - [White House tells House GOP to avoid mass deportation talk ahead of midterms](https://www.washingtonpost.com/politics/2026/03/10/trump-gop-deportations-midterms/)
-    - [Why Congress keeps handing Trump its power](https://www.washingtonpost.com/politics/2026/03/10/congress-trump-power-rules-war-spending/)
-    - []()
+    - [Pentagon bars press photographers over ‘unflattering’ Hegseth photos](https://www.washingtonpost.com/business/2026/03/11/hegseth-press-briefings-photos-iran/)
+    - [RFK Jr.’s advisers had a plan to target covid shots. Then it fell apart.](https://www.washingtonpost.com/health/2026/03/11/covid-vaccine-recommendation-panel/)
+    - [FBI boosts reward to $1 million for suspect in brutal doughnut shop murder](https://www.washingtonpost.com/dc-md-va/2026/03/11/fbi-most-wanted-million-dollar-reward/)
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - [Unapologetic Facts About Jane Austen, The Literary Revolutionary](https://www.factinate.com/people/jane-austen-facts?headerimage=1)
+    - []()
     - []()
     - []()
 - Data Camp [DS]
-  - XP:   (Practice) -->  [Peta - Last week: 12,025 XP (promoted to Peta League)]
+  - XP:   (Practice) --> 2050 [Peta - Last week: 12,025 XP (in Peta League)]
   - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
@@ -46,11 +50,10 @@
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - Practice:
-    - Sampling in Python
-    - Understanding Machine Learning
-    - Reshaping Data with pandas
-    - Software Engineering Principles in Python
-    - Cleaning Data in Python
+    - Intermediate Importing Data in R
+    - Parameter estimation by optimization (statistical thinking in Python 2)
+    - Working with Dates and Times in Python
+    - Introduction to Testing in Python
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -74,12 +77,7 @@
     - How do you selct AutoLayout? 
 - Coursera DEVELOPING FRONT-END APPS WITH REACT
   - Review of course from start to finish
-    - In Module 3
-      - Next Section: Application State Management with Redux
-        - Need to supplement this material for better understanding
-        - Thunk and Saga for async operations
-      - Decided to only do 15 minutes and re-visit my React application and notes
-        that discusses how useReducer and Redux works.
+    - Reviewing Redux - see React section
   - Working on Module 4/4
 - Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
   - Working on Module 4 for  Course 7/9 - Prinicples of UX/UI Design
@@ -138,8 +136,7 @@
     - working on NumPy
 - PROJECT: React
   - Working on O'Reilly Course - The Redux Official Course Tutorial
-    - Completed Chapter 1/10 - Redux Essentials and Overview
-    - Working on Chapter 2/10 - Classic Redux 101 - Build an App from Scratch
+    - Working on chapter 4/10 - Migrating Classic Redux to Modern Redux
   - See Books below
   - Worked on editing ReactNotes
     - jQuery, LoDash
@@ -180,7 +177,6 @@
     - Civilization
         - Reading Introduction: Rasselas's Question
     - The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
-       - Reading Part IV - The Americans
-        - Working on chapter 71 - The Eleven-thirty Special
-          - Meeting Harry Hopkins
+        - Reading Part Six: Love Amid The Flames
+            - Working on chapter 83 - Grave News   
 - GRADE: NA
