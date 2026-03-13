@@ -1,4 +1,4 @@
-### Day 531: March 12, 2026 (Thursday)
+### Day 532: March 13, 2026 (Friday)
 - ORDER
   - DATACAMP
     - ^[0-9].*XP$
@@ -42,7 +42,7 @@
     - []()
     - []()
 - Data Camp [DS]
-  - XP:   (Practice) --> 2050 [Peta - Last week: 12,025 XP (in Peta League)]
+  - XP:  1500 (Practice) --> 2050 [Peta - Last week: 12,025 XP (in Peta League)]
   - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
@@ -50,10 +50,12 @@
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - Practice:
-    - Intermediate Importing Data in R
-    - Parameter estimation by optimization (statistical thinking in Python 2)
-    - Working with Dates and Times in Python
-    - Introduction to Testing in Python
+    - Understanding ChatGPT
+    - Intermediate R
+    - Introduction to Data Science in Python
+    - Reshaping Data with pandas
+    - Cleaning Data in Python
+    - Writing Efficient Python Code
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -176,7 +178,4 @@
  - Non-Tech Reading
     - Civilization
         - Reading Introduction: Rasselas's Question
-    - The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
-        - Reading Part Six: Love Amid The Flames
-            - Working on chapter 83 - Grave News   
 - GRADE: NA
