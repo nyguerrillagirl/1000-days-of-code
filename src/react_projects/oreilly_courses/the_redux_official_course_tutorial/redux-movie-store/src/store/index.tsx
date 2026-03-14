@@ -1,5 +1,5 @@
 import styles from '@/styles/Home.module.css'
-import { createStore } from 'redux'; 
+import { configureStore, createSlice } from '@reduxjs/toolkit';
 
 type Movie = {
   title : string;
@@ -62,6 +62,6 @@ function reducer(state: State = initialState, action: Action): State {
   }
 }
 
-const store = createStore(reducer);
+const store = configureStore({ reducer });
 
 export default store;

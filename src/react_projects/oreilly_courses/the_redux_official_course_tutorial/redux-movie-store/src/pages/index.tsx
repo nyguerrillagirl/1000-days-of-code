@@ -9,7 +9,8 @@ export default function Home() {
   const dispatch = useDispatch();
   const movies = useSelector(
     (state: {movies: {title:string; liked: boolean; inBasket: boolean;}[];}) => state.movies);
-  const basket = useSelector((state: {basket: {title:string; liked: boolean; inBasket: boolean;}[];}) => state.basket);
+  //const basket = useSelector((state: {basket: {title:string; liked: boolean; inBasket: boolean;}[];}) => state.basket);
+  const basket = useSelector((state: {basket: string[];}) => state.basket);
   const likedMovies = useSelector((state: {likedMovies: string[];}) => state.likedMovies);
 
   function handleAddMovie() {

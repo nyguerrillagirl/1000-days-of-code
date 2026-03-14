@@ -1,4 +1,4 @@
-### Day 532: March 13, 2026 (Friday)
+### Day 533: March 14, 2026 (Saturday)
 - ORDER
   - DATACAMP
     - ^[0-9].*XP$
@@ -24,25 +24,44 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
+  - Enemy Territory: Quake Wars (ET:QW)
+    - https://en.wikipedia.org/wiki/Enemy_Territory:_Quake_Wars 
+      - Quake Wars in a class-based, objective focused, team-oriented game. 
+    - Source code not available
+    - It uses:  uses the id Tech 4 engine with MegaTexture technology
+    - [ET Legacy](https://www.etlegacy.com/)
+      - Welcome to ET: Legacy, an open source project that aims to create a 
+        fully compatible client and server for the popular online FPS game 
+        Wolfenstein: Enemy Territory - whose gameplay is still considered 
+        unmatched by many, despite its great age.
+      - [Official website](https://www.etlegacy.com/)
+      - [Repository](https://github.com/etlegacy/etlegacy)
+      - [Wiki](https://github.com/etlegacy/etlegacy/wiki)
+      - [FAQ](https://github.com/etlegacy/etlegacy/wiki/FAQ)
+      - [Discord](https://discord.gg/UBAZFys)
+  - Created new shortcut key for converting text to CONSOLAS
+    - CTRL+SHIFT+C
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - I reorganized the task order because it is important I do Datacamp first
     when my mind is fresh and strong, otherwise I can't do much beyond practice
   - NYT
-    - [U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says](https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html)
-    - [Iran Attacks at Least One Ship in the Strait of Hormuz, a Key Oil Passage](https://www.nytimes.com/2026/03/11/world/middleeast/ships-attack-strait-hormuz-iran.html)
-    - [ICE Lawyer Who Told Judge She Was Overwhelmed Seeks New Role: Lawmaker](https://www.nytimes.com/2026/03/11/us/ice-lawyer-congress-julie-t-le.html)
+    - [I Went to Florida to See the 31-Year-Old Candidate Thrilling Gen Z. We’re in Trouble.](https://www.nytimes.com/2026/03/12/opinion/james-fishback-gen-z-republican-florida.html?searchResultPosition=1)
+    - [Judge Quashes Justice Dept.’s Subpoenas of Fed, Crippling Its Pursuit of Trump’s Rivals](https://www.nytimes.com/2026/03/13/us/politics/jerome-powell-trump-subpoenas.html)
+    - [China’s Long-Promised Consumer Boom Is a Mirage](https://www.nytimes.com/2026/03/13/opinion/china-exports-consumer-spending.html)
   - WAPO
-    - [Pentagon bars press photographers over ‘unflattering’ Hegseth photos](https://www.washingtonpost.com/business/2026/03/11/hegseth-press-briefings-photos-iran/)
-    - [RFK Jr.’s advisers had a plan to target covid shots. Then it fell apart.](https://www.washingtonpost.com/health/2026/03/11/covid-vaccine-recommendation-panel/)
-    - [FBI boosts reward to $1 million for suspect in brutal doughnut shop murder](https://www.washingtonpost.com/dc-md-va/2026/03/11/fbi-most-wanted-million-dollar-reward/)
+    - []()
+    - []()
+    - []()
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - []()
-    - []()
-    - []()
+    - [Can You Still Play Wolfenstein: Enemy Territory?](https://www.youtube.com/watch?v=N7QSEAtHPEA)
+    - [Scott Galloway Predicts a $10 Trillion Market Wipeout | Pivot](https://www.youtube.com/watch?v=P6Ei-70UOEw)
+    - [The Evolution of id's First-Person Game Engines](https://www.youtube.com/watch?v=6F1pK6DPfP4)
+    - [Reset Button: Megatextures](https://www.youtube.com/watch?v=BiQCz2NjPR8)
+      - Virtual texture..
 - Data Camp [DS]
-  - XP:  1500 (Practice) --> 2050 [Peta - Last week: 12,025 XP (in Peta League)]
+  - XP: 1250  (Practice) -->  [Peta - Last week: 12,025 XP (in Peta League)]
   - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
@@ -50,12 +69,20 @@
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - Practice:
-    - Understanding ChatGPT
-    - Intermediate R
+    - Introduction to Data Visualization with Matplotlib
+      - plt.style.use("default")
+      - sharey=True
+      - linestyle='--'
+      - ax2 = ax.twinx(); ax2 (plots sharing the same y-axis)
+    - Understanding Data Engineering
+      - storing images: AWS S3
     - Introduction to Data Science in Python
+      - marker='s' (to get square points)
+      - plt.barh() for horizontal bar
+      - plt.plot() defaults to a line graph
+    - Understanding ChatGPT
     - Reshaping Data with pandas
-    - Cleaning Data in Python
-    - Writing Efficient Python Code
+      - melt -> wide to long
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -66,12 +93,12 @@
     - Completed chapter 2/4
     - Working on chapter 3/4
   - Course: Analyzing Police Activity with pandas
-    - Completed chapter 2/4
-    - Working on chapter 3/4
+     - Completed chapter 3/4
+     - Working on chapter 4/4
   - Course: Statistical Thinking in Python (Part 2)
     - review chapter 1 of Part 1
   - Course: Large Language Models (LLMs) Concepts 
-    - Working on 2/4
+    - Working on 4/4
   - Review R
 - FIGMA Marathon
   - Next up Challenge 6/26 - Auto Layout
@@ -109,6 +136,13 @@
         - Prototype       
       - Return back to home page 
       - Goal is to submit on 3/28
+- Project: W:ET
+  - Installed game via Steam
+  - Started Notes
+  - I am interested in getting ET:Legacy working on my machine. I may decide to use my 
+    notebook ...in order to have a clean machine.
+  - Need to see: [Enemy Territory Quake Wars Full Installation Guide 2021](https://www.youtube.com/watch?v=0nWOt3GF3_M)
+  - Working on list of software to download at https://www.myabandonware.com/game/enemy-territory-quake-wars-ixd#download 
 - Project: REAL PYTHON
   - [Automate Python Data Analysis With YData Profiling](https://realpython.com/ydata-profiling-eda/)
     - it took some time to set things up I entered some notes 
