@@ -1,31 +1,36 @@
-import styles from '@/styles/Home.module.css';
+
 import { useSelector, useDispatch } from 'react-redux';
 import { useState} from 'react';
 import { Card, CardContent, CardActions, Button, Typography } from '@mui/material';
 import { Favorite, FavoriteBorder, AddShoppingCart, RemoveShoppingCart } from '@mui/icons-material';
+import {addMovie, addToBasket, likeMovie} from '../store';
+
+interface RootState {
+  movies: { title: string; liked: boolean; inBasket: boolean }[];
+  basket: string[];
+  likedMovies: string[];
+}
 
 export default function Home() {
   const [movieTitle, setMovieTitle] = useState('');
   const dispatch = useDispatch();
-  const movies = useSelector(
-    (state: {movies: {title:string; liked: boolean; inBasket: boolean;}[];}) => state.movies);
-  //const basket = useSelector((state: {basket: {title:string; liked: boolean; inBasket: boolean;}[];}) => state.basket);
-  const basket = useSelector((state: {basket: string[];}) => state.basket);
-  const likedMovies = useSelector((state: {likedMovies: string[];}) => state.likedMovies);
+  const movies = useSelector((state: RootState) => state.movies);
+  const basket = useSelector((state: RootState) => state.basket);
+  const likedMovies = useSelector((state: RootState) => state.likedMovies);
 
   function handleAddMovie() {
     if (!movieTitle.trim()) return; // Prevent adding empty titles
     const newMovie = { title: movieTitle, liked: false, inBasket: false };
-    dispatch({ type: 'ADD_MOVIE', payload: newMovie });
+    dispatch(addMovie(newMovie));
     setMovieTitle('');
   }
 
   function handleAddToBasket(movie:string) {
-    dispatch({ type: 'ADD_TO_BASKET', payload: movie });
+    dispatch(addToBasket(movie));
   }
 
   function handleAddToLikedMovies(movie:string) {
-    dispatch({ type: 'LIKE_MOVIE', payload: movie });
+    dispatch(likeMovie(movie));
   }
 
   return (

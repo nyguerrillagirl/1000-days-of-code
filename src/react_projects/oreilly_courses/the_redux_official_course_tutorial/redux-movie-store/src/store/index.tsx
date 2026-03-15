@@ -1,24 +1,20 @@
 import styles from '@/styles/Home.module.css'
-import { configureStore, createSlice } from '@reduxjs/toolkit';
+import { configureStore, createSlice, PayloadAction } from '@reduxjs/toolkit';
 
-type Movie = {
+interface Movie {
   title : string;
   inBasket: boolean;
   liked: boolean;
 }
 
-type State = {
+interface MovieState {
   movies: Movie[];
   basket: string[];
   likedMovies: string[];
 }
 
-type Action =
-  | { type: 'ADD_MOVIE'; payload: Movie }
-  | { type: 'ADD_TO_BASKET'; payload: string }
-  | { type: 'LIKE_MOVIE'; payload: string };
 
-const initialState = {
+const initialState: MovieState = {
   movies: [
     {title: 'Inception', inBasket: false, liked: false},
     {title: 'The Matrix', inBasket: false, liked: false},
@@ -28,40 +24,43 @@ const initialState = {
   likedMovies:[]
 };
 
-function reducer(state: State = initialState, action: Action): State {
-  switch (action.type) {
-    case 'ADD_MOVIE':
-      return {
-        ...state,
-        movies: [...state.movies, action.payload]
-      };
-    case 'ADD_TO_BASKET':
-      return {
-        ...state,
-        // flip the inBasket status of the movie in the movies array
-        movies: state.movies.map(movie => movie.title == action.payload ?
-          {...movie, inBasket: !movie.inBasket} : movie),
-        // determine if the movie is already in basket, if so remove it, otherwise add it 
-        basket: state.basket.includes(action.payload) ? 
-          state.basket.filter(movie => movie !== action.payload) : 
-          [...state.basket, action.payload]
-      };
-    case 'LIKE_MOVIE':
-      return {
-        ...state,
-        // flip the liked status of the movie in the movies array
-        movies: state.movies.map(movie => movie.title == action.payload ?
-          {...movie, liked: !movie.liked} : movie),
-        // determine if the movie is already in likedMovies, if so remove it, otherwise add it
-        likedMovies: state.likedMovies.includes(action.payload) ? 
-          state.likedMovies.filter(movie => movie !== action.payload) : 
-          [...state.likedMovies, action.payload]
-      };
-    default:
-      return state;
-  }
-}
+const movieSlice = createSlice({
+  name: 'movies',
+  initialState,
+  reducers: {
+    addMovie: (state, action: PayloadAction<Movie>) => {
+      state.movies.push(action.payload);
+    },
+    addToBasket: (state, action: PayloadAction<string>) => {
+      state.movies = state.movies.map(movie => {
+        if (movie.title === action.payload) {
+          return {...movie, inBasket: !movie.inBasket};
+        }
+        return movie;
+      });
+      if (state.basket.includes(action.payload)) {
+        state.basket = state.basket.filter(movie => movie !== action.payload);
+      } else {
+        state.basket.push(action.payload);
+      }
 
-const store = configureStore({ reducer });
+    },
+    likeMovie: (state, action: PayloadAction<string>) => {
+      state.movies = state.movies.map(movie => {
+        if (movie.title === action.payload) {
+          return {...movie, liked: !movie.liked};
+        }
+        return movie;
+      });
+      if (state.likedMovies.includes(action.payload)) {
+        state.likedMovies = state.likedMovies.filter(movie => movie !== action.payload);
+      } else {
+        state.likedMovies.push(action.payload);
+      }
+    }
+}});
 
+
+const store = configureStore({ reducer: movieSlice.reducer });
+export const { addMovie, addToBasket, likeMovie } = movieSlice.actions;
 export default store;

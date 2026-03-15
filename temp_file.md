@@ -1,4 +1,4 @@
-### Day 533: March 14, 2026 (Saturday)
+### Day 534: March 15, 2026 (Sunday)
 - ORDER
   - DATACAMP
     - ^[0-9].*XP$
@@ -24,44 +24,32 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
-  - Enemy Territory: Quake Wars (ET:QW)
-    - https://en.wikipedia.org/wiki/Enemy_Territory:_Quake_Wars 
-      - Quake Wars in a class-based, objective focused, team-oriented game. 
-    - Source code not available
-    - It uses:  uses the id Tech 4 engine with MegaTexture technology
-    - [ET Legacy](https://www.etlegacy.com/)
-      - Welcome to ET: Legacy, an open source project that aims to create a 
-        fully compatible client and server for the popular online FPS game 
-        Wolfenstein: Enemy Territory - whose gameplay is still considered 
-        unmatched by many, despite its great age.
-      - [Official website](https://www.etlegacy.com/)
-      - [Repository](https://github.com/etlegacy/etlegacy)
-      - [Wiki](https://github.com/etlegacy/etlegacy/wiki)
-      - [FAQ](https://github.com/etlegacy/etlegacy/wiki/FAQ)
-      - [Discord](https://discord.gg/UBAZFys)
-  - Created new shortcut key for converting text to CONSOLAS
+   - Created new shortcut key for converting text to CONSOLAS
     - CTRL+SHIFT+C
+    - Perfected shortcut to actually get into normal.dot template
+      - now it appears in new document
+    - I know how to get it into older documents
+      - HOME TAB => DIAGONAL ARROW in Styles => Click on Manage Styles Icon =>
+        Import/Export => Copy/Move Code-Consolas to current document!
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - I reorganized the task order because it is important I do Datacamp first
     when my mind is fresh and strong, otherwise I can't do much beyond practice
   - NYT
-    - [I Went to Florida to See the 31-Year-Old Candidate Thrilling Gen Z. We’re in Trouble.](https://www.nytimes.com/2026/03/12/opinion/james-fishback-gen-z-republican-florida.html?searchResultPosition=1)
-    - [Judge Quashes Justice Dept.’s Subpoenas of Fed, Crippling Its Pursuit of Trump’s Rivals](https://www.nytimes.com/2026/03/13/us/politics/jerome-powell-trump-subpoenas.html)
-    - [China’s Long-Promised Consumer Boom Is a Mirage](https://www.nytimes.com/2026/03/13/opinion/china-exports-consumer-spending.html)
+    - [Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem](https://www.nytimes.com/2026/03/14/business/energy-environment/iran-strait-hormuz-oil-middle-east.html)
+    - [Trump and Rubio’s Vision of War: The Art of Destroy and Deal](https://www.nytimes.com/2026/03/14/us/politics/rubio-trump-iran-war.html)
+    - [Does This Movie Make You Anxious?](https://www.nytimes.com/2026/03/13/opinion/anxiety-movies.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [They came to build China’s EV future. Investigators found conditions akin to ‘slavery.’](https://www.washingtonpost.com/world/2026/03/01/byd-slavery-allegations-brazil/)
+    - [Sinema acknowledges affair with Senate bodyguard while in office](https://www.washingtonpost.com/politics/2026/03/13/kyrsten-sinema-acknowledges-affair/)
+    - [Push for GOP voting law has many switching sides on filibuster issue](https://www.washingtonpost.com/politics/2026/03/14/senate-filibusters-election-legislation/)
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - [Can You Still Play Wolfenstein: Enemy Territory?](https://www.youtube.com/watch?v=N7QSEAtHPEA)
-    - [Scott Galloway Predicts a $10 Trillion Market Wipeout | Pivot](https://www.youtube.com/watch?v=P6Ei-70UOEw)
-    - [The Evolution of id's First-Person Game Engines](https://www.youtube.com/watch?v=6F1pK6DPfP4)
-    - [Reset Button: Megatextures](https://www.youtube.com/watch?v=BiQCz2NjPR8)
-      - Virtual texture..
+    - [Arcade Game: Robotron 2084 (1982 Williams)](https://www.youtube.com/watch?v=l800GL6NQPY)
+    - []()
+    - []()
 - Data Camp [DS]
-  - XP: 1250  (Practice) -->  [Peta - Last week: 12,025 XP (in Peta League)]
+  - XP: 1000  (Practice) -->  [Peta - Last week: 12,025 XP (in Peta League)]
   - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
@@ -71,18 +59,16 @@
   - Practice:
     - Introduction to Data Visualization with Matplotlib
       - plt.style.use("default")
+      - plt.style.use("ggplot")
       - sharey=True
       - linestyle='--'
-      - ax2 = ax.twinx(); ax2 (plots sharing the same y-axis)
-    - Understanding Data Engineering
-      - storing images: AWS S3
-    - Introduction to Data Science in Python
-      - marker='s' (to get square points)
-      - plt.barh() for horizontal bar
-      - plt.plot() defaults to a line graph
-    - Understanding ChatGPT
-    - Reshaping Data with pandas
-      - melt -> wide to long
+      - ax2 = ax.twinx(); ax2 (plots sharing the same x-axis)
+      - ax.tick_params("y", color="red")
+        - to get the y side to be red
+    - Object-Oriented Programming in Python
+    - Exploratory Data Analysis in Python
+    - Large Language Models (LLMs) Concepts
+      - transformer architecture: tokenization, positional encoding, encoders, decoders
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -98,7 +84,8 @@
   - Course: Statistical Thinking in Python (Part 2)
     - review chapter 1 of Part 1
   - Course: Large Language Models (LLMs) Concepts 
-    - Working on 4/4
+    - Completed chapter 4/4
+    - Completed course
   - Review R
 - FIGMA Marathon
   - Next up Challenge 6/26 - Auto Layout
@@ -172,7 +159,8 @@
     - working on NumPy
 - PROJECT: React
   - Working on O'Reilly Course - The Redux Official Course Tutorial
-    - Working on chapter 4/10 - Migrating Classic Redux to Modern Redux
+    - Completed chapter 4/10 - Migrating Classic Redux to Modern Redux
+    - Working on chapter 5/10 - Higher Level – Redux Counter Template Example
   - See Books below
   - Worked on editing ReactNotes
     - jQuery, LoDash
