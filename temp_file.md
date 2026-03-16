@@ -1,4 +1,4 @@
-### Day 534: March 15, 2026 (Sunday)
+### Day 535: March 16, 2026 (Monday)
 - ORDER
   - DATACAMP
     - ^[0-9].*XP$
@@ -24,32 +24,24 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
-   - Created new shortcut key for converting text to CONSOLAS
-    - CTRL+SHIFT+C
-    - Perfected shortcut to actually get into normal.dot template
-      - now it appears in new document
-    - I know how to get it into older documents
-      - HOME TAB => DIAGONAL ARROW in Styles => Click on Manage Styles Icon =>
-        Import/Export => Copy/Move Code-Consolas to current document!
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
-  - I reorganized the task order because it is important I do Datacamp first
-    when my mind is fresh and strong, otherwise I can't do much beyond practice
   - NYT
-    - [Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem](https://www.nytimes.com/2026/03/14/business/energy-environment/iran-strait-hormuz-oil-middle-east.html)
-    - [Trump and Rubio’s Vision of War: The Art of Destroy and Deal](https://www.nytimes.com/2026/03/14/us/politics/rubio-trump-iran-war.html)
-    - [Does This Movie Make You Anxious?](https://www.nytimes.com/2026/03/13/opinion/anxiety-movies.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [They came to build China’s EV future. Investigators found conditions akin to ‘slavery.’](https://www.washingtonpost.com/world/2026/03/01/byd-slavery-allegations-brazil/)
-    - [Sinema acknowledges affair with Senate bodyguard while in office](https://www.washingtonpost.com/politics/2026/03/13/kyrsten-sinema-acknowledges-affair/)
-    - [Push for GOP voting law has many switching sides on filibuster issue](https://www.washingtonpost.com/politics/2026/03/14/senate-filibusters-election-legislation/)
+    - []()
+    - []()
+    - []()
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - [Arcade Game: Robotron 2084 (1982 Williams)](https://www.youtube.com/watch?v=l800GL6NQPY)
+    - []()
     - []()
     - []()
 - Data Camp [DS]
-  - XP: 1000  (Practice) -->  [Peta - Last week: 12,025 XP (in Peta League)]
+  - Leaderboard CLOSES at 8:00 P.M.
+  - XP: TBD  (Practice) -->  [Peta - Last week: 12,750 XP (8th in Peta League)]
   - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
@@ -57,24 +49,23 @@
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - Practice:
-    - Introduction to Data Visualization with Matplotlib
-      - plt.style.use("default")
-      - plt.style.use("ggplot")
-      - sharey=True
-      - linestyle='--'
-      - ax2 = ax.twinx(); ax2 (plots sharing the same x-axis)
-      - ax.tick_params("y", color="red")
-        - to get the y side to be red
-    - Object-Oriented Programming in Python
-    - Exploratory Data Analysis in Python
+    - Introduction to the Tidyverse
+    - Introduction to Importing Data in R
+    - Introduction to Data Visualization with Seaborn
+      - markers=True
+      - g.fig.suptitle("Whatever")
+      - sns.set_style("darkgrid")
     - Large Language Models (LLMs) Concepts
-      - transformer architecture: tokenization, positional encoding, encoders, decoders
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
       - Python Toolbox
       - Data Types in Python
       - Introduction to Python
+  - Course: Introduction to Regression with statsmodel in Python
+    - Working on chapter 1/4 - Simple Linear Regression Modeling
+  - Course:  Generative AI Concepts 
+    - Working on chapter 1/4 - Introduction to Generative AI
   - Course: Foundations of Probability in Python
     - Completed chapter 2/4
     - Working on chapter 3/4
@@ -82,11 +73,13 @@
      - Completed chapter 3/4
      - Working on chapter 4/4
   - Course: Statistical Thinking in Python (Part 2)
-    - review chapter 1 of Part 1
-  - Course: Large Language Models (LLMs) Concepts 
-    - Completed chapter 4/4
-    - Completed course
+    - Completed chapter 1/4 
+    - Working on chapter 2/4 - Bootstrap confidence intervals
+    - BIG DEAL HERE - I finally resumed this course
   - Review R
+    - Tidyverse
+      - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
+      - [R For Data Science](https://r4ds.had.co.nz/introduction.html)
 - FIGMA Marathon
   - Next up Challenge 6/26 - Auto Layout
     - Trick - AutoLayout can only be applied to a Frame or a Group
@@ -124,7 +117,6 @@
       - Return back to home page 
       - Goal is to submit on 3/28
 - Project: W:ET
-  - Installed game via Steam
   - Started Notes
   - I am interested in getting ET:Legacy working on my machine. I may decide to use my 
     notebook ...in order to have a clean machine.
@@ -179,9 +171,17 @@
     - Reading chapter 1/25 What is Arduino?
 - Books
  - Tech Reading
+  - Bayesian Statistics The Fun Way
+    - PART I: Introduction to Probability
+      - Working on 1/18 - Bayesian Thinking and Everyday Reasoning
   - React, The Comprehensive Guide 
+    - Finally resuming my reading
     - Working chapter 9/21 - Securing a React Application through Testing
-      - start page: 411  end page: 461
+      - start page: 422  end page: 461
+      - red, green, refactor
+      - arrange, act, and assert
+      - expect([result]).[matcher]([expectation])
+        - expect(result).toBe(2)
     - GOAL: The goal (to get a C and above) is to complete 10 pages a day
       - This will allow me to complete the book in 90 days from today
     - npm install -D sass
@@ -198,6 +198,9 @@
       - Current Page: 7
       - Last Page: 20
  - Non-Tech Reading
-    - Civilization
-        - Reading Introduction: Rasselas's Question
+    - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
+      Hunted down russian submarines, & emerged triumphant from two centuries
+      of controversy - Sharon Bertsch McGrayne
+      - PART I - Enlightenment and the anti-bayesian reaction
+        - Working on chapter 2/17 - The Man Who Did Everything
 - GRADE: NA
