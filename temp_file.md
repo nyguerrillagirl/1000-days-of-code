@@ -1,4 +1,5 @@
-### Day 535: March 16, 2026 (Monday)
+
+### Day 536: March 17, 2026 (Tuesday)
 - ORDER
   - DATACAMP
     - ^[0-9].*XP$
@@ -27,21 +28,26 @@
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Trump’s Threat to Delay Summit With Xi Casts New Shadow Over China Relations](https://www.nytimes.com/2026/03/16/world/middleeast/trump-visit-xi-china-iran.html)
+    - [Tehran Seems Largely Empty, as Many Flee and Others Weary of the Fighting](https://www.nytimes.com/2026/03/14/world/middleeast/tehran-empty-iran-strikes.html)
+    - [‘“One Battle After Another” Was Totally Meh’: 3 Opinion Writers Size Up the Oscars](https://www.nytimes.com/2026/03/16/opinion/one-battle-after-another-was-totally-meh-3-opinion-writers-size-up-the-oscars.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Trump sold young voters on his vision. Many are having buyer’s remorse.](https://www.washingtonpost.com/politics/2026/03/16/trump-young-voters-regret-iran-war/)
+    - [Iran targets commerce as drone hits Dubai airport; Israel says war will go on](https://www.washingtonpost.com/world/2026/03/16/dubai-airport-drone-strike-iran/)
+    - [America faces an education depression. Why are Democrats silent?](https://www.washingtonpost.com/opinions/2026/03/16/democrats-education-reform/)
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - []()
-    - []()
+    - [I Lied To You | 'Sinners' Musical Performance | 98th Oscars (2026)](https://www.youtube.com/watch?v=j3ae7BvTuC4)
+      - WOW! WOW! WOW!
+    - [We’re Living Through an Education Depression](https://www.educationdaly.us/p/we-are-in-the-midst-of-an-educational)
     - []()
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M.
-  - XP: TBD  (Practice) -->  [Peta - Last week: 12,750 XP (8th in Peta League)]
+  - XP: 1000  (Practice) --> 2100 [Peta - Last week: 12,750 XP (8th in Peta League)]
+    - I am sure I can average a higher amount around 3000/day or 21,000 a week, where
+      1000 points are from practice and the 2000 are from courses. But, I like to 
+      work on several topics (e.g. React, Reading, Electronics, etc.) during the 
+      day and I think I would get SOOOOO bored just working in one area.
   - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
@@ -49,13 +55,18 @@
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - Practice:
-    - Introduction to the Tidyverse
-    - Introduction to Importing Data in R
-    - Introduction to Data Visualization with Seaborn
-      - markers=True
-      - g.fig.suptitle("Whatever")
-      - sns.set_style("darkgrid")
+    - Introduction to R
+      - store <- list(prod = c("G", "H"), cost = c(8, 5))
+        store[["prod"]] ==> "G" "H"
+      - quick overview of the contents of a variable: summary()
+    - Reshaping Data with pandas
+      - unstack() - it unstacks the innermost row index if no level is specified
+      - what is the disadvantage of wide format data? It can lead to many missing
+        values if not all features are present for each observation
     - Large Language Models (LLMs) Concepts
+    - Software Engineering Principles in Python
+      - Where do we usually create the setup.py file and requirements.txt file?
+        At the same level as the directory
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -63,9 +74,11 @@
       - Data Types in Python
       - Introduction to Python
   - Course: Introduction to Regression with statsmodel in Python
-    - Working on chapter 1/4 - Simple Linear Regression Modeling
+    - Completed chapter 1/4 - Simple Linear Regression Modeling
+    - Working on chapter 2/4 - Making predictions
   - Course:  Generative AI Concepts 
-    - Working on chapter 1/4 - Introduction to Generative AI
+    - Completed chapter 1/4 - Introduction to Generative AI
+    - Working on chapter 2/4 - Developing Generative AI Models
   - Course: Foundations of Probability in Python
     - Completed chapter 2/4
     - Working on chapter 3/4
@@ -85,7 +98,12 @@
     - Trick - AutoLayout can only be applied to a Frame or a Group
     - How do you selct AutoLayout? 
 - Coursera DEVELOPING FRONT-END APPS WITH REACT
-  - Review of course from start to finish
+  - I think I have enough Redux in me to continue the course today.
+    - Correction: In reviewing the course material I see I need to continue my
+      oreilly course and get to the Middleware material. The goal for this week:
+      - continue working on oreilly course
+      - complete the last lab on Conference Expense Planner
+  - Review Redux topics as covered in my course notes
     - Reviewing Redux - see React section
   - Working on Module 4/4
 - Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
@@ -149,6 +167,10 @@
   - Working on Part I - Python Basics to Master
   - Working on Part IV - Learning NumPy, pandas and matplotlib
     - working on NumPy
+- PROJECT: Robtotron 2048
+  - download a web version on the Internet. Not faithful to how it starts.
+  - I would like to play the original 
+  - Use the video: [Arcade Game: Robotron 2084 (1982 Williams)](https://www.youtube.com/watch?v=l800GL6NQPY)
 - PROJECT: React
   - Working on O'Reilly Course - The Redux Official Course Tutorial
     - Completed chapter 4/10 - Migrating Classic Redux to Modern Redux
