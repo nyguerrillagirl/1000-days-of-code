@@ -1,5 +1,4 @@
-
-### Day 536: March 17, 2026 (Tuesday)
+### Day 537: March 18, 2026 (Wednesday)
 - ORDER
   - DATACAMP
     - ^[0-9].*XP$
@@ -25,48 +24,42 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
+  - Completed a Datacamp Course
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - [Trump’s Threat to Delay Summit With Xi Casts New Shadow Over China Relations](https://www.nytimes.com/2026/03/16/world/middleeast/trump-visit-xi-china-iran.html)
-    - [Tehran Seems Largely Empty, as Many Flee and Others Weary of the Fighting](https://www.nytimes.com/2026/03/14/world/middleeast/tehran-empty-iran-strikes.html)
-    - [‘“One Battle After Another” Was Totally Meh’: 3 Opinion Writers Size Up the Oscars](https://www.nytimes.com/2026/03/16/opinion/one-battle-after-another-was-totally-meh-3-opinion-writers-size-up-the-oscars.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Trump sold young voters on his vision. Many are having buyer’s remorse.](https://www.washingtonpost.com/politics/2026/03/16/trump-young-voters-regret-iran-war/)
-    - [Iran targets commerce as drone hits Dubai airport; Israel says war will go on](https://www.washingtonpost.com/world/2026/03/16/dubai-airport-drone-strike-iran/)
-    - [America faces an education depression. Why are Democrats silent?](https://www.washingtonpost.com/opinions/2026/03/16/democrats-education-reform/)
+    - []()
+    - []()
+    - []()
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - [I Lied To You | 'Sinners' Musical Performance | 98th Oscars (2026)](https://www.youtube.com/watch?v=j3ae7BvTuC4)
-      - WOW! WOW! WOW!
-    - [We’re Living Through an Education Depression](https://www.educationdaly.us/p/we-are-in-the-midst-of-an-educational)
+    - [Teaching Myself Electronics (PART ONE)](https://www.youtube.com/watch?v=ymTwVM9Tiac)
+    - []()
     - []()
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M.
   - XP: 1000  (Practice) --> 2100 [Peta - Last week: 12,750 XP (8th in Peta League)]
-    - I am sure I can average a higher amount around 3000/day or 21,000 a week, where
-      1000 points are from practice and the 2000 are from courses. But, I like to 
-      work on several topics (e.g. React, Reading, Electronics, etc.) during the 
-      day and I think I would get SOOOOO bored just working in one area.
-  - Assessment: Data Manipulation with Python
+   - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - Practice:
-    - Introduction to R
-      - store <- list(prod = c("G", "H"), cost = c(8, 5))
-        store[["prod"]] ==> "G" "H"
-      - quick overview of the contents of a variable: summary()
-    - Reshaping Data with pandas
-      - unstack() - it unstacks the innermost row index if no level is specified
-      - what is the disadvantage of wide format data? It can lead to many missing
-        values if not all features are present for each observation
+    - Simple Linear Regression Modeling
     - Large Language Models (LLMs) Concepts
-    - Software Engineering Principles in Python
-      - Where do we usually create the setup.py file and requirements.txt file?
-        At the same level as the directory
+    - Reshaping Data with pandas
+      - json.loads parses a JSON string and returns a Python library
+      - DUMB json_normalize question:
+        result = json_normalize(data, record_path='authors', meta=['publisher'], sep='-')
+    - Supervised Learning with scikit-learn
+      - stratify=y
+      - knn_cv = RandomizedSearchCV(knn, param_grid, cv=kf, n_iter=3)
+      - X_train_num = imp_num.fit_transform(X_train_num)
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -83,8 +76,8 @@
     - Completed chapter 2/4
     - Working on chapter 3/4
   - Course: Analyzing Police Activity with pandas
-     - Completed chapter 3/4
-     - Working on chapter 4/4
+     - Completed chapter 4/4
+     - Completed Course
   - Course: Statistical Thinking in Python (Part 2)
     - Completed chapter 1/4 
     - Working on chapter 2/4 - Bootstrap confidence intervals
