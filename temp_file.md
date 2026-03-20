@@ -24,61 +24,45 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
-  - Completed a Datacamp Course
+  - Checkout: 
+    [Learn C++ The Hard Way](https://learncodethehardway.com/courses/learn-cpp-the-hard-way/)
+  - Check out: [Dungeon Crawler Jam 2026](https://itch.io/jam/dcjam2026)
+  - Found: [raycaster](https://git.zedshaw.games/games/raycaster/)
+    - https://git.zedshaw.games/games
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - [Postmaster Says Service Will Be ‘Out of Cash’ in Under a Year](https://www.nytimes.com/2026/03/17/us/politics/usps-postal-service-finances.html)
-    - [Quartz Cutters Are Falling Ill. Countertop Makers Want Protection From Congress.](https://www.nytimes.com/2026/03/16/us/politics/quartz-countertops-silicosis-liability.html)
-    - [The Manosphere Continues to Devolve](https://www.nytimes.com/2026/03/18/opinion/manosphere-trump-maga-documentary.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Gabbard tells senators Iranian regime is degraded but still intact](https://www.washingtonpost.com/national-security/2026/03/18/tulsi-gabbard-iran-intelligence-hearing/)
-    - [This Emirati billionaire put a voice to Gulf anger over Trump’s war in Iran](https://www.washingtonpost.com/world/2026/03/18/dubai-billionaire-trump-iran-war/)
-    - [Rand Paul goes after DHS pick Mullin in harsh terms at confirmation hearing](https://www.washingtonpost.com/immigration/2026/03/18/rand-paul-mullin-dhs-fight/)
+    - []()
+    - []()
+    - []()
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - [Teaching Myself Electronics (PART ONE)](https://www.youtube.com/watch?v=ymTwVM9Tiac)
+    - []()
     - []()
     - []()
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1000  (Practice) --> 2100 [Peta - Last week: 12,750 XP (8th in Peta League)]
-   - Assessment: Data Manipulation with Python
+  - XP: 750  (Practice) --> 3750 [Peta - Last week: 12,750 XP (8th in Peta League)]
+    - Assessment: Introduction to Python for Developers
+      - Advanced | Score: 200 | Ptle: 99th 
+    - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - Practice:
-    - Working with Categorical Data in Python
-      - Seaborn's bar plot with kind='bar' shows the mean, not the count plot
-        for counts.
-      - After reordering categories, which of the following will reflect the new order?
-        - The order of categories in groupby outputs and plots
-      - Label encoding can introduce unintended ordinal relationships
-    - Reshaping Data with pandas
-      - json.loads parses a JSON string and returns a Python library
-      - DUMB json_normalize question:
-        result = json_normalize(data, record_path='authors', meta=['publisher'], sep='-')
-    - Understanding ChatGPT
-    - Statistical Thinking in Python (Part 1)
-      - Pick the option below that correctly describe the difference between
-        an Empirical Cumulative Distribution Function (ECDF) and a 
-        Cumulative Distribution Function (CDF).
-        - A CDF is theoretical for a certain population, while an ECDF is based
-          on the data itself.
-    - Supervised Learning with scikit-learn
-      - stratify=y
-      - knn_cv = RandomizedSearchCV(knn, param_grid, cv=kf, n_iter=3)
-      - X_train_num = imp_num.fit_transform(X_train_num)
-      - Calculate the test set R-squared value of the fitted linear regression model, linreg.
-        print(linreg.score(X_test, y_test))
-      - Which statement about regularization is FALSE?
-        - Regularization reduces the risks of underfitting.
-      - X = gapminder["fertility"].values.reshaps(-1,1)
-      - Count the number of missing values in each column of the votes DataFrame,
-        and sort the results:
-        - print(votes.isna().sum().sort_values())
+    - Intermediate Python for Developers
+    - Intermediate R
+    - Introduction to Data Visualization with Plotly in Python
+      - What is the correct format for specifying an RGB color in Plotly?
+        - "rgb(255, 255, 0)"
+        - Complete the code to share the x-axis across all subplots:
+          - fig = make_subplots(rows=3, cols=1, shared_xaxes=True)
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -140,11 +124,6 @@
       - Return back to home page 
       - Goal is to submit on 3/28
 - Project: W:ET
-  - Articles on Multiplayer Client-Server:
-    - [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](https://gabrielgambetta.com/client-server-game-architecture.html)
-    - [Fast-Paced Multiplayer (Part II): Client-Side Prediction and Server Reconciliation](https://gabrielgambetta.com/client-side-prediction-server-reconciliation.html)
-    - [Fast-Paced Multiplayer (Part III): Entity Interpolation](https://gabrielgambetta.com/entity-interpolation.html)
-    - [Fast-Paced Multiplayer (Part IV): Lag Compensation](https://gabrielgambetta.com/lag-compensation.html)
   - Started Notes
   - I am interested in getting ET:Legacy working on my machine. I may decide to use my 
     notebook ...in order to have a clean machine.
@@ -188,8 +167,8 @@
   - Use the video: [Arcade Game: Robotron 2084 (1982 Williams)](https://www.youtube.com/watch?v=l800GL6NQPY)
 - PROJECT: React
   - Working on O'Reilly Course - The Redux Official Course Tutorial
-    - Completed chapter 4/10 - Migrating Classic Redux to Modern Redux
-    - Working on chapter 5/10 - Higher Level – Redux Counter Template Example
+     - Completed chapter 5/10 - Higher Level – Redux Counter Template Example
+     - Working on chapter 6/10 - Social Media App with Redux Example
   - See Books below
   - Worked on editing ReactNotes
     - jQuery, LoDash
