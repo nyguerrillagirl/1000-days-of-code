@@ -1,4 +1,4 @@
-### Day 538: March 19, 2026 (Thursday)
+### Day 540: March 21, 2026 (Saturday)
 - ORDER
   - DATACAMP
     - ^[0-9].*XP$
@@ -24,45 +24,49 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
+  - Spending a bit if time moving books from downloads into EBOOKS
   - Checkout: 
     [Learn C++ The Hard Way](https://learncodethehardway.com/courses/learn-cpp-the-hard-way/)
+    - Created new folder GAME_DEVELOPMENT and put the zip file 
   - Check out: [Dungeon Crawler Jam 2026](https://itch.io/jam/dcjam2026)
   - Found: [raycaster](https://git.zedshaw.games/games/raycaster/)
     - https://git.zedshaw.games/games
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - []()
-    - []()
+    - [What to Know About the Sexual Abuse Allegations Against Cesar Chavez](https://www.nytimes.com/2026/03/19/us/what-to-know-cesar-chavez-sex-abuse.html?searchResultPosition=3)
+    - [‘Once and for All’ Means Never](https://www.nytimes.com/2026/03/20/opinion/iran-israel-united-states-hamas.html)
     - []()
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [César Chavez and the lies the left tells itself. I know them well.](https://www.washingtonpost.com/opinions/2026/03/19/csar-chavez-labor-leader-rape-sexual-abuse/)
+    - [CBS News will end radio service, cut jobs as Bari Weiss seeks revival](https://www.washingtonpost.com/business/2026/03/20/cbs-news-bari-weiss-layoffs/)
+    - [Trump bank immigration order delayed amid Wall Street pushback](https://www.washingtonpost.com/business/2026/03/20/banks-immigration-trump/)
 - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - []()
-    - []()
+    - [Historians are wrong about Guns, Germs, and Steel ... but that's kind of interesting](https://www.youtube.com/watch?v=LpOJSBX8B6c)
+    - [Trump Said He Was Top of His Class — Colbert Read the Real Record and the Room Lost Itvideo2](https://www.youtube.com/watch?v=OepEBTaclT8)
     - []()
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 750  (Practice) --> 3750 [Peta - Last week: 12,750 XP (8th in Peta League)]
-    - Assessment: Introduction to Python for Developers
-      - Advanced | Score: 200 | Ptle: 99th 
+  - XP: 1000  (Practice) --> 2500 [Peta - Last week: 12,750 XP (8th in Peta League)]
     - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
+  - PROJECT: Interstellar Delivery: Mastering Datetime in Python
   - Practice:
-    - Intermediate Python for Developers
-    - Intermediate R
-    - Introduction to Data Visualization with Plotly in Python
-      - What is the correct format for specifying an RGB color in Plotly?
-        - "rgb(255, 255, 0)"
-        - Complete the code to share the x-axis across all subplots:
-          - fig = make_subplots(rows=3, cols=1, shared_xaxes=True)
+    - Software Engineering Principles in Python
+    - Writing Functions in Python
+    - Sampling in Python
+      - The standard deviation of the bootstrap distribution is used to estimate
+        the *standard error* of a statistic, while the mean of the bootstrap
+        distribution is used to estimate the *mean* of the statistic. 
+      -  A **point estimate** is a statistic from a sample used to estimate a population parameter.
+      - The standard error of the mean is calculated as the population standard
+        deviation divided by the **square root** of the sample size
+    - Exploratory Data Analysis in Python
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -86,6 +90,8 @@
     - Trick - AutoLayout can only be applied to a Frame or a Group
     - How do you selct AutoLayout? group and enter: SHIFT + A
     - Redo Challenge solution following the solution provided
+      - at 14:07 ....having trouble with left and right side ...
+  - Working on Challenge 7/26 - Auto-layout II
 - Coursera DEVELOPING FRONT-END APPS WITH REACT
   - I think I have enough Redux in me to continue the course today.
     - Correction: In reviewing the course material I see I need to continue my
@@ -123,13 +129,13 @@
         - Prototype       
       - Return back to home page 
       - Goal is to submit on 3/28
-- Project: W:ET
+- PROJECT: W:ET
   - Started Notes
   - I am interested in getting ET:Legacy working on my machine. I may decide to use my 
     notebook ...in order to have a clean machine.
   - Need to see: [Enemy Territory Quake Wars Full Installation Guide 2021](https://www.youtube.com/watch?v=0nWOt3GF3_M)
   - Working on list of software to download at https://www.myabandonware.com/game/enemy-territory-quake-wars-ixd#download 
-- Project: REAL PYTHON
+- PROJECT: REAL PYTHON
   - [Build Your Weekly Python Study Schedule: 7 Days to Consistent Progress](https://realpython.com/weekly-study-schedule/)
   - [Automate Python Data Analysis With YData Profiling](https://realpython.com/ydata-profiling-eda/)
     - it took some time to set things up I entered some notes 
@@ -152,12 +158,12 @@
         - Reading 1/7 - Hertzian Optics and Wireless Telegraphy- PROJECT: Advent of Code
   - Completed on 2020 - Day 5 Part 1 and Part 2
   - Working on 2021 - Day 5 Part 1 
-- Project Math
+- PROJECT: Math
   - Reading "Elements of Mathematics" by Gabor Toth
     - Chapter 0/11 - Preliminaries: Sets, Relations, Maps
   - Reading How to Bake π 
       - Working on chapter 5/15 - Generalization
-- Project: Learning Data Science with Python Workbook (LDSPW)
+- PROJECT: Learning Data Science with Python Workbook (LDSPW)
   - Working on Part I - Python Basics to Master
   - Working on Part IV - Learning NumPy, pandas and matplotlib
     - working on NumPy
@@ -213,6 +219,10 @@
     - Reading Chapter 2/12 - Getting Started with PyQt
       - Current Page: 7
       - Last Page: 20
+  - Scientific Python Lectures
+    - Part I: Getting started with Python for science
+      - Completed Chapter 1/18 - Python scientific computing ecosystem
+      - Working on chapter 2/18 - The Python Language
  - Non-Tech Reading
     - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
