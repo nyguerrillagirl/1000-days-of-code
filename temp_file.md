@@ -1,4 +1,5 @@
-### Day 540: March 21, 2026 (Saturday)
+
+### Day 541: March 22, 2026 (Sunday)
 - ORDER
   - DATACAMP
     - ^[0-9].*XP$
@@ -34,21 +35,22 @@
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - [What to Know About the Sexual Abuse Allegations Against Cesar Chavez](https://www.nytimes.com/2026/03/19/us/what-to-know-cesar-chavez-sex-abuse.html?searchResultPosition=3)
-    - [‘Once and for All’ Means Never](https://www.nytimes.com/2026/03/20/opinion/iran-israel-united-states-hamas.html)
-    - []()
+    - [A Look at the Escalating Battle for the Strait of Hormuz](https://www.nytimes.com/2026/03/20/us/politics/battle-for-strait-of-hormuz.html)
+    - [Let-It-Rip Jeremy vs. Sneaky Sam](https://www.nytimes.com/2026/03/21/opinion/jeremy-o-harris-sam-altman.html)
+    - [Trump Is Hiding the Truth About the War in Iran](https://www.nytimes.com/2026/03/21/opinion/iran-war-trump-lying.html)
   - WAPO
-    - [César Chavez and the lies the left tells itself. I know them well.](https://www.washingtonpost.com/opinions/2026/03/19/csar-chavez-labor-leader-rape-sexual-abuse/)
-    - [CBS News will end radio service, cut jobs as Bari Weiss seeks revival](https://www.washingtonpost.com/business/2026/03/20/cbs-news-bari-weiss-layoffs/)
-    - [Trump bank immigration order delayed amid Wall Street pushback](https://www.washingtonpost.com/business/2026/03/20/banks-immigration-trump/)
-- ARTICLES/VIDEOS
+    - [Rivian and the danger of building a business on government largesse](https://www.washingtonpost.com/opinions/2026/03/20/rivian-uber-deal-electric-vehicles-evs-subsidies/)
+    - [To tilt Hungarian election, Russians proposed staging assassination attempt](https://www.washingtonpost.com/world/2026/03/21/hungary-election-interference-russia-orban/)
+    - [The newest TV shows and movies to stream right now](https://www.washingtonpost.com/arts-entertainment/2023/04/24/what-to-watch-streaming-tv-movies/)
+ 
+ - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - [Historians are wrong about Guns, Germs, and Steel ... but that's kind of interesting](https://www.youtube.com/watch?v=LpOJSBX8B6c)
-    - [Trump Said He Was Top of His Class — Colbert Read the Real Record and the Room Lost Itvideo2](https://www.youtube.com/watch?v=OepEBTaclT8)
-    - []()
+    - [A (Small) Radical Right Fascist Movement | Explainer](https://www.youtube.com/watch?v=x_XTNM05oKQ)
+    - [5th DUI...She Kept Arguing—Sent to Prison](https://www.youtube.com/watch?v=HpvhBxFWltk)
+    - [The Easy Part of the Iran War Is Over | The Bulwark Podcast](https://www.youtube.com/watch?v=BfZ1EdErDZA)
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1000  (Practice) --> 2500 [Peta - Last week: 12,750 XP (8th in Peta League)]
+  - XP: 1000  (Practice) --> 3100 [Peta - Last week: 15,450 XP (8th in Peta League)]
     - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
@@ -56,17 +58,17 @@
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
   - PROJECT: Interstellar Delivery: Mastering Datetime in Python
+    - Completed project for 1500 XP
   - Practice:
-    - Software Engineering Principles in Python
-    - Writing Functions in Python
-    - Sampling in Python
-      - The standard deviation of the bootstrap distribution is used to estimate
-        the *standard error* of a statistic, while the mean of the bootstrap
-        distribution is used to estimate the *mean* of the statistic. 
-      -  A **point estimate** is a statistic from a sample used to estimate a population parameter.
-      - The standard error of the mean is calculated as the population standard
-        deviation divided by the **square root** of the sample size
-    - Exploratory Data Analysis in Python
+    - Simple Linear Regression Modeling
+      - In a regression model, the variable you want to predict is called
+        **response** variable, and the variable(s) you use to make predictions
+        are called **explanatory** variables
+    - Introduction to Data Visualization with Matplotlib
+    - Intermediate Python for Developers
+    - Understanding Machine Learning
+      - In supervised learning, what does a classification algorithm do?
+        Assigns labels or categories to new observations
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -75,6 +77,7 @@
       - Introduction to Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
+    - OLS - Ordinary Least Squares
   - Course:  Generative AI Concepts 
     - Working on chapter 2/4 - Developing Generative AI Models
   - Course: Foundations of Probability in Python
@@ -86,11 +89,6 @@
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
       - [R For Data Science](https://r4ds.had.co.nz/introduction.html)
 - FIGMA Marathon
-  - Completed Challenge 6/26 - Auto Layout
-    - Trick - AutoLayout can only be applied to a Frame or a Group
-    - How do you selct AutoLayout? group and enter: SHIFT + A
-    - Redo Challenge solution following the solution provided
-      - at 14:07 ....having trouble with left and right side ...
   - Working on Challenge 7/26 - Auto-layout II
 - Coursera DEVELOPING FRONT-END APPS WITH REACT
   - I think I have enough Redux in me to continue the course today.
@@ -136,6 +134,7 @@
   - Need to see: [Enemy Territory Quake Wars Full Installation Guide 2021](https://www.youtube.com/watch?v=0nWOt3GF3_M)
   - Working on list of software to download at https://www.myabandonware.com/game/enemy-territory-quake-wars-ixd#download 
 - PROJECT: REAL PYTHON
+  - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
   - [Build Your Weekly Python Study Schedule: 7 Days to Consistent Progress](https://realpython.com/weekly-study-schedule/)
   - [Automate Python Data Analysis With YData Profiling](https://realpython.com/ydata-profiling-eda/)
     - it took some time to set things up I entered some notes 
@@ -173,8 +172,7 @@
   - Use the video: [Arcade Game: Robotron 2084 (1982 Williams)](https://www.youtube.com/watch?v=l800GL6NQPY)
 - PROJECT: React
   - Working on O'Reilly Course - The Redux Official Course Tutorial
-     - Completed chapter 5/10 - Higher Level – Redux Counter Template Example
-     - Working on chapter 6/10 - Social Media App with Redux Example
+    - Working on chapter 6/10 - Social Media App with Redux Example
   - See Books below
   - Worked on editing ReactNotes
     - jQuery, LoDash
