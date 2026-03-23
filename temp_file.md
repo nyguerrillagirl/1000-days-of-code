@@ -1,5 +1,4 @@
-
-### Day 541: March 22, 2026 (Sunday)
+### Day 542: March 23, 2026 (Monday)
 - ORDER
   - DATACAMP
     - ^[0-9].*XP$
@@ -26,6 +25,12 @@
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
   - Spending a bit if time moving books from downloads into EBOOKS
+    - Given the number of books I have downloaded - this will take some time
+  - Let's finish up some things. I would like to concentrate the week on FINALLY
+    completing the two Coursera courses+Fun With Transistors+RealPython stuff and
+    the next Datacamp project. So each day I will focus on one of this 'old' 
+    projects.
+      - Today it is Fun with Transistors
   - Checkout: 
     [Learn C++ The Hard Way](https://learncodethehardway.com/courses/learn-cpp-the-hard-way/)
     - Created new folder GAME_DEVELOPMENT and put the zip file 
@@ -35,22 +40,22 @@
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - [A Look at the Escalating Battle for the Strait of Hormuz](https://www.nytimes.com/2026/03/20/us/politics/battle-for-strait-of-hormuz.html)
-    - [Let-It-Rip Jeremy vs. Sneaky Sam](https://www.nytimes.com/2026/03/21/opinion/jeremy-o-harris-sam-altman.html)
+    - [Trump Has Made a Fundamental Miscalculation about Iran](https://www.nytimes.com/2026/03/22/opinion/trump-iran-war-memes.html)
     - [Trump Is Hiding the Truth About the War in Iran](https://www.nytimes.com/2026/03/21/opinion/iran-war-trump-lying.html)
+    - [What Are Jacket Potatoes, and Why Are the English Waiting Hours for Them?](https://www.nytimes.com/2026/03/20/dining/jacket-potatoes-uk-food-trend-social-media.html)
   - WAPO
-    - [Rivian and the danger of building a business on government largesse](https://www.washingtonpost.com/opinions/2026/03/20/rivian-uber-deal-electric-vehicles-evs-subsidies/)
-    - [To tilt Hungarian election, Russians proposed staging assassination attempt](https://www.washingtonpost.com/world/2026/03/21/hungary-election-interference-russia-orban/)
-    - [The newest TV shows and movies to stream right now](https://www.washingtonpost.com/arts-entertainment/2023/04/24/what-to-watch-streaming-tv-movies/)
- 
+    - [Trump threats, U.S. troop build-up raise specter of battle for Hormuz](https://www.washingtonpost.com/world/2026/03/22/marines-hormuz-strait-decisive-battle-iran-trump/)
+    - [Senate rejects Trump-backed measure to ban trans athletes in female sports](https://www.washingtonpost.com/politics/2026/03/21/senate-trump-transgender-sports/)
+    - [China doesn’t want you to know about Operation Yellowbird](https://www.washingtonpost.com/opinions/2026/03/20/alysa-liu-olympics-arthur-tiananmen-square-china/) 
  - ARTICLES/VIDEOS
     - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - [A (Small) Radical Right Fascist Movement | Explainer](https://www.youtube.com/watch?v=x_XTNM05oKQ)
-    - [5th DUI...She Kept Arguing—Sent to Prison](https://www.youtube.com/watch?v=HpvhBxFWltk)
-    - [The Easy Part of the Iran War Is Over | The Bulwark Podcast](https://www.youtube.com/watch?v=BfZ1EdErDZA)
+    - [An Analysis of Modern Republicanism | Explainer](https://www.youtube.com/watch?v=cZitIRcj-0M)
+    - [The Misogyny That’s Fracturing the MAGA Movement | Amanpour and Company](https://www.youtube.com/watch?v=60vj7A3l_tA)
+    - [This history rocked my moral world](https://www.youtube.com/watch?v=7nEndeb9DGw)
+    - [How to get Started with Electronics (and Arduino)](https://www.youtube.com/watch?v=Onvre9wS1as)
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1000  (Practice) --> 3100 [Peta - Last week: 15,450 XP (8th in Peta League)]
+  - XP: 1000  (Practice) --> 1000 [Peta - Last week: 16,450 XP (11th in Peta League)]
     - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
@@ -60,15 +65,12 @@
   - PROJECT: Interstellar Delivery: Mastering Datetime in Python
     - Completed project for 1500 XP
   - Practice:
-    - Simple Linear Regression Modeling
-      - In a regression model, the variable you want to predict is called
-        **response** variable, and the variable(s) you use to make predictions
-        are called **explanatory** variables
-    - Introduction to Data Visualization with Matplotlib
+    - Introduction to Importing Data in R
+      - read.csv, read.table, read.delim
+      - ship <- read_delim( "titanic.csv", delim = ",")
+    - Introduction to the Tidyverse
     - Intermediate Python for Developers
-    - Understanding Machine Learning
-      - In supervised learning, what does a classification algorithm do?
-        Assigns labels or categories to new observations
+    - Introduction to Python for Developers
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
