@@ -1,4 +1,4 @@
-### Day 542: March 23, 2026 (Monday)
+### Day 543: March 24, 2026 (Tuesday)
 - ORDER
   - DATACAMP
     - ^[0-9].*XP$
@@ -24,13 +24,14 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
+  - Did quite a bit of cleaning. Found two things I have been looking for:
+    - Make: Electronics Component Kit #1 
+    - The Cat 
   - Spending a bit if time moving books from downloads into EBOOKS
     - Given the number of books I have downloaded - this will take some time
-  - Let's finish up some things. I would like to concentrate the week on FINALLY
-    completing the two Coursera courses+Fun With Transistors+RealPython stuff and
-    the next Datacamp project. So each day I will focus on one of this 'old' 
-    projects.
-      - Today it is Fun with Transistors
+    - I had to stop after only around 8 books because Windows Explorer got jammed.
+  - GOAL for the WEEK: Finish up some long standing items
+      - Todays it will be Datacamp Project: Customer Analytics 
   - Checkout: 
     [Learn C++ The Hard Way](https://learncodethehardway.com/courses/learn-cpp-the-hard-way/)
     - Created new folder GAME_DEVELOPMENT and put the zip file 
@@ -40,37 +41,41 @@
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - [Trump Has Made a Fundamental Miscalculation about Iran](https://www.nytimes.com/2026/03/22/opinion/trump-iran-war-memes.html)
-    - [Trump Is Hiding the Truth About the War in Iran](https://www.nytimes.com/2026/03/21/opinion/iran-war-trump-lying.html)
-    - [What Are Jacket Potatoes, and Why Are the English Waiting Hours for Them?](https://www.nytimes.com/2026/03/20/dining/jacket-potatoes-uk-food-trend-social-media.html)
+    - [Iran War Live Updates: Trump Says U.S. and Iran Held ‘Very Good’ Talks on Ending Conflict](https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump)
+    - [Denmark Has Changed](https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html)
+    - [Four Kids, Two Dads and a One-Bedroom Apartment in Manhattan](https://www.nytimes.com/interactive/2026/03/19/realestate/upper-west-side-hells-kitchen-lincoln-square-homes.html)
   - WAPO
-    - [Trump threats, U.S. troop build-up raise specter of battle for Hormuz](https://www.washingtonpost.com/world/2026/03/22/marines-hormuz-strait-decisive-battle-iran-trump/)
-    - [Senate rejects Trump-backed measure to ban trans athletes in female sports](https://www.washingtonpost.com/politics/2026/03/21/senate-trump-transgender-sports/)
-    - [China doesn’t want you to know about Operation Yellowbird](https://www.washingtonpost.com/opinions/2026/03/20/alysa-liu-olympics-arthur-tiananmen-square-china/) 
+    - [So long, farewell, Kennedy Center. Let’s put on a happy face.](https://www.washingtonpost.com/opinions/interactive/2026/kennedy-center-smithsonian-museum-hours/?itid=hp_opinions_p001_f013)
+    - [Gretchen Whitmer’s failed literacy test](https://www.washingtonpost.com/opinions/2026/03/23/michigan-gretchen-whitmer-literacy/)
+    - [LaGuardia crash, controller said he ‘messed up’](https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/)
  - ARTICLES/VIDEOS
-    - [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
-    - [An Analysis of Modern Republicanism | Explainer](https://www.youtube.com/watch?v=cZitIRcj-0M)
-    - [The Misogyny That’s Fracturing the MAGA Movement | Amanpour and Company](https://www.youtube.com/watch?v=60vj7A3l_tA)
-    - [This history rocked my moral world](https://www.youtube.com/watch?v=7nEndeb9DGw)
-    - [How to get Started with Electronics (and Arduino)](https://www.youtube.com/watch?v=Onvre9wS1as)
+    - [The Roadmap to Calculus I Wish I Had](https://www.youtube.com/watch?v=FavU_QaY9wA)
+      - [DESMOS](https://www.desmos.com/)
+        - Free Graphing Calculator
+    - [From Trump Worship to Panic: Watching the MAGA Meltdown in Real Time](https://www.youtube.com/watch?v=CCMSEsJXzjc)
+    - [Workbench Essentials When Starting Arduino! (Beginner Guide)](https://www.youtube.com/watch?v=kWFXAqv2ZKw)
+      - Arduino
+      - Breadboard
+      - jumper wires to get: male-male, make-female, female-female
+      - Get a starter kit
+      - Multimeter
+    - [The 13th, 14th, and 15th Amendments](https://www.youtube.com/watch?v=zk4zDNQbcc8)
+    - [20 Things in Electronics That Confused me 20 Years Ago](https://www.youtube.com/watch?v=vS7sBctUgro)
+    - [Dan Bongino Gets Heated After Heckler Calls Him a “Coward” | MAGA Mondays](https://www.youtube.com/watch?v=RaVb3adFhYE)
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1000  (Practice) --> 1000 [Peta - Last week: 16,450 XP (11th in Peta League)]
+  - XP: 1000  (Practice) --> 1000 [Peta - Last week: 16,450 XP (13th in Peta League)]
     - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
-  - PROJECT: Interstellar Delivery: Mastering Datetime in Python
-    - Completed project for 1500 XP
   - Practice:
-    - Introduction to Importing Data in R
-      - read.csv, read.table, read.delim
-      - ship <- read_delim( "titanic.csv", delim = ",")
-    - Introduction to the Tidyverse
-    - Intermediate Python for Developers
-    - Introduction to Python for Developers
+    - Large Language Models (LLMs) Concepts
+    - Introduction to Regression with Statsmodel in Python:Simple Linear Regression Model
+    - Statistical Thinking in Python Part 2: Parameter estimation by optimzation
+    - Reshaping Data with pandas
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -153,6 +158,9 @@
     - Still working on youtube video
     - Worked on - how to use MB102
     - DON'T USE Copilot to draw images. It will be inaccurate.
+  - READING: Introductory DC/AC Electronics, 6th Edition by Nigel P. Cook
+    - PART A: The Fundamentals of Electricity
+      - Reading Chapter 1: Current and Voltage
   - RADIO TECH
     - READING:
       - Wireless, from Marconi's black-box to the audion
@@ -227,6 +235,6 @@
     - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
-      - PART II - Second World War Era
-        - Working on chapter 4/17 Bayes Goes to War
+      - PART III - The Glorious Revival
+        - Working on chapter 6 arther bailey
 - GRADE: NA
