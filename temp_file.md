@@ -1,4 +1,4 @@
-### Day 543: March 24, 2026 (Tuesday)
+### Day 544: March 25, 2026 (Wednesday)
 - ORDER
   - DATACAMP
     - ^[0-9].*XP$
@@ -41,41 +41,33 @@
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - [Iran War Live Updates: Trump Says U.S. and Iran Held ‘Very Good’ Talks on Ending Conflict](https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump)
-    - [Denmark Has Changed](https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html)
-    - [Four Kids, Two Dads and a One-Bedroom Apartment in Manhattan](https://www.nytimes.com/interactive/2026/03/19/realestate/upper-west-side-hells-kitchen-lincoln-square-homes.html)
+    - [Gregory Bovino’s Final Days: Harsh Words and Few Regrets](https://www.nytimes.com/2026/03/24/us/gregory-bovino-border-patrol.html)
+    - [Young Graduates Face the Grimmest Job Market in Years](https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html)
+    - []()  
   - WAPO
-    - [So long, farewell, Kennedy Center. Let’s put on a happy face.](https://www.washingtonpost.com/opinions/interactive/2026/kennedy-center-smithsonian-museum-hours/?itid=hp_opinions_p001_f013)
-    - [Gretchen Whitmer’s failed literacy test](https://www.washingtonpost.com/opinions/2026/03/23/michigan-gretchen-whitmer-literacy/)
-    - [LaGuardia crash, controller said he ‘messed up’](https://www.washingtonpost.com/transportation/2026/03/23/us-airport-laguardia-air-canada-plane/)
- - ARTICLES/VIDEOS
-    - [The Roadmap to Calculus I Wish I Had](https://www.youtube.com/watch?v=FavU_QaY9wA)
-      - [DESMOS](https://www.desmos.com/)
-        - Free Graphing Calculator
-    - [From Trump Worship to Panic: Watching the MAGA Meltdown in Real Time](https://www.youtube.com/watch?v=CCMSEsJXzjc)
-    - [Workbench Essentials When Starting Arduino! (Beginner Guide)](https://www.youtube.com/watch?v=kWFXAqv2ZKw)
-      - Arduino
-      - Breadboard
-      - jumper wires to get: male-male, make-female, female-female
-      - Get a starter kit
-      - Multimeter
-    - [The 13th, 14th, and 15th Amendments](https://www.youtube.com/watch?v=zk4zDNQbcc8)
-    - [20 Things in Electronics That Confused me 20 Years Ago](https://www.youtube.com/watch?v=vS7sBctUgro)
-    - [Dan Bongino Gets Heated After Heckler Calls Him a “Coward” | MAGA Mondays](https://www.youtube.com/watch?v=RaVb3adFhYE)
+    - []()
+    - []()
+    - []()
+   - ARTICLES/VIDEOS
+    - []()
+    - []()
+    - []()
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1000  (Practice) --> 1000 [Peta - Last week: 16,450 XP (13th in Peta League)]
+  - XP: 1000  (Practice) --> 2500 [Peta - Last week: 16,450 XP (13th in Peta League)]
     - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Customer Analytics 
+    - Completed this project. I did use Copilot to create general functions to 
+      convert columns (since there were many) to categorical and some had an order
   - Practice:
-    - Large Language Models (LLMs) Concepts
-    - Introduction to Regression with Statsmodel in Python:Simple Linear Regression Model
-    - Statistical Thinking in Python Part 2: Parameter estimation by optimzation
-    - Reshaping Data with pandas
+    - Understanding Data Visualization
+    - Intermediate Python for Developers
+    - Cleaning Data in Python
+    - Writing Functions in Python: Decorators
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
