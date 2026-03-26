@@ -1,4 +1,4 @@
-### Day 544: March 25, 2026 (Wednesday)
+### Day 545: March 26, 2026 (Thursday)
 - ORDER
   - DATACAMP
     - ^[0-9].*XP$
@@ -41,33 +41,34 @@
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - [Gregory Bovino’s Final Days: Harsh Words and Few Regrets](https://www.nytimes.com/2026/03/24/us/gregory-bovino-border-patrol.html)
-    - [Young Graduates Face the Grimmest Job Market in Years](https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html)
-    - []()  
+    - [T.S.A. Tipped Off ICE Agents Before Arrests at San Francisco Airport](https://www.nytimes.com/2026/03/24/us/tsa-data-ice-deportation-san-francisco-airport.html)
+    - [How a County Sheriff Dethroned ‘North Carolina’s King’](https://www.nytimes.com/2026/03/24/us/berger-page-north-carolina-senate-gop.html)
+    - [San Francisco Killed 8th-Grade Algebra. Now It’s Set to Come Back.](https://www.nytimes.com/2026/03/24/us/san-francisco-public-schools-algebra.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Iran’s missiles pierce Israel’s defenses, raising doubts about interceptors](https://www.washingtonpost.com/world/2026/03/25/iran-missiles-israel-air-defense/)
+    - [Prosecutor admits government lacks evidence of misconduct by Fed chair](https://www.washingtonpost.com/national-security/2026/03/24/powell-fed-chair-subpoena-prosecutor/)
+    - [In Trump’s war messaging, veterans see something new — and disturbing](https://www.washingtonpost.com/technology/2026/03/25/veterans-backlash-white-house-iran-memes/)
+    - [There’s a reason for MAGA’s 100% support of Trump](https://www.washingtonpost.com/opinions/2026/03/24/trump-maga-republicans-iran/)
    - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [History Of Call Of Duty WW2 Games](https://www.youtube.com/watch?v=BIJagpuSlWg)
+    - [This Trump Nomination Was So Bad…They Had to Pull It](https://www.youtube.com/watch?v=VA67Z8RyluI)
+    - [The WORST vs BEST Civilization on Arena](https://www.youtube.com/watch?v=KH7zjxq353Y)
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1000  (Practice) --> 2500 [Peta - Last week: 16,450 XP (13th in Peta League)]
+  - XP: 1000  (Practice) --> 2450 [Peta - Last week: 16,450 XP (13th in Peta League)]
     - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
-  - PROJECT: Customer Analytics 
-    - Completed this project. I did use Copilot to create general functions to 
-      convert columns (since there were many) to categorical and some had an order
   - Practice:
-    - Understanding Data Visualization
-    - Intermediate Python for Developers
-    - Cleaning Data in Python
-    - Writing Functions in Python: Decorators
+    - Introduction to Data Science in Python
+    - Introduction to Object-Oriented Programming in Python
+    - Statistical Thinking in Python (Part 1)
+      - The average student sleeps 6 hours a night, 7 nights a week. Fill in
+        the best function to model this situation with 10000 samples:
+        samples = np.random.normal(6, size=10000)
+    - Joining Data with pandas
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -80,7 +81,8 @@
   - Course:  Generative AI Concepts 
     - Working on chapter 2/4 - Developing Generative AI Models
   - Course: Foundations of Probability in Python
-    - Working on chapter 3/4
+    - Completed chapter 4/4
+    - Completed Course
   - Course: Statistical Thinking in Python (Part 2)
      - Working on chapter 2/4 - Bootstrap confidence intervals
   - Review R
@@ -152,7 +154,7 @@
     - DON'T USE Copilot to draw images. It will be inaccurate.
   - READING: Introductory DC/AC Electronics, 6th Edition by Nigel P. Cook
     - PART A: The Fundamentals of Electricity
-      - Reading Chapter 1: Current and Voltage
+      - Reading Chapter 2: Resistance and Power
   - RADIO TECH
     - READING:
       - Wireless, from Marconi's black-box to the audion
@@ -228,5 +230,5 @@
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
       - PART III - The Glorious Revival
-        - Working on chapter 6 arther bailey
+       - Working on chapter 7 - From Tool to Theology
 - GRADE: NA
