@@ -4,3 +4,6 @@
 [submodule "src/python_projects/arjan_codes_examples"]
 	path = src/python_projects/arjan_codes_examples
 	url = https://github.com/arjancodes/examples.git
+[submodule "src/coursera/developing_frontend_apps_with_react/module04/final_project/e-plantShopping"]
+	path = src/coursera/developing_frontend_apps_with_react/module04/final_project/e-plantShopping
+	url = https://github.com/nyguerrillagirl/e-plantShopping.git
