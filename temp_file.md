@@ -1,4 +1,4 @@
-### Day 545: March 26, 2026 (Thursday)
+### Day 546: March 27, 2026 (Friday)
 - ORDER
   - DATACAMP
     - ^[0-9].*XP$
@@ -24,12 +24,8 @@
   - PROJECT - Math
   - PROJECT - Arduino
 - NOTE FOR THE DAY:
-  - Did quite a bit of cleaning. Found two things I have been looking for:
-    - Make: Electronics Component Kit #1 
-    - The Cat 
-  - Spending a bit if time moving books from downloads into EBOOKS
-    - Given the number of books I have downloaded - this will take some time
-    - I had to stop after only around 8 books because Windows Explorer got jammed.
+  - IMPROVEMENT: Move ORDER OUTSIDE of the list. I add it and delete it EVERY DAY, 
+    but it rarely changes.
   - GOAL for the WEEK: Finish up some long standing items
       - Todays it will be Datacamp Project: Customer Analytics 
   - Checkout: 
@@ -41,34 +37,37 @@
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - [T.S.A. Tipped Off ICE Agents Before Arrests at San Francisco Airport](https://www.nytimes.com/2026/03/24/us/tsa-data-ice-deportation-san-francisco-airport.html)
-    - [How a County Sheriff Dethroned ‘North Carolina’s King’](https://www.nytimes.com/2026/03/24/us/berger-page-north-carolina-senate-gop.html)
-    - [San Francisco Killed 8th-Grade Algebra. Now It’s Set to Come Back.](https://www.nytimes.com/2026/03/24/us/san-francisco-public-schools-algebra.html)
+    - [How a Healthy Mind-Set Influences Longevity](https://www.nytimes.com/2026/03/26/well/mind/mind-set-longevity-aging.html)
+    - []()
+    - []()
   - WAPO
-    - [Iran’s missiles pierce Israel’s defenses, raising doubts about interceptors](https://www.washingtonpost.com/world/2026/03/25/iran-missiles-israel-air-defense/)
-    - [Prosecutor admits government lacks evidence of misconduct by Fed chair](https://www.washingtonpost.com/national-security/2026/03/24/powell-fed-chair-subpoena-prosecutor/)
-    - [In Trump’s war messaging, veterans see something new — and disturbing](https://www.washingtonpost.com/technology/2026/03/25/veterans-backlash-white-house-iran-memes/)
-    - [There’s a reason for MAGA’s 100% support of Trump](https://www.washingtonpost.com/opinions/2026/03/24/trump-maga-republicans-iran/)
+    - []()
+    - []()
+    - []()
    - ARTICLES/VIDEOS
-    - [History Of Call Of Duty WW2 Games](https://www.youtube.com/watch?v=BIJagpuSlWg)
-    - [This Trump Nomination Was So Bad…They Had to Pull It](https://www.youtube.com/watch?v=VA67Z8RyluI)
-    - [The WORST vs BEST Civilization on Arena](https://www.youtube.com/watch?v=KH7zjxq353Y)
+    - Process these articles
+      - [The Evolving Foundations of Math](https://www.quantamagazine.org/series/the-evolving-foundations-of-math/)
+      - [The Math That Explains Why Bell Curves Are Everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/)
+      - [Math Puzzle: Find the three values](https://www.scientificamerican.com/game/math-puzzle-three-values/)
+    - [Digital Electronics - The First Video YOU Should Watch](https://www.youtube.com/watch?v=pDELW2pIvWw)
+    - [Politics Chat, March 26, 2026](https://www.youtube.com/watch?v=SYmMXQuBqgg)
+    - []()
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1000  (Practice) --> 2450 [Peta - Last week: 16,450 XP (13th in Peta League)]
+  - XP: 1250  (Practice) --> 2450 [Peta - Last week: 16,450 XP (13th in Peta League)]
     - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Introduction to Data Science in Python
-    - Introduction to Object-Oriented Programming in Python
-    - Statistical Thinking in Python (Part 1)
-      - The average student sleeps 6 hours a night, 7 nights a week. Fill in
-        the best function to model this situation with 10000 samples:
-        samples = np.random.normal(6, size=10000)
-    - Joining Data with pandas
+    - Intermediate R
+    - Object-Orientd Programming in Python
+    - Introduction to Functions in Python
+    - Foundations of Probability in Python
+    - Introduction to Importing Data in Python
+      - Which of the following correctly describes the structure of a MATLAB file?
+        keys are equivalent to MATLAB variable names, values are equivalent to objects assigned to variables
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -84,7 +83,13 @@
     - Completed chapter 4/4
     - Completed Course
   - Course: Statistical Thinking in Python (Part 2)
-     - Working on chapter 2/4 - Bootstrap confidence intervals
+     - Completed chapter 2/5 - Bootstrap confidence intervals
+     - Working on chapter 3/5 - Formulating and simulating a hypothesis
+     - TODO: Review from beginning
+  - Course: Regular Expressions in Python
+    - Working on chapter 1/4 - Introduction to String Manipulation
+  - Course: Introduction to Shell
+    - Working on chapter 1/5 - Manipulating Files and directories
   - Review R
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
@@ -92,14 +97,13 @@
 - FIGMA Marathon
   - Working on Challenge 7/26 - Auto-layout II
 - Coursera DEVELOPING FRONT-END APPS WITH REACT
-  - I think I have enough Redux in me to continue the course today.
-    - Correction: In reviewing the course material I see I need to continue my
-      oreilly course and get to the Middleware material. The goal for this week:
-      - continue working on oreilly course
-      - complete the last lab on Conference Expense Planner
-  - Review Redux topics as covered in my course notes
-    - Reviewing Redux - see React section
-  - Working on Module 4/4
+  - Working on Final Project
+  - Created https://github.com/nyguerrillagirl/e-plantShopping
+  - Added starting code from lab
+    - git status
+    - git add .
+    - git commit -m "<message>"
+    - git push origin main
 - Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
   - Working on Module 4 for  Course 7/9 - Prinicples of UX/UI Design
     - Designing your UI
