@@ -1,33 +1,12 @@
-### Day 546: March 27, 2026 (Friday)
-- ORDER
-  - DATACAMP
-    - ^[0-9].*XP$
-    - GOAL: Get over 2000 XP daily
-  - COURSERA
-    - Developing Frontend Apps with React
-    - Meta Frontend - Principles of UX/UI Design
-    - Continue to work on Figma Marathon and my personal React project to get
-      ready for the final projects/assignments in Coursera courses
-  - Figma Marathon
- - NYT, WAPO 
-    - Read at least 3 articles in each one
-    - []()
-    - []()
-    - []()
-  - REACT READING
-    - 10 pages a day
-   - REALPYTHON course
-  - READ/PROCESS AN ARTICLE (1/2 articles a day)
-  - Engineering Book Club Preparation
-    - Reading Tidy First?
-  - PROJECT - Data Science with Python Workbook
-  - PROJECT - Math
-  - PROJECT - Arduino
+### Day 547: March 28, 2026 (Saturday)
 - NOTE FOR THE DAY:
+  - Added final project as a submodule to this overall repo
   - IMPROVEMENT: Move ORDER OUTSIDE of the list. I add it and delete it EVERY DAY, 
     but it rarely changes.
   - GOAL for the WEEK: Finish up some long standing items
-      - Todays it will be Datacamp Project: Customer Analytics 
+    - Working on Coursera Final Project
+      - Created REPO
+      - Working on Notes. See that section for more details
   - Checkout: 
     [Learn C++ The Hard Way](https://learncodethehardway.com/courses/learn-cpp-the-hard-way/)
     - Created new folder GAME_DEVELOPMENT and put the zip file 
@@ -37,9 +16,10 @@
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - [How a Healthy Mind-Set Influences Longevity](https://www.nytimes.com/2026/03/26/well/mind/mind-set-longevity-aging.html)
-    - []()
-    - []()
+    - [Global Food Supply Faces a Dangerous Bottleneck as Iran War Persists](https://www.nytimes.com/2026/03/27/business/economy/fertilizer-food-supply-iran-war.html)
+    - [Hegseth Strikes Two Black and Two Female Officers From Promotion List](https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html)
+    - [It’s Not Trump. It’s America.](https://www.nytimes.com/2026/03/26/opinion/trump-america-iran-war.html)
+    - [There’s a Good Reason You Can’t Concentrate](https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html)
   - WAPO
     - []()
     - []()
@@ -49,25 +29,22 @@
       - [The Evolving Foundations of Math](https://www.quantamagazine.org/series/the-evolving-foundations-of-math/)
       - [The Math That Explains Why Bell Curves Are Everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/)
       - [Math Puzzle: Find the three values](https://www.scientificamerican.com/game/math-puzzle-three-values/)
-    - [Digital Electronics - The First Video YOU Should Watch](https://www.youtube.com/watch?v=pDELW2pIvWw)
-    - [Politics Chat, March 26, 2026](https://www.youtube.com/watch?v=SYmMXQuBqgg)
-    - []()
+    - [The Real Reason Why OpenAI Just Shutdown Sora](https://www.youtube.com/watch?v=wkpUQG7hPNo)
+    - [Francesca & Michaela | full story {Bridgerton}](https://www.youtube.com/watch?v=POZugOtsaJs)
+    - [What Is a P-Value? A Simple Explanation!](https://www.youtube.com/watch?v=YMj79TfYUps&t=53s)
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1250  (Practice) --> 2450 [Peta - Last week: 16,450 XP (13th in Peta League)]
+  - XP: 1000  (Practice) --> 2200 [Peta - Last week: 16,450 XP (13th in Peta League)]
     - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Intermediate R
-    - Object-Orientd Programming in Python
-    - Introduction to Functions in Python
-    - Foundations of Probability in Python
-    - Introduction to Importing Data in Python
-      - Which of the following correctly describes the structure of a MATLAB file?
-        keys are equivalent to MATLAB variable names, values are equivalent to objects assigned to variables
+    - Large Language Models (LLMs) Concepts
+    - Intermediate Python for Developers
+    - Reshaping Data with pandas
+    - Software Engineering Principles in Python
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -78,10 +55,8 @@
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course:  Generative AI Concepts 
-    - Working on chapter 2/4 - Developing Generative AI Models
-  - Course: Foundations of Probability in Python
-    - Completed chapter 4/4
-    - Completed Course
+    - Completed chapter 3/4 - Using AI Models and Generated Content Responsibly
+    - Working on chapter 4/4 - Getting Ready for the Age of Generative AI
   - Course: Statistical Thinking in Python (Part 2)
      - Completed chapter 2/5 - Bootstrap confidence intervals
      - Working on chapter 3/5 - Formulating and simulating a hypothesis
@@ -104,6 +79,9 @@
     - git add .
     - git commit -m "<message>"
     - git push origin main
+  - Had to perform the following tasks:
+    - git rm --cached src/coursera/developing_frontend_apps_with_react/module04/final_project/e-plantShopping
+    - git submodule add https://github.com/nyguerrillagirl/e-plantShopping.git src/coursera/developing_frontend_apps_with_react/module04/final_project/e-plantShopping
 - Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
   - Working on Module 4 for  Course 7/9 - Prinicples of UX/UI Design
     - Designing your UI
