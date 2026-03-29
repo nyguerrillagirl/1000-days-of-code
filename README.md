@@ -12,16 +12,20 @@
 |10/31/2025| My progress has slowed down on Coursera courses, due to concentration on Datacamp|
 |          | and other projects.  My goal is to complete FE course by the end of the year|
 |          | then resume Cybersecurity specialization and take on Machine Learning|
+|03/28/2026| Today I decided to cleanup my daily TODO list (see log1000.md)|
 
 # GOAL #1: Complete all current Coursera courses
 - Meta Frontend Developer 
     - this is going very slowly
 - Google Cybersecurity
-    - I have not resumed this specialization, on my TO-DO list
+    - I dropped this specialization
+- I picked up the course "Developing Front-End Apps with React" 11/2026 and again
+    got stuck completing the final project
 
 # GOAL #2: Learning Data Science
 - Datacamp courses, taking all courses in the Associate Data Scientist in Python
     - still working on this
+- I am on the Associate Python Developer Track. I have two courses remaining.
 
 # Goal #3: Book Club
 - Tech Reading
@@ -34,6 +38,7 @@ Under /src
 - coursera
     - meta_front_end_developer
         - course_principles_of_ux_ui_design
+    - developing_frontend_apps_with_react
 - docs
     - 2D_GAME_ENGINE_USING_CPP
     - CRVG PROJECT
@@ -48,6 +53,7 @@ Under /src
             - my adventure trying to get the window terminal to correctly size
         - Tiled Map Editor.docx
             - In progress - note on the tiled map editor program
+- figma_marathon
 - html_css_javascript_projects
     - my progress on the snake game 
     - [How to Build a Snake Game using Phaser.js](https://www.freecodecamp.org/news/how-to-build-a-snake-game-using-phaserjs/)

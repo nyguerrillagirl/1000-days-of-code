@@ -1,12 +1,21 @@
-### Day 547: March 28, 2026 (Saturday)
+### Day 548: March 29, 2026 (Sunday)
 - NOTE FOR THE DAY:
-  - Added final project as a submodule to this overall repo
-  - IMPROVEMENT: Move ORDER OUTSIDE of the list. I add it and delete it EVERY DAY, 
-    but it rarely changes.
-  - GOAL for the WEEK: Finish up some long standing items
-    - Working on Coursera Final Project
-      - Created REPO
-      - Working on Notes. See that section for more details
+  - CREATE NEW FOLDER 75_2026_B
+    - Move only projects I work on. 
+    - Remove all completed and dropped work on top list
+    - Dropping from reading list:
+    | Beginning PyQt [Book]|02/14/2026| | * |
+    | Redux in Action [Book]|02/22/2026| | * |
+    | How to Bake p [Book]|01/02/2026| | * |
+    | Data Analysis [Book]|01/16/2026| | * |
+    | Pandas Workout [Book]|02/06/2026| | * | 
+    | Scientific Python Lectures [Book]|03/20/2026| | * |
+    - Dropped the following projects:
+      - PROJECT: Robtotron 2048
+      - PROJECT: Math
+      - PROJECT: W:ET
+    - Moved detailed task list on figma project to outside document
+  - Start learning R
   - Checkout: 
     [Learn C++ The Hard Way](https://learncodethehardway.com/courses/learn-cpp-the-hard-way/)
     - Created new folder GAME_DEVELOPMENT and put the zip file 
@@ -16,10 +25,9 @@
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - [Global Food Supply Faces a Dangerous Bottleneck as Iran War Persists](https://www.nytimes.com/2026/03/27/business/economy/fertilizer-food-supply-iran-war.html)
-    - [Hegseth Strikes Two Black and Two Female Officers From Promotion List](https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html)
-    - [It’s Not Trump. It’s America.](https://www.nytimes.com/2026/03/26/opinion/trump-america-iran-war.html)
-    - [There’s a Good Reason You Can’t Concentrate](https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html)
+    - [Why millions of seniors have suddenly lost health care coverage](https://www.washingtonpost.com/health/2026/03/28/insurance-health-care-medicare-seniors/)
+    - []()
+    - []()
   - WAPO
     - []()
     - []()
@@ -29,22 +37,29 @@
       - [The Evolving Foundations of Math](https://www.quantamagazine.org/series/the-evolving-foundations-of-math/)
       - [The Math That Explains Why Bell Curves Are Everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/)
       - [Math Puzzle: Find the three values](https://www.scientificamerican.com/game/math-puzzle-three-values/)
-    - [The Real Reason Why OpenAI Just Shutdown Sora](https://www.youtube.com/watch?v=wkpUQG7hPNo)
-    - [Francesca & Michaela | full story {Bridgerton}](https://www.youtube.com/watch?v=POZugOtsaJs)
-    - [What Is a P-Value? A Simple Explanation!](https://www.youtube.com/watch?v=YMj79TfYUps&t=53s)
+    - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/)
+    - []()
+    - []()
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1000  (Practice) --> 2200 [Peta - Last week: 16,450 XP (13th in Peta League)]
+  - XP:  1250 (Practice) --> 2650 [Peta - Last week: 16,450 XP (13th in Peta League)]
     - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Large Language Models (LLMs) Concepts
-    - Intermediate Python for Developers
-    - Reshaping Data with pandas
-    - Software Engineering Principles in Python
+    - Introduction to Data Visualization with Matplotlib
+        - How does **ax.twinx()** affect a plot? It creates a second axes that
+          shares the x-axis
+        - histtype="step"
+        - Drawing a line plot
+          - ax.plot(amazon["date"], amazon["open"])
+        - sharey=True
+    - Introduction to R
+    - Data Communication Concepts
+    - Statistical Thinking in Python (Part 2)
+    - Generative AI Concepts
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -55,8 +70,8 @@
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course:  Generative AI Concepts 
-    - Completed chapter 3/4 - Using AI Models and Generated Content Responsibly
-    - Working on chapter 4/4 - Getting Ready for the Age of Generative AI
+    - Completed chapter 4/4 - Getting Ready for the Age of Generative AI
+    - Completed Course
   - Course: Statistical Thinking in Python (Part 2)
      - Completed chapter 2/5 - Bootstrap confidence intervals
      - Working on chapter 3/5 - Formulating and simulating a hypothesis
@@ -87,35 +102,6 @@
     - Designing your UI
       - Working on Prototyping, Sharing and testing your design
       - Next up: Module 5 
-  - TASK LIST:
-    - Create Flowchart - COMPLETED
-    - Fix Reservation Screen (make it prettier) 
-      - selected a video [Form Design in Figma with Interactive Components](https://www.youtube.com/watch?v=ZWwE0GWEXDc)
-    - Work on prototype
-      - Prototype - COMPLETED
-      - JourneyMap - Completed
-      - Wireframe - HomePage
-        - Check that it uses Style Guide
-      - Wireframe - ReserveTable-Step1
-        - Check that is uses Style Guide
-       - Wireframe - ReserveTable-Step2
-        - Check that is uses Style Guide
-      - HighFidelityWireframe-ConfirmationDialog
-        - Check that is uses Style Guide       
-      - HighFidelityWireframe-Step 1
-        - Check that is uses Style Guide
-        - Prototype  
-      - HighFidelityWireframe-Step 2
-        - Check that is uses Style Guide
-        - Prototype       
-      - Return back to home page 
-      - Goal is to submit on 3/28
-- PROJECT: W:ET
-  - Started Notes
-  - I am interested in getting ET:Legacy working on my machine. I may decide to use my 
-    notebook ...in order to have a clean machine.
-  - Need to see: [Enemy Territory Quake Wars Full Installation Guide 2021](https://www.youtube.com/watch?v=0nWOt3GF3_M)
-  - Working on list of software to download at https://www.myabandonware.com/game/enemy-territory-quake-wars-ixd#download 
 - PROJECT: REAL PYTHON
   - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
   - [Build Your Weekly Python Study Schedule: 7 Days to Consistent Progress](https://realpython.com/weekly-study-schedule/)
@@ -143,19 +129,10 @@
         - Reading 1/7 - Hertzian Optics and Wireless Telegraphy- PROJECT: Advent of Code
   - Completed on 2020 - Day 5 Part 1 and Part 2
   - Working on 2021 - Day 5 Part 1 
-- PROJECT: Math
-  - Reading "Elements of Mathematics" by Gabor Toth
-    - Chapter 0/11 - Preliminaries: Sets, Relations, Maps
-  - Reading How to Bake π 
-      - Working on chapter 5/15 - Generalization
 - PROJECT: Learning Data Science with Python Workbook (LDSPW)
   - Working on Part I - Python Basics to Master
   - Working on Part IV - Learning NumPy, pandas and matplotlib
     - working on NumPy
-- PROJECT: Robtotron 2048
-  - download a web version on the Internet. Not faithful to how it starts.
-  - I would like to play the original 
-  - Use the video: [Arcade Game: Robotron 2084 (1982 Williams)](https://www.youtube.com/watch?v=l800GL6NQPY)
 - PROJECT: React
   - Working on O'Reilly Course - The Redux Official Course Tutorial
     - Working on chapter 6/10 - Social Media App with Redux Example
@@ -184,29 +161,15 @@
     - Finally resuming my reading
     - Working chapter 9/21 - Securing a React Application through Testing
       - start page: 422  end page: 461
-      - red, green, refactor
-      - arrange, act, and assert
-      - expect([result]).[matcher]([expectation])
-        - expect(result).toBe(2)
     - GOAL: The goal (to get a C and above) is to complete 10 pages a day
       - This will allow me to complete the book in 90 days from today
     - npm install -D sass
   - Tidy First? 
     - Target: Complete chapters 4-10 by 2/25
     - Target: Reading chapters 11-15
-  - Pandas Workout
-    - Reading Chapter 1/13 - Series
   - Learn Electronics with Arduino
     - Completed chapter 1/9 Introduction to Arduino
     - Reading chapter 2/9 Your Arduino
-  - Beginning PyQt
-    - Reading Chapter 2/12 - Getting Started with PyQt
-      - Current Page: 7
-      - Last Page: 20
-  - Scientific Python Lectures
-    - Part I: Getting started with Python for science
-      - Completed Chapter 1/18 - Python scientific computing ecosystem
-      - Working on chapter 2/18 - The Python Language
  - Non-Tech Reading
     - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
