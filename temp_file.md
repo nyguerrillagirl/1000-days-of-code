@@ -1,20 +1,5 @@
-### Day 548: March 29, 2026 (Sunday)
+### Day 549: March 30, 2026 (Monday)
 - NOTE FOR THE DAY:
-  - CREATE NEW FOLDER 75_2026_B
-    - Move only projects I work on. 
-    - Remove all completed and dropped work on top list
-    - Dropping from reading list:
-    | Beginning PyQt [Book]|02/14/2026| | * |
-    | Redux in Action [Book]|02/22/2026| | * |
-    | How to Bake p [Book]|01/02/2026| | * |
-    | Data Analysis [Book]|01/16/2026| | * |
-    | Pandas Workout [Book]|02/06/2026| | * | 
-    | Scientific Python Lectures [Book]|03/20/2026| | * |
-    - Dropped the following projects:
-      - PROJECT: Robtotron 2048
-      - PROJECT: Math
-      - PROJECT: W:ET
-    - Moved detailed task list on figma project to outside document
   - Start learning R
   - Checkout: 
     [Learn C++ The Hard Way](https://learncodethehardway.com/courses/learn-cpp-the-hard-way/)
@@ -25,19 +10,19 @@
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - [Why millions of seniors have suddenly lost health care coverage](https://www.washingtonpost.com/health/2026/03/28/insurance-health-care-medicare-seniors/)
-    - []()
-    - []()
+    - [5 Takeaways From the ‘No Kings’ Rallies as the Midterms Heat Up](https://www.nytimes.com/2026/03/29/us/politics/no-kings-rallies-takeaways.html)
+    - [Actress Says She’s Found Her Secret Online Abuser: Her Husband](https://www.nytimes.com/2026/03/27/world/europe/collien-fernandes-deepfake-online-abuse.html)
+    - [How a Mistake Led to the Breakout Star of ‘Project Hail Mary’](https://www.nytimes.com/2026/03/29/movies/project-hail-mary-rocky-alien-voice.html)
   - WAPO
-    - []()
-    - []()
+    - [Pentagon prepares for weeks of ground operations in Iran](https://www.washingtonpost.com/national-security/2026/03/28/trump-iran-ground-troops-marines/)
+    - [Before an elevator door severed her arm, tenants complained about safety](https://www.washingtonpost.com/dc-md-va/2026/03/29/elevator-accident-arm-surgery-washington-dog/)
     - []()
    - ARTICLES/VIDEOS
     - Process these articles
       - [The Evolving Foundations of Math](https://www.quantamagazine.org/series/the-evolving-foundations-of-math/)
       - [The Math That Explains Why Bell Curves Are Everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/)
       - [Math Puzzle: Find the three values](https://www.scientificamerican.com/game/math-puzzle-three-values/)
-    - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/)
+    - []()
     - []()
     - []()
 - Data Camp [DS]
@@ -49,17 +34,10 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Introduction to Data Visualization with Matplotlib
-        - How does **ax.twinx()** affect a plot? It creates a second axes that
-          shares the x-axis
-        - histtype="step"
-        - Drawing a line plot
-          - ax.plot(amazon["date"], amazon["open"])
-        - sharey=True
-    - Introduction to R
-    - Data Communication Concepts
-    - Statistical Thinking in Python (Part 2)
-    - Generative AI Concepts
+    - Manipulating files and directories
+    - Introduction to Importing Data in R
+    - Intermediate Python
+    - Bootstrap confidence intervals
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -87,16 +65,8 @@
 - FIGMA Marathon
   - Working on Challenge 7/26 - Auto-layout II
 - Coursera DEVELOPING FRONT-END APPS WITH REACT
-  - Working on Final Project
-  - Created https://github.com/nyguerrillagirl/e-plantShopping
-  - Added starting code from lab
-    - git status
-    - git add .
-    - git commit -m "<message>"
-    - git push origin main
-  - Had to perform the following tasks:
-    - git rm --cached src/coursera/developing_frontend_apps_with_react/module04/final_project/e-plantShopping
-    - git submodule add https://github.com/nyguerrillagirl/e-plantShopping.git src/coursera/developing_frontend_apps_with_react/module04/final_project/e-plantShopping
+  - Completed the course
+  - URL of [Final Project](https://nyguerrillagirl.github.io/e-plantShopping/)
 - Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
   - Working on Module 4 for  Course 7/9 - Prinicples of UX/UI Design
     - Designing your UI
