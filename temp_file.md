@@ -1,4 +1,4 @@
-### Day 549: March 30, 2026 (Monday)
+### Day 550: March 31, 2026 (Tuesday)
 - NOTE FOR THE DAY:
   - Start learning R
   - Checkout: 
@@ -10,20 +10,24 @@
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - [5 Takeaways From the ‘No Kings’ Rallies as the Midterms Heat Up](https://www.nytimes.com/2026/03/29/us/politics/no-kings-rallies-takeaways.html)
-    - [Actress Says She’s Found Her Secret Online Abuser: Her Husband](https://www.nytimes.com/2026/03/27/world/europe/collien-fernandes-deepfake-online-abuse.html)
-    - [How a Mistake Led to the Breakout Star of ‘Project Hail Mary’](https://www.nytimes.com/2026/03/29/movies/project-hail-mary-rocky-alien-voice.html)
+    - [How a Database Manager Lives on $118,000 in Inwood](https://www.nytimes.com/interactive/2026/03/30/nyregion/nyc-budgeting-affordability-kaal.html)
+    - [Israel Pulls Battalion From West Bank After Soldier Talks of ‘Revenge’](https://www.nytimes.com/2026/03/30/world/middleeast/israel-west-bank-battalion.html)
+    - [Trump’s Birthright Citizenship Order at Supreme Court Splits Conservative Scholars](https://www.nytimes.com/2026/03/30/us/politics/supreme-court-trump-birthright-conservatives.html)
   - WAPO
-    - [Pentagon prepares for weeks of ground operations in Iran](https://www.washingtonpost.com/national-security/2026/03/28/trump-iran-ground-troops-marines/)
-    - [Before an elevator door severed her arm, tenants complained about safety](https://www.washingtonpost.com/dc-md-va/2026/03/29/elevator-accident-arm-surgery-washington-dog/)
-    - []()
+    - [These 1960s orders trap Alabama schools in the past](https://www.washingtonpost.com/opinions/2026/03/30/race-discrimination-schools-alabama-affirmative-action/)
+    - [Trump officials cite white supremacists in bid to end birthright citizenship](https://www.washingtonpost.com/politics/2026/03/30/trump-birthright-citizenship-supreme-court-case/)
+    - [This simple trick can cut your risk of traveler’s diarrhea by 65 percent](https://www.washingtonpost.com/wellness/2026/03/30/how-to-prevent-travelers-diarrhea/)
+      - Pepto-Bismol or  bismuth subsalicylate
+      -  classic studies testing two tablets four times daily in U.S. students traveling to Mexico showed it confers 
+         65 percent protection against traveler’s diarrhea. The bismuth component provides antibacterial and antiviral 
+         effects, and unlike antibiotics, it does not contribute to antimicrobial resistance or disrupt your gut microbiome.
    - ARTICLES/VIDEOS
     - Process these articles
       - [The Evolving Foundations of Math](https://www.quantamagazine.org/series/the-evolving-foundations-of-math/)
       - [The Math That Explains Why Bell Curves Are Everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/)
       - [Math Puzzle: Find the three values](https://www.scientificamerican.com/game/math-puzzle-three-values/)
-    - []()
-    - []()
+    - [Chennedy Carter OFFICIALLY BANNED After Caitlin Clark Assault! WNBA Sends Strongest Message EVER](https://www.youtube.com/watch?v=yjF9UDQqPvU)
+    - [He Thought Laming Me Was a Good Idea... | Rage Forest](https://www.youtube.com/watch?v=aydFOlii1co)
     - []()
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
@@ -47,9 +51,6 @@
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
-  - Course:  Generative AI Concepts 
-    - Completed chapter 4/4 - Getting Ready for the Age of Generative AI
-    - Completed Course
   - Course: Statistical Thinking in Python (Part 2)
      - Completed chapter 2/5 - Bootstrap confidence intervals
      - Working on chapter 3/5 - Formulating and simulating a hypothesis
@@ -57,17 +58,18 @@
   - Course: Regular Expressions in Python
     - Working on chapter 1/4 - Introduction to String Manipulation
   - Course: Introduction to Shell
-    - Working on chapter 1/5 - Manipulating Files and directories
+    - Working on chapter 3/5 - Manipulating Files and directories
   - Review R
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
       - [R For Data Science](https://r4ds.had.co.nz/introduction.html)
 - FIGMA Marathon
-  - Working on Challenge 7/26 - Auto-layout II
-- Coursera DEVELOPING FRONT-END APPS WITH REACT
-  - Completed the course
-  - URL of [Final Project](https://nyguerrillagirl.github.io/e-plantShopping/)
+  - Completed Challenge 7/26 - Auto-layout II
+    - This took a bit of work, I had to play with trying to reconstruct and 
+      follow the lesson before taking on the challenge.
 - Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
+  - Re-visiting current notes
+  - Adding a Development Task Section and getting on with it!
   - Working on Module 4 for  Course 7/9 - Prinicples of UX/UI Design
     - Designing your UI
       - Working on Prototyping, Sharing and testing your design
