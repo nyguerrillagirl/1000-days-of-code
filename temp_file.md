@@ -1,4 +1,4 @@
-### Day 550: March 31, 2026 (Tuesday)
+### Day 551: April 1, 2026 (Wednesday)
 - NOTE FOR THE DAY:
   - Start learning R
   - Checkout: 
@@ -10,37 +10,37 @@
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - [How a Database Manager Lives on $118,000 in Inwood](https://www.nytimes.com/interactive/2026/03/30/nyregion/nyc-budgeting-affordability-kaal.html)
-    - [Israel Pulls Battalion From West Bank After Soldier Talks of ‘Revenge’](https://www.nytimes.com/2026/03/30/world/middleeast/israel-west-bank-battalion.html)
-    - [Trump’s Birthright Citizenship Order at Supreme Court Splits Conservative Scholars](https://www.nytimes.com/2026/03/30/us/politics/supreme-court-trump-birthright-conservatives.html)
+    - [Sketches Found in a Closet Reveal Reality of the Holocaust](https://www.nytimes.com/2026/03/31/nyregion/sketches-holocaust-manhattan-university.html)
+    - [Judge Orders Construction Stopped on Trump’s White House Ballroom](https://www.nytimes.com/2026/03/31/us/politics/trump-white-house-ballroom-construction-ruling.html)
+    - [Army Suspends Helicopter Crew After Kid Rock Gets a Flyby](https://www.nytimes.com/2026/03/30/us/kid-rock-nashville-helicopter-video-army-inquiry.html)
   - WAPO
-    - [These 1960s orders trap Alabama schools in the past](https://www.washingtonpost.com/opinions/2026/03/30/race-discrimination-schools-alabama-affirmative-action/)
-    - [Trump officials cite white supremacists in bid to end birthright citizenship](https://www.washingtonpost.com/politics/2026/03/30/trump-birthright-citizenship-supreme-court-case/)
-    - [This simple trick can cut your risk of traveler’s diarrhea by 65 percent](https://www.washingtonpost.com/wellness/2026/03/30/how-to-prevent-travelers-diarrhea/)
-      - Pepto-Bismol or  bismuth subsalicylate
-      -  classic studies testing two tablets four times daily in U.S. students traveling to Mexico showed it confers 
-         65 percent protection against traveler’s diarrhea. The bismuth component provides antibacterial and antiviral 
-         effects, and unlike antibiotics, it does not contribute to antimicrobial resistance or disrupt your gut microbiome.
+    - [Carolyn Hax: Grandma intent on working family back channels to promote grandpa](https://www.washingtonpost.com/advice/2026/03/31/carolyn-hax-grandma-grandpa-family-excluded/)
+    - [I broke up with my Kindle. My new e-reader treats me better.](https://www.washingtonpost.com/technology/2026/03/31/e-book-marketplace-amazon-kindle-kobo/)
+    - [These tiny changes might lengthen your life](https://www.washingtonpost.com/wellness/2026/03/31/small-habits-longer-life/)
+      - adding about five minutes of sleep, two minutes of exercise and half a serving of vegetables a day to people’s 
+        normal routines could be expected to add a year or more to lifespans.
+        “We’re talking about four extra pieces of broccoli at dinner tonight, that kind of thing.”
    - ARTICLES/VIDEOS
     - Process these articles
       - [The Evolving Foundations of Math](https://www.quantamagazine.org/series/the-evolving-foundations-of-math/)
       - [The Math That Explains Why Bell Curves Are Everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/)
       - [Math Puzzle: Find the three values](https://www.scientificamerican.com/game/math-puzzle-three-values/)
-    - [Chennedy Carter OFFICIALLY BANNED After Caitlin Clark Assault! WNBA Sends Strongest Message EVER](https://www.youtube.com/watch?v=yjF9UDQqPvU)
-    - [He Thought Laming Me Was a Good Idea... | Rage Forest](https://www.youtube.com/watch?v=aydFOlii1co)
-    - []()
+    - [Circuits Finally Made Sense When I Saw This One Diagram](https://www.youtube.com/watch?v=rzLKns787Uk)
+    - [Where does “e” come from?](https://www.youtube.com/watch?v=50QPdW78Dfc)
+    - [Trump & Hegseth Are Increasingly Delusional on Hormuz; TACO Incoming? | Morning Chaser](https://www.youtube.com/watch?v=BVRwqp6sysw)
+    - [HOW TO SOLDER! (Beginner's Guide)](https://www.youtube.com/watch?v=3jAw41LRBxU)
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP:  1250 (Practice) --> 2650 [Peta - Last week: 16,450 XP (13th in Peta League)]
+  - XP:  1000 (Practice) --> 2000 [Peta - Last week: 16,450 XP (13th in Peta League)]
     - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Manipulating files and directories
-    - Introduction to Importing Data in R
-    - Intermediate Python
+    - Manipulating Data (Shell)
+    - Simple Linear Regression Modeling
+    - Intermediate Importing Data in R
     - Bootstrap confidence intervals
     - Avoid:
       - Data Manipulation with pandas
