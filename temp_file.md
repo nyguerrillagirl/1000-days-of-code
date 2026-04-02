@@ -1,4 +1,4 @@
-### Day 551: April 1, 2026 (Wednesday)
+### Day 552: April 2, 2026 (Thursday)
 - NOTE FOR THE DAY:
   - Start learning R
   - Checkout: 
@@ -10,24 +10,21 @@
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
   - NYT
-    - [Sketches Found in a Closet Reveal Reality of the Holocaust](https://www.nytimes.com/2026/03/31/nyregion/sketches-holocaust-manhattan-university.html)
-    - [Judge Orders Construction Stopped on Trump’s White House Ballroom](https://www.nytimes.com/2026/03/31/us/politics/trump-white-house-ballroom-construction-ruling.html)
-    - [Army Suspends Helicopter Crew After Kid Rock Gets a Flyby](https://www.nytimes.com/2026/03/30/us/kid-rock-nashville-helicopter-video-army-inquiry.html)
+    - [He Won Birthright Citizenship for All. His Own Family Never Knew.](https://www.nytimes.com/2026/04/01/us/politics/wong-kim-ark-birthright-citizenship.html)
+    - [Waking Up in Pain? Your Sleep Position May Need Adjusting.](https://www.nytimes.com/2026/03/30/well/mind/best-sleep-position-pain-stiffness.html)
+    - [Padma Lakshmi: The Decision That Would Create a Permanent American Underclass](https://www.nytimes.com/2026/04/01/opinion/padma-lakshmi-birthright-citizenship-food.html)
   - WAPO
-    - [Carolyn Hax: Grandma intent on working family back channels to promote grandpa](https://www.washingtonpost.com/advice/2026/03/31/carolyn-hax-grandma-grandpa-family-excluded/)
-    - [I broke up with my Kindle. My new e-reader treats me better.](https://www.washingtonpost.com/technology/2026/03/31/e-book-marketplace-amazon-kindle-kobo/)
-    - [These tiny changes might lengthen your life](https://www.washingtonpost.com/wellness/2026/03/31/small-habits-longer-life/)
-      - adding about five minutes of sleep, two minutes of exercise and half a serving of vegetables a day to people’s 
-        normal routines could be expected to add a year or more to lifespans.
-        “We’re talking about four extra pieces of broccoli at dinner tonight, that kind of thing.”
+    - [American journalist Shelly Kittleson kidnapped in Baghdad](https://www.washingtonpost.com/world/2026/03/31/shelly-kittleson-journalist-kidnapped-baghdad/)
+    - [This $2 test leads to nearly 30,000 arrests a year for no reason](https://www.washingtonpost.com/opinions/2026/03/31/police-drug-charges-tests/)
+    - [Some of the most popular graduate degrees don’t pay off financially, study finds](https://www.washingtonpost.com/education/2026/03/31/graduate-degree-earnings-study/)
    - ARTICLES/VIDEOS
     - Process these articles
       - [The Evolving Foundations of Math](https://www.quantamagazine.org/series/the-evolving-foundations-of-math/)
       - [The Math That Explains Why Bell Curves Are Everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/)
       - [Math Puzzle: Find the three values](https://www.scientificamerican.com/game/math-puzzle-three-values/)
-    - [Circuits Finally Made Sense When I Saw This One Diagram](https://www.youtube.com/watch?v=rzLKns787Uk)
-    - [Where does “e” come from?](https://www.youtube.com/watch?v=50QPdW78Dfc)
-    - [Trump & Hegseth Are Increasingly Delusional on Hormuz; TACO Incoming? | Morning Chaser](https://www.youtube.com/watch?v=BVRwqp6sysw)
+    - []()
+    - []()
+    - [How a statistical paradox can make research findings fall apart](https://www.scientificamerican.com/article/how-a-statistical-paradox-can-make-research-findings-fall-apart/)
     - [HOW TO SOLDER! (Beginner's Guide)](https://www.youtube.com/watch?v=3jAw41LRBxU)
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
@@ -38,10 +35,10 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Manipulating Data (Shell)
-    - Simple Linear Regression Modeling
-    - Intermediate Importing Data in R
-    - Bootstrap confidence intervals
+    - Combining Tools
+    - Sampling in Python
+    - Writing Functions in Python
+    - Statistical Thinking in Python (Part 2)
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -75,6 +72,7 @@
       - Working on Prototyping, Sharing and testing your design
       - Next up: Module 5 
 - PROJECT: REAL PYTHON
+  - [PyCharm for Productive Python Development (Guide)](https://realpython.com/pycharm-guide/)
   - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
   - [Build Your Weekly Python Study Schedule: 7 Days to Consistent Progress](https://realpython.com/weekly-study-schedule/)
   - [Automate Python Data Analysis With YData Profiling](https://realpython.com/ydata-profiling-eda/)
@@ -84,9 +82,10 @@
     - working on 20211205 - Part 1
   - Working on Python Core Language: Intermediate
     - [An Effective Python Environment: Making Yourself at Home](https://realpython.com/effective-python-environment/)
-      - working on this
+      - COMPLETED
     - [Your Python Coding Environment on Windows: Setup Guide](https://realpython.com/python-coding-setup-windows/)
     - [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
+    - [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
 - PROJECT: ELECTRONICS
   - Fun with Transistors 
     - Still working on youtube video
@@ -95,6 +94,9 @@
   - READING: Introductory DC/AC Electronics, 6th Edition by Nigel P. Cook
     - PART A: The Fundamentals of Electricity
       - Reading Chapter 2: Resistance and Power
+  - READING: Electronics for Kids
+    - PART 1: Playing with Electricity
+    - Reading Chapter 1: What is Electricity
   - RADIO TECH
     - READING:
       - Wireless, from Marconi's black-box to the audion
