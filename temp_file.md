@@ -1,44 +1,32 @@
-### Day 552: April 2, 2026 (Thursday)
+### Day 553: April 3, 2026 (Friday)
 - NOTE FOR THE DAY:
-  - Start learning R
-  - Checkout: 
-    [Learn C++ The Hard Way](https://learncodethehardway.com/courses/learn-cpp-the-hard-way/)
-    - Created new folder GAME_DEVELOPMENT and put the zip file 
-  - Check out: [Dungeon Crawler Jam 2026](https://itch.io/jam/dcjam2026)
-  - Found: [raycaster](https://git.zedshaw.games/games/raycaster/)
-    - https://git.zedshaw.games/games
-  - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
-    - Investigate after completing OReilly course
+  - Creating list of items from "Electronics for Kids, 2nd Edition"
   - NYT
-    - [He Won Birthright Citizenship for All. His Own Family Never Knew.](https://www.nytimes.com/2026/04/01/us/politics/wong-kim-ark-birthright-citizenship.html)
-    - [Waking Up in Pain? Your Sleep Position May Need Adjusting.](https://www.nytimes.com/2026/03/30/well/mind/best-sleep-position-pain-stiffness.html)
-    - [Padma Lakshmi: The Decision That Would Create a Permanent American Underclass](https://www.nytimes.com/2026/04/01/opinion/padma-lakshmi-birthright-citizenship-food.html)
+    - [Trump Has Discussed Firing Attorney General Pam Bondi](https://www.nytimes.com/2026/04/01/us/politics/trump-pam-bondi-future.html)
+    - [In South Dakota, Neighbors Feel Sorry for Kristi Noem’s Husband](https://www.nytimes.com/2026/03/31/us/politics/kristi-noem-husband-photos-daily-mail.html)
+    - [Goodbye ‘Geeky Hunk’? Gmail Users Can Now Change Their Usernames.](https://www.nytimes.com/2026/04/01/technology/gmail-change-email-address-google.html)
   - WAPO
-    - [American journalist Shelly Kittleson kidnapped in Baghdad](https://www.washingtonpost.com/world/2026/03/31/shelly-kittleson-journalist-kidnapped-baghdad/)
-    - [This $2 test leads to nearly 30,000 arrests a year for no reason](https://www.washingtonpost.com/opinions/2026/03/31/police-drug-charges-tests/)
-    - [Some of the most popular graduate degrees don’t pay off financially, study finds](https://www.washingtonpost.com/education/2026/03/31/graduate-degree-earnings-study/)
+    - [Oil prices jump after Trump demands others ‘take the lead’ on Strait of Hormuz](https://www.washingtonpost.com/world/2026/04/02/us-iran-war-strait-hormuz-future/)
+    - [Congress is in no rush to authorize Trump’s ballroom after judge’s ruling](https://www.washingtonpost.com/politics/2026/04/02/trump-ballroom-white-house-congress/)
+    - [Undocumented teen’s alleged school assaults trigger Trump administration probe](https://www.washingtonpost.com/dc-md-va/2026/04/01/fairfax-assault-school-student-undocumented/)
    - ARTICLES/VIDEOS
-    - Process these articles
-      - [The Evolving Foundations of Math](https://www.quantamagazine.org/series/the-evolving-foundations-of-math/)
-      - [The Math That Explains Why Bell Curves Are Everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/)
-      - [Math Puzzle: Find the three values](https://www.scientificamerican.com/game/math-puzzle-three-values/)
+    - [Maybe Trump Should Not Have Given This Speech](https://www.theatlantic.com/ideas/2026/04/trump-iran-war-speech/686663/)
+    - [Public Anger Is Rising](https://www.theatlantic.com/politics/2026/04/congress-government-shutdown-tsa/686653/)
     - []()
-    - []()
-    - [How a statistical paradox can make research findings fall apart](https://www.scientificamerican.com/article/how-a-statistical-paradox-can-make-research-findings-fall-apart/)
     - [HOW TO SOLDER! (Beginner's Guide)](https://www.youtube.com/watch?v=3jAw41LRBxU)
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP:  1000 (Practice) --> 2000 [Peta - Last week: 16,450 XP (13th in Peta League)]
+  - XP:  1000 (Practice) --> 2150 [Peta - Last week: 16,450 XP (13th in Peta League)]
     - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Combining Tools
-    - Sampling in Python
-    - Writing Functions in Python
-    - Statistical Thinking in Python (Part 2)
+    - Batch Processing
+    - Intermediate R
+    - Foundations of Probability in Python
+    - Generative AI Concepts
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -54,16 +42,12 @@
      - TODO: Review from beginning
   - Course: Regular Expressions in Python
     - Working on chapter 1/4 - Introduction to String Manipulation
-  - Course: Introduction to Shell
-    - Working on chapter 3/5 - Manipulating Files and directories
   - Review R
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
       - [R For Data Science](https://r4ds.had.co.nz/introduction.html)
 - FIGMA Marathon
-  - Completed Challenge 7/26 - Auto-layout II
-    - This took a bit of work, I had to play with trying to reconstruct and 
-      follow the lesson before taking on the challenge.
+  - Working on  Challenge 8/26 - Auto-layout III
 - Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
   - Re-visiting current notes
   - Adding a Development Task Section and getting on with it!
@@ -96,8 +80,8 @@
       - Reading Chapter 2: Resistance and Power
   - READING: Electronics for Kids
     - PART 1: Playing with Electricity
-    - Reading Chapter 1: What is Electricity
-  - RADIO TECH
+        - Working on Chapter 2: Making Things Move with Electricity and Magnets  
+   - RADIO TECH
     - READING:
       - Wireless, from Marconi's black-box to the audion
         - Reading 1/7 - Hertzian Optics and Wireless Telegraphy- PROJECT: Advent of Code

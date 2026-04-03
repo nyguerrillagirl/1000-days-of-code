@@ -8,3 +8,10 @@
     - https://git.zedshaw.games/games
   - [Freecodecamp Redux Course](https://www.youtube.com/watch?v=SlC8941Wwrk)
     - Investigate after completing OReilly course
+
+
+
+    - Process these articles
+      - [The Evolving Foundations of Math](https://www.quantamagazine.org/series/the-evolving-foundations-of-math/)
+      - [The Math That Explains Why Bell Curves Are Everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/)
+      - [Math Puzzle: Find the three values](https://www.scientificamerican.com/game/math-puzzle-three-values/)
