@@ -1,16 +1,21 @@
-### Day 553: April 3, 2026 (Friday)
+### Day 554: April 4, 2026 (Saturday)
 - NOTE FOR THE DAY:
   - Creating list of items from "Electronics for Kids, 2nd Edition"
   - NYT
-    - [Trump Has Discussed Firing Attorney General Pam Bondi](https://www.nytimes.com/2026/04/01/us/politics/trump-pam-bondi-future.html)
-    - [In South Dakota, Neighbors Feel Sorry for Kristi Noem’s Husband](https://www.nytimes.com/2026/03/31/us/politics/kristi-noem-husband-photos-daily-mail.html)
-    - [Goodbye ‘Geeky Hunk’? Gmail Users Can Now Change Their Usernames.](https://www.nytimes.com/2026/04/01/technology/gmail-change-email-address-google.html)
+    - [Pam Bondi Wanted a Graceful Exit. But Trump Wanted Her Gone.](https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html)
+      - Loyalty, flattery and obeisance are prerequisites for power, but they don’t 
+        provide durable protection from a president intent on carrying out his 
+        maximalist personal and political goals.
+    - [Hegseth Fires Army Chief Amid Battle With Its Leaders](https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html)
+    - [A ‘Handmaid’s Tale’ Sequel Is Coming to TV. Here’s What You Need to Know.](https://www.nytimes.com/2026/04/03/books/the-testaments-hulu-margaret-atwood.html)
   - WAPO
-    - [Oil prices jump after Trump demands others ‘take the lead’ on Strait of Hormuz](https://www.washingtonpost.com/world/2026/04/02/us-iran-war-strait-hormuz-future/)
-    - [Congress is in no rush to authorize Trump’s ballroom after judge’s ruling](https://www.washingtonpost.com/politics/2026/04/02/trump-ballroom-white-house-congress/)
-    - [Undocumented teen’s alleged school assaults trigger Trump administration probe](https://www.washingtonpost.com/dc-md-va/2026/04/01/fairfax-assault-school-student-undocumented/)
+    - [The lesson of Pam Bondi’s firing](https://www.washingtonpost.com/opinions/2026/04/02/bondi-trump-independence/)
+    - [Their tiny church is on the cover of JD Vance’s new book. They don’t know him.](https://www.washingtonpost.com/nation/2026/04/03/vance-book-cover-church-photograph/)
+    - [Trump again orders changes to ‘save’ college sports](https://www.washingtonpost.com/politics/2026/04/03/trump-college-sports-order/)
    - ARTICLES/VIDEOS
-    - [Maybe Trump Should Not Have Given This Speech](https://www.theatlantic.com/ideas/2026/04/trump-iran-war-speech/686663/)
+    - []()
+    - []()
+    - []()
     - [Public Anger Is Rising](https://www.theatlantic.com/politics/2026/04/congress-government-shutdown-tsa/686653/)
     - []()
     - [HOW TO SOLDER! (Beginner's Guide)](https://www.youtube.com/watch?v=3jAw41LRBxU)
@@ -23,10 +28,10 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Batch Processing
-    - Intermediate R
-    - Foundations of Probability in Python
-    - Generative AI Concepts
+    - Basic Concepts of String Manipulation
+    - Introduction to Shell
+    - Introduction to the Tidyverse
+    - Parameter estimation by optimization
     - Avoid:
       - Data Manipulation with pandas
       - Introduction to Functions in Python
@@ -41,7 +46,9 @@
      - Working on chapter 3/5 - Formulating and simulating a hypothesis
      - TODO: Review from beginning
   - Course: Regular Expressions in Python
-    - Working on chapter 1/4 - Introduction to String Manipulation
+    - Working on chapter 2/4 - Positional Formatting
+  - Course: AI Ethics
+    - Working on chapter 2/3 - Approaching AI Ethics
   - Review R
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
@@ -75,6 +82,8 @@
     - Still working on youtube video
     - Worked on - how to use MB102
     - DON'T USE Copilot to draw images. It will be inaccurate.
+  - READING: The Ultimate Beginner's Guide to the 555 Timer
+    - Reading Introduction 
   - READING: Introductory DC/AC Electronics, 6th Edition by Nigel P. Cook
     - PART A: The Fundamentals of Electricity
       - Reading Chapter 2: Resistance and Power
@@ -133,5 +142,5 @@
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
       - PART III - The Glorious Revival
-       - Working on chapter 7 - From Tool to Theology
+       - Working on Chapter 9 - There's Always A First Time
 - GRADE: NA
