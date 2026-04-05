@@ -1,24 +1,32 @@
-### Day 554: April 4, 2026 (Saturday)
+### Day 555: April 5, 2026 (Sunday)
 - NOTE FOR THE DAY:
-  - Creating list of items from "Electronics for Kids, 2nd Edition"
+  - Redbull matches for today
+    TheViper v. Yo        4-2 TheViper  Called It!
+    Hearttt v. Sebastian  4-3 Hearttt (IT WAS ACTUALLY 3-4 Sabastian. YEAH!!!!)
   - NYT
-    - [Pam Bondi Wanted a Graceful Exit. But Trump Wanted Her Gone.](https://www.nytimes.com/2026/04/02/us/politics/pam-bondi-attorney-general-trump.html)
-      - Loyalty, flattery and obeisance are prerequisites for power, but they don’t 
-        provide durable protection from a president intent on carrying out his 
-        maximalist personal and political goals.
-    - [Hegseth Fires Army Chief Amid Battle With Its Leaders](https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html)
-    - [A ‘Handmaid’s Tale’ Sequel Is Coming to TV. Here’s What You Need to Know.](https://www.nytimes.com/2026/04/03/books/the-testaments-hulu-margaret-atwood.html)
+    - [‘Iran Is Being Destroyed in Front of Our Eyes’: Tehran Is Gripped by Fear](https://www.nytimes.com/2026/04/03/world/middleeast/iran-is-being-destroyed-in-front-of-our-eyes-tehran-is-gripped-by-fear.html)
+    - [Trump Contemplates Other Cabinet Changes as He Faces Political Clock](https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html)
+    - [Three Great Documentaries to Stream](https://www.nytimes.com/2026/03/31/movies/documentaries-streaming.html)
+      - ‘The Black and the Green’ (1983)
+      - ‘Predators’ (2025)
+        - the legacy of the mid-aughts Dateline NBC series “To Catch a Predator,”
+      - ‘Stiller & Meara: Nothing Is Lost’ (2025)
   - WAPO
-    - [The lesson of Pam Bondi’s firing](https://www.washingtonpost.com/opinions/2026/04/02/bondi-trump-independence/)
-    - [Their tiny church is on the cover of JD Vance’s new book. They don’t know him.](https://www.washingtonpost.com/nation/2026/04/03/vance-book-cover-church-photograph/)
-    - [Trump again orders changes to ‘save’ college sports](https://www.washingtonpost.com/politics/2026/04/03/trump-college-sports-order/)
+    - [Chinese firms market Iran war intelligence ‘exposing’ U.S. forces](https://www.washingtonpost.com/national-security/2026/04/04/china-ai-military-intelligence-iran-war/)
+    - [Maine’s race to the top on taxes](https://www.washingtonpost.com/opinions/2026/04/04/maine-janet-mills-graham-platner-millionaire-tax/)
+    - [He couldn’t think, eat or recover — and no one knew why](https://www.washingtonpost.com/health/2026/04/04/medical-mystery-fevers-mental-fog/)
    - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [Major Differences Between the Scarpetta Books and the TV Series - Explained](https://www.youtube.com/watch?v=qkYIB6VAjLg)
+    - [These Sherpas Knew These Fitness Girls Were Going To Die](https://www.youtube.com/watch?v=uZJxtnjqgyk)
+    - [History of electromagnetic theory](https://en.wikipedia.org/wiki/History_of_electromagnetic_theory)
+      - working on this
     - [Public Anger Is Rising](https://www.theatlantic.com/politics/2026/04/congress-government-shutdown-tsa/686653/)
-    - []()
+    - [Electronics Lab (Phys2303)](https://www.nhn.ou.edu/~bumm/ELAB/)
     - [HOW TO SOLDER! (Beginner's Guide)](https://www.youtube.com/watch?v=3jAw41LRBxU)
+    - [The Physics of Leiden Jars](https://www.youtube.com/watch?v=e2EWeOVCO5o)
+    - [555 Timer Tutorial: How It Works and Useful Example Circuits](https://www.build-electronic-circuits.com/555-timer/)
+    - [Bayes’ Gift: How Actuaries Discovered (and Rediscovered) a Powerful Analytical Tool](https://actuary.org/article/bayes-gift-actuaries-discovered-rediscovered-powerful-analytical-tool/)
+    - [Trump Ignores Shot Down Fighter Jets](https://www.youtube.com/watch?v=yId2prLjREw)
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
   - XP:  1000 (Practice) --> 2150 [Peta - Last week: 16,450 XP (13th in Peta League)]
@@ -27,14 +35,16 @@
         - Advanced | Score: 134 | Ptle: 87
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
+  - PROJECT: Exploring Airbnb Market Trends
   - Practice:
-    - Basic Concepts of String Manipulation
-    - Introduction to Shell
-    - Introduction to the Tidyverse
-    - Parameter estimation by optimization
+    - Introduction to Data Visualization with Matplotlib
+    - Understanding ChatGPT
+    - Analyzing Police Activity with pandas
+    - Shell
+    - Generative AI Concepts
     - Avoid:
       - Data Manipulation with pandas
-      - Introduction to Functions in Python
+      - Understanding ChatGPT
       - Python Toolbox
       - Data Types in Python
       - Introduction to Python
@@ -86,7 +96,9 @@
     - Reading Introduction 
   - READING: Introductory DC/AC Electronics, 6th Edition by Nigel P. Cook
     - PART A: The Fundamentals of Electricity
-      - Reading Chapter 2: Resistance and Power
+      - Completed Reading Chapter 2: Resistance and Power
+      - Working on chapter 2 exercises
+      - Do lab
   - READING: Electronics for Kids
     - PART 1: Playing with Electricity
         - Working on Chapter 2: Making Things Move with Electricity and Magnets  
@@ -94,6 +106,7 @@
     - READING:
       - Wireless, from Marconi's black-box to the audion
         - Reading 1/7 - Hertzian Optics and Wireless Telegraphy- PROJECT: Advent of Code
+- PROJECT: Advent of Code
   - Completed on 2020 - Day 5 Part 1 and Part 2
   - Working on 2021 - Day 5 Part 1 
 - PROJECT: Learning Data Science with Python Workbook (LDSPW)
