@@ -1,47 +1,39 @@
-### Day 555: April 5, 2026 (Sunday)
+### Day 556: April 6, 2026 (Monday)
 - NOTE FOR THE DAY:
   - Redbull matches for today
-    TheViper v. Yo        4-2 TheViper  Called It!
-    Hearttt v. Sebastian  4-3 Hearttt (IT WAS ACTUALLY 3-4 Sabastian. YEAH!!!!)
+    - Liereyy v. Sebastian  4-2   (Hoping for an UPSET!)
+      - It was a rout 4-0 Liereyy
+    - Hera v. TheViper      4-2   (Let's go Hera)
   - NYT
-    - [‘Iran Is Being Destroyed in Front of Our Eyes’: Tehran Is Gripped by Fear](https://www.nytimes.com/2026/04/03/world/middleeast/iran-is-being-destroyed-in-front-of-our-eyes-tehran-is-gripped-by-fear.html)
-    - [Trump Contemplates Other Cabinet Changes as He Faces Political Clock](https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html)
-    - [Three Great Documentaries to Stream](https://www.nytimes.com/2026/03/31/movies/documentaries-streaming.html)
-      - ‘The Black and the Green’ (1983)
-      - ‘Predators’ (2025)
-        - the legacy of the mid-aughts Dateline NBC series “To Catch a Predator,”
-      - ‘Stiller & Meara: Nothing Is Lost’ (2025)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Chinese firms market Iran war intelligence ‘exposing’ U.S. forces](https://www.washingtonpost.com/national-security/2026/04/04/china-ai-military-intelligence-iran-war/)
-    - [Maine’s race to the top on taxes](https://www.washingtonpost.com/opinions/2026/04/04/maine-janet-mills-graham-platner-millionaire-tax/)
-    - [He couldn’t think, eat or recover — and no one knew why](https://www.washingtonpost.com/health/2026/04/04/medical-mystery-fevers-mental-fog/)
+    - [A journalist who uses AI? The internet was not pleased.](https://www.washingtonpost.com/opinions/2026/04/05/artificial-intelligence-chatbot-writing-ethics/)
+    - [Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post](https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat/)
+    - [Carolyn Hax: Husband downloaded hookup apps because he was ‘bored,’ really?](https://www.washingtonpost.com/advice/2026/04/05/carolyn-hax-husband-hookup-apps-bored/)
    - ARTICLES/VIDEOS
-    - [Major Differences Between the Scarpetta Books and the TV Series - Explained](https://www.youtube.com/watch?v=qkYIB6VAjLg)
-    - [These Sherpas Knew These Fitness Girls Were Going To Die](https://www.youtube.com/watch?v=uZJxtnjqgyk)
-    - [History of electromagnetic theory](https://en.wikipedia.org/wiki/History_of_electromagnetic_theory)
-      - working on this
-    - [Public Anger Is Rising](https://www.theatlantic.com/politics/2026/04/congress-government-shutdown-tsa/686653/)
-    - [Electronics Lab (Phys2303)](https://www.nhn.ou.edu/~bumm/ELAB/)
-    - [HOW TO SOLDER! (Beginner's Guide)](https://www.youtube.com/watch?v=3jAw41LRBxU)
-    - [The Physics of Leiden Jars](https://www.youtube.com/watch?v=e2EWeOVCO5o)
-    - [555 Timer Tutorial: How It Works and Useful Example Circuits](https://www.build-electronic-circuits.com/555-timer/)
-    - [Bayes’ Gift: How Actuaries Discovered (and Rediscovered) a Powerful Analytical Tool](https://actuary.org/article/bayes-gift-actuaries-discovered-rediscovered-powerful-analytical-tool/)
-    - [Trump Ignores Shot Down Fighter Jets](https://www.youtube.com/watch?v=yId2prLjREw)
+    - [37,000 Lines of Slop](https://www.youtube.com/watch?v=1r9n-HsBQsE)
+    - [Melissa Vargas Just Said ‘I Do’! | Her Full Biography & New Life in 2025! | Sport favourite](https://www.youtube.com/watch?v=nhXZCVmFr_Y)
+    - []()
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP:  1000 (Practice) --> 2150 [Peta - Last week: 16,450 XP (13th in Peta League)]
+  - XP:  1000 (Practice) --> 3300 [Peta - Last week: 16,450 XP (13th in Peta League)]
     - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - PROJECT: Exploring Airbnb Market Trends
+    - Completed
   - Practice:
-    - Introduction to Data Visualization with Matplotlib
-    - Understanding ChatGPT
-    - Analyzing Police Activity with pandas
-    - Shell
-    - Generative AI Concepts
+    - Writing Efficient Python Code
+      - sys.getsizeof() returns the size of an object in bytes
+      - %mprun returns a line-by-line memory footprint of your code
+      - df.iterrows() - iterating over rows of a DataFrame
+    - Working with Dates and Times in Python
+    - Foundations of Probablitity in Python
+    - Introduction to NumPy
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
@@ -58,7 +50,7 @@
   - Course: Regular Expressions in Python
     - Working on chapter 2/4 - Positional Formatting
   - Course: AI Ethics
-    - Working on chapter 2/3 - Approaching AI Ethics
+    - Working on chapter 3/3 - Approaching AI Ethics
   - Review R
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
