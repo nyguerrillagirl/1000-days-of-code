@@ -55,6 +55,9 @@
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
       - [R For Data Science](https://r4ds.had.co.nz/introduction.html)
+- PROJECT: bspEngine
+  - Reviving and completing...working through the video before deep dive into
+    the libraries used.
 - FIGMA Marathon
   - Working on  Challenge 8/26 - Auto-layout III
 - Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
