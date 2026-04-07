@@ -1,24 +1,62 @@
-### Day 556: April 6, 2026 (Monday)
+### Day 557: April 7, 2026 (Tuesday)
 - NOTE FOR THE DAY:
+  - Links on tablet:
+    - [Raycasting: Untextured and textured walls](https://lodev.org/cgtutor/raycasting.html)
+      - [Raycasting II: Floor and Ceiling](https://lodev.org/cgtutor/raycasting2.html)
+      - [Raycasting III: Sprites](https://lodev.org/cgtutor/raycasting3.html)
+      - [Raycasting IV: Directional Sprites, Doors, Secrets, Fog, Enemies, And More](https://lodev.org/cgtutor/raycasting4.html) 
+    - [DOOM-Clone](https://github.com/ItsDylan255/DOOM-Clone/tree/main/?tab=readme-ov-file)
+      - Based on same tutorial I am going through.
+    - [A Senior Developer's Reading List (11 Books That Matter)](https://javarevisited.substack.com/p/a-senior-developers-reading-list)
+    - [Lesson 24: Hacker stats I](https://justinbois.github.io/bootcamp/2023/lessons/l24_hackerstats_1.html#:~:text=It's%20as%20simple%20as%20computing%20the%20mean%20of%20the%20bootstrap%20sample.&text=So%2C%20the%20mean%20of%20the,faster%20than%20with%20Pandas%20Series%20.&text=Now%20that%20we%20have%20our,to%20do%20the%20experiment%20again.&text=It%20looks%20Normally%20distributed%2C%20and,give%20a%2095%25%20confidence%20interval.)
+      - [Lesson 0: Configuring your computer](https://justinbois.github.io/bootcamp/2023/lessons/l00_configuring_your_computer.html)
+    - [Templating in Java Using JTE](https://www.baeldung.com/java-template-engine)
+    - [Daily Coding Challenge](https://www.freecodecamp.org/learn/daily-coding-challenge)
+    - [Game Developer Roadmap](https://roadmap.sh/game-developer)
+    - [Why mathematicians hate Good Will Hunting](https://www.scientificamerican.com/article/why-mathematicians-hate-good-will-hunting/)
+    - [10 Modern Java Features Senior Developers Use to Write 50% Less Code](https://medium.com/@martinastaberger/10-modern-java-features-senior-developers-use-to-write-50-less-code-e2bab5d8d410)
+    - [Python and PyQt: Building a GUI Desktop Calculator](https://realpython.com/python-pyqt-gui-calculator/)
+    - [I Tried 30+ Software Design Courses: Here Are My Top 5 Recommendations for 2026](https://javarevisited.substack.com/p/i-tried-30-software-design-courses)
+    - [Java UI in 2026: The Complete Guide](https://robintegg.com/2026/02/08/java-ui-in-2026-the-complete-guide.html)       
+    - [12 Java Concurrency Questions You Should Be Able to Explain in Interviews (with Diagrams)](https://medium.com/@yashbatra11111/12-java-concurrency-questions-you-should-be-able-to-explain-in-interviews-with-diagrams-a8404b7fc527)
+    - [12 C++ Libraries and Tricks Every Developer Discovers Too Late](https://medium.com/codetodeploy/12-c-libraries-and-tricks-every-developer-discovers-too-late-e89db1f0a117)
+    - [I Tried 20+ LangChain Courses on Udemy — Here Are My Top 5 Recommendations for 2026](https://medium.com/javarevisited/i-tried-20-langchain-courses-on-udemy-here-are-my-top-5-recommendations-for-2026-fde288d7c831)
+    - [How Spring Boot Actually Handles HTTP Requests](https://medium.com/@kandalkaramit123/how-spring-boot-actually-handles-http-requests-5859086dee92)   
+    - [Spring Boot: Java Template Engine (JTE)](https://foojay.io/today/spring-boot-java-template-engine-jte/#:~:text=Watch%20Java's%20Place%20in%20the,details%20please%20refer%20this%20link)
+    - [Difference between Forward Proxy and Reverse Proxy in System design](https://dev.to/somadevtoo/difference-between-forward-proxy-and-reverse-proxy-in-system-design-54g5) 
   - Redbull matches for today
-    - Liereyy v. Sebastian  4-2   (Hoping for an UPSET!)
-      - It was a rout 4-0 Liereyy
-    - Hera v. TheViper      4-2   (Let's go Hera)
+    - Hera v. Liereyy  5-3   I will watch after it is done. I get too emotional
+      and upset. I called it exactly. Liereyy looked dominating in the first 3 games. 
+      If it was some other person Liereyy would have won 5-0. I never saw someone down
+      3-0 against Liereyy come back...but Hera did....Hera won 5 straight. 
+  - IDEA: Write a paper (or set of medium articles) on drawing graphics in python
+    - Directly using df.plt
+    - matplotlib
+    - seaborn
+    - plotly
+    - bokeh
+      - qplot, high-level plotting library built on top of Bokeh, designed
+        specifically for statistical visualization. Designed to work with ArviZ,
+        PyMC, and other Bayesian/probabilistic workflows
   - NYT
-    - []()
-    - []()
-    - []()
+    - [On Iran, Trump Keeps World Off Balance With Ever-Changing Threats](https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html)
+    - [The Islands That Give Iran Sway Over Hormuz](https://www.nytimes.com/interactive/2026/04/06/world/middleeast/iran-islands-strait-of-hormuz-control.html)
+    - [Forget the A.I. Apocalypse. Memes Have Already Nuked Our Culture.](https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html)
   - WAPO
-    - [A journalist who uses AI? The internet was not pleased.](https://www.washingtonpost.com/opinions/2026/04/05/artificial-intelligence-chatbot-writing-ethics/)
-    - [Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post](https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat/)
-    - [Carolyn Hax: Husband downloaded hookup apps because he was ‘bored,’ really?](https://www.washingtonpost.com/advice/2026/04/05/carolyn-hax-husband-hookup-apps-bored/)
-   - ARTICLES/VIDEOS
-    - [37,000 Lines of Slop](https://www.youtube.com/watch?v=1r9n-HsBQsE)
-    - [Melissa Vargas Just Said ‘I Do’! | Her Full Biography & New Life in 2025! | Sport favourite](https://www.youtube.com/watch?v=nhXZCVmFr_Y)
+    - [Trump threatens to jail reporters if they don’t turn over Iran source](https://www.washingtonpost.com/business/2026/04/06/trump-leak-missing-pilot-jail-threat-media/)
+    - [Strongest El Niño in a century? What this rare phenomenon could bring.](https://www.washingtonpost.com/weather/2026/04/06/super-el-nino-chances-increasing-risks/)
     - []()
+  - ARTICLES/VIDEOS
+    - ['Adiemus' - Sir Karl Jenkins | Classic FM](https://www.youtube.com/watch?v=7JPj9m7eTyA)
+    - [Sir Karl Jenkins – Palladio, conducted by Andrzej Kucybała](https://www.youtube.com/watch?v=7sV-jHIp_oQ)
+    - [Handsome at Any Cost](https://www.nytimes.com/2026/02/13/style/clavicular-looksmaxxing-braden-peters.html)
+    - [Chess Legend Magnus Carlsen Lost to Upstart Hans Niemann—Then All Hell Broke Loose](https://www.vanityfair.com/culture/story/magnus-carsen-chess-excerpt)
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP:  1000 (Practice) --> 3300 [Peta - Last week: 16,450 XP (13th in Peta League)]
+  - XP:   (Practice) -->  [Peta - Last week: 16,450 XP (13th in Peta League)]
+    - Assessment: AI Fundamentals
+      - earned 500XP
+        - Intermediate | Score: 106 | Ptle: 57
     - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
@@ -27,13 +65,10 @@
   - PROJECT: Exploring Airbnb Market Trends
     - Completed
   - Practice:
-    - Writing Efficient Python Code
-      - sys.getsizeof() returns the size of an object in bytes
-      - %mprun returns a line-by-line memory footprint of your code
-      - df.iterrows() - iterating over rows of a DataFrame
-    - Working with Dates and Times in Python
-    - Foundations of Probablitity in Python
-    - Introduction to NumPy
+    - Introduction to Data Visualization with Plotly in Python
+    - Introduction to Statistics in Python
+    - Dealing with Missing Data in Python
+    - Generative AI Concepts
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
@@ -49,8 +84,6 @@
      - TODO: Review from beginning
   - Course: Regular Expressions in Python
     - Working on chapter 2/4 - Positional Formatting
-  - Course: AI Ethics
-    - Working on chapter 3/3 - Approaching AI Ethics
   - Review R
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
