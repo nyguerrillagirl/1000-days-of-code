@@ -1,16 +1,33 @@
-### Day 558: April 8, 2026 (Wednesday)
+### Day 559: April 9, 2026 (Thursday)
 - NOTE FOR THE DAY:
+  - Download LOADSTAR Magazines (250 disks)
+    - https://loadstarce.com/resources/categories/loadstar-64.3/
+    - downloaded 1-5
+  - Download Your Commodore 
+    - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
+    - Downloaded 1/5
   - Continue downloading Wadazine at https://wadazine.com/portofolio/
       - Next Issue 13
-
+      - COMPLETED
+  - Research: How to create a pdf magazine similar to The Doom Master Wadazine?
+    - Adobe Express
+    - Canva (this is a very interesting place)
+    - Flipsnack
+      - Great for turning PDF into a flipbook
+    - Issuu
+      - Creates a digital magazine viewer
+    - Affinity Publisher
+      - one-time purchase, powerful page layouts, the best "pro but affordable" option 
+      - DOWNLOADED this product
   - [Datacamp notebooks](https://github.com/elmoallistair/datacamp)
   - NYT
-    - []()
-    - []()
+    - [Trump Finds His Offramp With Iran. But the Causes of War Remain Unresolved.](https://www.nytimes.com/2026/04/07/us/politics/trump-iran-2-week-ceasefire.html)
+    - [Did Wokeness Leave Us Worse Off?](https://www.nytimes.com/2026/04/08/opinion/woke-culture-language-politics.html)
+    - [A Teenager Plunged to His Death. A Reporter Found More to the Story.](https://www.nytimes.com/2026/04/08/books/review/london-falling-patrick-radden-keefe.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Hormuz traffic at standstill, strikes reported in Gulf amid fragile Iran ceasefire](https://www.washingtonpost.com/world/2026/04/08/trump-iran-war-ceasefire-israel/)
+    - [Trump’s labor plan is a massive 401(k) greed grab for Wall Street](https://www.washingtonpost.com/business/2026/04/08/retirement-savings-crypto/)
+    - [Bondi won’t testify before House about Epstein files, DOJ says](https://www.washingtonpost.com/national-security/2026/04/08/bondi-epstein-files-testify-house/)
   - ARTICLES/VIDEOS
     - []()
     - []()
@@ -27,16 +44,27 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - AI Ethics
-    - AI Ethics
-    - Basic Concepts of String Manipulation
-    - Statistical Thinking in Python (Part 2) - Generating bootstrap replicates
+    - Formatting Strings
+    - Simple Linear Regression Modeling
+    - Intermediate Python for Developers
+    - Introduction to Shell
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
       - Python Toolbox
       - Data Types in Python
       - Introduction to Python
+  - Course: Introduction to SQL
+    - Completed on chapter 1/2 
+    - Completed chapter 2/2
+    - Completed COurse
+    - Recommended Followup:
+      - Intermediate SQL
+      - Joining Data in SQL
+      - Data Manipulation in SQL
+      - Exploratory Data Analysis in SQL
+      - Data-Driven Decision Making in SQL
+      - Applying SQL to Real-World Problems
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -54,7 +82,8 @@
   - Reviving and completing...working through the video before deep dive into
     the libraries used.
 - FIGMA Marathon
-  - Working on  Challenge 8/26 - Auto-layout III
+  - Completed  Challenge 8/26 - Auto-layout III
+  - Working on Challenge 9/26 - Grids
 - Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
   - Re-visiting current notes
   - Adding a Development Task Section and getting on with it!
@@ -146,4 +175,5 @@
       of controversy - Sharon Bertsch McGrayne
       - PART III - The Glorious Revival
        - Working on Chapter 9 - There's Always A First Time
-- GRADE: NA
+- GRADE: B
+  - Started and finished a Datacamp course on the same day!!!
