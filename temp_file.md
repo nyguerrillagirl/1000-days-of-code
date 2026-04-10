@@ -1,14 +1,12 @@
+
 ### Day 559: April 9, 2026 (Thursday)
 - NOTE FOR THE DAY:
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/
-    - downloaded 1-5
+    - On page 1, 6-10
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
-    - Downloaded 1/5
-  - Continue downloading Wadazine at https://wadazine.com/portofolio/
-      - Next Issue 13
-      - COMPLETED
+    - Downloaded 6-10
   - Research: How to create a pdf magazine similar to The Doom Master Wadazine?
     - Adobe Express
     - Canva (this is a very interesting place)
@@ -19,19 +17,26 @@
     - Affinity Publisher
       - one-time purchase, powerful page layouts, the best "pro but affordable" option 
       - DOWNLOADED this product
-  - [Datacamp notebooks](https://github.com/elmoallistair/datacamp)
+      - Worked on getting this product to start today. I had to update the firewall rule
   - NYT
-    - [Trump Finds His Offramp With Iran. But the Causes of War Remain Unresolved.](https://www.nytimes.com/2026/04/07/us/politics/trump-iran-2-week-ceasefire.html)
-    - [Did Wokeness Leave Us Worse Off?](https://www.nytimes.com/2026/04/08/opinion/woke-culture-language-politics.html)
-    - [A Teenager Plunged to His Death. A Reporter Found More to the Story.](https://www.nytimes.com/2026/04/08/books/review/london-falling-patrick-radden-keefe.html)
+    - [The Click That Cost $11,000 and Other Travel Pitfalls](https://www.nytimes.com/2026/04/09/travel/travel-scams-airlines-hotels.html)
+    - [My Uncle Gets Called a SMURF!](https://www.youtube.com/watch?v=VwMfmj49vVA)
+    - []()
   - WAPO
-    - [Hormuz traffic at standstill, strikes reported in Gulf amid fragile Iran ceasefire](https://www.washingtonpost.com/world/2026/04/08/trump-iran-war-ceasefire-israel/)
-    - [Trump’s labor plan is a massive 401(k) greed grab for Wall Street](https://www.washingtonpost.com/business/2026/04/08/retirement-savings-crypto/)
-    - [Bondi won’t testify before House about Epstein files, DOJ says](https://www.washingtonpost.com/national-security/2026/04/08/bondi-epstein-files-testify-house/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - [Chess Legend Magnus Carlsen Lost to Upstart Hans Niemann—Then All Hell Broke Loose](https://www.vanityfair.com/culture/story/magnus-carsen-chess-excerpt)
+    - [Jake Vanderplas - Statistics for Hackers - PyCon 2016.mp4](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
+      - Bayesian Methods for Hackers by Cam Davidson-Pilon
+      - Talk: Statistical Thinking for Data Science
+      - Statistics is Easy
+      - Resampling: The New Statistics
+    - [My Uncle Gets Called a SMURF!](https://www.youtube.com/watch?v=VwMfmj49vVA)
+    - [Trump & Hegseth Ignored Experts—Then Tried to Run a War (w/ Tom Nichols) | Command Post](https://www.youtube.com/watch?v=7ab2rDm0Q54)
+    - [Police Step In After Tourists Steal from Coffee Shop Tip Jar](https://www.youtube.com/watch?v=OD8ipsB9Mb0)
+    - [Chess Legend Magnus Carlsen Lost to Upstart Hans Niemann—Then All Hell Broke Loose](https://www.vanityfair.com/culture/story/
+    magnus-carsen-chess-excerpt)
 - Data Camp [DS]
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
   - XP:   (Practice) -->  [Peta - Last week: 16,450 XP (13th in Peta League)]
@@ -44,9 +49,13 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Formatting Strings
-    - Simple Linear Regression Modeling
-    - Intermediate Python for Developers
+    - Introduction to SQL
+    - Introduction to SQL
+    - Intermediate R
+      - lapply(1:2, rnorm, n=5), generates two samples from a normal distribution
+      - seq(from=2, to=10, by=1)
+      - What could be returned by the sapply() function: A vector
+      - rep(1:5, times=2)
     - Introduction to Shell
     - Avoid:
       - Data Manipulation with pandas
@@ -54,17 +63,8 @@
       - Python Toolbox
       - Data Types in Python
       - Introduction to Python
-  - Course: Introduction to SQL
-    - Completed on chapter 1/2 
-    - Completed chapter 2/2
-    - Completed COurse
-    - Recommended Followup:
-      - Intermediate SQL
-      - Joining Data in SQL
-      - Data Manipulation in SQL
-      - Exploratory Data Analysis in SQL
-      - Data-Driven Decision Making in SQL
-      - Applying SQL to Real-World Problems
+  - Course: Intermediate SQL
+    - Working on chapter 1/4 - Selecting Data
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -175,5 +175,4 @@
       of controversy - Sharon Bertsch McGrayne
       - PART III - The Glorious Revival
        - Working on Chapter 9 - There's Always A First Time
-- GRADE: B
-  - Started and finished a Datacamp course on the same day!!!
+- GRADE: NA
