@@ -1,5 +1,4 @@
-
-### Day 559: April 9, 2026 (Thursday)
+### Day 561: April 11, 2026 (Saturday)
 - NOTE FOR THE DAY:
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/
@@ -19,22 +18,17 @@
       - DOWNLOADED this product
       - Worked on getting this product to start today. I had to update the firewall rule
   - NYT
-    - [The Click That Cost $11,000 and Other Travel Pitfalls](https://www.nytimes.com/2026/04/09/travel/travel-scams-airlines-hotels.html)
-    - [My Uncle Gets Called a SMURF!](https://www.youtube.com/watch?v=VwMfmj49vVA)
+    - []()
+    - []()
     - []()
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Jake Vanderplas - Statistics for Hackers - PyCon 2016.mp4](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
-      - Bayesian Methods for Hackers by Cam Davidson-Pilon
-      - Talk: Statistical Thinking for Data Science
-      - Statistics is Easy
-      - Resampling: The New Statistics
-    - [My Uncle Gets Called a SMURF!](https://www.youtube.com/watch?v=VwMfmj49vVA)
-    - [Trump & Hegseth Ignored Experts—Then Tried to Run a War (w/ Tom Nichols) | Command Post](https://www.youtube.com/watch?v=7ab2rDm0Q54)
-    - [Police Step In After Tourists Steal from Coffee Shop Tip Jar](https://www.youtube.com/watch?v=OD8ipsB9Mb0)
+    - []()
+    - []()
+    - []()
     - [Chess Legend Magnus Carlsen Lost to Upstart Hans Niemann—Then All Hell Broke Loose](https://www.vanityfair.com/culture/story/
     magnus-carsen-chess-excerpt)
 - Data Camp [DS]
@@ -49,14 +43,10 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Introduction to SQL
-    - Introduction to SQL
-    - Intermediate R
-      - lapply(1:2, rnorm, n=5), generates two samples from a normal distribution
-      - seq(from=2, to=10, by=1)
-      - What could be returned by the sapply() function: A vector
-      - rep(1:5, times=2)
-    - Introduction to Shell
+    - Selecting Data
+    - Dealing with Missing Data in Python
+    - Introduction to Importing Data in R
+    - AI Ethics
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
