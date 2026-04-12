@@ -1,8 +1,8 @@
-### Day 561: April 11, 2026 (Saturday)
+### Day 562: April 12, 2026 (Sunday)
 - NOTE FOR THE DAY:
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/
-    - On page 1, 6-10
+    - On page 1, 11-15
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
     - Downloaded 6-10
@@ -18,17 +18,18 @@
       - DOWNLOADED this product
       - Worked on getting this product to start today. I had to update the firewall rule
   - NYT
-    - []()
-    - []()
-    - []()
+    - [The Sphinx Thinks It Stinks](https://www.nytimes.com/2026/04/11/opinion/melania-trump-epstein-statement.html)
+    - [He Was ‘Trump Before Trump.’ Now He’s in Trouble.](https://www.nytimes.com/2026/04/11/opinion/viktor-orban-donald-trump-hungary-right.html)
+    - [In This Film About Amy Goodman, Independent Journalism Is the Real Star](https://www.nytimes.com/2026/04/10/movies/amy-goodman-steal-this-story-please-democracy-now.html)
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [MY DEEPEST FEELINGS about REDBULL WOLOLO LONDINIUM](https://www.youtube.com/watch?v=dW0nz_bof5s)
+    - [Steal This Story, Please! (Official Theatrical Trailer v2)](https://www.youtube.com/watch?v=oeg6j97XERk)
+    - [Hera playing on Noob Lobby](https://www.youtube.com/watch?v=BzKubuqm1lQ)
+    - [Pete Buttigieg TORCHES CNBC Host Over Trump Economy Spin](https://www.youtube.com/watch?v=BZag-kx9_Ew)
     - [Chess Legend Magnus Carlsen Lost to Upstart Hans Niemann—Then All Hell Broke Loose](https://www.vanityfair.com/culture/story/
     magnus-carsen-chess-excerpt)
 - Data Camp [DS]
@@ -43,10 +44,10 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Selecting Data
-    - Dealing with Missing Data in Python
-    - Introduction to Importing Data in R
-    - AI Ethics
+    - Filtering Records
+    - Introduction to Data Visualization with Matplotlib
+    - Introduction to Data Visualization with Matplotlib
+    - Introduction to Shell
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
@@ -160,6 +161,11 @@
     - Completed chapter 1/9 Introduction to Arduino
     - Reading chapter 2/9 Your Arduino
  - Non-Tech Reading
+  - In the Garden of Beasts, Erik Larsen
+    - Part I - Into the Wood
+      - Reading Chapter 2: That Vacancy in Berlin
+        - No one wanted the position in Berlin. "...Germany was experiencing a
+          great revival or a savage darkening." 
     - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
