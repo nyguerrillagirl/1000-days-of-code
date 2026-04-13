@@ -1,11 +1,16 @@
-### Day 562: April 12, 2026 (Sunday)
+
+### Day 563: April 13, 2026 (Monday)
 - NOTE FOR THE DAY:
+  - Postgresql Demo (flight data)
+    - https://postgrespro.com/community/demodb
   - Download LOADSTAR Magazines (250 disks)
-    - https://loadstarce.com/resources/categories/loadstar-64.3/
-    - On page 1, 11-15
+    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=2
+    - On page 1, 16-20
+    - Continue with link above for page 2
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
     - Downloaded 6-10
+    - Downloaded 16-20
   - Research: How to create a pdf magazine similar to The Doom Master Wadazine?
     - Adobe Express
     - Canva (this is a very interesting place)
@@ -18,36 +23,41 @@
       - DOWNLOADED this product
       - Worked on getting this product to start today. I had to update the firewall rule
   - NYT
-    - [The Sphinx Thinks It Stinks](https://www.nytimes.com/2026/04/11/opinion/melania-trump-epstein-statement.html)
-    - [He Was ‘Trump Before Trump.’ Now He’s in Trouble.](https://www.nytimes.com/2026/04/11/opinion/viktor-orban-donald-trump-hungary-right.html)
-    - [In This Film About Amy Goodman, Independent Journalism Is the Real Star](https://www.nytimes.com/2026/04/10/movies/amy-goodman-steal-this-story-please-democracy-now.html)
+    - [What We Know About the Eric Swalwell Sexual Misconduct Allegations](https://www.nytimes.com/2026/04/12/us/eric-swalwell-sexual-misconduct.html)
+    - [Orban, Beacon to the Right, Concedes Defeat in Hungary’s Election](https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html)
+    - []()
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Direct U.S.-Iran talks fail to reach resolution after lengthy negotiation](https://www.washingtonpost.com/world/2026/04/11/us-iran-islamabad-hormuz-ceasefire/)
+    - [I’m part of Gen Z. Social media didn’t ruin my generation.](https://www.washingtonpost.com/opinions/2026/04/12/social-media-ban-youth-mental-health/)
+    - [Trump announces naval blockade of Iran after Islamabad talks yield no deal](https://www.washingtonpost.com/world/2026/04/12/iran-us-talks-ceasefire-vance/)
   - ARTICLES/VIDEOS
-    - [MY DEEPEST FEELINGS about REDBULL WOLOLO LONDINIUM](https://www.youtube.com/watch?v=dW0nz_bof5s)
-    - [Steal This Story, Please! (Official Theatrical Trailer v2)](https://www.youtube.com/watch?v=oeg6j97XERk)
-    - [Hera playing on Noob Lobby](https://www.youtube.com/watch?v=BzKubuqm1lQ)
-    - [Pete Buttigieg TORCHES CNBC Host Over Trump Economy Spin](https://www.youtube.com/watch?v=BZag-kx9_Ew)
+    - []()
+    - []()
+    - []()
     - [Chess Legend Magnus Carlsen Lost to Upstart Hans Niemann—Then All Hell Broke Loose](https://www.vanityfair.com/culture/story/
     magnus-carsen-chess-excerpt)
 - Data Camp [DS]
+  - Review:
+    - Introduction to Statistics in Python
+    - Introduction to Data Visualization with Seaborn
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP:   (Practice) -->  [Peta - Last week: 16,450 XP (13th in Peta League)]
+  - XP: 1000  (Practice) --> 14100 [Peta - Last week: 16,450 XP (13th in Peta League)]
     - Assessment: AI Fundamentals
-      - earned 500XP
+      - earned 500XP. m 
         - Intermediate | Score: 106 | Ptle: 57
+    - Assessment: Statistics Fundamentals with Python
+      - NEW ASSESSMENT:
+        - Intermediate (low) | Score: 88 | Ptle: 34
     - Assessment: Data Manipulation with Python
       - NEW ASSESSMENT:
         - Advanced | Score: 134 | Ptle: 87
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Filtering Records
-    - Introduction to Data Visualization with Matplotlib
-    - Introduction to Data Visualization with Matplotlib
-    - Introduction to Shell
+    - Aggregate Functions
+    - Foundations of Probability in Python
+    - Analzing Police Activity with pandas
+    - Introduction to SQL
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
@@ -161,12 +171,13 @@
     - Completed chapter 1/9 Introduction to Arduino
     - Reading chapter 2/9 Your Arduino
  - Non-Tech Reading
-  - In the Garden of Beasts, Erik Larsen
+   - In the Garden of Beasts, Erik Larsen
     - Part I - Into the Wood
-      - Reading Chapter 2: That Vacancy in Berlin
-        - No one wanted the position in Berlin. "...Germany was experiencing a
-          great revival or a savage darkening." 
-    - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
+      - Completed chapter 4: Dread (page: 36)
+        - The anti-semitism in government was surprising to me. The U.S. could
+          have saved many Jews. It is a sad and disappointing time.
+      - Reading chapter 5 - First Night (page 56)
+   - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
       - PART III - The Glorious Revival
