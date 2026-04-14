@@ -1,16 +1,24 @@
-
-### Day 563: April 13, 2026 (Monday)
+### Day 564: April 14, 2026 (Tuesday)
 - NOTE FOR THE DAY:
-  - Postgresql Demo (flight data)
-    - https://postgrespro.com/community/demodb
+  - [SQL Style Guide](https://www.sqlstyle.guide/)
+  - Hacker bits
+    - https://hackerbits.com/issue/
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=2
-    - On page 1, 16-20
-    - Continue with link above for page 2
+    - On page 2, 21-25
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
-    - Downloaded 6-10
-    - Downloaded 16-20
+    - Downloaded 21-25
+  - C64 magazines
+    - Zzap!64
+    - Commodore User
+    - Compute!'s Gazette
+    - RUN Magazine
+    - Ahoy!
+    - The Transactor
+    - Info/INFO64
+    - Commodore Format
+    - Commodore Force
   - Research: How to create a pdf magazine similar to The Doom Master Wadazine?
     - Adobe Express
     - Canva (this is a very interesting place)
@@ -23,13 +31,13 @@
       - DOWNLOADED this product
       - Worked on getting this product to start today. I had to update the firewall rule
   - NYT
-    - [What We Know About the Eric Swalwell Sexual Misconduct Allegations](https://www.nytimes.com/2026/04/12/us/eric-swalwell-sexual-misconduct.html)
-    - [Orban, Beacon to the Right, Concedes Defeat in Hungary’s Election](https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html)
-    - []()
+    - [Iran Blockade Sets Up a Test of Which Side Can Endure More Pain](https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html)
+    - [Trump Takes Down Post Depicting Himself as a Jesus-Like Figure](https://www.nytimes.com/2026/04/13/us/politics/trump-jesus-pope-leo-truth-social-post.html)
+    - [The Truth About Mary Todd Lincoln](https://www.nytimes.com/2026/04/11/opinion/mary-todd-lincoln-feminist-history.html)
   - WAPO
-    - [Direct U.S.-Iran talks fail to reach resolution after lengthy negotiation](https://www.washingtonpost.com/world/2026/04/11/us-iran-islamabad-hormuz-ceasefire/)
-    - [I’m part of Gen Z. Social media didn’t ruin my generation.](https://www.washingtonpost.com/opinions/2026/04/12/social-media-ban-youth-mental-health/)
-    - [Trump announces naval blockade of Iran after Islamabad talks yield no deal](https://www.washingtonpost.com/world/2026/04/12/iran-us-talks-ceasefire-vance/)
+    - [U.S. imposes naval blockade as Trump demands Iran end nuclear program](https://www.washingtonpost.com/world/2026/04/13/iran-blockade-us-trump-hormuz/)
+    - [New disclosures reveal how DOGE actually worked](https://www.washingtonpost.com/politics/2026/04/13/doge-musk-trump-deposition-videos-chatgpt/)
+    - [Under attack by their own congressman](https://www.washingtonpost.com/politics/2026/04/13/chip-roy-muslims-texas/)
   - ARTICLES/VIDEOS
     - []()
     - []()
@@ -41,7 +49,7 @@
     - Introduction to Statistics in Python
     - Introduction to Data Visualization with Seaborn
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1000  (Practice) --> 14100 [Peta - Last week: 16,450 XP (13th in Peta League)]
+  - XP: 1000  (Practice) --> 2000  [Peta - Last week: 14,100 XP (8th in Peta League)]
     - Assessment: AI Fundamentals
       - earned 500XP. m 
         - Intermediate | Score: 106 | Ptle: 57
@@ -54,18 +62,18 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Aggregate Functions
-    - Foundations of Probability in Python
-    - Analzing Police Activity with pandas
-    - Introduction to SQL
+    - Sampling in Python
+    - Writing Functions in Python
+    - Writing Function in Python
+    - Regular Expressions - Formatting Strings
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
       - Python Toolbox
       - Data Types in Python
       - Introduction to Python
-  - Course: Intermediate SQL
-    - Working on chapter 1/4 - Selecting Data
+  - Course: Joining Data in SQL
+    - Working on chapter 1/4 - Introducting Inner Joins
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
