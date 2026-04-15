@@ -1,8 +1,6 @@
-### Day 564: April 14, 2026 (Tuesday)
+### Day 565: April 15, 2026 (Wednesday)
 - NOTE FOR THE DAY:
-  - [SQL Style Guide](https://www.sqlstyle.guide/)
-  - Hacker bits
-    - https://hackerbits.com/issue/
+  - Investigate building a tool to continue the downloads below
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=2
     - On page 2, 21-25
@@ -31,13 +29,13 @@
       - DOWNLOADED this product
       - Worked on getting this product to start today. I had to update the firewall rule
   - NYT
-    - [Iran Blockade Sets Up a Test of Which Side Can Endure More Pain](https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html)
-    - [Trump Takes Down Post Depicting Himself as a Jesus-Like Figure](https://www.nytimes.com/2026/04/13/us/politics/trump-jesus-pope-leo-truth-social-post.html)
-    - [The Truth About Mary Todd Lincoln](https://www.nytimes.com/2026/04/11/opinion/mary-todd-lincoln-feminist-history.html)
+    - [At a House Republican’s New York Event, Flashes of an Iran Backlash](https://www.nytimes.com/2026/04/14/us/politics/at-a-house-republicans-new-york-event-flashes-of-an-iran-backlash.html)
+    - [Trump’s Attacks on Pope Leo Create Fresh Midterm Headaches for G.O.P.](https://www.nytimes.com/2026/04/14/us/politics/trump-attacks-pope-midterms.html)
+    - [Here’s How to Defeat Trumpism](https://www.nytimes.com/2026/04/14/opinion/magyar-orban-hungary-trump-defeat.html)
   - WAPO
-    - [U.S. imposes naval blockade as Trump demands Iran end nuclear program](https://www.washingtonpost.com/world/2026/04/13/iran-blockade-us-trump-hormuz/)
-    - [New disclosures reveal how DOGE actually worked](https://www.washingtonpost.com/politics/2026/04/13/doge-musk-trump-deposition-videos-chatgpt/)
-    - [Under attack by their own congressman](https://www.washingtonpost.com/politics/2026/04/13/chip-roy-muslims-texas/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
     - []()
     - []()
@@ -62,16 +60,18 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Sampling in Python
-    - Writing Functions in Python
-    - Writing Function in Python
-    - Regular Expressions - Formatting Strings
+    - Intermediate SQL
+    - Intermediate SQL
+    - Basic Concepts of String Manipulation
+    - AI Ethics
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
       - Python Toolbox
       - Data Types in Python
       - Introduction to Python
+  - Course: Web Scraping
+    - Working on Chapter 1/4 - Introduction to HTML
   - Course: Joining Data in SQL
     - Working on chapter 1/4 - Introducting Inner Joins
   - Course: Introduction to Regression with statsmodel in Python
