@@ -1,4 +1,4 @@
-### Day 565: April 15, 2026 (Wednesday)
+### Day 566: April 16, 2026 (Thursday)
 - NOTE FOR THE DAY:
   - Investigate building a tool to continue the downloads below
   - Download LOADSTAR Magazines (250 disks)
@@ -7,16 +7,6 @@
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
     - Downloaded 21-25
-  - C64 magazines
-    - Zzap!64
-    - Commodore User
-    - Compute!'s Gazette
-    - RUN Magazine
-    - Ahoy!
-    - The Transactor
-    - Info/INFO64
-    - Commodore Format
-    - Commodore Force
   - Research: How to create a pdf magazine similar to The Doom Master Wadazine?
     - Adobe Express
     - Canva (this is a very interesting place)
@@ -29,25 +19,26 @@
       - DOWNLOADED this product
       - Worked on getting this product to start today. I had to update the firewall rule
   - NYT
-    - [At a House Republican’s New York Event, Flashes of an Iran Backlash](https://www.nytimes.com/2026/04/14/us/politics/at-a-house-republicans-new-york-event-flashes-of-an-iran-backlash.html)
-    - [Trump’s Attacks on Pope Leo Create Fresh Midterm Headaches for G.O.P.](https://www.nytimes.com/2026/04/14/us/politics/trump-attacks-pope-midterms.html)
-    - [Here’s How to Defeat Trumpism](https://www.nytimes.com/2026/04/14/opinion/magyar-orban-hungary-trump-defeat.html)
+    - [Trump and Meloni Split Amid Growing Dispute Over Pope and Iran](https://www.nytimes.com/2026/04/15/world/europe/trump-meloni-italy-iran-pope.html)
+    - [Don’t Use A.I. to Do This](https://www.nytimes.com/2026/04/15/opinion/art-artificial-intelligence.html)
+    - [Gallego Dismissed Rumors of a ‘Flirty’ Swalwell, Highlighting a Culture of Silence](https://www.nytimes.com/2026/04/14/us/politics/gallego-swalwell-congress-culture.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [The California governor’s race just got a lot more interesting](https://www.washingtonpost.com/opinions/2026/04/15/eric-swalwell-downfall-remakes-california-governor-race/)
+    - [Connecticut’s fight over self-checkout lanes](https://www.washingtonpost.com/opinions/2026/04/15/will-connecticut-crackdown-self-checkout-lanes/)
+    - [Want to control your blood sugar? Here’s the best time of day for exercise.](https://www.washingtonpost.com/wellness/2026/04/15/exercise-timing-blood-sugar/)
   - ARTICLES/VIDEOS
-    - []()
+    - [Recreating DOOM in Python. Ep0 Introduction](https://www.youtube.com/watch?v=KdYTvqZmyBk&list=PLi77irUVkDasNAYQPr3N8nVcJLQAlANva&index=1&pp=iAQB)
     - []()
     - []()
     - [Chess Legend Magnus Carlsen Lost to Upstart Hans Niemann—Then All Hell Broke Loose](https://www.vanityfair.com/culture/story/
     magnus-carsen-chess-excerpt)
 - Data Camp [DS]
   - Review:
+    - Foundations of Probability
     - Introduction to Statistics in Python
     - Introduction to Data Visualization with Seaborn
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1000  (Practice) --> 2000  [Peta - Last week: 14,100 XP (8th in Peta League)]
+  - XP: 1500  (Practice) --> 2850  [Peta - Last week: 14,100 XP (8th in Peta League)]
     - Assessment: AI Fundamentals
       - earned 500XP. m 
         - Intermediate | Score: 106 | Ptle: 57
@@ -60,10 +51,12 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
+    - Bootstrap confidence intervals
+    - Working with Categorical Data in Python
+    - Introduction to R
     - Intermediate SQL
-    - Intermediate SQL
-    - Basic Concepts of String Manipulation
-    - AI Ethics
+    - Regular Expressions - Basic Concepts of String Manipulation
+    - Foundations of Probability in Python
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
@@ -88,11 +81,18 @@
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
       - [R For Data Science](https://r4ds.had.co.nz/introduction.html)
 - PROJECT: bspEngine
-  - Reviving and completing...working through the video before deep dive into
-    the libraries used.
+    - Working on different video: 
+    - Starting document "HOW_TO_MAKE_A_DOOM_CLONE"
+  - OREILLY COURSE (no notes) - The Art of Doing: Video Game Creation with Python and Pygame
+    - Chapter Chapter 1: Setup and Installation
+    - Working on Chapter 2: Basic Pygame Tutorial
+    - [iconarchive](https://www.iconarchive.com/)
+    - [Leshy Labs](https://www.leshylabs.com/)
+    - [Font Space](https://www.fontspace.com/)
 - FIGMA Marathon
-  - Completed  Challenge 8/26 - Auto-layout III
-  - Working on Challenge 9/26 - Grids
+   - Working on Challenge 9/26 - Grids
+    - I need to watch one more time and be careful about properties changing
+      from Fill to some other value when I make changes
 - Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
   - Re-visiting current notes
   - Adding a Development Task Section and getting on with it!
@@ -102,6 +102,7 @@
       - Next up: Module 5 
 - PROJECT: REAL PYTHON
   - [PyCharm for Productive Python Development (Guide)](https://realpython.com/pycharm-guide/)
+    - Went throught this article. Completed.
   - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
   - [Build Your Weekly Python Study Schedule: 7 Days to Consistent Progress](https://realpython.com/weekly-study-schedule/)
   - [Automate Python Data Analysis With YData Profiling](https://realpython.com/ydata-profiling-eda/)
@@ -180,11 +181,8 @@
     - Reading chapter 2/9 Your Arduino
  - Non-Tech Reading
    - In the Garden of Beasts, Erik Larsen
-    - Part I - Into the Wood
-      - Completed chapter 4: Dread (page: 36)
-        - The anti-semitism in government was surprising to me. The U.S. could
-          have saved many Jews. It is a sad and disappointing time.
-      - Reading chapter 5 - First Night (page 56)
+    - Part II - House Hunting in the Third Reich
+      - Working on chapter 6 - Seduction
    - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
