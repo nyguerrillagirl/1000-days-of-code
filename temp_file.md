@@ -1,4 +1,4 @@
-### Day 566: April 16, 2026 (Thursday)
+### Day 567: April 17, 2026 (Friday)
 - NOTE FOR THE DAY:
   - Investigate building a tool to continue the downloads below
   - Download LOADSTAR Magazines (250 disks)
@@ -19,19 +19,17 @@
       - DOWNLOADED this product
       - Worked on getting this product to start today. I had to update the firewall rule
   - NYT
-    - [Trump and Meloni Split Amid Growing Dispute Over Pope and Iran](https://www.nytimes.com/2026/04/15/world/europe/trump-meloni-italy-iran-pope.html)
-    - [Don’t Use A.I. to Do This](https://www.nytimes.com/2026/04/15/opinion/art-artificial-intelligence.html)
-    - [Gallego Dismissed Rumors of a ‘Flirty’ Swalwell, Highlighting a Culture of Silence](https://www.nytimes.com/2026/04/14/us/politics/gallego-swalwell-congress-culture.html)
+    - [A Huge Statue of a Black Woman Opens a New Door to London’s V&A](https://www.nytimes.com/2026/04/16/arts/design/thomas-j-price-v-and-a-east.html)
+    - [I Almost Never Predict Supreme Court Outcomes. Trump Will Lose This Case.](https://www.nytimes.com/2026/04/16/opinion/supreme-court-trump-immigration.html)
+    - []()
   - WAPO
-    - [The California governor’s race just got a lot more interesting](https://www.washingtonpost.com/opinions/2026/04/15/eric-swalwell-downfall-remakes-california-governor-race/)
-    - [Connecticut’s fight over self-checkout lanes](https://www.washingtonpost.com/opinions/2026/04/15/will-connecticut-crackdown-self-checkout-lanes/)
-    - [Want to control your blood sugar? Here’s the best time of day for exercise.](https://www.washingtonpost.com/wellness/2026/04/15/exercise-timing-blood-sugar/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Recreating DOOM in Python. Ep0 Introduction](https://www.youtube.com/watch?v=KdYTvqZmyBk&list=PLi77irUVkDasNAYQPr3N8nVcJLQAlANva&index=1&pp=iAQB)
     - []()
     - []()
-    - [Chess Legend Magnus Carlsen Lost to Upstart Hans Niemann—Then All Hell Broke Loose](https://www.vanityfair.com/culture/story/
-    magnus-carsen-chess-excerpt)
+    - []()
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -51,12 +49,21 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Bootstrap confidence intervals
-    - Working with Categorical Data in Python
-    - Introduction to R
+    - Introduction to HTML
+    - Dealing with Missing Data in Python
+    - Intermediate R
     - Intermediate SQL
-    - Regular Expressions - Basic Concepts of String Manipulation
-    - Foundations of Probability in Python
+      - The WHERE clause MUST appear BEFORE the GROUP BY clause
+      - The order of Execution:
+      SQL’s logical query processing order is:
+        - FROM
+        - WHERE
+        - GROUP BY
+        - HAVING
+        - SELECT
+        - ORDER BY
+    - Introduction to Statistics in Python
+    - Foundations of Probability
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
@@ -64,9 +71,12 @@
       - Data Types in Python
       - Introduction to Python
   - Course: Web Scraping
-    - Working on Chapter 1/4 - Introduction to HTML
+    - Completed Chapter 2/4 - Introduction to HTML
+      - look up scrapy
+    - Working on Chapter 3/4
   - Course: Joining Data in SQL
-    - Working on chapter 1/4 - Introducting Inner Joins
+    - Completed chapter 1/4 - Introducing Inner Joins
+    - Working on chapter 2/4 - Outer Joins, Cross Joins and Self Joins
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -75,7 +85,7 @@
      - Working on chapter 3/5 - Formulating and simulating a hypothesis
      - TODO: Review from beginning
   - Course: Regular Expressions in Python
-    - Working on chapter 2/4 - Positional Formatting
+    - Working on chapter 3/4 - Positional Formatting
   - Review R
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
@@ -83,6 +93,10 @@
 - PROJECT: bspEngine
     - Working on different video: 
     - Starting document "HOW_TO_MAKE_A_DOOM_CLONE"
+    - Working on installing 3.10.11 because the Numba library only works with 3.10 or lower
+      - Obtaining from: https://www.python.org/downloads/windows/
+      - Downloading 2.10.11 Windows installer for 64-bit
+      - Add Python 3.10 to PATH
   - OREILLY COURSE (no notes) - The Art of Doing: Video Game Creation with Python and Pygame
     - Chapter Chapter 1: Setup and Installation
     - Working on Chapter 2: Basic Pygame Tutorial
@@ -101,8 +115,6 @@
       - Working on Prototyping, Sharing and testing your design
       - Next up: Module 5 
 - PROJECT: REAL PYTHON
-  - [PyCharm for Productive Python Development (Guide)](https://realpython.com/pycharm-guide/)
-    - Went throught this article. Completed.
   - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
   - [Build Your Weekly Python Study Schedule: 7 Days to Consistent Progress](https://realpython.com/weekly-study-schedule/)
   - [Automate Python Data Analysis With YData Profiling](https://realpython.com/ydata-profiling-eda/)
