@@ -1,12 +1,18 @@
-### Day 567: April 17, 2026 (Friday)
+
+### Day 568: April 18, 2026 (Saturday)
 - NOTE FOR THE DAY:
+  - Investagate:
+    - Total Annilation (open-source)
+    - Warzone 2100 (open-source)
+    - Starcraft, Starcraft 2 (2010), 
+    - Kingdom Under Fire, Kingdom Under Fire II (shut down)
   - Investigate building a tool to continue the downloads below
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=2
-    - On page 2, 21-25
+    - On page 2, 26-30
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
-    - Downloaded 21-25
+    - Downloaded 26-30
   - Research: How to create a pdf magazine similar to The Doom Master Wadazine?
     - Adobe Express
     - Canva (this is a very interesting place)
@@ -19,16 +25,16 @@
       - DOWNLOADED this product
       - Worked on getting this product to start today. I had to update the firewall rule
   - NYT
-    - [A Huge Statue of a Black Woman Opens a New Door to London’s V&A](https://www.nytimes.com/2026/04/16/arts/design/thomas-j-price-v-and-a-east.html)
-    - [I Almost Never Predict Supreme Court Outcomes. Trump Will Lose This Case.](https://www.nytimes.com/2026/04/16/opinion/supreme-court-trump-immigration.html)
-    - []()
+    - [Lebanon Cease-Fire Leaves Netanyahu in an Uncomfortable Spot](https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-netanyahu-israel.html)
+    - [Three Questions for Kevin Warsh](https://www.nytimes.com/2026/04/17/opinion/warsh-fed-confirmation.html)
+    - [A Stunning New Verdict Rewrites the Rules of Corporate Morality](https://www.nytimes.com/2026/04/17/opinion/lafarge-corporate-terrorism-syria-france.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Only one thing could sink Lindsey Graham](https://www.washingtonpost.com/opinions/2026/04/17/lindsey-graham-future-senate-could-hang-iran-war/)
+    - [Police rushed to check on a 91-year-old – and found her gaming](https://www.washingtonpost.com/entertainment/video-games/2026/04/17/elderly-gamer-welfare-check-ohio/)
+    - [Singer D4vd arrested in connection with death of teen girl](https://www.washingtonpost.com/nation/2026/04/17/d4vd-celeste-rivas-hernandez-body-case/)
   - ARTICLES/VIDEOS
-    - []()
-    - []()
+    - [14 Best RTS Games That are Still Worth Playing](https://www.youtube.com/watch?v=2VwygGxTJH0)
+    - [What Happens If New York’s Doormen Go on Strike? Mountains of Garbage, History Says.](https://www.vanityfair.com/culture/story/new-york-doormen-strike)
     - []()
 - Data Camp [DS]
   - Review:
@@ -49,21 +55,12 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Introduction to HTML
-    - Dealing with Missing Data in Python
-    - Intermediate R
-    - Intermediate SQL
-      - The WHERE clause MUST appear BEFORE the GROUP BY clause
-      - The order of Execution:
-      SQL’s logical query processing order is:
-        - FROM
-        - WHERE
-        - GROUP BY
-        - HAVING
-        - SELECT
-        - ORDER BY
-    - Introduction to Statistics in Python
-    - Foundations of Probability
+    - Introducing Inner Joins
+    - XPaths and Selectors
+    - Object-Oriented Programming in Python
+    - AI Ethics
+    - Foundations of Probability in Python
+    - Reshaping Data with pandas
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
@@ -73,6 +70,7 @@
   - Course: Web Scraping
     - Completed Chapter 2/4 - Introduction to HTML
       - look up scrapy
+      - [Scrapy Course – Python Web Scraping for Beginners](https://www.youtube.com/watch?v=mBoX_JCKZTE)
     - Working on Chapter 3/4
   - Course: Joining Data in SQL
     - Completed chapter 1/4 - Introducing Inner Joins
@@ -90,13 +88,18 @@
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
       - [R For Data Science](https://r4ds.had.co.nz/introduction.html)
+- PROJECT: Brainycode Magazine
+  - Today I started to create a document detailing how I will create a magazine (pdf)
+    to discuss various topics under the Brainycode banner.
 - PROJECT: bspEngine
     - Working on different video: 
     - Starting document "HOW_TO_MAKE_A_DOOM_CLONE"
-    - Working on installing 3.10.11 because the Numba library only works with 3.10 or lower
-      - Obtaining from: https://www.python.org/downloads/windows/
-      - Downloading 2.10.11 Windows installer for 64-bit
-      - Add Python 3.10 to PATH
+    - Raycaster Videos to watch
+      - [Install Dev C++ and OpenGL | It Works](https://www.youtube.com/watch?v=RTk6W67dyR4&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=7&pp=iAQB)
+      - [Make Your Own Raycaster Part 1](https://www.youtube.com/watch?v=gYRrGTC7GtA&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=5&t=170s&pp=iAQB)
+      - [Make Your Own Raycaster Part 2](https://www.youtube.com/watch?v=PC1RaETIx3Y&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=26&pp=iAQB)
+      - [Make Your Own Raycaster Part 3](https://www.youtube.com/watch?v=w0Bm4IA-Ii8&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=32&pp=iAQB)
+      - [Make Your Own Raycaster Part 4](https://www.youtube.com/watch?v=8j0gakEHJuI&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=54&pp=iAQB)
   - OREILLY COURSE (no notes) - The Art of Doing: Video Game Creation with Python and Pygame
     - Chapter Chapter 1: Setup and Installation
     - Working on Chapter 2: Basic Pygame Tutorial
@@ -140,6 +143,12 @@
       - Completed Reading Chapter 2: Resistance and Power
       - Working on chapter 2 exercises
       - Do lab
+  - 6502 Computer
+    -  Main Project: https://github.com/acwright/6502
+    - BIOS: https://github.com/acwright/6502-BIOS
+    - Emulator: https://github.com/acwright/6502-EMULATOR
+    - PRG Template: https://github.com/acwright/6502-PRG
+    - CRT Template: https://github.com/acwright/6502-CRT
   - READING: Electronics for Kids
     - PART 1: Playing with Electricity
         - Working on Chapter 2: Making Things Move with Electricity and Magnets  
