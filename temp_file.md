@@ -1,6 +1,11 @@
-
-### Day 568: April 18, 2026 (Saturday)
+### Day 569: April 19, 2026 (Sunday)
 - NOTE FOR THE DAY:
+  - Writing document: IDEs and OpenGL Programming
+    - This doducment explores how to do OpenGL programming on three different IDEs:
+      - Code::Blocks
+      - Visual Studio 2022
+      - Visual Studio
+      - Created c:\libs with OpenGL libraries
   - Investagate:
     - Total Annilation (open-source)
     - Warzone 2100 (open-source)
@@ -25,16 +30,16 @@
       - DOWNLOADED this product
       - Worked on getting this product to start today. I had to update the firewall rule
   - NYT
-    - [Lebanon Cease-Fire Leaves Netanyahu in an Uncomfortable Spot](https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-netanyahu-israel.html)
-    - [Three Questions for Kevin Warsh](https://www.nytimes.com/2026/04/17/opinion/warsh-fed-confirmation.html)
-    - [A Stunning New Verdict Rewrites the Rules of Corporate Morality](https://www.nytimes.com/2026/04/17/opinion/lafarge-corporate-terrorism-syria-france.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Only one thing could sink Lindsey Graham](https://www.washingtonpost.com/opinions/2026/04/17/lindsey-graham-future-senate-could-hang-iran-war/)
-    - [Police rushed to check on a 91-year-old – and found her gaming](https://www.washingtonpost.com/entertainment/video-games/2026/04/17/elderly-gamer-welfare-check-ohio/)
-    - [Singer D4vd arrested in connection with death of teen girl](https://www.washingtonpost.com/nation/2026/04/17/d4vd-celeste-rivas-hernandez-body-case/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [14 Best RTS Games That are Still Worth Playing](https://www.youtube.com/watch?v=2VwygGxTJH0)
-    - [What Happens If New York’s Doormen Go on Strike? Mountains of Garbage, History Says.](https://www.vanityfair.com/culture/story/new-york-doormen-strike)
+    - [Install Dev C++ and OpenGL | It Works](https://www.youtube.com/watch?v=RTk6W67dyR4&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=8)
+    - []()
     - []()
 - Data Camp [DS]
   - Review:
@@ -55,12 +60,11 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Introducing Inner Joins
-    - XPaths and Selectors
-    - Object-Oriented Programming in Python
-    - AI Ethics
+    - Software Engineering Principles in Python
+    - Software Engineering Principles in Python
+    - Introduction to Object-Oriented Programming in Python
     - Foundations of Probability in Python
-    - Reshaping Data with pandas
+    - Analyzing Police Activity with pandas
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
@@ -96,6 +100,7 @@
     - Starting document "HOW_TO_MAKE_A_DOOM_CLONE"
     - Raycaster Videos to watch
       - [Install Dev C++ and OpenGL | It Works](https://www.youtube.com/watch?v=RTk6W67dyR4&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=7&pp=iAQB)
+        - STARTED. But abandoned. Why. Dev C++ version available online is dated - frozen in time from years ago.  
       - [Make Your Own Raycaster Part 1](https://www.youtube.com/watch?v=gYRrGTC7GtA&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=5&t=170s&pp=iAQB)
       - [Make Your Own Raycaster Part 2](https://www.youtube.com/watch?v=PC1RaETIx3Y&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=26&pp=iAQB)
       - [Make Your Own Raycaster Part 3](https://www.youtube.com/watch?v=w0Bm4IA-Ii8&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=32&pp=iAQB)
@@ -209,4 +214,6 @@
       of controversy - Sharon Bertsch McGrayne
       - PART III - The Glorious Revival
        - Working on Chapter 9 - There's Always A First Time
-- GRADE: NA
+- GRADE: B
+  - NA
+
