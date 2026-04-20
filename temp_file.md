@@ -1,5 +1,15 @@
-### Day 569: April 19, 2026 (Sunday)
+### Day 570: April 20, 2026 (Monday)
 - NOTE FOR THE DAY:
+  - Building a COMPUTER GAME
+    - Learn SDL
+    - Learn OpenGL
+    - Combine SDL+OpenGL to create a game
+  - Suggest Reading List:
+    - Guns, Germs, and Steel (Jared Diamond)
+    - Sapiens (Yuval Noah Harari)
+    - The Lessons of History (Will & Ariel Durant)
+    - The Righteous Mind (Jonathan Haidt)
+  - What chapter of my life am I currently in, and is it one I chose?
   - Writing document: IDEs and OpenGL Programming
     - This doducment explores how to do OpenGL programming on three different IDEs:
       - Code::Blocks
@@ -30,17 +40,16 @@
       - DOWNLOADED this product
       - Worked on getting this product to start today. I had to update the firewall rule
   - NYT
-    - []()
-    - []()
-    - []()
+    - [You Can’t Game Your Way to a Real Education](https://www.nytimes.com/2026/04/19/opinion/schools-edtech-laptops-games-learning.html)
+    - [A Family Feud at an Oregon Winery Turns to Vinegar Over A.I. Slop](https://www.nytimes.com/2026/04/17/us/oregon-winery-ai-legal-fight.html)
+    - [In Trump’s Orbit, Women Aren’t the Only Ones Concerned About Their Looks](https://www.nytimes.com/2026/04/18/style/trump-men-appearance.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [A Medicare-for-all future in the United Kingdom](https://www.washingtonpost.com/opinions/2026/04/19/brits-pay-private-care-because-medicare-for-all-is-juvenile-idea/)
+    - [Higher education’s frozen yogurt moment](https://www.washingtonpost.com/opinions/2026/04/19/yale-report-shows-colleges-universities-face-reckoning/)
+    - [Trump says Iran talks will resume, threatens power plants and bridges if no deal](https://www.washingtonpost.com/world/2026/04/19/trump-iran-war-hormuz-strait-negotiations/)
   - ARTICLES/VIDEOS
-    - [Install Dev C++ and OpenGL | It Works](https://www.youtube.com/watch?v=RTk6W67dyR4&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=8)
-    - []()
-    - []()
+    - [Carolyn Hax: Recently separated dad sees daughter’s wedding as ‘hoax’](https://www.washingtonpost.com/advice/2026/04/19/carolyn-hax-separated-dad-daughter-wedding/)
+    - [The Problem With Hasan Piker’s Einstein Story](https://www.theatlantic.com/politics/2026/04/hasan-piker-einstein-democrats/686855/)
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -60,11 +69,12 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Software Engineering Principles in Python
-    - Software Engineering Principles in Python
-    - Introduction to Object-Oriented Programming in Python
-    - Foundations of Probability in Python
-    - Analyzing Police Activity with pandas
+    - Introduction to Data Science in Python
+    - Introduction to Data Science in Python
+    - Understanding Data Engineering
+    - Joining Data in SQL - Introducting inner joins
+    - Web Scraping in Python - Introduction to HTML
+    - Web Scraping in Python - XPaths and Selectors
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
@@ -93,15 +103,14 @@
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
       - [R For Data Science](https://r4ds.had.co.nz/introduction.html)
 - PROJECT: Brainycode Magazine
-  - Today I started to create a document detailing how I will create a magazine (pdf)
-    to discuss various topics under the Brainycode banner.
+  - Working on Article #1: Configuring Your Favorite IDE for OpenGL
+  - Working on Article #2: Why do developers create video games with SDL + OpenGL?
 - PROJECT: bspEngine
-    - Working on different video: 
-    - Starting document "HOW_TO_MAKE_A_DOOM_CLONE"
+    - See Magazine articles
+    - Started working on [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
     - Raycaster Videos to watch
-      - [Install Dev C++ and OpenGL | It Works](https://www.youtube.com/watch?v=RTk6W67dyR4&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=7&pp=iAQB)
-        - STARTED. But abandoned. Why. Dev C++ version available online is dated - frozen in time from years ago.  
       - [Make Your Own Raycaster Part 1](https://www.youtube.com/watch?v=gYRrGTC7GtA&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=5&t=170s&pp=iAQB)
+        - Working on this
       - [Make Your Own Raycaster Part 2](https://www.youtube.com/watch?v=PC1RaETIx3Y&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=26&pp=iAQB)
       - [Make Your Own Raycaster Part 3](https://www.youtube.com/watch?v=w0Bm4IA-Ii8&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=32&pp=iAQB)
       - [Make Your Own Raycaster Part 4](https://www.youtube.com/watch?v=8j0gakEHJuI&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=54&pp=iAQB)
@@ -216,4 +225,3 @@
        - Working on Chapter 9 - There's Always A First Time
 - GRADE: B
   - NA
-

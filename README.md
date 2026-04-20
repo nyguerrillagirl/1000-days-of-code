@@ -19,8 +19,9 @@
     - this is going very slowly
 - Google Cybersecurity
     - I dropped this specialization
-- I picked up the course "Developing Front-End Apps with React" 11/2026 and again
-    got stuck completing the final project
+- "Developing Front-End Apps with React" - Completed (insert dancing buffalo bones here)
+
+  <img src="./images/dancing_buffalo_bones.gif" alt="dancing bones" width="25%" height="25%">
 
 # GOAL #2: Learning Data Science
 - Datacamp courses, taking all courses in the Associate Data Scientist in Python

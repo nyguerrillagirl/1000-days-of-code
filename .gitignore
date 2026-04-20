@@ -429,3 +429,39 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# --- Code::Blocks generated files ---
+*.depend
+*.layout
+*.layout.save
+*.cbTemp
+*.objs
+*.tags
+
+# --- Build output directories ---
+bin/
+obj/
+build/
+out/
+
+# --- Compiled binaries ---
+*.exe
+*.dll
+*.so
+*.a
+*.o
+
+# --- Compiler/Linker temp files ---
+*.gch
+*.pch
+
+# --- Code::Blocks autosaves ---
+*.autosave
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Backup files ---
+*~
+*.bak
