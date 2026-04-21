@@ -1,4 +1,4 @@
-### Day 570: April 20, 2026 (Monday)
+### Day 571: April 21, 2026 (Tuesday)
 - NOTE FOR THE DAY:
   - Building a COMPUTER GAME
     - Learn SDL
@@ -40,23 +40,25 @@
       - DOWNLOADED this product
       - Worked on getting this product to start today. I had to update the firewall rule
   - NYT
-    - [You Can’t Game Your Way to a Real Education](https://www.nytimes.com/2026/04/19/opinion/schools-edtech-laptops-games-learning.html)
-    - [A Family Feud at an Oregon Winery Turns to Vinegar Over A.I. Slop](https://www.nytimes.com/2026/04/17/us/oregon-winery-ai-legal-fight.html)
-    - [In Trump’s Orbit, Women Aren’t the Only Ones Concerned About Their Looks](https://www.nytimes.com/2026/04/18/style/trump-men-appearance.html)
+    - [The Forces of Scarcity Hitting Asia May Soon Spread Across the World](https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html)
+    - [Why a Democratic Senate, Once Unthinkable, Is a Real Possibility](https://www.nytimes.com/2026/04/20/upshot/democrats-senate-midterms-chances.html)
+    - [ICE Arrests 85-Year-Old French Widow Who Married Her G.I. Sweetheart](https://www.nytimes.com/2026/04/16/us/ice-detention-alabama-french-woman.html)
   - WAPO
-    - [A Medicare-for-all future in the United Kingdom](https://www.washingtonpost.com/opinions/2026/04/19/brits-pay-private-care-because-medicare-for-all-is-juvenile-idea/)
-    - [Higher education’s frozen yogurt moment](https://www.washingtonpost.com/opinions/2026/04/19/yale-report-shows-colleges-universities-face-reckoning/)
-    - [Trump says Iran talks will resume, threatens power plants and bridges if no deal](https://www.washingtonpost.com/world/2026/04/19/trump-iran-war-hormuz-strait-negotiations/)
+    - [Labor Secretary Lori Chavez-DeRemer will resign amid misconduct allegations](https://www.washingtonpost.com/business/2026/04/20/chavez-deremer-leaves-cabinet/)
+    - [Just 2 minutes a day of this type of exercise may help you live longer](https://www.washingtonpost.com/wellness/2026/04/20/vigorous-lifestyle-activity-longevity/)
+    - [13 years of youth crime data reveal one strong pattern](https://www.washingtonpost.com/opinions/2026/04/20/curfews-are-not-enough-reduce-youth-crime-dc/)
   - ARTICLES/VIDEOS
-    - [Carolyn Hax: Recently separated dad sees daughter’s wedding as ‘hoax’](https://www.washingtonpost.com/advice/2026/04/19/carolyn-hax-separated-dad-daughter-wedding/)
-    - [The Problem With Hasan Piker’s Einstein Story](https://www.theatlantic.com/politics/2026/04/hasan-piker-einstein-democrats/686855/)
+    - [He spreads hate online — and fans pay him hundreds of thousands of dollars
+    ](https://www.washingtonpost.com/technology/2026/04/20/nick-fuentes-stream-donors-funding/)
+    - []()
+    - []()
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
     - Introduction to Statistics in Python
     - Introduction to Data Visualization with Seaborn
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1500  (Practice) --> 2850  [Peta - Last week: 14,100 XP (8th in Peta League)]
+  - XP: 1500  (Practice) -->   [Peta - Last week: 14,100 XP (8th in Peta League)]
     - Assessment: AI Fundamentals
       - earned 500XP. m 
         - Intermediate | Score: 106 | Ptle: 57
@@ -69,12 +71,12 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Introduction to Data Science in Python
-    - Introduction to Data Science in Python
-    - Understanding Data Engineering
-    - Joining Data in SQL - Introducting inner joins
-    - Web Scraping in Python - Introduction to HTML
-    - Web Scraping in Python - XPaths and Selectors
+    - Intermediate Python for Developers
+    - Simple Linear Regression Modeling
+    - Introduction to the Tidyverse
+    - Intermediate SQL
+    - Regular Expression in Python - Formatting Strings
+    - Web Scraping - XPaths and Selectors
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
@@ -87,8 +89,8 @@
       - [Scrapy Course – Python Web Scraping for Beginners](https://www.youtube.com/watch?v=mBoX_JCKZTE)
     - Working on Chapter 3/4
   - Course: Joining Data in SQL
-    - Completed chapter 1/4 - Introducing Inner Joins
-    - Working on chapter 2/4 - Outer Joins, Cross Joins and Self Joins
+    - Completed chapter 2/4 - Outer Joins, Cross Joins and Self Joins
+    - Working on chapter 3 - Set Theory for SQL Joins
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -105,6 +107,10 @@
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
   - Working on Article #2: Why do developers create video games with SDL + OpenGL?
+- PROJECT: Udemy Course - Computer Graphics with Modern OpenGL and C++
+  - Review Section 1: Introduction
+  - Find previous material - Need to start from scratch - could not find it - ODD!
+  - See: https://glm.g-truc.net/0.9.8/index.html
 - PROJECT: bspEngine
     - See Magazine articles
     - Started working on [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
@@ -158,7 +164,7 @@
       - Working on chapter 2 exercises
       - Do lab
   - 6502 Computer
-    -  Main Project: https://github.com/acwright/6502
+    - Main Project: https://github.com/acwright/6502
     - BIOS: https://github.com/acwright/6502-BIOS
     - Emulator: https://github.com/acwright/6502-EMULATOR
     - PRG Template: https://github.com/acwright/6502-PRG
@@ -223,5 +229,5 @@
       of controversy - Sharon Bertsch McGrayne
       - PART III - The Glorious Revival
        - Working on Chapter 9 - There's Always A First Time
-- GRADE: B
+- GRADE: 
   - NA
