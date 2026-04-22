@@ -1,27 +1,13 @@
-### Day 571: April 21, 2026 (Tuesday)
+### Day 572: April 22, 2026 (Wednesday)
 - NOTE FOR THE DAY:
-  - Building a COMPUTER GAME
-    - Learn SDL
-    - Learn OpenGL
-    - Combine SDL+OpenGL to create a game
-  - Suggest Reading List:
-    - Guns, Germs, and Steel (Jared Diamond)
-    - Sapiens (Yuval Noah Harari)
-    - The Lessons of History (Will & Ariel Durant)
-    - The Righteous Mind (Jonathan Haidt)
-  - What chapter of my life am I currently in, and is it one I chose?
-  - Writing document: IDEs and OpenGL Programming
+   - Writing document: IDEs and OpenGL Programming
     - This doducment explores how to do OpenGL programming on three different IDEs:
-      - Code::Blocks
+      - Code::Blocks 
+        - Add templating notes
       - Visual Studio 2022
-      - Visual Studio
-      - Created c:\libs with OpenGL libraries
-  - Investagate:
-    - Total Annilation (open-source)
-    - Warzone 2100 (open-source)
-    - Starcraft, Starcraft 2 (2010), 
-    - Kingdom Under Fire, Kingdom Under Fire II (shut down)
-  - Investigate building a tool to continue the downloads below
+        - Add templating notes
+      - Visual Studio Code
+        - pending
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=2
     - On page 2, 26-30
@@ -40,18 +26,17 @@
       - DOWNLOADED this product
       - Worked on getting this product to start today. I had to update the firewall rule
   - NYT
-    - [The Forces of Scarcity Hitting Asia May Soon Spread Across the World](https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html)
-    - [Why a Democratic Senate, Once Unthinkable, Is a Real Possibility](https://www.nytimes.com/2026/04/20/upshot/democrats-senate-midterms-chances.html)
-    - [ICE Arrests 85-Year-Old French Widow Who Married Her G.I. Sweetheart](https://www.nytimes.com/2026/04/16/us/ice-detention-alabama-french-woman.html)
+    - [Iran War Live Updates: Trump Extends Cease-Fire With Iran](https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news)
+    - [Israeli Soldiers Sentenced to Jail for Damaging Jesus Statue in Lebanon](https://www.nytimes.com/2026/04/21/world/middleeast/israel-soldiers-statue-lebanon-replaced.html)
+    - [‘Easily the Worst President in U.S. History’](https://www.nytimes.com/2026/04/21/opinion/trump-legacy-history-presidents.html)
   - WAPO
-    - [Labor Secretary Lori Chavez-DeRemer will resign amid misconduct allegations](https://www.washingtonpost.com/business/2026/04/20/chavez-deremer-leaves-cabinet/)
-    - [Just 2 minutes a day of this type of exercise may help you live longer](https://www.washingtonpost.com/wellness/2026/04/20/vigorous-lifestyle-activity-longevity/)
-    - [13 years of youth crime data reveal one strong pattern](https://www.washingtonpost.com/opinions/2026/04/20/curfews-are-not-enough-reduce-youth-crime-dc/)
+    - [Trump got his regime change in Canada. Now he may regret it.](https://www.washingtonpost.com/opinions/2026/04/21/canadian-prime-minister-mark-carney-gains-political-strength/)
+    - [ChatGPT allegedly advised Florida State shooter when and where to strike](https://www.washingtonpost.com/technology/2026/04/21/chatgpt-fsu-shooting-openai/)
+    - [Two CIA officers die in Mexico accident after counternarcotics operation](https://www.washingtonpost.com/national-security/2026/04/21/cia-mexico-accident-counter-narcotics/)
   - ARTICLES/VIDEOS
-    - [He spreads hate online — and fans pay him hundreds of thousands of dollars
-    ](https://www.washingtonpost.com/technology/2026/04/20/nick-fuentes-stream-donors-funding/)
-    - []()
-    - []()
+    - [Unpaid Parking Fines Explode Into Violent Standoff](https://www.youtube.com/watch?v=nvTGu2p5Mao)
+    - [Breaking Down a Truly Unhinged Trump Interview | Morning Shots LIVE](https://www.youtube.com/watch?v=ITGEuXDtZ14)
+    - [SWAT Raids Wrong Home Looking For Guy They Already Arrested (3 Months Earlier)](https://www.youtube.com/watch?v=0aCVoLhNlJM)
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -71,12 +56,12 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Intermediate Python for Developers
-    - Simple Linear Regression Modeling
-    - Introduction to the Tidyverse
-    - Intermediate SQL
-    - Regular Expression in Python - Formatting Strings
-    - Web Scraping - XPaths and Selectors
+    - Outer Joins, Cross Joins and Self Joins
+    - Parameter estimation by optimzation
+    - Statistical Thinking in Python (Part 1)
+    - ?
+    - Foundations of Probablity in Python
+    - AI Ethics
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
@@ -87,7 +72,7 @@
     - Completed Chapter 2/4 - Introduction to HTML
       - look up scrapy
       - [Scrapy Course – Python Web Scraping for Beginners](https://www.youtube.com/watch?v=mBoX_JCKZTE)
-    - Working on Chapter 3/4
+    - Working on Chapter 4/4
   - Course: Joining Data in SQL
     - Completed chapter 2/4 - Outer Joins, Cross Joins and Self Joins
     - Working on chapter 3 - Set Theory for SQL Joins
