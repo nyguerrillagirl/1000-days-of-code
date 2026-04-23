@@ -1,4 +1,5 @@
-### Day 572: April 22, 2026 (Wednesday)
+
+### Day 573: April 23, 2026 (Thursday)
 - NOTE FOR THE DAY:
    - Writing document: IDEs and OpenGL Programming
     - This doducment explores how to do OpenGL programming on three different IDEs:
@@ -25,18 +26,19 @@
       - one-time purchase, powerful page layouts, the best "pro but affordable" option 
       - DOWNLOADED this product
       - Worked on getting this product to start today. I had to update the firewall rule
+  - [Scrapy Course – Python Web Scraping for Beginners](https://www.youtube.com/watch?v=mBoX_JCKZTE)
   - NYT
-    - [Iran War Live Updates: Trump Extends Cease-Fire With Iran](https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news)
-    - [Israeli Soldiers Sentenced to Jail for Damaging Jesus Statue in Lebanon](https://www.nytimes.com/2026/04/21/world/middleeast/israel-soldiers-statue-lebanon-replaced.html)
-    - [‘Easily the Worst President in U.S. History’](https://www.nytimes.com/2026/04/21/opinion/trump-legacy-history-presidents.html)
+    - [To Iran, Trump Blinked First by Extending the Cease-Fire](https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html)
+    - [What Is Borderline Personality Disorder?](https://www.nytimes.com/2026/04/21/well/mind/bpd-borderline-personality-disorder.html)
+    - [Bessent Backs Financial Support for Oil-Rich U.A.E.](https://www.nytimes.com/2026/04/22/us/politics/bessent-support-emirates.html)
   - WAPO
-    - [Trump got his regime change in Canada. Now he may regret it.](https://www.washingtonpost.com/opinions/2026/04/21/canadian-prime-minister-mark-carney-gains-political-strength/)
-    - [ChatGPT allegedly advised Florida State shooter when and where to strike](https://www.washingtonpost.com/technology/2026/04/21/chatgpt-fsu-shooting-openai/)
-    - [Two CIA officers die in Mexico accident after counternarcotics operation](https://www.washingtonpost.com/national-security/2026/04/21/cia-mexico-accident-counter-narcotics/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Unpaid Parking Fines Explode Into Violent Standoff](https://www.youtube.com/watch?v=nvTGu2p5Mao)
-    - [Breaking Down a Truly Unhinged Trump Interview | Morning Shots LIVE](https://www.youtube.com/watch?v=ITGEuXDtZ14)
-    - [SWAT Raids Wrong Home Looking For Guy They Already Arrested (3 Months Earlier)](https://www.youtube.com/watch?v=0aCVoLhNlJM)
+    - []()
+    - []()
+    - []()
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -56,23 +58,18 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Outer Joins, Cross Joins and Self Joins
-    - Parameter estimation by optimzation
-    - Statistical Thinking in Python (Part 1)
-    - ?
-    - Foundations of Probablity in Python
-    - AI Ethics
+    - Regular Expressions for Pattern Matching
+    - CSS Locators, Chaining, and Responses
+    - Basic Concepts of String Manipulation
+    - Intermediate SQL
+    - Introduction to Shell
+    - Statistical Thinking in Python (Part 2) - Parameter estimation by optimization
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
       - Python Toolbox
       - Data Types in Python
       - Introduction to Python
-  - Course: Web Scraping
-    - Completed Chapter 2/4 - Introduction to HTML
-      - look up scrapy
-      - [Scrapy Course – Python Web Scraping for Beginners](https://www.youtube.com/watch?v=mBoX_JCKZTE)
-    - Working on Chapter 4/4
   - Course: Joining Data in SQL
     - Completed chapter 2/4 - Outer Joins, Cross Joins and Self Joins
     - Working on chapter 3 - Set Theory for SQL Joins
