@@ -1,12 +1,13 @@
 
-### Day 573: April 23, 2026 (Thursday)
+### Day 574: April 24, 2026 (Friday)
 - NOTE FOR THE DAY:
    - Writing document: IDEs and OpenGL Programming
     - This doducment explores how to do OpenGL programming on three different IDEs:
       - Code::Blocks 
         - Add templating notes
       - Visual Studio 2022
-        - Add templating notes
+        - Failed to correctly create template. I am not sure why it does not 
+          create the template file correctly...I will try one last time
       - Visual Studio Code
         - pending
   - Download LOADSTAR Magazines (250 disks)
@@ -28,16 +29,16 @@
       - Worked on getting this product to start today. I had to update the firewall rule
   - [Scrapy Course – Python Web Scraping for Beginners](https://www.youtube.com/watch?v=mBoX_JCKZTE)
   - NYT
-    - [To Iran, Trump Blinked First by Extending the Cease-Fire](https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html)
-    - [What Is Borderline Personality Disorder?](https://www.nytimes.com/2026/04/21/well/mind/bpd-borderline-personality-disorder.html)
-    - [Bessent Backs Financial Support for Oil-Rich U.A.E.](https://www.nytimes.com/2026/04/22/us/politics/bessent-support-emirates.html)
+    - [No, I Won’t Be Your Bridesmaid](https://www.nytimes.com/2026/04/22/podcasts/modern-love-bridesmaid-tips-ruhama-wolle.html)
+    - [‘People Here Do Not Consider Themselves Poor. They Consider Themselves Broke.’](https://www.nytimes.com/2026/04/23/opinion/bobby-pulido-texas-latinos-democrats.html)
+    - [House Republicans Clash With ActBlue as Investigation Intensifies](https://www.nytimes.com/2026/04/23/us/politics/actblue-republicans-regina-wallace-jones.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [The unflattering secrets revealed so far in Elon Musk’s latest legal feud](https://www.washingtonpost.com/technology/2026/04/23/musk-altman-lawsuit-trial-openai/)
+    - [This 21-year-old saved up for years to buy her grandmother’s house back](https://www.washingtonpost.com/lifestyle/2026/04/23/granddaughter-buys-family-home/)
+    - [DOJ watchdog launches review of agency’s compliance with Epstein files law](https://www.washingtonpost.com/national-security/2026/04/23/doj-inspector-general-epstein-files-audit/)
   - ARTICLES/VIDEOS
-    - []()
-    - []()
+    - [Asking Eric: Our longtime friend cut us off, and we have no idea why.](https://www.washingtonpost.com/advice/2026/04/23/asking-eric-friend-cut-off-no-reason/)
+    - [The Kash Patel Fallout](https://www.theatlantic.com/podcasts/2026/04/kash-patel-fallout/686907/)
     - []()
 - Data Camp [DS]
   - Review:
@@ -45,9 +46,9 @@
     - Introduction to Statistics in Python
     - Introduction to Data Visualization with Seaborn
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1500  (Practice) -->   [Peta - Last week: 14,100 XP (8th in Peta League)]
+  - XP: 1500  (Practice) --> 3100  [Peta - Last week: 14,100 XP (8th in Peta League)]
     - Assessment: AI Fundamentals
-      - earned 500XP. m 
+      - earned 500XP. 
         - Intermediate | Score: 106 | Ptle: 57
     - Assessment: Statistics Fundamentals with Python
       - NEW ASSESSMENT:
@@ -58,21 +59,25 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Regular Expressions for Pattern Matching
-    - CSS Locators, Chaining, and Responses
-    - Basic Concepts of String Manipulation
-    - Intermediate SQL
-    - Introduction to Shell
-    - Statistical Thinking in Python (Part 2) - Parameter estimation by optimization
+    - Web Scraping
+    - Intermediate R
+    - Introduction to Data Visualization with Matplotlib
+    - Generative AI Concepts
+    - Analyzing Police Activity with pandas
+    - Large Language Models (LLMs) Concepts
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
       - Python Toolbox
       - Data Types in Python
       - Introduction to Python
+  - Course: Introduction to Databases in Python
+    - Working on chapter 1/5 - Basics of Relational Databases
+  - Course: Developing Python Packages
+    - Working on chapter 1/4 - From Loose Code to Local Package
   - Course: Joining Data in SQL
-    - Completed chapter 2/4 - Outer Joins, Cross Joins and Self Joins
-    - Working on chapter 3 - Set Theory for SQL Joins
+    - Completed chapter 3/4 - Set Theory for SQL Joins
+    - Working on chapter 4/4 - Subquerying with semi joins and anti joins
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -86,6 +91,8 @@
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
       - [R For Data Science](https://r4ds.had.co.nz/introduction.html)
+- PROJECT: Import/Export Python tool
+  - See how it works on EIPAM DB
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
   - Working on Article #2: Why do developers create video games with SDL + OpenGL?
@@ -120,6 +127,7 @@
       - Working on Prototyping, Sharing and testing your design
       - Next up: Module 5 
 - PROJECT: REAL PYTHON
+  - [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)
   - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
   - [Build Your Weekly Python Study Schedule: 7 Days to Consistent Progress](https://realpython.com/weekly-study-schedule/)
   - [Automate Python Data Analysis With YData Profiling](https://realpython.com/ydata-profiling-eda/)
@@ -188,7 +196,8 @@
  - Tech Reading
   - Bayesian Statistics The Fun Way
     - PART I: Introduction to Probability
-      - Working on 1/18 - Bayesian Thinking and Everyday Reasoning
+      - Completed reading chapter 1/18 - Bayesian Thinking and Everyday Reasoning
+      - Working on chapter 2/18 - Measuring Uncertainty (page: 13-21)
   - React, The Comprehensive Guide 
     - Finally resuming my reading
     - Working chapter 9/21 - Securing a React Application through Testing
