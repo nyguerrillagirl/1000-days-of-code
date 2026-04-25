@@ -1,7 +1,15 @@
-
 ### Day 574: April 24, 2026 (Friday)
 - NOTE FOR THE DAY:
-   - Writing document: IDEs and OpenGL Programming
+  - Books to read:
+    - The Soul of a new machine
+    - Doom Guy: Life in First Person
+    - Sid Meier's Memoir
+    - Console Wars
+    - Press Reset
+    - Hackers, hereos of the computer resolution
+    - Play Nice, The Rise and Fall and Future of Blizzard
+    - The Ultimate History of Video Games
+  - Writing document: IDEs and OpenGL Programming
     - This doducment explores how to do OpenGL programming on three different IDEs:
       - Code::Blocks 
         - Add templating notes
@@ -29,16 +37,16 @@
       - Worked on getting this product to start today. I had to update the firewall rule
   - [Scrapy Course – Python Web Scraping for Beginners](https://www.youtube.com/watch?v=mBoX_JCKZTE)
   - NYT
-    - [No, I Won’t Be Your Bridesmaid](https://www.nytimes.com/2026/04/22/podcasts/modern-love-bridesmaid-tips-ruhama-wolle.html)
-    - [‘People Here Do Not Consider Themselves Poor. They Consider Themselves Broke.’](https://www.nytimes.com/2026/04/23/opinion/bobby-pulido-texas-latinos-democrats.html)
-    - [House Republicans Clash With ActBlue as Investigation Intensifies](https://www.nytimes.com/2026/04/23/us/politics/actblue-republicans-regina-wallace-jones.html)
+    - [Iran War Has Drained U.S. Supplies of Critical, Costly Weapons](https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html)
+    - [There’s a New Phishing Scam: Fake Invitations](https://www.nytimes.com/2026/04/23/style/invitation-phishing-scam.html)
+    - [The Conspiracy Theory Behind Tucker Carlson’s Apology](https://www.nytimes.com/2026/04/24/opinion/conspiracy-theory-tucker-antisemitism.html)
   - WAPO
-    - [The unflattering secrets revealed so far in Elon Musk’s latest legal feud](https://www.washingtonpost.com/technology/2026/04/23/musk-altman-lawsuit-trial-openai/)
-    - [This 21-year-old saved up for years to buy her grandmother’s house back](https://www.washingtonpost.com/lifestyle/2026/04/23/granddaughter-buys-family-home/)
-    - [DOJ watchdog launches review of agency’s compliance with Epstein files law](https://www.washingtonpost.com/national-security/2026/04/23/doj-inspector-general-epstein-files-audit/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Asking Eric: Our longtime friend cut us off, and we have no idea why.](https://www.washingtonpost.com/advice/2026/04/23/asking-eric-friend-cut-off-no-reason/)
-    - [The Kash Patel Fallout](https://www.theatlantic.com/podcasts/2026/04/kash-patel-fallout/686907/)
+    - [CCTV Captures Girlfriend’s Last Moments, What Police Find Next Is Horrifying](https://www.youtube.com/watch?v=ANZkVAkZSww)
+    - []()
     - []()
 - Data Camp [DS]
   - Review:
@@ -59,12 +67,12 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Web Scraping
-    - Intermediate R
-    - Introduction to Data Visualization with Matplotlib
-    - Generative AI Concepts
-    - Analyzing Police Activity with pandas
-    - Large Language Models (LLMs) Concepts
+    - Set Theory for SQL Joins
+    - Dealing with Missing Data in Python
+    - Introduction to SQL
+    - Web Scraping in Python
+    - Introduction to Testing in Python
+    - Cleaning Data in Python
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
