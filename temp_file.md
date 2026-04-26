@@ -1,14 +1,37 @@
-### Day 574: April 24, 2026 (Friday)
+### Day 576: April 26, 2026 (Sunday)
 - NOTE FOR THE DAY:
-  - Books to read:
-    - The Soul of a new machine
-    - Doom Guy: Life in First Person
-    - Sid Meier's Memoir
-    - Console Wars
-    - Press Reset
-    - Hackers, hereos of the computer resolution
-    - Play Nice, The Rise and Fall and Future of Blizzard
-    - The Ultimate History of Video Games
+  - POPULAR DATABASES:
+    - [CHINOOK DATABASE](https://github.com/lerocha/chinook-database)
+      - Chinook is considered a modern replacement for Northwind. It models a 
+        digital media store (artists, albums, tracks, invoices, customers). 
+        Why it's good: It has a clean design, 11 tables, and represents a 
+          real-world scenario with hierarchical data (employees reporting to managers).
+          Compatibility: Excellent support for SQLite, PostgreSQL, MySQL, SQL Server, and Oracle. 
+    - [Sakila Sample Database](https://dev.mysql.com/doc/sakila/en/)
+      - Created by MySQL, Sakila models a DVD rental store chain. 
+        It is more complex than Northwind, with 16 tables. 
+        Why it's good: Features many-to-many relationships, complex views, 
+        and stored procedures. Ideal for practicing GROUP BY with HAVING and subqueries.
+        Compatibility: MySQL, MariaDB.
+    - [Adventure Works](https://www.kaggle.com/datasets/universalanalyst/adventureworks-sample-mfg-database-tables)
+      - Microsoft’s flagship sample database for SQL Server, representing a bicycle manufacturer. 
+        Why it's good: Highly normalized (3NF), covers multiple schemas (Sales, Purchasing, HR, Production), and is 
+        suitable for advanced SQL like CTEs and window functions. Versions: AdventureWorksLT (Lightweight), AdventureWorksDW (Data Warehouse)
+    - [World DB](https://dev.mysql.com/doc/index-other.html)
+      - A compact MySQL sample database containing geographic data (city, country, language). 
+        Why it's good: Small and simple (3 tables), perfect for beginners to run queries on populations and regions without being overwhelmed by schema complexity
+    - []()
+  - Links to explore
+    - [Packaging Data Using Structs in Python](https://www.youtube.com/watch?v=gViM3ZuDQrw)
+    - [Ray-Casting Tutorial For Game Development And Other Purposes](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/)
+    - [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
+    - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
+    - [FreeCodeCamp - Scrapy Course Repo](https://github.com/orgs/python-scrapy-playbook/repositories?type=all)
+    - [Bernoulli Distribution: A Complete Guide with Example](https://www.datacamp.com/tutorial/bernoulli-distribution)
+    - [Data Science: Statistics and Machine Learning Specialization](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
+    - [Lab 1: Intro to DC Circuits](https://www.ece.ualberta.ca/~terheide/ECE202-lab-AD2/lab1.html)
+    - [Regular Expressions and Building Regexes in Python](https://realpython.com/courses/building-regexes-python/)
+    - [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)        
   - Writing document: IDEs and OpenGL Programming
     - This doducment explores how to do OpenGL programming on three different IDEs:
       - Code::Blocks 
@@ -37,16 +60,16 @@
       - Worked on getting this product to start today. I had to update the firewall rule
   - [Scrapy Course – Python Web Scraping for Beginners](https://www.youtube.com/watch?v=mBoX_JCKZTE)
   - NYT
-    - [Iran War Has Drained U.S. Supplies of Critical, Costly Weapons](https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html)
-    - [There’s a New Phishing Scam: Fake Invitations](https://www.nytimes.com/2026/04/23/style/invitation-phishing-scam.html)
-    - [The Conspiracy Theory Behind Tucker Carlson’s Apology](https://www.nytimes.com/2026/04/24/opinion/conspiracy-theory-tucker-antisemitism.html)
+    - [Trump Reposts Tirade Against Chinese and Indian Immigrants](https://www.nytimes.com/2026/04/23/us/politics/trump-china-india-immigrants.html)
+    - [Trump Seeks to Abolish Iran’s Atomic Stockpile, a Problem He Helped Create](https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html)
+    - [A.I. ‘Hallucinations’ Created Errors in Court Filing, Top Law Firm Says](https://www.nytimes.com/2026/04/21/nyregion/sullivan-cromwell-ai-hallucination.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Trump’s political headwinds pile up after gerrymandering, Iran setbacks](https://www.washingtonpost.com/politics/2026/04/25/trump-gerrymandering-iran-polls/)
+    - [I used to be a skeptic. This changed my mind.](https://www.washingtonpost.com/opinions/2026/04/24/society-needs-less-skepticism-more-belief/)
+    - [Tony Dokoupil Is the Face of the Bari Weiss Revolution at CBS News. Will He Survive It?](https://www.vanityfair.com/news/story/tony-dokoupil)
   - ARTICLES/VIDEOS
-    - [CCTV Captures Girlfriend’s Last Moments, What Police Find Next Is Horrifying](https://www.youtube.com/watch?v=ANZkVAkZSww)
-    - []()
+    - [Carolyn Hax: How to tell teen daughter her new bestie is a ‘jerk’?](https://www.washingtonpost.com/advice/2026/04/25/carolyn-hax-teen-new-bestie-jerk/)
+    - [How WAD Works](https://coleton.io/posts/wad/)
     - []()
 - Data Camp [DS]
   - Review:
@@ -67,12 +90,12 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Set Theory for SQL Joins
-    - Dealing with Missing Data in Python
-    - Introduction to SQL
-    - Web Scraping in Python
-    - Introduction to Testing in Python
-    - Cleaning Data in Python
+    - Basics of Relational Databases
+    - Bootstrap confidence intervals
+    - Writing Functions in Python
+    - Web Scraping in Pythin
+    - Intermediate SQL
+    - Foundations of Probability in Python
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
