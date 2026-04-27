@@ -1,26 +1,9 @@
-### Day 576: April 26, 2026 (Sunday)
+### Day 577: April 27, 2026 (Monday)
 - NOTE FOR THE DAY:
-  - POPULAR DATABASES:
-    - [CHINOOK DATABASE](https://github.com/lerocha/chinook-database)
-      - Chinook is considered a modern replacement for Northwind. It models a 
-        digital media store (artists, albums, tracks, invoices, customers). 
-        Why it's good: It has a clean design, 11 tables, and represents a 
-          real-world scenario with hierarchical data (employees reporting to managers).
-          Compatibility: Excellent support for SQLite, PostgreSQL, MySQL, SQL Server, and Oracle. 
-    - [Sakila Sample Database](https://dev.mysql.com/doc/sakila/en/)
-      - Created by MySQL, Sakila models a DVD rental store chain. 
-        It is more complex than Northwind, with 16 tables. 
-        Why it's good: Features many-to-many relationships, complex views, 
-        and stored procedures. Ideal for practicing GROUP BY with HAVING and subqueries.
-        Compatibility: MySQL, MariaDB.
-    - [Adventure Works](https://www.kaggle.com/datasets/universalanalyst/adventureworks-sample-mfg-database-tables)
-      - Microsoft’s flagship sample database for SQL Server, representing a bicycle manufacturer. 
-        Why it's good: Highly normalized (3NF), covers multiple schemas (Sales, Purchasing, HR, Production), and is 
-        suitable for advanced SQL like CTEs and window functions. Versions: AdventureWorksLT (Lightweight), AdventureWorksDW (Data Warehouse)
-    - [World DB](https://dev.mysql.com/doc/index-other.html)
-      - A compact MySQL sample database containing geographic data (city, country, language). 
-        Why it's good: Small and simple (3 tables), perfect for beginners to run queries on populations and regions without being overwhelmed by schema complexity
-    - []()
+  - Solo Games to Explore
+    - Orchard
+    - Rio Grande Games Friday
+    - Onirim
   - Links to explore
     - [Packaging Data Using Structs in Python](https://www.youtube.com/watch?v=gViM3ZuDQrw)
     - [Ray-Casting Tutorial For Game Development And Other Purposes](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/)
@@ -32,15 +15,6 @@
     - [Lab 1: Intro to DC Circuits](https://www.ece.ualberta.ca/~terheide/ECE202-lab-AD2/lab1.html)
     - [Regular Expressions and Building Regexes in Python](https://realpython.com/courses/building-regexes-python/)
     - [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)        
-  - Writing document: IDEs and OpenGL Programming
-    - This doducment explores how to do OpenGL programming on three different IDEs:
-      - Code::Blocks 
-        - Add templating notes
-      - Visual Studio 2022
-        - Failed to correctly create template. I am not sure why it does not 
-          create the template file correctly...I will try one last time
-      - Visual Studio Code
-        - pending
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=2
     - On page 2, 26-30
@@ -60,16 +34,17 @@
       - Worked on getting this product to start today. I had to update the firewall rule
   - [Scrapy Course – Python Web Scraping for Beginners](https://www.youtube.com/watch?v=mBoX_JCKZTE)
   - NYT
-    - [Trump Reposts Tirade Against Chinese and Indian Immigrants](https://www.nytimes.com/2026/04/23/us/politics/trump-china-india-immigrants.html)
-    - [Trump Seeks to Abolish Iran’s Atomic Stockpile, a Problem He Helped Create](https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html)
-    - [A.I. ‘Hallucinations’ Created Errors in Court Filing, Top Law Firm Says](https://www.nytimes.com/2026/04/21/nyregion/sullivan-cromwell-ai-hallucination.html)
+    - [After Security Scare, Trump Demands Approval for His White House Ballroom](https://www.nytimes.com/2026/04/26/us/politics/trump-white-house-ballroom-dinner-shooting.html)
+    - [The Trump Administration Has Changed Almost Every Aspect of Food Stamps](https://www.nytimes.com/2026/04/26/us/trump-administration-food-stamps.html)
+    - [The Hard Life of an Immigrant Whose Killing Became a Symbol for Trump](https://www.nytimes.com/2026/04/26/us/the-hard-life-of-an-immigrant-whose-killing-became-a-symbol-for-trump.html)
   - WAPO
-    - [Trump’s political headwinds pile up after gerrymandering, Iran setbacks](https://www.washingtonpost.com/politics/2026/04/25/trump-gerrymandering-iran-polls/)
-    - [I used to be a skeptic. This changed my mind.](https://www.washingtonpost.com/opinions/2026/04/24/society-needs-less-skepticism-more-belief/)
-    - [Tony Dokoupil Is the Face of the Bari Weiss Revolution at CBS News. Will He Survive It?](https://www.vanityfair.com/news/story/tony-dokoupil)
+    - [Mood in Russia turns bleak as war in Ukraine drags on and economy suffers](https://www.washingtonpost.com/world/2026/04/26/russia-public-despair-war-ukraine/)
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Carolyn Hax: How to tell teen daughter her new bestie is a ‘jerk’?](https://www.washingtonpost.com/advice/2026/04/25/carolyn-hax-teen-new-bestie-jerk/)
-    - [How WAD Works](https://coleton.io/posts/wad/)
+    - [2022 People's Choice Top 200 Solo Games (1-200)](https://boardgamegeek.com/geeklist/306154/2022-peoples-choice-top-200-solo-games-1-200)
+    - [
+The Best One-Player Games (That Aren’t Solitaire), According to Gamers](https://nymag.com/strategist/article/best-one-player-board-games.html?utm_source=google&utm_medium=h5d&utm_campaign=h_st_000315&gad_source=1&gad_campaignid=21393670725&gbraid=0AAAAA9k5E7Ctc_RcCwE1n2JmYUNiu8Cgr&gclid=Cj0KCQjw77bPBhC_ARIsAGAjjV-YfHDl1TnaJG9OIMe_VjluUeF567ygNlTh3hR3rZw1lJOaCyLEGHAaAmeREALw_wcB)
     - []()
 - Data Camp [DS]
   - Review:
@@ -90,12 +65,9 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Basics of Relational Databases
-    - Bootstrap confidence intervals
-    - Writing Functions in Python
-    - Web Scraping in Pythin
-    - Intermediate SQL
-    - Foundations of Probability in Python
+    - Regular Expressions for Pattern Matching
+    - Introducing Inner Joins
+    - Sampling in Python
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
