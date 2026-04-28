@@ -1,12 +1,10 @@
-### Day 577: April 27, 2026 (Monday)
+### Day 578: April 28, 2026 (Tuesday)
 - NOTE FOR THE DAY:
   - Solo Games to Explore
     - Orchard
     - Rio Grande Games Friday
     - Onirim
   - Links to explore
-    - [Packaging Data Using Structs in Python](https://www.youtube.com/watch?v=gViM3ZuDQrw)
-    - [Ray-Casting Tutorial For Game Development And Other Purposes](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/)
     - [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
     - [FreeCodeCamp - Scrapy Course Repo](https://github.com/orgs/python-scrapy-playbook/repositories?type=all)
@@ -33,18 +31,22 @@
       - DOWNLOADED this product
       - Worked on getting this product to start today. I had to update the firewall rule
   - [Scrapy Course – Python Web Scraping for Beginners](https://www.youtube.com/watch?v=mBoX_JCKZTE)
+    - AT LOCATION: 23:45
+    - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - [After Security Scare, Trump Demands Approval for His White House Ballroom](https://www.nytimes.com/2026/04/26/us/politics/trump-white-house-ballroom-dinner-shooting.html)
-    - [The Trump Administration Has Changed Almost Every Aspect of Food Stamps](https://www.nytimes.com/2026/04/26/us/trump-administration-food-stamps.html)
-    - [The Hard Life of an Immigrant Whose Killing Became a Symbol for Trump](https://www.nytimes.com/2026/04/26/us/the-hard-life-of-an-immigrant-whose-killing-became-a-symbol-for-trump.html)
-  - WAPO
-    - [Mood in Russia turns bleak as war in Ukraine drags on and economy suffers](https://www.washingtonpost.com/world/2026/04/26/russia-public-despair-war-ukraine/)
+    - [President and First Lady Demand ABC Fire Jimmy Kimmel Over ‘Widow’ Joke](https://www.nytimes.com/2026/04/27/us/politics/trump-jimmy-kimmel-abc-widow-joke.html)
+    - [The Best Books of the Year (So Far)
+    ](https://www.nytimes.com/2026/04/27/books/best-books-2026-so-far.html)
     - []()
+  - WAPO
+    - [Trump wants a correspondents’ dinner redo. Critics aren’t convinced.](https://www.washingtonpost.com/style/2026/04/27/trump-whca-dinner-redo-critics-end/)
+    - [Absent GOP congressman says he’s dealing with ‘medical issue’ in vague statement](https://www.washingtonpost.com/politics/2026/04/27/tom-kean-new-jersey-health-issues/)
     - []()
   - ARTICLES/VIDEOS
-    - [2022 People's Choice Top 200 Solo Games (1-200)](https://boardgamegeek.com/geeklist/306154/2022-peoples-choice-top-200-solo-games-1-200)
-    - [
-The Best One-Player Games (That Aren’t Solitaire), According to Gamers](https://nymag.com/strategist/article/best-one-player-board-games.html?utm_source=google&utm_medium=h5d&utm_campaign=h_st_000315&gad_source=1&gad_campaignid=21393670725&gbraid=0AAAAA9k5E7Ctc_RcCwE1n2JmYUNiu8Cgr&gclid=Cj0KCQjw77bPBhC_ARIsAGAjjV-YfHDl1TnaJG9OIMe_VjluUeF567ygNlTh3hR3rZw1lJOaCyLEGHAaAmeREALw_wcB)
+    - [Packaging Data Using Structs in Python](https://www.youtube.com/watch?v=gViM3ZuDQrw)
+      - VERY GOOD tutorial on struct and sockets.
+    - [Ray-Casting Tutorial For Game Development And Other Purposes](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/)
+      - WORKING ON THIS TUTORIAL    
     - []()
 - Data Camp [DS]
   - Review:
@@ -52,7 +54,7 @@ The Best One-Player Games (That Aren’t Solitaire), According to Gamers](https:
     - Introduction to Statistics in Python
     - Introduction to Data Visualization with Seaborn
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1500  (Practice) --> 3100  [Peta - Last week: 14,100 XP (8th in Peta League)]
+  - XP: 1125  (Practice) --> 2500  [Peta - Last week: 15,825 XP (9th in Peta League)]
     - Assessment: AI Fundamentals
       - earned 500XP. 
         - Intermediate | Score: 106 | Ptle: 57
@@ -65,9 +67,11 @@ The Best One-Player Games (That Aren’t Solitaire), According to Gamers](https:
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Regular Expressions for Pattern Matching
-    - Introducing Inner Joins
-    - Sampling in Python
+    - Outer Joins, Cross Joins and Self Joins
+    - Introduction to Importing Data in R
+    - Introduction to Data Visualization with Plotly in Python
+    - Joining Data in SQL - Set Theory for SQL Joins
+    - Regular Expressions in Python - Regular Expressions for Pattern Matching
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
@@ -99,6 +103,7 @@ The Best One-Player Games (That Aren’t Solitaire), According to Gamers](https:
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
   - Working on Article #2: Why do developers create video games with SDL + OpenGL?
+  - Working on Article #3: Python sockets and struct
 - PROJECT: Udemy Course - Computer Graphics with Modern OpenGL and C++
   - Review Section 1: Introduction
   - Find previous material - Need to start from scratch - could not find it - ODD!
