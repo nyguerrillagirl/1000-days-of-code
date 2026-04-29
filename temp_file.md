@@ -1,9 +1,13 @@
-### Day 578: April 28, 2026 (Tuesday)
+### Day 579: April 29, 2026 (Wednesday)
 - NOTE FOR THE DAY:
-  - Solo Games to Explore
-    - Orchard
-    - Rio Grande Games Friday
-    - Onirim
+  - Renamed bspEngine ==> Wolf/Doom Project
+    - I would like to dedicate as much time as possible to this project in order to complete something
+      significant in 200 days of code.  I need to re-learn C++, learn OpenGL, Qt and math for graphics
+      programming. I will keep notes on my progress learning, in the wolf_doom_docs section of 
+      1000-days-of-code. 
+    - Update update_git to move files from OneDrive into wolf_doom_docs section. Actually update with current set of files
+  - Books to consider:
+    - My Programming Notes: SQLAlchemy 2.0: Query relational databases with Python
   - Links to explore
     - [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
@@ -34,19 +38,16 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - [President and First Lady Demand ABC Fire Jimmy Kimmel Over ‘Widow’ Joke](https://www.nytimes.com/2026/04/27/us/politics/trump-jimmy-kimmel-abc-widow-joke.html)
-    - [The Best Books of the Year (So Far)
-    ](https://www.nytimes.com/2026/04/27/books/best-books-2026-so-far.html)
+    - [‘Disappointed,’ ‘Surprised,’ ‘Betrayed’: 12 Trump Voters on What Has Gone Wrong](https://www.nytimes.com/interactive/2026/04/28/opinion/focus-group-trump-voters-disappointed.html)
+    - []()
     - []()
   - WAPO
-    - [Trump wants a correspondents’ dinner redo. Critics aren’t convinced.](https://www.washingtonpost.com/style/2026/04/27/trump-whca-dinner-redo-critics-end/)
-    - [Absent GOP congressman says he’s dealing with ‘medical issue’ in vague statement](https://www.washingtonpost.com/politics/2026/04/27/tom-kean-new-jersey-health-issues/)
+    - []()
+    - []()
     - []()
   - ARTICLES/VIDEOS
     - [Packaging Data Using Structs in Python](https://www.youtube.com/watch?v=gViM3ZuDQrw)
       - VERY GOOD tutorial on struct and sockets.
-    - [Ray-Casting Tutorial For Game Development And Other Purposes](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/)
-      - WORKING ON THIS TUTORIAL    
     - []()
 - Data Camp [DS]
   - Review:
@@ -67,11 +68,14 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Outer Joins, Cross Joins and Self Joins
-    - Introduction to Importing Data in R
-    - Introduction to Data Visualization with Plotly in Python
-    - Joining Data in SQL - Set Theory for SQL Joins
-    - Regular Expressions in Python - Regular Expressions for Pattern Matching
+    - From Loose Code to Local Packages
+    - Writing Efficient Python Code
+      - %timeit uses multiple runs and loops to calculate an average. %lprun runs the code only once
+      - What is the data type returned by the .itertuples() method? named tuples
+    - Working with Dates and Time in Python
+    - Introduction to Numpy
+    - Intermediate Object-Oriented Programming in Python
+    - Software Engineering Principles in Python
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
@@ -99,7 +103,7 @@
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
       - [R For Data Science](https://r4ds.had.co.nz/introduction.html)
 - PROJECT: Import/Export Python tool
-  - See how it works on EIPAM DB
+  - DROPPED THIS PROJECT
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
   - Working on Article #2: Why do developers create video games with SDL + OpenGL?
@@ -108,8 +112,9 @@
   - Review Section 1: Introduction
   - Find previous material - Need to start from scratch - could not find it - ODD!
   - See: https://glm.g-truc.net/0.9.8/index.html
-- PROJECT: bspEngine
-    - See Magazine articles
+- PROJECT: Wolf/Doom
+    - [Ray-Casting Tutorial For Game Development And Other Purposes](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/)
+      - WORKING ON THIS TUTORIAL    
     - Started working on [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
     - Raycaster Videos to watch
       - [Make Your Own Raycaster Part 1](https://www.youtube.com/watch?v=gYRrGTC7GtA&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=5&t=170s&pp=iAQB)
@@ -175,8 +180,7 @@
       - Wireless, from Marconi's black-box to the audion
         - Reading 1/7 - Hertzian Optics and Wireless Telegraphy- PROJECT: Advent of Code
 - PROJECT: Advent of Code
-  - Completed on 2020 - Day 5 Part 1 and Part 2
-  - Working on 2021 - Day 5 Part 1 
+  - DROP THIS PROJECT
 - PROJECT: Learning Data Science with Python Workbook (LDSPW)
   - Working on Part I - Python Basics to Master
   - Working on Part IV - Learning NumPy, pandas and matplotlib
@@ -219,6 +223,13 @@
   - Learn Electronics with Arduino
     - Completed chapter 1/9 Introduction to Arduino
     - Reading chapter 2/9 Your Arduino
+  - Wolf/Doom Reading
+    - The goal is to complete all books in 100-150 days
+    - Geometry
+      - plan: 13 pages/day
+      - Working on chapter 1/9 - Basics of Geometry
+        - chapter 1 pages: 10-120
+        - currently at:
  - Non-Tech Reading
    - In the Garden of Beasts, Erik Larsen
     - Part II - House Hunting in the Third Reich
@@ -227,6 +238,6 @@
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
       - PART III - The Glorious Revival
-       - Working on Chapter 9 - There's Always A First Time
+       - Working on chapter 9 - Death is Death (page: 110)
 - GRADE: 
   - NA
