@@ -1,13 +1,11 @@
-### Day 579: April 29, 2026 (Wednesday)
+### Day 580: April 30, 2026 (Thursday)
 - NOTE FOR THE DAY:
-  - Renamed bspEngine ==> Wolf/Doom Project
-    - I would like to dedicate as much time as possible to this project in order to complete something
-      significant in 200 days of code.  I need to re-learn C++, learn OpenGL, Qt and math for graphics
-      programming. I will keep notes on my progress learning, in the wolf_doom_docs section of 
-      1000-days-of-code. 
-    - Update update_git to move files from OneDrive into wolf_doom_docs section. Actually update with current set of files
-  - Books to consider:
-    - My Programming Notes: SQLAlchemy 2.0: Query relational databases with Python
+  - Obtaining more exercises with Regular Expressions
+    - [RegexOn](https://regexone.com)
+    - [HackerRank](https://www.hackerrank.com/domains/regex)
+    - [Codewars](https://www.codewars.com)
+      - Search for "regex" kata
+    - [Exercism](https://exercism.or)
   - Links to explore
     - [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
@@ -19,10 +17,12 @@
     - [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)        
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=2
-    - On page 2, 26-30
+    - FORMAT: 0xx_LOADSTAR_64
+    - On page 2, 31-35
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
-    - Downloaded 26-30
+    - FORMAT: XX_MON_YY_YOUR_COMMODORE
+    - Downloaded 31-35
   - Research: How to create a pdf magazine similar to The Doom Master Wadazine?
     - Adobe Express
     - Canva (this is a very interesting place)
@@ -38,7 +38,7 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - [‘Disappointed,’ ‘Surprised,’ ‘Betrayed’: 12 Trump Voters on What Has Gone Wrong](https://www.nytimes.com/interactive/2026/04/28/opinion/focus-group-trump-voters-disappointed.html)
+    - []()
     - []()
     - []()
   - WAPO
@@ -46,8 +46,8 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Packaging Data Using Structs in Python](https://www.youtube.com/watch?v=gViM3ZuDQrw)
-      - VERY GOOD tutorial on struct and sockets.
+    - []()
+    - []()
     - []()
 - Data Camp [DS]
   - Review:
@@ -68,20 +68,19 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - From Loose Code to Local Packages
-    - Writing Efficient Python Code
-      - %timeit uses multiple runs and loops to calculate an average. %lprun runs the code only once
-      - What is the data type returned by the .itertuples() method? named tuples
-    - Working with Dates and Time in Python
-    - Introduction to Numpy
-    - Intermediate Object-Oriented Programming in Python
-    - Software Engineering Principles in Python
+    - Basics of Relational Databases
+    - Understanding ChatGPT
+    - Intermediate Importing Data in R
+    - AI Ethics
+    - Data Types in Python
+    - Working with Categorical Data in Python
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
       - Python Toolbox
       - Data Types in Python
       - Introduction to Python
+      - Data Types in Python
   - Course: Introduction to Databases in Python
     - Working on chapter 1/5 - Basics of Relational Databases
   - Course: Developing Python Packages
@@ -97,13 +96,12 @@
      - Working on chapter 3/5 - Formulating and simulating a hypothesis
      - TODO: Review from beginning
   - Course: Regular Expressions in Python
-    - Working on chapter 3/4 - Positional Formatting
+    - Completed chapter 4/4 - Advanced Regular Expression Concepts
+    - Completed Course
   - Review R
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
       - [R For Data Science](https://r4ds.had.co.nz/introduction.html)
-- PROJECT: Import/Export Python tool
-  - DROPPED THIS PROJECT
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
   - Working on Article #2: Why do developers create video games with SDL + OpenGL?
@@ -179,8 +177,6 @@
     - READING:
       - Wireless, from Marconi's black-box to the audion
         - Reading 1/7 - Hertzian Optics and Wireless Telegraphy- PROJECT: Advent of Code
-- PROJECT: Advent of Code
-  - DROP THIS PROJECT
 - PROJECT: Learning Data Science with Python Workbook (LDSPW)
   - Working on Part I - Python Basics to Master
   - Working on Part IV - Learning NumPy, pandas and matplotlib
@@ -229,7 +225,7 @@
       - plan: 13 pages/day
       - Working on chapter 1/9 - Basics of Geometry
         - chapter 1 pages: 10-120
-        - currently at:
+        - currently at: 17
  - Non-Tech Reading
    - In the Garden of Beasts, Erik Larsen
     - Part II - House Hunting in the Third Reich
