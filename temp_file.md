@@ -1,11 +1,6 @@
-### Day 580: April 30, 2026 (Thursday)
+
+### Day 581: May 01, 2026 (Friday)
 - NOTE FOR THE DAY:
-  - Obtaining more exercises with Regular Expressions
-    - [RegexOn](https://regexone.com)
-    - [HackerRank](https://www.hackerrank.com/domains/regex)
-    - [Codewars](https://www.codewars.com)
-      - Search for "regex" kata
-    - [Exercism](https://exercism.or)
   - Links to explore
     - [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
@@ -16,39 +11,30 @@
     - [Regular Expressions and Building Regexes in Python](https://realpython.com/courses/building-regexes-python/)
     - [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)        
   - Download LOADSTAR Magazines (250 disks)
-    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=2
+    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=3
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 2, 31-35
+    - On page 2, 36-40
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
     - FORMAT: XX_MON_YY_YOUR_COMMODORE
-    - Downloaded 31-35
-  - Research: How to create a pdf magazine similar to The Doom Master Wadazine?
-    - Adobe Express
-    - Canva (this is a very interesting place)
-    - Flipsnack
-      - Great for turning PDF into a flipbook
-    - Issuu
-      - Creates a digital magazine viewer
-    - Affinity Publisher
-      - one-time purchase, powerful page layouts, the best "pro but affordable" option 
-      - DOWNLOADED this product
-      - Worked on getting this product to start today. I had to update the firewall rule
+    - Downloaded 36-40
+  - Investigating using Word or an Open-Source application
+    - How to create a magazine with Microsoft Word
   - [Scrapy Course – Python Web Scraping for Beginners](https://www.youtube.com/watch?v=mBoX_JCKZTE)
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Trump May Pull Troops From Germany. That Isn’t as Scary as It Once Was.](https://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html)
+    - [Crop Undercount Raises Questions About Reliability of U.S.D.A. Data](https://www.nytimes.com/2026/04/30/business/usda-farmers-crops-data.html)
+    - [Trump Administration Casts Host of Policies Under Biden as Anti-Christian](https://www.nytimes.com/2026/04/30/us/politics/trump-report-christians-biden.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Trump drops embattled surgeon general pick Casey Means, announces new nominee](https://www.washingtonpost.com/health/2026/04/30/surgeon-general-nominee-means-saphier/)
+    - [Maine Gov. Janet Mills drops out of race to unseat Republican Sen. Susan Collins](https://www.washingtonpost.com/politics/2026/04/30/mills-maine-senate-collins-platner/)
+    - [The Comey indictment could be upended by this 2015 Supreme Court precedent](https://www.washingtonpost.com/national-security/2026/04/30/comey-indictment-supreme-court-precedent/)
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [Github are you joking?](https://www.youtube.com/watch?v=b13m-iuu4XU)
+    - [GitHub is facing HUGE problems!](https://www.youtube.com/watch?v=pekbl3Yz02g)
+    - [All the Sad Young Chinese Professionals](https://www.theatlantic.com/international/2026/04/china-loneliness-epidemic/686994/)
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -68,12 +54,10 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Basics of Relational Databases
-    - Understanding ChatGPT
-    - Intermediate Importing Data in R
-    - AI Ethics
-    - Data Types in Python
-    - Working with Categorical Data in Python
+    - Regular Expressions in Python
+    - Intermediate R
+    - Analyzing Police Activity with pandas
+    - Introduction to Data Science in Python
     - Avoid:
       - Data Manipulation with pandas
       - Understanding ChatGPT
@@ -82,12 +66,12 @@
       - Introduction to Python
       - Data Types in Python
   - Course: Introduction to Databases in Python
-    - Working on chapter 1/5 - Basics of Relational Databases
+    - Working on chapter 2/5 - Filtering and Targeting Data
   - Course: Developing Python Packages
     - Working on chapter 1/4 - From Loose Code to Local Package
   - Course: Joining Data in SQL
-    - Completed chapter 3/4 - Set Theory for SQL Joins
-    - Working on chapter 4/4 - Subquerying with semi joins and anti joins
+    - Completed chapter 4/4 - Subquerying with semi joins and anti joins
+    - Completed Course
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -95,9 +79,6 @@
      - Completed chapter 2/5 - Bootstrap confidence intervals
      - Working on chapter 3/5 - Formulating and simulating a hypothesis
      - TODO: Review from beginning
-  - Course: Regular Expressions in Python
-    - Completed chapter 4/4 - Advanced Regular Expression Concepts
-    - Completed Course
   - Review R
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
@@ -106,6 +87,14 @@
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
   - Working on Article #2: Why do developers create video games with SDL + OpenGL?
   - Working on Article #3: Python sockets and struct
+  - Checking [Create Cover Page in Microsoft Word | Natural Magazine Cover Designing in MS Word](https://www.youtube.com/watch?v=7QjT_nGXGww)
+  - Place for images (free) https://www.pexels.com/
+  - Check:
+    - [](https://www.youtube.com/watch?v=yEr5AoG_jxw)
+    - [Scribus: the best free Adobe InDesign alternative](https://gsantoro.dev/posts/scribus-vs-indesign/)
+    - See: [Scribus Lesson 1 - Getting Started and User Interface](https://www.youtube.com/watch?v=hMlT9C6xcDw&list=PLqazFFzUAPc6U1RcNRBMeCK6Hg3g_S6aN)
+    - FROM Playlist [Scribus Tutorials](https://www.youtube.com/playlist?list=PLqazFFzUAPc6U1RcNRBMeCK6Hg3g_S6aN)
+    - Download Scribus: https://sourceforge.net/projects/scribus/
 - PROJECT: Udemy Course - Computer Graphics with Modern OpenGL and C++
   - Review Section 1: Introduction
   - Find previous material - Need to start from scratch - could not find it - ODD!
@@ -204,8 +193,9 @@
  - Tech Reading
   - Bayesian Statistics The Fun Way
     - PART I: Introduction to Probability
-      - Completed reading chapter 1/18 - Bayesian Thinking and Everyday Reasoning
-      - Working on chapter 2/18 - Measuring Uncertainty (page: 13-21)
+      - Completed chapter 2/18 - Measuring Uncertainty (page: 13-21)
+      - Completed exercises on page: 20
+      - Working on chapter 3/18 (pages: 21-32)
   - React, The Comprehensive Guide 
     - Finally resuming my reading
     - Working chapter 9/21 - Securing a React Application through Testing
@@ -228,8 +218,8 @@
         - currently at: 17
  - Non-Tech Reading
    - In the Garden of Beasts, Erik Larsen
-    - Part II - House Hunting in the Third Reich
-      - Working on chapter 6 - Seduction
+    - Part III - Lucifer in the Garden
+      - Working on chapter 11 - Strange Beings
    - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
