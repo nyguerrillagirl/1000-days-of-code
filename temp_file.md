@@ -1,6 +1,15 @@
-
-### Day 581: May 01, 2026 (Friday)
+### Day 582: May 02, 2026 (Saturday)
 - NOTE FOR THE DAY:
+  - Good books on Mathematics
+    - 1. Leonhard Euler: Mathematical Genius in the Enlightenment — Ronald S. Calinger
+    - 2. A Concise History of Mathematics — Dirk J. Struik
+    - 3. The History of Mathematics: A Reader — John Fauvel & Jeremy Gray
+    - 4. The Wonder Book of Geometry: A Mathematical Story — David Acheson
+    - 5. Zero: The Biography of a Dangerous Idea — Charles Seife
+    - 6. Journey through Genius — William Dunham
+    - 7. The History of Mathematics — Carl B. Boyer & Uta Merzbach
+    - The Pamphlets of Lewis Carroll: The Mathematical Pamphlets of Charles Lutwidge Dodgson and Related Pieces, Francine Abeles, Co
+    - Mathematical Models
   - Links to explore
     - [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
@@ -24,17 +33,17 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - [Trump May Pull Troops From Germany. That Isn’t as Scary as It Once Was.](https://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html)
-    - [Crop Undercount Raises Questions About Reliability of U.S.D.A. Data](https://www.nytimes.com/2026/04/30/business/usda-farmers-crops-data.html)
-    - [Trump Administration Casts Host of Policies Under Biden as Anti-Christian](https://www.nytimes.com/2026/04/30/us/politics/trump-report-christians-biden.html)
+    - [Since Congress Let Obamacare Subsidies Expire, Millions Are Dropping Coverage](https://www.nytimes.com/2026/05/01/business/obamacare-enrollment-decline.html)
+    - [Iran Sends New Proposal for Peace Talks with U.S., State Media Says](https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html)
+    - [Trump Is the One Without the Cards at the Poker Table](https://www.nytimes.com/2026/05/01/opinion/trump-iran-artificial-intelligence-china.html)
   - WAPO
-    - [Trump drops embattled surgeon general pick Casey Means, announces new nominee](https://www.washingtonpost.com/health/2026/04/30/surgeon-general-nominee-means-saphier/)
-    - [Maine Gov. Janet Mills drops out of race to unseat Republican Sen. Susan Collins](https://www.washingtonpost.com/politics/2026/04/30/mills-maine-senate-collins-platner/)
-    - [The Comey indictment could be upended by this 2015 Supreme Court precedent](https://www.washingtonpost.com/national-security/2026/04/30/comey-indictment-supreme-court-precedent/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Github are you joking?](https://www.youtube.com/watch?v=b13m-iuu4XU)
-    - [GitHub is facing HUGE problems!](https://www.youtube.com/watch?v=pekbl3Yz02g)
-    - [All the Sad Young Chinese Professionals](https://www.theatlantic.com/international/2026/04/china-loneliness-epidemic/686994/)
+    - [Today in Politics | Explainer](https://www.youtube.com/watch?v=xOVMxorHG3Q)
+    - []()
+    - []()
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -54,12 +63,12 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Regular Expressions in Python
-    - Intermediate R
-    - Analyzing Police Activity with pandas
-    - Introduction to Data Science in Python
+    - Joining Data in SQL
+    - Introduction to Statistics
+    - Intermediate Python
     - Avoid:
       - Data Manipulation with pandas
+      - Intermediate Python
       - Understanding ChatGPT
       - Python Toolbox
       - Data Types in Python
@@ -69,9 +78,6 @@
     - Working on chapter 2/5 - Filtering and Targeting Data
   - Course: Developing Python Packages
     - Working on chapter 1/4 - From Loose Code to Local Package
-  - Course: Joining Data in SQL
-    - Completed chapter 4/4 - Subquerying with semi joins and anti joins
-    - Completed Course
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -79,6 +85,8 @@
      - Completed chapter 2/5 - Bootstrap confidence intervals
      - Working on chapter 3/5 - Formulating and simulating a hypothesis
      - TODO: Review from beginning
+  - Course: Data Manipulation in SQL
+    - Working on chapter 1/4 - We'll take the CASE
   - Review R
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
@@ -126,6 +134,9 @@
     - Designing your UI
       - Working on Prototyping, Sharing and testing your design
       - Next up: Module 5 
+- Coursera Course: Understanding and Visualizing Data with Python
+  - Working on Module 1/4, Completed 2/5 Sections
+    - Working on section What is Statistics
 - PROJECT: REAL PYTHON
   - [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)
   - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
@@ -193,9 +204,10 @@
  - Tech Reading
   - Bayesian Statistics The Fun Way
     - PART I: Introduction to Probability
-      - Completed chapter 2/18 - Measuring Uncertainty (page: 13-21)
-      - Completed exercises on page: 20
-      - Working on chapter 3/18 (pages: 21-32)
+      - Completed chapter 3/18 (pages: 21-32)
+      - Current page: 33
+      - Working on chapter 4/18 - Creating a Binomial Probability Distribution
+      - Answers page: 232
   - React, The Comprehensive Guide 
     - Finally resuming my reading
     - Working chapter 9/21 - Securing a React Application through Testing
@@ -212,14 +224,27 @@
   - Wolf/Doom Reading
     - The goal is to complete all books in 100-150 days
     - Geometry
-      - plan: 13 pages/day
+      - plan: 10 pages/day
       - Working on chapter 1/9 - Basics of Geometry
         - chapter 1 pages: 10-120
-        - currently at: 17
- - Non-Tech Reading
+        - currently at: 28
+    - Mathematics for Computer Graphics, 3rd Edition
+      - Completed chapter 1/14 - Mathematics
+        - pages: 15-18
+      - Current page: 18
+      - Working on chapter 2/14 - Numbers
+  - Non-Tech Reading
    - In the Garden of Beasts, Erik Larsen
     - Part III - Lucifer in the Garden
-      - Working on chapter 11 - Strange Beings
+      - Completed chapter 11 - Strange Beings
+        - They all take a trip. The younger Dodd's + a journalist experience
+          an awful event in Nuremburg, where a young Aryan woman is degraded and 
+          shaved and walked around in shame, all because she wanted to marry a Jewish man.
+        - Martha was still enthralled with life in the new Germany
+        - What is this "Horst Wessel Song"?
+        - Dodd declines an invitation to a rally in Nuremburg - feeling it is a party event.
+      - Working on chapter 12 - Brutus
+      - current page: 150
    - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
