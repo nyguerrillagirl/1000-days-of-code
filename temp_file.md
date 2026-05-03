@@ -1,16 +1,6 @@
-### Day 582: May 02, 2026 (Saturday)
+### Day 583: May 03, 2026 (Sunday)
 - NOTE FOR THE DAY:
-  - Good books on Mathematics
-    - 1. Leonhard Euler: Mathematical Genius in the Enlightenment — Ronald S. Calinger
-    - 2. A Concise History of Mathematics — Dirk J. Struik
-    - 3. The History of Mathematics: A Reader — John Fauvel & Jeremy Gray
-    - 4. The Wonder Book of Geometry: A Mathematical Story — David Acheson
-    - 5. Zero: The Biography of a Dangerous Idea — Charles Seife
-    - 6. Journey through Genius — William Dunham
-    - 7. The History of Mathematics — Carl B. Boyer & Uta Merzbach
-    - The Pamphlets of Lewis Carroll: The Mathematical Pamphlets of Charles Lutwidge Dodgson and Related Pieces, Francine Abeles, Co
-    - Mathematical Models
-  - Links to explore
+   - Links to explore
     - [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
     - [FreeCodeCamp - Scrapy Course Repo](https://github.com/orgs/python-scrapy-playbook/repositories?type=all)
@@ -33,17 +23,18 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - [Since Congress Let Obamacare Subsidies Expire, Millions Are Dropping Coverage](https://www.nytimes.com/2026/05/01/business/obamacare-enrollment-decline.html)
-    - [Iran Sends New Proposal for Peace Talks with U.S., State Media Says](https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html)
-    - [Trump Is the One Without the Cards at the Poker Table](https://www.nytimes.com/2026/05/01/opinion/trump-iran-artificial-intelligence-china.html)
+    - [These G.O.P. Women Want Congress Members to Pay a Price for Abuse. Will It Work?](https://www.nytimes.com/2026/05/02/us/politics/boebert-mace-luna-republican-women.html)
+    - [How Germany May Have Misjudged Trump’s Anger on Iran](https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html)
+    - [Slouching Toward Kamala Harris](https://www.nytimes.com/2026/05/02/opinion/kamala-harris-democratic-party.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [This degree changed my life. And it’s essential to a changing America.](https://www.washingtonpost.com/opinions/2026/04/27/anthropology-teaches-an-essential-skill-era-big-data/)
+    - [Residents of a small rural town discuss what’s really ailing American politics](https://www.washingtonpost.com/nation/2026/05/02/rural-urban-divide-solution/)
+    - [To understand our divided America, she started with her hometown](https://www.washingtonpost.com/books/2025/10/07/paper-girl-beth-macy-review/)
   - ARTICLES/VIDEOS
-    - [Today in Politics | Explainer](https://www.youtube.com/watch?v=xOVMxorHG3Q)
-    - []()
-    - []()
+    - [We Should All Be Concerned About What’s Happening in India](https://www.nytimes.com/2026/05/01/opinion/india-modi-internet-censorship.html)
+    - [The right’s anti-Candace coalition is finally here](https://www.thebulwark.com/p/a-kamikaze-mission-to-finally-stop-candace-owens-kirk-loomer-tim-pool-animal-farm?utm_campaign=email-post&r=1pe7yq&utm_source=substack&utm_medium=email)
+    - [LINUS TORVALDS WAS RIGHT ABOUT MICROSOFT BUT NOBODY LISTENED....](https://www.youtube.com/watch?v=0NGdHSvRH9M)
+    - [HCR - What the Heck Just Happened...](https://www.youtube.com/watch?v=HbswG2GJmkk)
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -63,9 +54,11 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
+    - Applying Filtering, Ordering and Grouping to Queries
+    - Foundations of Probablity in Python
+    - Introduction to R
     - Joining Data in SQL
-    - Introduction to Statistics
-    - Intermediate Python
+    - Regular Expressions in Python
     - Avoid:
       - Data Manipulation with pandas
       - Intermediate Python
@@ -224,27 +217,37 @@
   - Wolf/Doom Reading
     - The goal is to complete all books in 100-150 days
     - Geometry
+      - DROPPING THIS BOOK
+        - This book is not supported and difficult to navigate through
+        - It is NO LONGER available ...selecting an alternative book.
       - plan: 10 pages/day
       - Working on chapter 1/9 - Basics of Geometry
         - chapter 1 pages: 10-120
-        - currently at: 28
+        - currently at: 36
+    - Elementary Geometry for College Students, 7e
+      - Working on chapter 0/11 - Preliminary Concepts
+        - pages: 
     - Mathematics for Computer Graphics, 3rd Edition
       - Completed chapter 1/14 - Mathematics
         - pages: 15-18
       - Current page: 18
       - Working on chapter 2/14 - Numbers
-  - Non-Tech Reading
-   - In the Garden of Beasts, Erik Larsen
-    - Part III - Lucifer in the Garden
-      - Completed chapter 11 - Strange Beings
-        - They all take a trip. The younger Dodd's + a journalist experience
-          an awful event in Nuremburg, where a young Aryan woman is degraded and 
-          shaved and walked around in shame, all because she wanted to marry a Jewish man.
-        - Martha was still enthralled with life in the new Germany
-        - What is this "Horst Wessel Song"?
-        - Dodd declines an invitation to a rally in Nuremburg - feeling it is a party event.
-      - Working on chapter 12 - Brutus
-      - current page: 150
+    - Non-Tech Reading
+        - In the Garden of Beasts, Erik Larsen
+            - Part III - Lucifer in the Garden
+                - Completed chapter 11 - Strange Beings
+                    - They all take a trip. The younger Dodd's + a journalist experience
+                    an awful event in Nuremburg, where a young Aryan woman is degraded and 
+                    shaved and walked around in shame, all because she wanted to marry a Jewish man.
+                    - Martha was still enthralled with life in the new Germany
+                    - What is this "Horst Wessel Song"?
+                    - Dodd declines an invitation to a rally in Nuremburg - feeling it is a party event.
+                - Working on chapter 12 - Brutus
+            - current page: 150
+        - The Oppermanns, by Lion Feuchtwanger
+            - Finished the Introduction
+                - The Oppermanns immerses us in these oppositions, and in our own contradictions, and reminds us, every time we leave   the page to check our phones, that just reading a novel about the German 1930s—a novel about pervasive surveillance and militarized policing, and about how the fake-news threats of “migrants” and “terrorism” can be manipulated to curtail civil liberties and crush democratic norms—will never be enough to prevent any of that from ever happening again.
+            - Working on Chapter One
    - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
