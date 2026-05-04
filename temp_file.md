@@ -1,6 +1,10 @@
-### Day 583: May 03, 2026 (Sunday)
+### Day 584: May 04, 2026 (Monday)
 - NOTE FOR THE DAY:
-   - Links to explore
+  - Warlords IV Qualifer 2 Finals
+    - Vinchester v. Dark  => Vinchester 3-1 SPOT ON
+    - Barles v. NeoZz     => Barles 3-0 3-1 
+    - Daut v. classicpro  => Daut 3-2   UPSET 2-3 classicpro!
+  - Links to explore
     - [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
     - [FreeCodeCamp - Scrapy Course Repo](https://github.com/orgs/python-scrapy-playbook/repositories?type=all)
@@ -23,18 +27,17 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - [These G.O.P. Women Want Congress Members to Pay a Price for Abuse. Will It Work?](https://www.nytimes.com/2026/05/02/us/politics/boebert-mace-luna-republican-women.html)
-    - [How Germany May Have Misjudged Trump’s Anger on Iran](https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html)
-    - [Slouching Toward Kamala Harris](https://www.nytimes.com/2026/05/02/opinion/kamala-harris-democratic-party.html)
+    - [The Gift of Getting Weirder With Age](https://www.nytimes.com/2026/05/01/well/getting-older-getting-weird.html)
+    - [A California Dream? Some Democrats Fear Harris Picked the Wrong Race.](https://www.nytimes.com/2026/05/03/us/politics/kamala-harris-california-governor-democrats.html)
+    - [My Parents Are in Their Mid-80s. Why Won’t They Plan for the End?](https://www.nytimes.com/2026/05/03/opinion/old-age-planning-parents-family.html)
   - WAPO
-    - [This degree changed my life. And it’s essential to a changing America.](https://www.washingtonpost.com/opinions/2026/04/27/anthropology-teaches-an-essential-skill-era-big-data/)
-    - [Residents of a small rural town discuss what’s really ailing American politics](https://www.washingtonpost.com/nation/2026/05/02/rural-urban-divide-solution/)
-    - [To understand our divided America, she started with her hometown](https://www.washingtonpost.com/books/2025/10/07/paper-girl-beth-macy-review/)
+    - [Trump disapproval reaches new high, Post-ABC-Ipsos poll finds](https://www.washingtonpost.com/politics/2026/05/03/trump-approval-ratings-poll/)
+    - [He nearly joined Trump’s administration. Now he’s running for Congress as a Democrat.](https://www.washingtonpost.com/style/2026/05/03/george-conway-congress-trump/)
+    - [Elmer the kitten, found in a bucket of glue, got lifesaving care and a home](https://www.washingtonpost.com/lifestyle/2026/05/03/elmer-cat-glue-rescue-adoption/)
   - ARTICLES/VIDEOS
-    - [We Should All Be Concerned About What’s Happening in India](https://www.nytimes.com/2026/05/01/opinion/india-modi-internet-censorship.html)
-    - [The right’s anti-Candace coalition is finally here](https://www.thebulwark.com/p/a-kamikaze-mission-to-finally-stop-candace-owens-kirk-loomer-tim-pool-animal-farm?utm_campaign=email-post&r=1pe7yq&utm_source=substack&utm_medium=email)
-    - [LINUS TORVALDS WAS RIGHT ABOUT MICROSOFT BUT NOBODY LISTENED....](https://www.youtube.com/watch?v=0NGdHSvRH9M)
-    - [HCR - What the Heck Just Happened...](https://www.youtube.com/watch?v=HbswG2GJmkk)
+    - [Wilma Rudolph Truly Hated Her More Than Anyone](https://www.youtube.com/watch?v=UtP0JJxvCXc)
+    - []()
+    - []()
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -54,11 +57,9 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Applying Filtering, Ordering and Grouping to Queries
-    - Foundations of Probablity in Python
-    - Introduction to R
-    - Joining Data in SQL
-    - Regular Expressions in Python
+    - Data Communication Concepts
+    - Introduction to Importing Data in Python
+    - Understanding Data Visualization
     - Avoid:
       - Data Manipulation with pandas
       - Intermediate Python
