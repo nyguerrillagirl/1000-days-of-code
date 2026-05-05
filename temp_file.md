@@ -1,9 +1,5 @@
-### Day 584: May 04, 2026 (Monday)
+### Day 585: May 05, 2026 (Tuesday)
 - NOTE FOR THE DAY:
-  - Warlords IV Qualifer 2 Finals
-    - Vinchester v. Dark  => Vinchester 3-1 SPOT ON
-    - Barles v. NeoZz     => Barles 3-0 3-1 
-    - Daut v. classicpro  => Daut 3-2   UPSET 2-3 classicpro!
   - Links to explore
     - [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
@@ -27,15 +23,15 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - [The Gift of Getting Weirder With Age](https://www.nytimes.com/2026/05/01/well/getting-older-getting-weird.html)
-    - [A California Dream? Some Democrats Fear Harris Picked the Wrong Race.](https://www.nytimes.com/2026/05/03/us/politics/kamala-harris-california-governor-democrats.html)
-    - [My Parents Are in Their Mid-80s. Why Won’t They Plan for the End?](https://www.nytimes.com/2026/05/03/opinion/old-age-planning-parents-family.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Trump disapproval reaches new high, Post-ABC-Ipsos poll finds](https://www.washingtonpost.com/politics/2026/05/03/trump-approval-ratings-poll/)
-    - [He nearly joined Trump’s administration. Now he’s running for Congress as a Democrat.](https://www.washingtonpost.com/style/2026/05/03/george-conway-congress-trump/)
-    - [Elmer the kitten, found in a bucket of glue, got lifesaving care and a home](https://www.washingtonpost.com/lifestyle/2026/05/03/elmer-cat-glue-rescue-adoption/)
+    - [Iran fires on U.S. ships in Strait of Hormuz, in threat to ceasefire](https://www.washingtonpost.com/world/2026/05/04/us-ships-iran-hormuz-ceasefire/)
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Wilma Rudolph Truly Hated Her More Than Anyone](https://www.youtube.com/watch?v=UtP0JJxvCXc)
+    - [Carolyn Hax: ‘I became my wife’s abuser.’ How does a person go on after that?](https://www.washingtonpost.com/advice/2026/05/04/carolyn-hax-divorce-anger-issues/)
     - []()
     - []()
 - Data Camp [DS]
@@ -217,17 +213,10 @@
     - Reading chapter 2/9 Your Arduino
   - Wolf/Doom Reading
     - The goal is to complete all books in 100-150 days
-    - Geometry
-      - DROPPING THIS BOOK
-        - This book is not supported and difficult to navigate through
-        - It is NO LONGER available ...selecting an alternative book.
-      - plan: 10 pages/day
-      - Working on chapter 1/9 - Basics of Geometry
-        - chapter 1 pages: 10-120
-        - currently at: 36
     - Elementary Geometry for College Students, 7e
       - Working on chapter 0/11 - Preliminary Concepts
-        - pages: 
+        - pages: 1-31
+        - current page: 1
     - Mathematics for Computer Graphics, 3rd Edition
       - Completed chapter 1/14 - Mathematics
         - pages: 15-18
@@ -236,15 +225,8 @@
     - Non-Tech Reading
         - In the Garden of Beasts, Erik Larsen
             - Part III - Lucifer in the Garden
-                - Completed chapter 11 - Strange Beings
-                    - They all take a trip. The younger Dodd's + a journalist experience
-                    an awful event in Nuremburg, where a young Aryan woman is degraded and 
-                    shaved and walked around in shame, all because she wanted to marry a Jewish man.
-                    - Martha was still enthralled with life in the new Germany
-                    - What is this "Horst Wessel Song"?
-                    - Dodd declines an invitation to a rally in Nuremburg - feeling it is a party event.
-                - Working on chapter 12 - Brutus
-            - current page: 150
+              - Working on chapter 14 - The Death of Boris
+              - current page: 178
         - The Oppermanns, by Lion Feuchtwanger
             - Finished the Introduction
                 - The Oppermanns immerses us in these oppositions, and in our own contradictions, and reminds us, every time we leave   the page to check our phones, that just reading a novel about the German 1930s—a novel about pervasive surveillance and militarized policing, and about how the fake-news threats of “migrants” and “terrorism” can be manipulated to curtail civil liberties and crush democratic norms—will never be enough to prevent any of that from ever happening again.
