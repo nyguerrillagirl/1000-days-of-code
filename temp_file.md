@@ -1,5 +1,8 @@
-### Day 585: May 05, 2026 (Tuesday)
+### Day 586: May 06, 2026 (Wednesday)
 - NOTE FOR THE DAY:
+  - Check:
+    - books on French Revolution
+    - The Great Terror - The Great Purge
   - Links to explore
     - [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
@@ -23,15 +26,15 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - []()
-    - []()
-    - []()
+    - [This Trump Proposal Could Result in Millions of Americans Losing Their Retirement Savings](https://www.nytimes.com/2026/05/05/opinion/trump-retirement-private-equity-401k.html)
+    - [Trump Looks for a Silver Bullet to End the Iran War. There May Be None.](https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html)
+    - [My Co-op’s New Rule Is Unfair. What Can I Do?](https://www.nytimes.com/2026/05/02/realestate/my-co-ops-new-rule-is-unfair-what-can-i-do.html)
   - WAPO
-    - [Iran fires on U.S. ships in Strait of Hormuz, in threat to ceasefire](https://www.washingtonpost.com/world/2026/05/04/us-ships-iran-hormuz-ceasefire/)
-    - []()
+    - [To help America, tech companies belatedly stand up to activist workers](https://www.washingtonpost.com/opinions/2026/05/04/competition-pentagon-ai-contracts-ensures-troops-get-best-tools/)
+    - [China is laying a technological trap. Call it the ‘Silicon Curtain.’](https://www.washingtonpost.com/opinions/2026/05/05/china-soft-power-acts-silicon-curtain/)
     - []()
   - ARTICLES/VIDEOS
-    - [Carolyn Hax: ‘I became my wife’s abuser.’ How does a person go on after that?](https://www.washingtonpost.com/advice/2026/05/04/carolyn-hax-divorce-anger-issues/)
+    - [Today in Politics | Explainer](https://www.youtube.com/watch?v=prRuzLpEXu8)
     - []()
     - []()
 - Data Camp [DS]
@@ -98,6 +101,15 @@
   - Find previous material - Need to start from scratch - could not find it - ODD!
   - See: https://glm.g-truc.net/0.9.8/index.html
 - PROJECT: Wolf/Doom
+  - SDL
+    - [sdl2 - SDL2 library wrapper(https://pysdl2.readthedocs.io/en/stable/modules/sdl2.html)
+  - Hovertank
+    - Investigate setting up DOSBOX (use notebook)
+    - Install and play Hovertank One
+    - Check Catacombs
+    - Hovertank One Links:
+      - [SDL_Hovertank3D](https://github.com/Codes4Fun/SDL_Hovertank3D)
+      - []()
     - [Ray-Casting Tutorial For Game Development And Other Purposes](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/)
       - WORKING ON THIS TUTORIAL    
     - Started working on [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
@@ -225,16 +237,15 @@
     - Non-Tech Reading
         - In the Garden of Beasts, Erik Larsen
             - Part III - Lucifer in the Garden
-              - Working on chapter 14 - The Death of Boris
-              - current page: 178
-        - The Oppermanns, by Lion Feuchtwanger
+                - Working on chapter 16 - A Secret Request
+                - current page: 194        - The Oppermanns, by Lion Feuchtwanger
             - Finished the Introduction
                 - The Oppermanns immerses us in these oppositions, and in our own contradictions, and reminds us, every time we leave   the page to check our phones, that just reading a novel about the German 1930s—a novel about pervasive surveillance and militarized policing, and about how the fake-news threats of “migrants” and “terrorism” can be manipulated to curtail civil liberties and crush democratic norms—will never be enough to prevent any of that from ever happening again.
             - Working on Chapter One
    - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
-      - PART III - The Glorious Revival
-       - Working on chapter 9 - Death is Death (page: 110)
+      - PART IV - To Prove Its Worth
+       - Working on chapter 11 - Business Decisions (page: 139)
 - GRADE: 
   - NA
