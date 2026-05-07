@@ -1,8 +1,6 @@
-### Day 586: May 06, 2026 (Wednesday)
+
+### Day 587: May 07, 2026 (Thursday)
 - NOTE FOR THE DAY:
-  - Check:
-    - books on French Revolution
-    - The Great Terror - The Great Purge
   - Links to explore
     - [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
@@ -26,16 +24,16 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - [This Trump Proposal Could Result in Millions of Americans Losing Their Retirement Savings](https://www.nytimes.com/2026/05/05/opinion/trump-retirement-private-equity-401k.html)
-    - [Trump Looks for a Silver Bullet to End the Iran War. There May Be None.](https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html)
-    - [My Co-op’s New Rule Is Unfair. What Can I Do?](https://www.nytimes.com/2026/05/02/realestate/my-co-ops-new-rule-is-unfair-what-can-i-do.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [To help America, tech companies belatedly stand up to activist workers](https://www.washingtonpost.com/opinions/2026/05/04/competition-pentagon-ai-contracts-ensures-troops-get-best-tools/)
-    - [China is laying a technological trap. Call it the ‘Silicon Curtain.’](https://www.washingtonpost.com/opinions/2026/05/05/china-soft-power-acts-silicon-curtain/)
+    - []()
+    - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Today in Politics | Explainer](https://www.youtube.com/watch?v=prRuzLpEXu8)
-    - []()
+    - [NYT Columnist David French Didn't Realize Racism Was That Bad in America](https://www.youtube.com/watch?v=gdaQZRb0p6M)
+    - [300 Elo Username (Low Elo Legends)](https://www.youtube.com/watch?v=hpb7zLUVpTc)
     - []()
 - Data Camp [DS]
   - Review:
@@ -102,7 +100,7 @@
   - See: https://glm.g-truc.net/0.9.8/index.html
 - PROJECT: Wolf/Doom
   - SDL
-    - [sdl2 - SDL2 library wrapper(https://pysdl2.readthedocs.io/en/stable/modules/sdl2.html)
+    - [sdl2 - SDL2 library wrapper](https://pysdl2.readthedocs.io/en/stable/modules/sdl2.html)
   - Hovertank
     - Investigate setting up DOSBOX (use notebook)
     - Install and play Hovertank One
@@ -137,8 +135,9 @@
       - Working on Prototyping, Sharing and testing your design
       - Next up: Module 5 
 - Coursera Course: Understanding and Visualizing Data with Python
-  - Working on Module 1/4, Completed 2/5 Sections
-    - Working on section What is Statistics
+  - Completed Module 1/4, Completed all  Sections
+    - downloaded all cheat sheets
+  - Working on Module 2/4 - Univariate Data
 - PROJECT: REAL PYTHON
   - [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)
   - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
@@ -234,18 +233,25 @@
         - pages: 15-18
       - Current page: 18
       - Working on chapter 2/14 - Numbers
-    - Non-Tech Reading
-        - In the Garden of Beasts, Erik Larsen
-            - Part III - Lucifer in the Garden
-                - Working on chapter 16 - A Secret Request
-                - current page: 194        - The Oppermanns, by Lion Feuchtwanger
-            - Finished the Introduction
-                - The Oppermanns immerses us in these oppositions, and in our own contradictions, and reminds us, every time we leave   the page to check our phones, that just reading a novel about the German 1930s—a novel about pervasive surveillance and militarized policing, and about how the fake-news threats of “migrants” and “terrorism” can be manipulated to curtail civil liberties and crush democratic norms—will never be enough to prevent any of that from ever happening again.
-            - Working on Chapter One
-   - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
+  - Non-Tech Reading
+    - In the Garden of Beasts, Erik Larsen
+      - Part III - Lucifer in the Garden
+        - Completed chapter 16 - A Secret Request
+          - Attacks against Americans continue. Panosky (the owner of the home 
+            being rented by Dodd) moves his wife and children into the home. This
+            chapter discusses how the language changed - fanatical, ubermensch, untermench 
+            there was a hysteria of language that was developing.
+          - Dodd requests a vacation
+        - Working on chapter 17 - Lucifer's Run
+          - Diels leaves Germany (with compromising papers) due to the infighting 
+          - current page: 194        
+    - The Oppermanns, by Lion Feuchtwanger
+      - Finished the Introduction
+        - The Oppermanns immerses us in these oppositions, and in our own contradictions, and reminds us, every time we leave   the page to check our phones, that just reading a novel about the German 1930s—a novel about pervasive surveillance and militarized policing, and about how the fake-news threats of “migrants” and “terrorism” can be manipulated to curtail civil liberties and crush democratic norms—will never be enough to prevent any of that from ever happening again.
+      - Working on Chapter One
+    - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
       - PART IV - To Prove Its Worth
-       - Working on chapter 11 - Business Decisions (page: 139)
-- GRADE: 
+       - Working on chapter 11 - Business Decisions (page: 139)- GRADE: 
   - NA
