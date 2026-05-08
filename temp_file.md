@@ -1,6 +1,8 @@
-
-### Day 587: May 07, 2026 (Thursday)
+### Day 588: May 08, 2026 (Friday)
 - NOTE FOR THE DAY:
+  - Warlords Matches:
+    - Yo v. Barles                Predict: 3-1 Yo (I don't really care)
+    - TheViper v. Mihai06         Predict: 3-2 TheViper (I would not be heartbroken if Mihai won)
   - Links to explore
     - [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
@@ -32,8 +34,8 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [NYT Columnist David French Didn't Realize Racism Was That Bad in America](https://www.youtube.com/watch?v=gdaQZRb0p6M)
-    - [300 Elo Username (Low Elo Legends)](https://www.youtube.com/watch?v=hpb7zLUVpTc)
+    - [People Are Finally Waking Up! | Explainer](https://www.youtube.com/watch?v=iGExgRL3w1k)
+    - []()
     - []()
 - Data Camp [DS]
   - Review:
