@@ -1,8 +1,8 @@
-### Day 588: May 08, 2026 (Friday)
+### Day 589: May 09, 2026 (Saturday)
 - NOTE FOR THE DAY:
   - Warlords Matches:
-    - Yo v. Barles                Predict: 3-1 Yo (I don't really care)
-    - TheViper v. Mihai06         Predict: 3-2 TheViper (I would not be heartbroken if Mihai won)
+    - Liereyy v. Lewis            Predict: 3-1 Liereyy (Let's go Lewis)
+    - Sebastian v. Sitaux         Predict: 3-2 Sebastian (Let's go Sebastian!!)
   - Links to explore
     - [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
@@ -10,8 +10,6 @@
     - [Bernoulli Distribution: A Complete Guide with Example](https://www.datacamp.com/tutorial/bernoulli-distribution)
     - [Data Science: Statistics and Machine Learning Specialization](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
     - [Lab 1: Intro to DC Circuits](https://www.ece.ualberta.ca/~terheide/ECE202-lab-AD2/lab1.html)
-    - [Regular Expressions and Building Regexes in Python](https://realpython.com/courses/building-regexes-python/)
-    - [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)        
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=3
     - FORMAT: 0xx_LOADSTAR_64
@@ -26,16 +24,17 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - []()
+    - [When You’re ‘Fired From Retirement’](https://www.nytimes.com/2026/05/08/business/retirees-back-to-work-money.html)
     - []()
     - []()
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [John Fetterman: I haven’t changed. Here’s what has.](https://www.washingtonpost.com/opinions/2026/05/07/sen-john-fetterman-im-not-leaving-democratic-party/)
+    - [Why young and old men are leaving the labor force at record rates](https://www.washingtonpost.com/business/2026/05/08/men-labor-force-drop-outs/)
+      - Labor Department data released Friday showed that 1 in 3 American men were not working or looking for a job in April.
+    - [Miss Manners: Sneaky tests for job applicants](https://www.washingtonpost.com/advice/2026/05/08/miss-manners-sneaky-tests-job/)
   - ARTICLES/VIDEOS
     - [People Are Finally Waking Up! | Explainer](https://www.youtube.com/watch?v=iGExgRL3w1k)
-    - []()
+    - [Villagers Were Harmed In This Video (Low Elo Legends)](https://www.youtube.com/watch?v=wZBKLrKbX9c)
     - []()
 - Data Camp [DS]
   - Review:
@@ -141,7 +140,11 @@
     - downloaded all cheat sheets
   - Working on Module 2/4 - Univariate Data
 - PROJECT: REAL PYTHON
-  - [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)
+  - [Regular Expressions and Building Regexes in Python](https://realpython.com/courses/building-regexes-python/)
+  - [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)    
+    - Completed    
+  - [Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python/)    
+    - Completed    
   - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
   - [Build Your Weekly Python Study Schedule: 7 Days to Consistent Progress](https://realpython.com/weekly-study-schedule/)
   - [Automate Python Data Analysis With YData Profiling](https://realpython.com/ydata-profiling-eda/)
