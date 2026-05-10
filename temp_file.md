@@ -1,10 +1,10 @@
-### Day 589: May 09, 2026 (Saturday)
+
+### Day 590: May 10, 2026 (Sunday)
 - NOTE FOR THE DAY:
   - Warlords Matches:
-    - Liereyy v. Lewis            Predict: 3-1 Liereyy (Let's go Lewis)
-    - Sebastian v. Sitaux         Predict: 3-2 Sebastian (Let's go Sebastian!!)
+    - ACCM v. MBL           Predict: 3-2 ACCM
+    - Hera v. classicpro    Predict: 3-0 Hera
   - Links to explore
-    - [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
     - [FreeCodeCamp - Scrapy Course Repo](https://github.com/orgs/python-scrapy-playbook/repositories?type=all)
     - [Bernoulli Distribution: A Complete Guide with Example](https://www.datacamp.com/tutorial/bernoulli-distribution)
@@ -24,18 +24,21 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - [When You’re ‘Fired From Retirement’](https://www.nytimes.com/2026/05/08/business/retirees-back-to-work-money.html)
-    - []()
-    - []()
+    - [How Minority Districts Fueled the G.O.P.’s Southern Ascendancy in Congress](https://www.nytimes.com/2026/05/09/us/politics/how-minority-districts-fueled-the-gops-southern-ascendancy-in-congress.html)
+    - [In Brooklyn, Two Men and a 90-Year-Old Roommate They Call Mamá](https://www.nytimes.com/2026/05/08/realestate/renters-brooklyn-gowanus-roommates.html)
+    - [My Ted Talk](https://www.nytimes.com/2026/05/09/opinion/ted-turner-death-jane-fonda-cnn.html)
   - WAPO
-    - [John Fetterman: I haven’t changed. Here’s what has.](https://www.washingtonpost.com/opinions/2026/05/07/sen-john-fetterman-im-not-leaving-democratic-party/)
-    - [Why young and old men are leaving the labor force at record rates](https://www.washingtonpost.com/business/2026/05/08/men-labor-force-drop-outs/)
-      - Labor Department data released Friday showed that 1 in 3 American men were not working or looking for a job in April.
-    - [Miss Manners: Sneaky tests for job applicants](https://www.washingtonpost.com/advice/2026/05/08/miss-manners-sneaky-tests-job/)
-  - ARTICLES/VIDEOS
-    - [People Are Finally Waking Up! | Explainer](https://www.youtube.com/watch?v=iGExgRL3w1k)
-    - [Villagers Were Harmed In This Video (Low Elo Legends)](https://www.youtube.com/watch?v=wZBKLrKbX9c)
+    - [DOJ sees fallout after push to prosecute former FBI director James Comey](https://www.washingtonpost.com/national-security/2026/05/09/doj-sees-fallout-after-push-prosecute-former-fbi-director-james-comey/)
     - []()
+    - []()
+  - ARTICLES/VIDEOS
+    - [WW2 Historian Reacts to ‘Downfall’ | Deep Dives](https://www.youtube.com/watch?v=-XfUFiOeDZY)
+      - A great review of the different scences in the movie - Downfall  
+    - [300 Elo Username (Low Elo Legends)](https://www.youtube.com/watch?v=hpb7zLUVpTc)
+        - completed..    
+    - [CNN Star’s Ellison Alarm, Bari Weiss' Never-Ending Ratings Spiral, The Next Murdoch Media Empire](https://www.youtube.com/watch?v=er6AwdZM57k)
+    - [HCR - What the Heck Just Happened?](https://www.youtube.com/watch?v=n_xrcMHCHE0)
+    - [CCTV Shows Mom’s Final Moments's, Before Son’s Deadly Rampage](https://www.youtube.com/watch?v=AJW3_nQimNQ)
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -85,6 +88,7 @@
       - [R For Data Science](https://r4ds.had.co.nz/introduction.html)
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
+    - review
   - Working on Article #2: Why do developers create video games with SDL + OpenGL?
   - Working on Article #3: Python sockets and struct
   - Checking [Create Cover Page in Microsoft Word | Natural Magazine Cover Designing in MS Word](https://www.youtube.com/watch?v=7QjT_nGXGww)
@@ -112,6 +116,7 @@
     - [Ray-Casting Tutorial For Game Development And Other Purposes](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/)
       - WORKING ON THIS TUTORIAL    
     - Started working on [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
+      - WORKING ON THIS TUTORIAL
     - Raycaster Videos to watch
       - [Make Your Own Raycaster Part 1](https://www.youtube.com/watch?v=gYRrGTC7GtA&list=PLMTDxt7L_MNXx7QP80seZUfcSoJ4jl34D&index=5&t=170s&pp=iAQB)
         - Working on this
@@ -136,15 +141,9 @@
       - Working on Prototyping, Sharing and testing your design
       - Next up: Module 5 
 - Coursera Course: Understanding and Visualizing Data with Python
-  - Completed Module 1/4, Completed all  Sections
-    - downloaded all cheat sheets
   - Working on Module 2/4 - Univariate Data
 - PROJECT: REAL PYTHON
-  - [Regular Expressions and Building Regexes in Python](https://realpython.com/courses/building-regexes-python/)
-  - [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)    
-    - Completed    
-  - [Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python/)    
-    - Completed    
+  - [Regular Expressions and Building Regexes in Python](https://realpython.com/courses/building-regexes-python/)   
   - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
   - [Build Your Weekly Python Study Schedule: 7 Days to Consistent Progress](https://realpython.com/weekly-study-schedule/)
   - [Automate Python Data Analysis With YData Profiling](https://realpython.com/ydata-profiling-eda/)
@@ -238,18 +237,14 @@
         - pages: 15-18
       - Current page: 18
       - Working on chapter 2/14 - Numbers
+    - Learn OpenGL
+      - Working on chapter 1/61 - Introduction
+      - page 7/525
   - Non-Tech Reading
     - In the Garden of Beasts, Erik Larsen
-      - Part III - Lucifer in the Garden
-        - Completed chapter 16 - A Secret Request
-          - Attacks against Americans continue. Panosky (the owner of the home 
-            being rented by Dodd) moves his wife and children into the home. This
-            chapter discusses how the language changed - fanatical, ubermensch, untermench 
-            there was a hysteria of language that was developing.
-          - Dodd requests a vacation
-        - Working on chapter 17 - Lucifer's Run
-          - Diels leaves Germany (with compromising papers) due to the infighting 
-          - current page: 194        
+      - Part IV - How the Skeleton Aches
+        - Working on chapter 20 - The Fuhrer's Kiss
+          - current page: 228        
     - The Oppermanns, by Lion Feuchtwanger
       - Finished the Introduction
         - The Oppermanns immerses us in these oppositions, and in our own contradictions, and reminds us, every time we leave   the page to check our phones, that just reading a novel about the German 1930s—a novel about pervasive surveillance and militarized policing, and about how the fake-news threats of “migrants” and “terrorism” can be manipulated to curtail civil liberties and crush democratic norms—will never be enough to prevent any of that from ever happening again.
@@ -259,4 +254,5 @@
       of controversy - Sharon Bertsch McGrayne
       - PART IV - To Prove Its Worth
        - Working on chapter 11 - Business Decisions (page: 139)- GRADE: 
+- GRADE: 
   - NA
