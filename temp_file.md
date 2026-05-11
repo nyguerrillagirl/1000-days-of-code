@@ -1,9 +1,9 @@
-
-### Day 590: May 10, 2026 (Sunday)
+### Day 591: May 11, 2026 (Monday)
 - NOTE FOR THE DAY:
   - Warlords Matches:
-    - ACCM v. MBL           Predict: 3-2 ACCM
-    - Hera v. classicpro    Predict: 3-0 Hera
+    - ACCM v. MBL           Predict: 3-2 ACCM <- CALLED IT
+    - Hera v. classicpro    Predict: 3-0 Hera 3-1 For some reason Hera played
+                                              played Romans with archers+pikeman.
   - Links to explore
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
     - [FreeCodeCamp - Scrapy Course Repo](https://github.com/orgs/python-scrapy-playbook/repositories?type=all)
@@ -24,21 +24,18 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - [How Minority Districts Fueled the G.O.P.’s Southern Ascendancy in Congress](https://www.nytimes.com/2026/05/09/us/politics/how-minority-districts-fueled-the-gops-southern-ascendancy-in-congress.html)
-    - [In Brooklyn, Two Men and a 90-Year-Old Roommate They Call Mamá](https://www.nytimes.com/2026/05/08/realestate/renters-brooklyn-gowanus-roommates.html)
-    - [My Ted Talk](https://www.nytimes.com/2026/05/09/opinion/ted-turner-death-jane-fonda-cnn.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [DOJ sees fallout after push to prosecute former FBI director James Comey](https://www.washingtonpost.com/national-security/2026/05/09/doj-sees-fallout-after-push-prosecute-former-fbi-director-james-comey/)
+    - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [WW2 Historian Reacts to ‘Downfall’ | Deep Dives](https://www.youtube.com/watch?v=-XfUFiOeDZY)
-      - A great review of the different scences in the movie - Downfall  
-    - [300 Elo Username (Low Elo Legends)](https://www.youtube.com/watch?v=hpb7zLUVpTc)
-        - completed..    
-    - [CNN Star’s Ellison Alarm, Bari Weiss' Never-Ending Ratings Spiral, The Next Murdoch Media Empire](https://www.youtube.com/watch?v=er6AwdZM57k)
-    - [HCR - What the Heck Just Happened?](https://www.youtube.com/watch?v=n_xrcMHCHE0)
-    - [CCTV Shows Mom’s Final Moments's, Before Son’s Deadly Rampage](https://www.youtube.com/watch?v=AJW3_nQimNQ)
+    - [Jolly Mom Has No Idea Police Are About To Arrest Her 13 Year Old Son For Murder...](https://www.youtube.com/watch?v=lb7x9wQlD74)
+    - [Professional Player vs 6 Beginners | AoE2](https://www.youtube.com/watch?v=sr6nLNDfVrs)
+    - [Tim Miller’s Rage Finally Boiled Over](https://www.youtube.com/watch?v=Bzq5Iun9B2w)
+      - About the Voting Rights Act. I am upset.
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
