@@ -1,10 +1,8 @@
-### Day 591: May 11, 2026 (Monday)
+
+### Day 592: May 12, 2026 (Tuesday)
 - NOTE FOR THE DAY:
-  - Warlords Matches:
-    - ACCM v. MBL           Predict: 3-2 ACCM <- CALLED IT
-    - Hera v. classicpro    Predict: 3-0 Hera 3-1 For some reason Hera played
-                                              played Romans with archers+pikeman.
   - Links to explore
+    - [Dangerous Dave github clone](https://github.com/AkhilRaja/Dave)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
     - [FreeCodeCamp - Scrapy Course Repo](https://github.com/orgs/python-scrapy-playbook/repositories?type=all)
     - [Bernoulli Distribution: A Complete Guide with Example](https://www.datacamp.com/tutorial/bernoulli-distribution)
@@ -24,18 +22,17 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - []()
-    - []()
-    - []()
+    - [As Trump Heads to Beijing, China Is ‘Locked and Loaded’ for a Fight](https://www.nytimes.com/2026/05/11/business/trump-xi-economic-warfare.html)
+    - [What We Saw in Cuba Shocked Us](https://www.nytimes.com/2026/05/11/opinion/cuba-us-blockade.html)
+    - [Inside the Courtroom Circus With Elon Musk and Sam Altman](https://www.nytimes.com/2026/05/11/technology/courtroom-circus-elon-musk-sam-altman.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [RFK Jr.’s crusade against hospital Jell-O is a warning](https://www.washingtonpost.com/opinions/2026/05/10/rfk-jrs-war-jell-o-shows-why-government-cannot-run-health-care/)
+    - [AOC vs. Airbnb](https://www.washingtonpost.com/opinions/2026/05/09/alexandria-ocasio-cortez-versus-airbnb/)
+    - [Target lost its retail magic. Can an insider get it back?](https://www.washingtonpost.com/business/2026/05/11/target-earnings-ceo-michael-fiddelke/)
   - ARTICLES/VIDEOS
-    - [Jolly Mom Has No Idea Police Are About To Arrest Her 13 Year Old Son For Murder...](https://www.youtube.com/watch?v=lb7x9wQlD74)
-    - [Professional Player vs 6 Beginners | AoE2](https://www.youtube.com/watch?v=sr6nLNDfVrs)
-    - [Tim Miller’s Rage Finally Boiled Over](https://www.youtube.com/watch?v=Bzq5Iun9B2w)
-      - About the Voting Rights Act. I am upset.
+    - [Mary Beard: classicists feel ashamed about the far right | The Exchange](https://www.youtube.com/watch?v=Gkr3VezdFJ4)
+    - []()
+    - []()
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -55,9 +52,12 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Data Communication Concepts
-    - Introduction to Importing Data in Python
-    - Understanding Data Visualization
+    - Applying Filtering, Ordering and Grouping to Queries
+    - Foundations of Probablity in Python
+    - Regular Expressions in Python
+    - Joining Data in SQL
+    - Web Scraping in Python
+    - Intermediate SQL
     - Avoid:
       - Data Manipulation with pandas
       - Intermediate Python
@@ -101,6 +101,9 @@
   - Find previous material - Need to start from scratch - could not find it - ODD!
   - See: https://glm.g-truc.net/0.9.8/index.html
 - PROJECT: Wolf/Doom
+  - Rebuilt classic Donkey Kong in Python using PyGame
+    - [Github](https://github.com/plemaster01/PythonDonkeyKong)
+    - [How to Make Donkey Kong in Python with PyGame!](https://www.youtube.com/watch?v=u6RV1lkHW8M)
   - SDL
     - [sdl2 - SDL2 library wrapper](https://pysdl2.readthedocs.io/en/stable/modules/sdl2.html)
   - Hovertank
@@ -111,6 +114,7 @@
       - [SDL_Hovertank3D](https://github.com/Codes4Fun/SDL_Hovertank3D)
       - []()
     - [Ray-Casting Tutorial For Game Development And Other Purposes](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/)
+      - [github demos](https://github.com/permadi-com/ray-cast/tree/master/)
       - WORKING ON THIS TUTORIAL    
     - Started working on [Implementing a Ray Caster Part 1: Basic Wall Rendering](https://wynnliam.github.io/raycaster/news/tutorial/2019/03/23/raycaster-part-01.html)
       - WORKING ON THIS TUTORIAL
