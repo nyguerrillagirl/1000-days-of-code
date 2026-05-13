@@ -1,5 +1,5 @@
 
-### Day 592: May 12, 2026 (Tuesday)
+### Day 593: May 13, 2026 (Wednesday)
 - NOTE FOR THE DAY:
   - Links to explore
     - [Dangerous Dave github clone](https://github.com/AkhilRaja/Dave)
@@ -22,15 +22,15 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - [As Trump Heads to Beijing, China Is ‘Locked and Loaded’ for a Fight](https://www.nytimes.com/2026/05/11/business/trump-xi-economic-warfare.html)
-    - [What We Saw in Cuba Shocked Us](https://www.nytimes.com/2026/05/11/opinion/cuba-us-blockade.html)
-    - [Inside the Courtroom Circus With Elon Musk and Sam Altman](https://www.nytimes.com/2026/05/11/technology/courtroom-circus-elon-musk-sam-altman.html)
+    - [On ‘The Pitt,’ She Clocked Out on Time. In Real Life, It Started a Debate.](https://www.nytimes.com/2026/05/11/style/the-pitt-joy-kwon-irene-choi-work-life-balance.html)
+    - [The Author of ‘Divergent’ Returns With an Action-Packed Adventure](https://www.nytimes.com/2026/05/12/books/review/seek-the-traitors-son-veronica-roth.html)
+    - []()
   - WAPO
-    - [RFK Jr.’s crusade against hospital Jell-O is a warning](https://www.washingtonpost.com/opinions/2026/05/10/rfk-jrs-war-jell-o-shows-why-government-cannot-run-health-care/)
-    - [AOC vs. Airbnb](https://www.washingtonpost.com/opinions/2026/05/09/alexandria-ocasio-cortez-versus-airbnb/)
-    - [Target lost its retail magic. Can an insider get it back?](https://www.washingtonpost.com/business/2026/05/11/target-earnings-ceo-michael-fiddelke/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Mary Beard: classicists feel ashamed about the far right | The Exchange](https://www.youtube.com/watch?v=Gkr3VezdFJ4)
+    - [Trump tantrums as football star cancels White House event]()
     - []()
     - []()
 - Data Camp [DS]
@@ -52,12 +52,12 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Applying Filtering, Ordering and Grouping to Queries
-    - Foundations of Probablity in Python
-    - Regular Expressions in Python
-    - Joining Data in SQL
+    - We'll take the CASE
+    - Advanced SQLAlchemy Queries
+    - Intermediate R
+    - Regular Expressions in R
     - Web Scraping in Python
-    - Intermediate SQL
+    - Foundations of Probability in Python
     - Avoid:
       - Data Manipulation with pandas
       - Intermediate Python
