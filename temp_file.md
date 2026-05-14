@@ -1,5 +1,5 @@
 
-### Day 593: May 13, 2026 (Wednesday)
+### Day 594: May 14, 2026 (Thursday)
 - NOTE FOR THE DAY:
   - Links to explore
     - [Dangerous Dave github clone](https://github.com/AkhilRaja/Dave)
@@ -66,8 +66,6 @@
       - Data Types in Python
       - Introduction to Python
       - Data Types in Python
-  - Course: Introduction to Databases in Python
-    - Working on chapter 2/5 - Filtering and Targeting Data
   - Course: Developing Python Packages
     - Working on chapter 1/4 - From Loose Code to Local Package
   - Course: Introduction to Regression with statsmodel in Python
@@ -77,8 +75,10 @@
      - Completed chapter 2/5 - Bootstrap confidence intervals
      - Working on chapter 3/5 - Formulating and simulating a hypothesis
      - TODO: Review from beginning
+  - Course: Introduction to Databases in Python
+    - Working on chapter 4/5 - Creating databases and table
   - Course: Data Manipulation in SQL
-    - Working on chapter 1/4 - We'll take the CASE
+    - Working on chapter 3/4 - Correlated subqueries
   - Review R
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
