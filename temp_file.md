@@ -1,5 +1,4 @@
-
-### Day 594: May 14, 2026 (Thursday)
+### Day 595: May 15, 2026 (Friday)
 - NOTE FOR THE DAY:
   - Links to explore
     - [Dangerous Dave github clone](https://github.com/AkhilRaja/Dave)
@@ -22,16 +21,16 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - [On ‘The Pitt,’ She Clocked Out on Time. In Real Life, It Started a Debate.](https://www.nytimes.com/2026/05/11/style/the-pitt-joy-kwon-irene-choi-work-life-balance.html)
-    - [The Author of ‘Divergent’ Returns With an Action-Packed Adventure](https://www.nytimes.com/2026/05/12/books/review/seek-the-traitors-son-veronica-roth.html)
-    - []()
+    - [After Xi’s Warning on Taiwan, He and Trump Strike Positive Tone](https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china)
+    - [Where Are the Women at the Trump-Xi Summit?](https://www.nytimes.com/2026/05/14/world/asia/trump-xi-meeting-china-women-melania.html)
+    - [The Trump Dumpster Fire Is Lit](https://www.nytimes.com/2026/05/14/opinion/trump-politics-maha.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Xi warns Trump that mishandling Taiwan could spark ‘conflicts’](https://www.washingtonpost.com/politics/2026/05/14/trump-chinas-xi-hold-opening-session-two-day-summit/)
+    - [Harvard has a defense-tech incubator. Pete Hegseth should visit it.](https://www.washingtonpost.com/opinions/2026/05/14/pete-hegseth-should-visit-harvard-qlab/)
+    - [Meet Merla, the beagle who busted air travelers for 100 meat sandwiches and more](https://www.washingtonpost.com/travel/2026/05/14/beagle-follows-her-nose-100-illegal-sandwiches-minneapolis-airport/)
   - ARTICLES/VIDEOS
-    - [Trump tantrums as football star cancels White House event]()
-    - []()
+    - [I was laid off by Atlassian](https://www.youtube.com/watch?v=55pTFVoclvE)
+    - [The Men Who Want Women to Be Quiet](https://www.theatlantic.com/magazine/2026/06/conservative-masculinism-misogyny/686939/)
     - []()
 - Data Camp [DS]
   - Review:
@@ -52,12 +51,12 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - We'll take the CASE
+    - Short and Simple Subqueries
     - Advanced SQLAlchemy Queries
-    - Intermediate R
-    - Regular Expressions in R
-    - Web Scraping in Python
-    - Foundations of Probability in Python
+    - From Loose Code to Local Package
+    - AI Ethics
+    - Introduction to Shell
+    - Generative AI Concepts
     - Avoid:
       - Data Manipulation with pandas
       - Intermediate Python
