@@ -1,5 +1,7 @@
-### Day 595: May 15, 2026 (Friday)
+### Day 596: May 16, 2026 (Saturday)
 - NOTE FOR THE DAY:
+  - Contacted Q on https://bytebyteai.com/?utm_source=substack&utm_medium=email&utm_campaign=bytebyteai 
+  - Book to consider: Furious Minds
   - Links to explore
     - [Dangerous Dave github clone](https://github.com/AkhilRaja/Dave)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
@@ -51,12 +53,12 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Short and Simple Subqueries
     - Advanced SQLAlchemy Queries
-    - From Loose Code to Local Package
-    - AI Ethics
-    - Introduction to Shell
-    - Generative AI Concepts
+    - Introduction to Importing Data in R
+    - Sampling in Python
+    - Regular Expressions in Python
+    - Joining Data in SQL
+    - Web Scraping
     - Avoid:
       - Data Manipulation with pandas
       - Intermediate Python
@@ -243,8 +245,9 @@
   - Non-Tech Reading
     - In the Garden of Beasts, Erik Larsen
       - Part IV - How the Skeleton Aches
-        - Working on chapter 20 - The Fuhrer's Kiss
-          - current page: 228        
+        - Working on Chapter 21 - The Witness Wore Jackboots
+          - Martha attends the trial of the men allegedly responsible for the Reichtag fire.
+        - Current page: 249    
     - The Oppermanns, by Lion Feuchtwanger
       - Finished the Introduction
         - The Oppermanns immerses us in these oppositions, and in our own contradictions, and reminds us, every time we leave   the page to check our phones, that just reading a novel about the German 1930s—a novel about pervasive surveillance and militarized policing, and about how the fake-news threats of “migrants” and “terrorism” can be manipulated to curtail civil liberties and crush democratic norms—will never be enough to prevent any of that from ever happening again.
