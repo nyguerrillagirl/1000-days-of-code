@@ -1,7 +1,5 @@
-### Day 596: May 16, 2026 (Saturday)
+### Day 597: May 17, 2026 (Sunday)
 - NOTE FOR THE DAY:
-  - Contacted Q on https://bytebyteai.com/?utm_source=substack&utm_medium=email&utm_campaign=bytebyteai 
-  - Book to consider: Furious Minds
   - Links to explore
     - [Dangerous Dave github clone](https://github.com/AkhilRaja/Dave)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
@@ -23,17 +21,18 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - [After Xi’s Warning on Taiwan, He and Trump Strike Positive Tone](https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china)
-    - [Where Are the Women at the Trump-Xi Summit?](https://www.nytimes.com/2026/05/14/world/asia/trump-xi-meeting-china-women-melania.html)
-    - [The Trump Dumpster Fire Is Lit](https://www.nytimes.com/2026/05/14/opinion/trump-politics-maha.html)
+    - [How a Nature Cruise Turned Into a Nightmare](https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html)
+    - [CBS Cancels Itself, Not Just Colbert](https://www.nytimes.com/2026/05/16/opinion/stephen-colbert-late-show-cbs.html)
+    - [On Capitol Hill, a Sexual Harassment ‘Minefield’ Persists](https://www.nytimes.com/2026/05/16/us/politics/on-capitol-hill-a-sexual-harassment-minefield-persists.html)
   - WAPO
-    - [Xi warns Trump that mishandling Taiwan could spark ‘conflicts’](https://www.washingtonpost.com/politics/2026/05/14/trump-chinas-xi-hold-opening-session-two-day-summit/)
-    - [Harvard has a defense-tech incubator. Pete Hegseth should visit it.](https://www.washingtonpost.com/opinions/2026/05/14/pete-hegseth-should-visit-harvard-qlab/)
-    - [Meet Merla, the beagle who busted air travelers for 100 meat sandwiches and more](https://www.washingtonpost.com/travel/2026/05/14/beagle-follows-her-nose-100-illegal-sandwiches-minneapolis-airport/)
+    - [Women with this condition are often misdiagnosed. Its new name could help.](https://www.washingtonpost.com/wellness/2026/05/16/how-pcos-name-change-could-help-more-women-get-diagnosed/)
+    - [He’s king of the AI boom. Why do former colleagues say he can’t be trusted?](https://www.washingtonpost.com/technology/2026/05/16/elon-musk-trial-against-sam-altman-renews-questions-about-his-honesty/)
+    - [Inside Ben Shapiro’s MAGA meltdown](https://www.washingtonpost.com/technology/2026/05/09/ben-shapiro-daily-wire-maga-media/)
   - ARTICLES/VIDEOS
-    - [I was laid off by Atlassian](https://www.youtube.com/watch?v=55pTFVoclvE)
-    - [The Men Who Want Women to Be Quiet](https://www.theatlantic.com/magazine/2026/06/conservative-masculinism-misogyny/686939/)
-    - []()
+    - [This Rescued Labrador Befriended a Weak Cheetah Cub — Two Years Later Nobody Expected This](https://www.youtube.com/watch?v=T6daeRhVUms)
+    - [A Kamala Harris Campaign Insider Suspects Joe Rogan Stacked the Deck for Donald Trump](https://www.vanityfair.com/news/story/kamala-harris-joe-rogan-debate)
+    - [My Son’s Math Homework Is Essentially Just Pokémon](https://www.theatlantic.com/technology/2026/05/homework-video-games-ed-tech/687198/)
+    - [Blows a ZERO, Gets Arrested Anyway - WINS in Court (part 2)](https://www.youtube.com/watch?v=DWCEssxYVC0)
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -53,12 +52,12 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Advanced SQLAlchemy Queries
-    - Introduction to Importing Data in R
-    - Sampling in Python
-    - Regular Expressions in Python
+    - We'll take the CASE
+    - Advanced SQLAlchemy Queries (Introduction to Databases in Python)
+    - Working with Categorical Data in Python
+    - Introduction to Testing in Python
     - Joining Data in SQL
-    - Web Scraping
+    - Cleaning Data in Python
     - Avoid:
       - Data Manipulation with pandas
       - Intermediate Python
@@ -67,6 +66,8 @@
       - Data Types in Python
       - Introduction to Python
       - Data Types in Python
+  - Course: Introduction to Data - Data Basics
+    - Working on chapter 1/3 - 
   - Course: Developing Python Packages
     - Working on chapter 1/4 - From Loose Code to Local Package
   - Course: Introduction to Regression with statsmodel in Python
@@ -76,8 +77,6 @@
      - Completed chapter 2/5 - Bootstrap confidence intervals
      - Working on chapter 3/5 - Formulating and simulating a hypothesis
      - TODO: Review from beginning
-  - Course: Introduction to Databases in Python
-    - Working on chapter 4/5 - Creating databases and table
   - Course: Data Manipulation in SQL
     - Working on chapter 3/4 - Correlated subqueries
   - Review R
