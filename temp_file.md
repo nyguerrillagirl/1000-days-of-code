@@ -1,5 +1,10 @@
-### Day 597: May 17, 2026 (Sunday)
+### Day 598: May 18, 2026 (Monday)
 - NOTE FOR THE DAY:
+  - Courses:
+    - The Full Stack Deep Learning
+      - https://fullstackdeeplearning.com/course/2022/
+    - Practical Deep Learning
+      - https://course.fast.ai/
   - Links to explore
     - [Dangerous Dave github clone](https://github.com/AkhilRaja/Dave)
     - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
@@ -21,18 +26,17 @@
     - AT LOCATION: 23:45
     - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
-    - [How a Nature Cruise Turned Into a Nightmare](https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html)
-    - [CBS Cancels Itself, Not Just Colbert](https://www.nytimes.com/2026/05/16/opinion/stephen-colbert-late-show-cbs.html)
-    - [On Capitol Hill, a Sexual Harassment ‘Minefield’ Persists](https://www.nytimes.com/2026/05/16/us/politics/on-capitol-hill-a-sexual-harassment-minefield-persists.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Women with this condition are often misdiagnosed. Its new name could help.](https://www.washingtonpost.com/wellness/2026/05/16/how-pcos-name-change-could-help-more-women-get-diagnosed/)
-    - [He’s king of the AI boom. Why do former colleagues say he can’t be trusted?](https://www.washingtonpost.com/technology/2026/05/16/elon-musk-trial-against-sam-altman-renews-questions-about-his-honesty/)
-    - [Inside Ben Shapiro’s MAGA meltdown](https://www.washingtonpost.com/technology/2026/05/09/ben-shapiro-daily-wire-maga-media/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [This Rescued Labrador Befriended a Weak Cheetah Cub — Two Years Later Nobody Expected This](https://www.youtube.com/watch?v=T6daeRhVUms)
-    - [A Kamala Harris Campaign Insider Suspects Joe Rogan Stacked the Deck for Donald Trump](https://www.vanityfair.com/news/story/kamala-harris-joe-rogan-debate)
-    - [My Son’s Math Homework Is Essentially Just Pokémon](https://www.theatlantic.com/technology/2026/05/homework-video-games-ed-tech/687198/)
-    - [Blows a ZERO, Gets Arrested Anyway - WINS in Court (part 2)](https://www.youtube.com/watch?v=DWCEssxYVC0)
+    - [The Real Reason Kamala Harris Lost (w/ Rob Flaherty)](https://www.thebulwark.com/p/the-real-reason-kamala-harris-lost)
+    - []()
+    - []()
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -52,12 +56,9 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - We'll take the CASE
-    - Advanced SQLAlchemy Queries (Introduction to Databases in Python)
-    - Working with Categorical Data in Python
-    - Introduction to Testing in Python
-    - Joining Data in SQL
-    - Cleaning Data in Python
+    - Writing Functions in Python
+    - Bootstrap confidence intervals
+    - Dealing with Missing Data in Python
     - Avoid:
       - Data Manipulation with pandas
       - Intermediate Python
@@ -242,6 +243,8 @@
       - Working on chapter 1/61 - Introduction
       - page 7/525
   - Non-Tech Reading
+    - Reading: The Miseducation of Caroline Bingley, by McLeod, Lindz
+        - I am still reading. It appears Caroline Bingley is a hopeless case!
     - In the Garden of Beasts, Erik Larsen
       - Part IV - How the Skeleton Aches
         - Working on Chapter 21 - The Witness Wore Jackboots
