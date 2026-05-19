@@ -1,5 +1,18 @@
-### Day 598: May 18, 2026 (Monday)
+### Day 599: May 19, 2026 (Tuesday)
 - NOTE FOR THE DAY:
+  - Converting WebP into GIF
+    1. Go to ezgif.com/webp-to-gif
+    2. Upload your animated WebP
+    3. Click Upload
+    4. Click Convert to GIF
+    5. Wait for the preview
+    6. Download the GIF
+  - Optimize GIF
+    1. Using EZGIF Optimizer (see above)
+    2. Click Optimize
+    3. Choose one of these modes:
+      - Lossy GIF (best size reduction)
+    - Provides a working GIF but not an optimized one
   - Courses:
     - The Full Stack Deep Learning
       - https://fullstackdeeplearning.com/course/2022/
@@ -30,13 +43,14 @@
     - []()
     - []()
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [7 charts that explain why the job market is so tough right now](https://www.washingtonpost.com/business/2026/05/18/us-job-market-is-stuck-here-what-that-looks-like/)
+    - [What jobs will AI destroy? Exhibit A shouldn’t be on the list.](https://www.washingtonpost.com/opinions/2026/05/17/ai-isnt-end-legal-profession-its-future/)
+    - [Head and neck cancers are on the rise. Here’s how to reduce your risk.](https://www.washingtonpost.com/wellness/2026/05/18/how-reduce-your-risk-head-neck-cancer/)
   - ARTICLES/VIDEOS
     - [The Real Reason Kamala Harris Lost (w/ Rob Flaherty)](https://www.thebulwark.com/p/the-real-reason-kamala-harris-lost)
-    - []()
-    - []()
+    - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
+      - LEFT OFF at: 20:03
+    - [ava & deborah | ribs {5x07}](https://www.youtube.com/watch?v=TGCcoJ1q7qA)
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -56,9 +70,12 @@
         - 9/15 correct
       - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Writing Functions in Python
-    - Bootstrap confidence intervals
-    - Dealing with Missing Data in Python
+    - Introduction to SQL
+    - Introduction to Data Visualization with Matplotlib
+    - Parameter estimation by optimzation
+    - Introduction to Databases in Python
+    - Regular Expressions in Python
+    - Web Scraping in Python
     - Avoid:
       - Data Manipulation with pandas
       - Intermediate Python
