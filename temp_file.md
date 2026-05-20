@@ -1,30 +1,12 @@
-### Day 599: May 19, 2026 (Tuesday)
+### Day 600: May 20, 2026 (Wednesday)
 - NOTE FOR THE DAY:
-  - Converting WebP into GIF
-    1. Go to ezgif.com/webp-to-gif
-    2. Upload your animated WebP
-    3. Click Upload
-    4. Click Convert to GIF
-    5. Wait for the preview
-    6. Download the GIF
-  - Optimize GIF
-    1. Using EZGIF Optimizer (see above)
-    2. Click Optimize
-    3. Choose one of these modes:
-      - Lossy GIF (best size reduction)
-    - Provides a working GIF but not an optimized one
-  - Courses:
-    - The Full Stack Deep Learning
-      - https://fullstackdeeplearning.com/course/2022/
-    - Practical Deep Learning
-      - https://course.fast.ai/
-  - Links to explore
-    - [Dangerous Dave github clone](https://github.com/AkhilRaja/Dave)
-    - [Class Central - Canva Courses](https://www.classcentral.com/search?q=canva)
-    - [FreeCodeCamp - Scrapy Course Repo](https://github.com/orgs/python-scrapy-playbook/repositories?type=all)
-    - [Bernoulli Distribution: A Complete Guide with Example](https://www.datacamp.com/tutorial/bernoulli-distribution)
-    - [Data Science: Statistics and Machine Learning Specialization](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
-    - [Lab 1: Intro to DC Circuits](https://www.ece.ualberta.ca/~terheide/ECE202-lab-AD2/lab1.html)
+  - Warlords V
+    - Barles v. Vinchester - hard to guess. I favor Barles because Vinch can be so inconsistent. Toss-Up
+    - Hera v. Lewis.  Hera should win but you never know what with Warcraft 3 play taking up a lot of time and energy.
+        Maybe Hera is in the "move on" mode.
+  - PROJECT: FileScraper
+    - Create Python project
+    - get the program to print list of files it would download
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=3
     - FORMAT: 0xx_LOADSTAR_64
@@ -35,22 +17,19 @@
     - Downloaded 36-40
   - Investigating using Word or an Open-Source application
     - How to create a magazine with Microsoft Word
-  - [Scrapy Course – Python Web Scraping for Beginners](https://www.youtube.com/watch?v=mBoX_JCKZTE)
-    - AT LOCATION: 23:45
-    - REPO: https://github.com/orgs/python-scrapy-playbook/repositories
   - NYT
     - []()
     - []()
     - []()
   - WAPO
-    - [7 charts that explain why the job market is so tough right now](https://www.washingtonpost.com/business/2026/05/18/us-job-market-is-stuck-here-what-that-looks-like/)
-    - [What jobs will AI destroy? Exhibit A shouldn’t be on the list.](https://www.washingtonpost.com/opinions/2026/05/17/ai-isnt-end-legal-profession-its-future/)
-    - [Head and neck cancers are on the rise. Here’s how to reduce your risk.](https://www.washingtonpost.com/wellness/2026/05/18/how-reduce-your-risk-head-neck-cancer/)
+    - [I lead a Jewish school. Mamdani’s first veto is astonishing.](https://www.washingtonpost.com/opinions/2026/05/18/new-york-mayor-zohran-mamdani-vetoes-bill-amid-rising-antisemitism/)
+    - [I saw America vilified in Iran. Then came the culture shock.](https://www.washingtonpost.com/opinions/2026/05/18/iranian-us-worries-about-americans-loss-pride/)
+    - [Why this Ebola outbreak will be so difficult to contain](https://www.washingtonpost.com/health/2026/05/19/why-this-ebola-outbreak-will-be-so-difficult-contain/)
   - ARTICLES/VIDEOS
-    - [The Real Reason Kamala Harris Lost (w/ Rob Flaherty)](https://www.thebulwark.com/p/the-real-reason-kamala-harris-lost)
+    - [Trump Keeps Going to the Doctor. Nobody's Allowed to Ask Why. (w/ Bill Kristol) | Bulwark Podcast](https://www.youtube.com/watch?v=ORdYYymXVKA)
+    - [Top 20 Things The Gilded Age Gets Factually Right & Wrong](https://www.youtube.com/watch?v=H6NcnV43S4A)
+    - []()
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
-      - LEFT OFF at: 20:03
-    - [ava & deborah | ribs {5x07}](https://www.youtube.com/watch?v=TGCcoJ1q7qA)
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -58,24 +37,13 @@
     - Introduction to Data Visualization with Seaborn
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
   - XP: 1125  (Practice) --> 2500  [Peta - Last week: 15,825 XP (9th in Peta League)]
-    - Assessment: AI Fundamentals
-      - earned 500XP. 
-        - Intermediate | Score: 106 | Ptle: 57
-    - Assessment: Statistics Fundamentals with Python
-      - NEW ASSESSMENT:
-        - Intermediate (low) | Score: 88 | Ptle: 34
-    - Assessment: Data Manipulation with Python
-      - NEW ASSESSMENT:
-        - Advanced | Score: 134 | Ptle: 87
-        - 9/15 correct
-      - Need to re-take ...too many errors. Need review of key concepts
   - Practice:
-    - Introduction to SQL
-    - Introduction to Data Visualization with Matplotlib
-    - Parameter estimation by optimzation
+    - Data Basics
+    - Introduction to R
+    - Introduction to Data Visualization with Plotly in Python
     - Introduction to Databases in Python
-    - Regular Expressions in Python
-    - Web Scraping in Python
+    - Introduction to Statistics in Python
+    - Reshaping Data with pandas
     - Avoid:
       - Data Manipulation with pandas
       - Intermediate Python
@@ -85,7 +53,7 @@
       - Introduction to Python
       - Data Types in Python
   - Course: Introduction to Data - Data Basics
-    - Working on chapter 1/3 - 
+    - Working on chapter 2/3 - Data wisdom 
   - Course: Developing Python Packages
     - Working on chapter 1/4 - From Loose Code to Local Package
   - Course: Introduction to Regression with statsmodel in Python
@@ -96,7 +64,7 @@
      - Working on chapter 3/5 - Formulating and simulating a hypothesis
      - TODO: Review from beginning
   - Course: Data Manipulation in SQL
-    - Working on chapter 3/4 - Correlated subqueries
+    - Working on chapter 4/4 - Window Functions
   - Review R
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
@@ -106,6 +74,8 @@
     - review
   - Working on Article #2: Why do developers create video games with SDL + OpenGL?
   - Working on Article #3: Python sockets and struct
+  - Working on Article #4: Modern Low-Level Graphics API (Direct GPU Control)
+  - Working on Article #5: Dowloading files from a page (using Python)
   - Checking [Create Cover Page in Microsoft Word | Natural Magazine Cover Designing in MS Word](https://www.youtube.com/watch?v=7QjT_nGXGww)
   - Place for images (free) https://www.pexels.com/
   - Check:
@@ -124,6 +94,11 @@
     - [How to Make Donkey Kong in Python with PyGame!](https://www.youtube.com/watch?v=u6RV1lkHW8M)
   - SDL
     - [sdl2 - SDL2 library wrapper](https://pysdl2.readthedocs.io/en/stable/modules/sdl2.html)
+  - Dangerous Dave
+    - https://github.com/Harchvertelol/Dangerous-Dave-2-Modification-Edition
+    - https://github.com/grapdega/dangerousdaveraborn
+    - https://www.youtube.com/watch?v=YPlHeUHswWQ
+    - https://medium.com/super-jump/doom-creator-john-romero-on-dangerous-daves-legacy-436e7ab72dda
   - Hovertank
     - Investigate setting up DOSBOX (use notebook)
     - Install and play Hovertank One
