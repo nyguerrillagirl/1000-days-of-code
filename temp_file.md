@@ -1,4 +1,4 @@
-### Day 600: May 20, 2026 (Wednesday)
+### Day 601: May 21, 2026 (Thursday)
 - NOTE FOR THE DAY:
   - Warlords V
     - Barles v. Vinchester - hard to guess. I favor Barles because Vinch can be so inconsistent. Toss-Up
@@ -18,16 +18,16 @@
   - Investigating using Word or an Open-Source application
     - How to create a magazine with Microsoft Word
   - NYT
-    - []()
-    - []()
-    - []()
+    - [How a Web Developer Lives on $45,000 in Far Rockaway](https://www.nytimes.com/interactive/2026/05/18/nyregion/nyc-budgeting-affordability-radley.html)
+    - [Harvard Caps A’s as Selective Colleges Attack Grade Inflation](https://www.nytimes.com/2026/05/20/us/harvard-grade-inflation.html)
+    - [‘That Awful Thing That Happened’ Is Now a Stunning Memoir](https://www.nytimes.com/2026/05/20/books/review/dog-days-emily-labarge.html)
   - WAPO
-    - [I lead a Jewish school. Mamdani’s first veto is astonishing.](https://www.washingtonpost.com/opinions/2026/05/18/new-york-mayor-zohran-mamdani-vetoes-bill-amid-rising-antisemitism/)
-    - [I saw America vilified in Iran. Then came the culture shock.](https://www.washingtonpost.com/opinions/2026/05/18/iranian-us-worries-about-americans-loss-pride/)
-    - [Why this Ebola outbreak will be so difficult to contain](https://www.washingtonpost.com/health/2026/05/19/why-this-ebola-outbreak-will-be-so-difficult-contain/)
+    - [The Trump paradox: What’s good for him is weighing down his party](https://www.washingtonpost.com/politics/2026/05/20/trump-is-his-weakest-nationally-yet-flexing-power-with-his-base/)
+    - [Chronic pilot shortages. Ancient planes. The Air Force needs upgrading.](https://www.washingtonpost.com/opinions/2026/05/20/us-air-force-copes-with-pilot-shortages-geriatric-airplanes/)
+    - [Dining chat: Why do diners get bad tables, even when it’s not busy?](https://www.washingtonpost.com/food/2026/05/20/ask-elazar-sontag-your-dining-questions/)
   - ARTICLES/VIDEOS
-    - [Trump Keeps Going to the Doctor. Nobody's Allowed to Ask Why. (w/ Bill Kristol) | Bulwark Podcast](https://www.youtube.com/watch?v=ORdYYymXVKA)
-    - [Top 20 Things The Gilded Age Gets Factually Right & Wrong](https://www.youtube.com/watch?v=H6NcnV43S4A)
+    - [Trump tried to deliver an inspirational speech. It was uncomfortable]()
+    - [How to get started with Mini Micro](https://miniscript.org/wiki/How_to_get_started_with_Mini_Micro)
     - []()
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
 - Data Camp [DS]
@@ -38,12 +38,12 @@
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
   - XP: 1125  (Practice) --> 2500  [Peta - Last week: 15,825 XP (9th in Peta League)]
   - Practice:
+    - Correlated Queries, Nested Queries, and Common Table Expressions
     - Data Basics
-    - Introduction to R
-    - Introduction to Data Visualization with Plotly in Python
-    - Introduction to Databases in Python
-    - Introduction to Statistics in Python
-    - Reshaping Data with pandas
+    - Analyzing Police Activity with pandas
+    - Regular Expressions in Python
+    - Introduction to Shell
+    - Foundations of Probability in Python
     - Avoid:
       - Data Manipulation with pandas
       - Intermediate Python
@@ -52,6 +52,9 @@
       - Data Types in Python
       - Introduction to Python
       - Data Types in Python
+  - PROJECT: ADVANCED SQL
+    - Collected information on a project
+    - Decide on database - probably will select PostgreSQL
   - Course: Introduction to Data - Data Basics
     - Working on chapter 2/3 - Data wisdom 
   - Course: Developing Python Packages
@@ -60,8 +63,8 @@
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Statistical Thinking in Python (Part 2)
-     - Completed chapter 2/5 - Bootstrap confidence intervals
-     - Working on chapter 3/5 - Formulating and simulating a hypothesis
+     - Completed chapter 3/5 - Formulating and simulating a hypothesis
+     - Working on chapter 4/5 - A/B testing
      - TODO: Review from beginning
   - Course: Data Manipulation in SQL
     - Working on chapter 4/4 - Window Functions
@@ -235,17 +238,13 @@
       - Working on chapter 1/61 - Introduction
       - page 7/525
   - Non-Tech Reading
-    - Reading: The Miseducation of Caroline Bingley, by McLeod, Lindz
-        - I am still reading. It appears Caroline Bingley is a hopeless case!
     - In the Garden of Beasts, Erik Larsen
       - Part IV - How the Skeleton Aches
-        - Working on Chapter 21 - The Witness Wore Jackboots
-          - Martha attends the trial of the men allegedly responsible for the Reichtag fire.
-        - Current page: 249    
+        - Working on Chapter 25 - The Secret Boris
+        - Current page: 262    
     - The Oppermanns, by Lion Feuchtwanger
-      - Finished the Introduction
-        - The Oppermanns immerses us in these oppositions, and in our own contradictions, and reminds us, every time we leave   the page to check our phones, that just reading a novel about the German 1930s—a novel about pervasive surveillance and militarized policing, and about how the fake-news threats of “migrants” and “terrorism” can be manipulated to curtail civil liberties and crush democratic norms—will never be enough to prevent any of that from ever happening again.
-      - Working on Chapter One
+       - Working on Chapter One
+        - Sets the stage for the family, business and relationships
     - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
