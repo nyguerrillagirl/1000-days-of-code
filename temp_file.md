@@ -1,35 +1,42 @@
-### Day 601: May 21, 2026 (Thursday)
+### Day 602: May 22, 2026 (Friday)
 - NOTE FOR THE DAY:
   - Warlords V
-    - Barles v. Vinchester - hard to guess. I favor Barles because Vinch can be so inconsistent. Toss-Up
-    - Hera v. Lewis.  Hera should win but you never know what with Warcraft 3 play taking up a lot of time and energy.
-        Maybe Hera is in the "move on" mode.
+    - TheViper v. ACCM      Predict: 2-4
+    - Liereyy v. Lewis      Predict: 4-1
   - PROJECT: FileScraper
     - Create Python project
     - get the program to print list of files it would download
+    - To compare two files are exactly the same:
+      - fc /b f1.dsk f2.dsk
+      - TESTED - WORKED.
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=3
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 2, 36-40
+    - On page 2, 41-45
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
     - FORMAT: XX_MON_YY_YOUR_COMMODORE
-    - Downloaded 36-40
+    - Downloaded 41-45
   - Investigating using Word or an Open-Source application
     - How to create a magazine with Microsoft Word
   - NYT
-    - [How a Web Developer Lives on $45,000 in Far Rockaway](https://www.nytimes.com/interactive/2026/05/18/nyregion/nyc-budgeting-affordability-radley.html)
-    - [Harvard Caps A’s as Selective Colleges Attack Grade Inflation](https://www.nytimes.com/2026/05/20/us/harvard-grade-inflation.html)
-    - [‘That Awful Thing That Happened’ Is Now a Stunning Memoir](https://www.nytimes.com/2026/05/20/books/review/dog-days-emily-labarge.html)
+    - [Meta Lays Off 8,000 Employees, as A.I. Casualties Mount](https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html)
+    - [‘We’ve Never Been This Bad.’ Eastern Pennsylvania Weighs Rising Costs.](https://www.nytimes.com/2026/05/21/us/politics/pennsylvania-affordability-politics.html)
+    - [Live Updates: Democrats’ Draft Autopsy Report on 2024 Loss Puts Blame on Biden and Beyond](https://www.nytimes.com/live/2026/05/21/us/dnc-report)
   - WAPO
-    - [The Trump paradox: What’s good for him is weighing down his party](https://www.washingtonpost.com/politics/2026/05/20/trump-is-his-weakest-nationally-yet-flexing-power-with-his-base/)
-    - [Chronic pilot shortages. Ancient planes. The Air Force needs upgrading.](https://www.washingtonpost.com/opinions/2026/05/20/us-air-force-copes-with-pilot-shortages-geriatric-airplanes/)
-    - [Dining chat: Why do diners get bad tables, even when it’s not busy?](https://www.washingtonpost.com/food/2026/05/20/ask-elazar-sontag-your-dining-questions/)
+    - [Trump tried to silence late-night hosts. They’re mocking him even more.](https://www.washingtonpost.com/entertainment/tv/2026/05/21/trump-keeps-targeting-late-night-tv-hosts-keep-pushing-back/)
+    - [Dumb and dumber, Republican-style](https://www.washingtonpost.com/opinions/2026/05/21/cassidy-cornyn-republican-party-stupidity-under-trump/)
+    - [A live TV gaffe turned the ‘Survivor 50’ finale into a fitting train wreck](https://www.washingtonpost.com/entertainment/tv/2026/05/21/live-tv-gaffe-turned-survivor-50-finale-into-fitting-train-wreck/)
   - ARTICLES/VIDEOS
-    - [Trump tried to deliver an inspirational speech. It was uncomfortable]()
-    - [How to get started with Mini Micro](https://miniscript.org/wiki/How_to_get_started_with_Mini_Micro)
-    - []()
+    - [Judge dismisses charges against ex-administrator accused after student shot teacher](https://www.washingtonpost.com/national/2026/05/21/charges-dismissed-assistant-principal-teacher-shot/e3e1683c-552a-11f1-9c40-7a0a12d9e745_story.html)
+    - [The Dam is Starting to Break on Trump’s Stupid War (Sarah, Sam & Amanda Carpenter) | Bulwark Podcast](https://www.youtube.com/watch?v=iez72rtM1MY)
+    - [What Caused The Fall Of The Roman Empire?](https://www.youtube.com/watch?v=VAX8o8dXDEM)
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
+- PROJECT: RETRO
+  - Ran FileScraper to obtain files
+  - Downloaded AppleWin
+  - Test the files downloaded
+    - TESTED - WORKS!
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -38,12 +45,12 @@
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
   - XP: 1125  (Practice) --> 2500  [Peta - Last week: 15,825 XP (9th in Peta League)]
   - Practice:
-    - Correlated Queries, Nested Queries, and Common Table Expressions
     - Data Basics
-    - Analyzing Police Activity with pandas
-    - Regular Expressions in Python
-    - Introduction to Shell
-    - Foundations of Probability in Python
+    - Short and Simple Subqueries
+    - From Loose Code to Local Package
+    - Intermediate SQL
+    - Reshaping Data with pandas
+    - Object-Oriented Programming in Python
     - Avoid:
       - Data Manipulation with pandas
       - Intermediate Python
@@ -55,6 +62,8 @@
   - PROJECT: ADVANCED SQL
     - Collected information on a project
     - Decide on database - probably will select PostgreSQL
+  - Course: Introduction to Relational Databases in SQL
+    - Working on chapter 1/4 - Your First Database
   - Course: Introduction to Data - Data Basics
     - Working on chapter 2/3 - Data wisdom 
   - Course: Developing Python Packages
@@ -67,7 +76,9 @@
      - Working on chapter 4/5 - A/B testing
      - TODO: Review from beginning
   - Course: Data Manipulation in SQL
-    - Working on chapter 4/4 - Window Functions
+    - Completed chapter 4/4 - Window Functions
+    - Completed course!!!! 
+    - This course requires more practice
   - Review R
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
@@ -204,11 +215,18 @@
     - Reading chapter 1/25 What is Arduino?
 - Books
  - Tech Reading
+   - Manning Publishing
+    - Grokking Bayes
+    - Grokking Software Architecture
+    - Grokking Statistics
+    - Regular Expressions and AI Coding Assistants
+    - Software Design for Python Programmers
+    - Statistics Every Programmer Needs
+    - The Art of Code
   - Bayesian Statistics The Fun Way
     - PART I: Introduction to Probability
-      - Completed chapter 3/18 (pages: 21-32)
-      - Current page: 33
       - Working on chapter 4/18 - Creating a Binomial Probability Distribution
+      - Current page: 33
       - Answers page: 232
   - React, The Comprehensive Guide 
     - Finally resuming my reading
