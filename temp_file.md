@@ -1,14 +1,9 @@
-### Day 602: May 22, 2026 (Friday)
+
+### Day 603: May 23, 2026 (Saturday)
 - NOTE FOR THE DAY:
-  - Warlords V
-    - TheViper v. ACCM      Predict: 2-4
-    - Liereyy v. Lewis      Predict: 4-1
-  - PROJECT: FileScraper
-    - Create Python project
-    - get the program to print list of files it would download
-    - To compare two files are exactly the same:
-      - fc /b f1.dsk f2.dsk
-      - TESTED - WORKED.
+   - Warlords V
+    - Sebastian v. ACCM         Predict: 4-2  
+    - Liereyy v. Vinchester     Predict: 4-1  
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=3
     - FORMAT: 0xx_LOADSTAR_64
@@ -20,23 +15,21 @@
   - Investigating using Word or an Open-Source application
     - How to create a magazine with Microsoft Word
   - NYT
-    - [Meta Lays Off 8,000 Employees, as A.I. Casualties Mount](https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html)
-    - [‘We’ve Never Been This Bad.’ Eastern Pennsylvania Weighs Rising Costs.](https://www.nytimes.com/2026/05/21/us/politics/pennsylvania-affordability-politics.html)
-    - [Live Updates: Democrats’ Draft Autopsy Report on 2024 Loss Puts Blame on Biden and Beyond](https://www.nytimes.com/live/2026/05/21/us/dnc-report)
+    - [Trump Administration Live Updates: Tulsi Gabbard Resigns as Intelligence Chief](https://www.nytimes.com/live/2026/05/22/us/trump-news)
+    - []()
+    - []()
   - WAPO
-    - [Trump tried to silence late-night hosts. They’re mocking him even more.](https://www.washingtonpost.com/entertainment/tv/2026/05/21/trump-keeps-targeting-late-night-tv-hosts-keep-pushing-back/)
-    - [Dumb and dumber, Republican-style](https://www.washingtonpost.com/opinions/2026/05/21/cassidy-cornyn-republican-party-stupidity-under-trump/)
-    - [A live TV gaffe turned the ‘Survivor 50’ finale into a fitting train wreck](https://www.washingtonpost.com/entertainment/tv/2026/05/21/live-tv-gaffe-turned-survivor-50-finale-into-fitting-train-wreck/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Judge dismisses charges against ex-administrator accused after student shot teacher](https://www.washingtonpost.com/national/2026/05/21/charges-dismissed-assistant-principal-teacher-shot/e3e1683c-552a-11f1-9c40-7a0a12d9e745_story.html)
-    - [The Dam is Starting to Break on Trump’s Stupid War (Sarah, Sam & Amanda Carpenter) | Bulwark Podcast](https://www.youtube.com/watch?v=iez72rtM1MY)
-    - [What Caused The Fall Of The Roman Empire?](https://www.youtube.com/watch?v=VAX8o8dXDEM)
+    - []()
+    - []()
+    - []()
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
+      - LEFT OFF at: 20:03    
 - PROJECT: RETRO
-  - Ran FileScraper to obtain files
-  - Downloaded AppleWin
-  - Test the files downloaded
-    - TESTED - WORKS!
+  - Working on collecting all material in this category together and coming up with a plan
 - Data Camp [DS]
   - Review:
     - Foundations of Probability
@@ -45,12 +38,12 @@
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
   - XP: 1125  (Practice) --> 2500  [Peta - Last week: 15,825 XP (9th in Peta League)]
   - Practice:
+    - Data Manipulation in SQL
     - Data Basics
-    - Short and Simple Subqueries
-    - From Loose Code to Local Package
-    - Intermediate SQL
-    - Reshaping Data with pandas
-    - Object-Oriented Programming in Python
+    - Writing Efficient Python Code
+    - Introduction to Databases in Python
+    - AI Ethics
+    - Generative AI Concepts
     - Avoid:
       - Data Manipulation with pandas
       - Intermediate Python
@@ -60,10 +53,11 @@
       - Introduction to Python
       - Data Types in Python
   - PROJECT: ADVANCED SQL
-    - Collected information on a project
-    - Decide on database - probably will select PostgreSQL
+    - Working on the book "Learn PostgreSQL"
+      - Getting everything set up on WSL and Windows
   - Course: Introduction to Relational Databases in SQL
-    - Working on chapter 1/4 - Your First Database
+    - Completed chapter 1/4 - Your First Database
+    - Working on chapter 2/4 - Better data quality with constraints
   - Course: Introduction to Data - Data Basics
     - Working on chapter 2/3 - Data wisdom 
   - Course: Developing Python Packages
@@ -72,13 +66,8 @@
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Statistical Thinking in Python (Part 2)
-     - Completed chapter 3/5 - Formulating and simulating a hypothesis
      - Working on chapter 4/5 - A/B testing
      - TODO: Review from beginning
-  - Course: Data Manipulation in SQL
-    - Completed chapter 4/4 - Window Functions
-    - Completed course!!!! 
-    - This course requires more practice
   - Review R
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
@@ -215,6 +204,9 @@
     - Reading chapter 1/25 What is Arduino?
 - Books
  - Tech Reading
+   - Learn PostgreSQL, 2nd Edition
+    - Working on chapter 1/19 - Introduction to PostgreSQL
+    - current page: 
    - Manning Publishing
     - Grokking Bayes
     - Grokking Software Architecture
@@ -256,6 +248,8 @@
       - Working on chapter 1/61 - Introduction
       - page 7/525
   - Non-Tech Reading
+    - Hitler's People, The Faces of the Third Reich, Richard J. Evans
+      - Working on Prologue: The Lady at the Trial 
     - In the Garden of Beasts, Erik Larsen
       - Part IV - How the Skeleton Aches
         - Working on Chapter 25 - The Secret Boris
