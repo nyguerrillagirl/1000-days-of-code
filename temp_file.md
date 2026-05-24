@@ -1,9 +1,7 @@
-
-### Day 603: May 23, 2026 (Saturday)
+### Day 604: May 24, 2026 (Sunday)
 - NOTE FOR THE DAY:
-   - Warlords V
-    - Sebastian v. ACCM         Predict: 4-2  
-    - Liereyy v. Vinchester     Predict: 4-1  
+   - Warlords V - Finals
+    - Liereyy v. ACCM     Predict: 5-1
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=3
     - FORMAT: 0xx_LOADSTAR_64
@@ -15,17 +13,17 @@
   - Investigating using Word or an Open-Source application
     - How to create a magazine with Microsoft Word
   - NYT
-    - [Trump Administration Live Updates: Tulsi Gabbard Resigns as Intelligence Chief](https://www.nytimes.com/live/2026/05/22/us/trump-news)
-    - []()
-    - []()
+    - [Defiant After Bad Week, Trump Pushes Ahead on Politically Unpopular Ideas](https://www.nytimes.com/2026/05/23/us/politics/trump-republicans-fund-ballroom-iran.html)
+    - [My Husband Is a Serial Cheater. Why Can’t I Leave Him?](https://www.nytimes.com/2026/05/21/well/mind/cheating-husband-leave-him.html)
+    - [Chemical Tank in Orange County Continues to Overheat, Authorities Say](https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-tank-orange-county.html)
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [Deputy FIRED After Ambulance Bodycam Footage Leaks! Massive Lawsuit Incoming!](https://www.youtube.com/watch?v=gAq3mM2ocY8)
+    - [Four Women Who Jumped Pregnant Qdoba Worker Appear In Court](https://www.youtube.com/watch?v=R7tGz4AV4D0)
+    - [The Real Reason Rommel Betrayed Hitler](https://www.youtube.com/watch?v=XI7Gm8Z0z4M)
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
       - LEFT OFF at: 20:03    
 - PROJECT: RETRO
@@ -36,14 +34,14 @@
     - Introduction to Statistics in Python
     - Introduction to Data Visualization with Seaborn
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1125  (Practice) --> 2500  [Peta - Last week: 15,825 XP (9th in Peta League)]
+  - XP: 1500  (Practice) --> 2500  [Peta - Last week: 15,825 XP (9th in Peta League)]
   - Practice:
-    - Data Manipulation in SQL
+    - Your first database
     - Data Basics
-    - Writing Efficient Python Code
-    - Introduction to Databases in Python
-    - AI Ethics
-    - Generative AI Concepts
+    - Intermediate Importing Data in R
+    - Statistical Thinking in Python (Part 1)
+    - Working with Dates and Times in Python
+    - Software Engineering Principles in Python
     - Avoid:
       - Data Manipulation with pandas
       - Intermediate Python
@@ -59,14 +57,16 @@
     - Completed chapter 1/4 - Your First Database
     - Working on chapter 2/4 - Better data quality with constraints
   - Course: Introduction to Data - Data Basics
-    - Working on chapter 2/3 - Data wisdom 
+    - Completed chapter 2/3 - Data wisdom 
+    - Working on chapter 3/3 - Data ethics and privacy
   - Course: Developing Python Packages
     - Working on chapter 1/4 - From Loose Code to Local Package
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Statistical Thinking in Python (Part 2)
-     - Working on chapter 4/5 - A/B testing
+     - Completed chapter 4/5 - A/B testing
+     - Working on chapter 5/5 - Finch beaks and the need for statistics
      - TODO: Review from beginning
   - Review R
     - Tidyverse
