@@ -1,7 +1,5 @@
-### Day 604: May 24, 2026 (Sunday)
+### Day 605: May 25, 2026 (Monday)
 - NOTE FOR THE DAY:
-   - Warlords V - Finals
-    - Liereyy v. ACCM     Predict: 5-1
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=3
     - FORMAT: 0xx_LOADSTAR_64
@@ -13,17 +11,17 @@
   - Investigating using Word or an Open-Source application
     - How to create a magazine with Microsoft Word
   - NYT
-    - [Defiant After Bad Week, Trump Pushes Ahead on Politically Unpopular Ideas](https://www.nytimes.com/2026/05/23/us/politics/trump-republicans-fund-ballroom-iran.html)
-    - [My Husband Is a Serial Cheater. Why Can’t I Leave Him?](https://www.nytimes.com/2026/05/21/well/mind/cheating-husband-leave-him.html)
-    - [Chemical Tank in Orange County Continues to Overheat, Authorities Say](https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-tank-orange-county.html)
+    - [With Big Decisions Ahead, the Supreme Court Collides With a Testy Trump](https://www.nytimes.com/2026/05/24/us/politics/supreme-court-trump-vance.html)
+    - [Whites-Only Community in Arkansas Sued for Discrimination](https://www.nytimes.com/2026/05/20/realestate/return-to-the-land-discrimination-lawsuit.html)
+    - [As Easy as Riding a Bike? Adult Learners Give It a Try.](https://www.nytimes.com/2026/05/24/nyregion/bike-new-york-classes-nyc.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [She’s the world’s oldest drag king, and still hoping for her big break](https://www.washingtonpost.com/nation/2026/05/24/shes-worlds-oldest-drag-king-still-hoping-her-big-break/)
+    - [Brain rot is good, actually](https://www.washingtonpost.com/opinions/2026/05/22/brain-rot-memes-social-media-screen-time-sabbath-are-healthy/)
+    - [Trump said gas prices are ‘peanuts.’ Only if you’re rich.](https://www.washingtonpost.com/business/2026/05/24/rising-gas-prices-are-widening-gap-between-rich-poor/)
   - ARTICLES/VIDEOS
-    - [Deputy FIRED After Ambulance Bodycam Footage Leaks! Massive Lawsuit Incoming!](https://www.youtube.com/watch?v=gAq3mM2ocY8)
-    - [Four Women Who Jumped Pregnant Qdoba Worker Appear In Court](https://www.youtube.com/watch?v=R7tGz4AV4D0)
-    - [The Real Reason Rommel Betrayed Hitler](https://www.youtube.com/watch?v=XI7Gm8Z0z4M)
+    - [The Legend of info](https://www.youtube.com/watch?v=BHnD0z4H63w)
+    - [Oilfield Worker Refuses Training From Teenage Girl, Then Gets Fired on the Spot](https://twistedsifter.com/2026/05/oilfield-worker-refuses-training-from-teenage-girl-then-gets-fired-on-the-spot/)
+    - []()
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
       - LEFT OFF at: 20:03    
 - PROJECT: RETRO
@@ -34,14 +32,15 @@
     - Introduction to Statistics in Python
     - Introduction to Data Visualization with Seaborn
   - Leaderboard CLOSES at 8:00 P.M. on Sundays
-  - XP: 1500  (Practice) --> 2500  [Peta - Last week: 15,825 XP (9th in Peta League)]
+  - XP: 1250  (Practice) --> 2675  [Peta - Last week: 18,575 XP (9th in Peta League)]
+    - ALL TIME HIGH
   - Practice:
-    - Your first database
+    - Hypothesis test examples
+    - Data Wisdom
     - Data Basics
-    - Intermediate Importing Data in R
-    - Statistical Thinking in Python (Part 1)
-    - Working with Dates and Times in Python
-    - Software Engineering Principles in Python
+    - Data Manipulation in SQL
+    - Introduction to Databases in Python
+    - Introduction to Testing in Python
     - Avoid:
       - Data Manipulation with pandas
       - Intermediate Python
@@ -50,24 +49,20 @@
       - Data Types in Python
       - Introduction to Python
       - Data Types in Python
-  - PROJECT: ADVANCED SQL
-    - Working on the book "Learn PostgreSQL"
-      - Getting everything set up on WSL and Windows
+  - PROJECT: MAJOR DATA SCIENCE TRACKS
+    - SQL
+        - Working on the book "Learn PostgreSQL"
+        - Getting everything set up on WSL and Windows
+    - Statistics
+        - Working on MANNING/STATISTICS_EVERY_PROGRAMMER_NEEDS
   - Course: Introduction to Relational Databases in SQL
     - Completed chapter 1/4 - Your First Database
     - Working on chapter 2/4 - Better data quality with constraints
-  - Course: Introduction to Data - Data Basics
-    - Completed chapter 2/3 - Data wisdom 
-    - Working on chapter 3/3 - Data ethics and privacy
   - Course: Developing Python Packages
     - Working on chapter 1/4 - From Loose Code to Local Package
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
-  - Course: Statistical Thinking in Python (Part 2)
-     - Completed chapter 4/5 - A/B testing
-     - Working on chapter 5/5 - Finch beaks and the need for statistics
-     - TODO: Review from beginning
   - Review R
     - Tidyverse
       - [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
@@ -214,6 +209,9 @@
     - Regular Expressions and AI Coding Assistants
     - Software Design for Python Programmers
     - Statistics Every Programmer Needs
+      - Working on Chapter 1/14 - Laying the groundwork
+      - page 1-15
+      - current page: 9
     - The Art of Code
   - Bayesian Statistics The Fun Way
     - PART I: Introduction to Probability
