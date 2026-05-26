@@ -1,33 +1,40 @@
-### Day 605: May 25, 2026 (Monday)
+### Day 606: May 26, 2026 (Tuesday)
 - NOTE FOR THE DAY:
+  - I am thinking of taking another week off from Datacamp. Concentrate on reviewing
+    and continuing Coursera courses.  The fact is it usually takes me several hours doing Datacamp. 
+    - NO DATACAMP THIS WEEK!
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=3
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 2, 41-45
+    - On page 3, 46-50
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
     - FORMAT: XX_MON_YY_YOUR_COMMODORE
-    - Downloaded 41-45
+    - Downloaded 46-50
   - Investigating using Word or an Open-Source application
     - How to create a magazine with Microsoft Word
   - NYT
-    - [With Big Decisions Ahead, the Supreme Court Collides With a Testy Trump](https://www.nytimes.com/2026/05/24/us/politics/supreme-court-trump-vance.html)
-    - [Whites-Only Community in Arkansas Sued for Discrimination](https://www.nytimes.com/2026/05/20/realestate/return-to-the-land-discrimination-lawsuit.html)
-    - [As Easy as Riding a Bike? Adult Learners Give It a Try.](https://www.nytimes.com/2026/05/24/nyregion/bike-new-york-classes-nyc.html)
+    - [He Name-Drops Ocasio-Cortez in His Bid for Congress. She Doesn’t Talk About Him at All.](https://www.nytimes.com/2026/05/25/us/politics/saikat-chakrabarti-aoc-sf-pelosi-seat.html)
+    - [How to Be Old](https://www.nytimes.com/2026/05/25/opinion/aging-advice.html)
+    - [The Brain Is the New Belly](https://www.nytimes.com/2026/05/25/opinion/brain-cognitive-health-trend.html)
   - WAPO
-    - [She’s the world’s oldest drag king, and still hoping for her big break](https://www.washingtonpost.com/nation/2026/05/24/shes-worlds-oldest-drag-king-still-hoping-her-big-break/)
-    - [Brain rot is good, actually](https://www.washingtonpost.com/opinions/2026/05/22/brain-rot-memes-social-media-screen-time-sabbath-are-healthy/)
-    - [Trump said gas prices are ‘peanuts.’ Only if you’re rich.](https://www.washingtonpost.com/business/2026/05/24/rising-gas-prices-are-widening-gap-between-rich-poor/)
+    - [Trump faces health questions ahead of another Walter Reed trip](https://www.washingtonpost.com/politics/2026/05/25/trump-faces-health-questions-ahead-another-walter-reed-trip/)
+    - [Some of Texas’s oldest barbecue joints close as meat prices skyrocket](https://www.washingtonpost.com/nation/2026/05/25/some-texass-oldest-barbecue-joints-close-meat-prices-skyrocket/)
+    - [I’m a gastroenterologist. Here’s what antibiotics really do to your gut.](https://www.washingtonpost.com/wellness/2026/05/25/im-gastroenterologist-heres-what-antibiotics-really-do-your-gut/)
   - ARTICLES/VIDEOS
-    - [The Legend of info](https://www.youtube.com/watch?v=BHnD0z4H63w)
-    - [Oilfield Worker Refuses Training From Teenage Girl, Then Gets Fired on the Spot](https://twistedsifter.com/2026/05/oilfield-worker-refuses-training-from-teenage-girl-then-gets-fired-on-the-spot/)
-    - []()
+    - [How to Beat the TC Drop Strategy Every Time | AoE2](https://www.youtube.com/watch?v=AK-GzIKyPL8)
+    - [Probability and Statistics: Overview](https://www.youtube.com/watch?v=sQqniayndb4)
+    - [How this Lightboard Works](https://www.youtube.com/watch?v=6_d44bla_GA)
+    - [All charges dropped against 'Broadview Six' after feds admit to errors in case](https://www.youtube.com/watch?v=Vnd947bYLrw)
+    - [How to stop screwing yourself over](https://www.ted.com/talks/mel_robbins_how_to_stop_screwing_yourself_over)
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
       - LEFT OFF at: 20:03    
 - PROJECT: RETRO
   - Working on collecting all material in this category together and coming up with a plan
 - Data Camp [DS]
   - Review:
+    - Introduction to Statistics
+      - Reviewing this course today
     - Foundations of Probability
     - Introduction to Statistics in Python
     - Introduction to Data Visualization with Seaborn
@@ -49,12 +56,6 @@
       - Data Types in Python
       - Introduction to Python
       - Data Types in Python
-  - PROJECT: MAJOR DATA SCIENCE TRACKS
-    - SQL
-        - Working on the book "Learn PostgreSQL"
-        - Getting everything set up on WSL and Windows
-    - Statistics
-        - Working on MANNING/STATISTICS_EVERY_PROGRAMMER_NEEDS
   - Course: Introduction to Relational Databases in SQL
     - Completed chapter 1/4 - Your First Database
     - Working on chapter 2/4 - Better data quality with constraints
@@ -178,6 +179,14 @@
   - Working on Part I - Python Basics to Master
   - Working on Part IV - Learning NumPy, pandas and matplotlib
     - working on NumPy
+  - PROJECT: MAJOR DATA SCIENCE TRACKS
+    - SQL
+        - Working on the book "Learn PostgreSQL"
+        - Getting everything set up on WSL and Windows
+    - Statistics
+      - Working on Probability Bootcamp - https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V
+        - Completed 1/44 - Probability and Statistics Overview
+        - Working on MANNING/STATISTICS_EVERY_PROGRAMMER_NEEDS
 - PROJECT: React
   - Working on O'Reilly Course - The Redux Official Course Tutorial
     - Working on chapter 6/10 - Social Media App with Redux Example
@@ -209,9 +218,9 @@
     - Regular Expressions and AI Coding Assistants
     - Software Design for Python Programmers
     - Statistics Every Programmer Needs
-      - Working on Chapter 1/14 - Laying the groundwork
-      - page 1-15
-      - current page: 9
+      - Working on Chapter 2/24 - Exploring probability and counting
+      - pages 16-40 
+      - current page: 16
     - The Art of Code
   - Bayesian Statistics The Fun Way
     - PART I: Introduction to Probability
@@ -247,7 +256,9 @@
       - page 7/525
   - Non-Tech Reading
     - Hitler's People, The Faces of the Third Reich, Richard J. Evans
-      - Working on Prologue: The Lady at the Trial 
+      - Part I: The Leader
+        - Working on chapter 1: The Dictator: Adolf Hitler
+          - In reading this chapter I believe that Hitler truly believed the things he expounded.
     - In the Garden of Beasts, Erik Larsen
       - Part IV - How the Skeleton Aches
         - Working on Chapter 25 - The Secret Boris
@@ -259,6 +270,6 @@
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
       - PART IV - To Prove Its Worth
-       - Working on chapter 11 - Business Decisions (page: 139)- GRADE: 
+       - Working on chapter 11 - Business Decisions (page: 139)
 - GRADE: 
   - NA
