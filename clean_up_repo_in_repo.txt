@@ -1,0 +1,50 @@
+🧹 Step 1 — Remove the cloned repo from Git tracking
+You’re not deleting the folder — just removing it from Git’s index.
+
+From the root of 1000-days-of-code:
+git rm -r --cached path/to/the/cloned/repo
+
+Commit that cleanup:
+git commit -m "Remove nested repo to convert into submodule"
+
+
+🔗 Step 2 — Re-add it as a proper submodule
+Now add it back as a submodule pointing to its real GitHub URL:
+
+git submodule add https://github.com/USERNAME/REPO.git path/to/submodule
+
+Example: 
+git submodule add https://github.com/nyguerrillagirl/AiJavaLabs.git src/intellij_projects/AiJavaLabs
+
+This creates:
+
+A .gitmodules file
+
+A submodule pointer commit
+
+A clean link to the external repo
+
+Commit the change:
+git commit -m "Add submodule for my-utils"
+
+🔄 Step 3 — Initialize & update submodules (good practice)
+
+git submodule update --init --recursive
+
+🚀 Step 4 — Push your updated main repo
+
+git push
+Now GitHub will show the folder as a submodule, not a normal directory.
+
+🧭 How you update the submodule later
+Inside the submodule folder:
+
+cd src/my-utils
+git pull origin main
+
+Then commit the updated pointer in the main repo:
+
+cd ../..
+git add src/my-utils
+git commit -m "Update submodule pointer"
+git push

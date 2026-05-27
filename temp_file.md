@@ -1,4 +1,4 @@
-### Day 606: May 26, 2026 (Tuesday)
+### Day 607: May 27, 2026 (Wednesday)
 - NOTE FOR THE DAY:
   - I am thinking of taking another week off from Datacamp. Concentrate on reviewing
     and continuing Coursera courses.  The fact is it usually takes me several hours doing Datacamp. 
@@ -14,23 +14,23 @@
   - Investigating using Word or an Open-Source application
     - How to create a magazine with Microsoft Word
   - NYT
-    - [He Name-Drops Ocasio-Cortez in His Bid for Congress. She Doesn’t Talk About Him at All.](https://www.nytimes.com/2026/05/25/us/politics/saikat-chakrabarti-aoc-sf-pelosi-seat.html)
-    - [How to Be Old](https://www.nytimes.com/2026/05/25/opinion/aging-advice.html)
-    - [The Brain Is the New Belly](https://www.nytimes.com/2026/05/25/opinion/brain-cognitive-health-trend.html)
+    - [As Trump Politicizes Justice Dept., Prosecutors Struggle With Grand Juries](https://www.nytimes.com/2026/05/26/us/politics/trump-justice-department-grand-juries.html)
+    - [The Hard Truth My Party Needs to Face](https://www.nytimes.com/2026/05/26/opinion/democrats-israel.html)
+    - [Celebrity Assistants Exist to Indulge Their Bosses, but When Does Duty Cross a Line?](https://www.nytimes.com/2026/05/26/arts/matthew-perry-personal-assistant-ketamine.html)
   - WAPO
-    - [Trump faces health questions ahead of another Walter Reed trip](https://www.washingtonpost.com/politics/2026/05/25/trump-faces-health-questions-ahead-another-walter-reed-trip/)
-    - [Some of Texas’s oldest barbecue joints close as meat prices skyrocket](https://www.washingtonpost.com/nation/2026/05/25/some-texass-oldest-barbecue-joints-close-meat-prices-skyrocket/)
-    - [I’m a gastroenterologist. Here’s what antibiotics really do to your gut.](https://www.washingtonpost.com/wellness/2026/05/25/im-gastroenterologist-heres-what-antibiotics-really-do-your-gut/)
+    - [South Carolina Republicans block Trump’s effort to gain more House seats](https://www.washingtonpost.com/politics/2026/05/26/court-blocks-map-meant-help-republicans-alabama/)
+    - [6 things a neurologist does to keep his brain healthy](https://www.washingtonpost.com/wellness/2026/05/26/what-neurologist-eats-day-better-brain-health/)
+    - []()
   - ARTICLES/VIDEOS
-    - [How to Beat the TC Drop Strategy Every Time | AoE2](https://www.youtube.com/watch?v=AK-GzIKyPL8)
-    - [Probability and Statistics: Overview](https://www.youtube.com/watch?v=sQqniayndb4)
-    - [How this Lightboard Works](https://www.youtube.com/watch?v=6_d44bla_GA)
-    - [All charges dropped against 'Broadview Six' after feds admit to errors in case](https://www.youtube.com/watch?v=Vnd947bYLrw)
+    - [Trump Blinked. Iran Won. Now What? (w/ Bill Kristol) | Bulwark Podcast](https://www.youtube.com/watch?v=5lVp6uS3usE)
     - [How to stop screwing yourself over](https://www.ted.com/talks/mel_robbins_how_to_stop_screwing_yourself_over)
+    - [Guy in Random Chess Tournament Says He's 2700 Rated](https://www.youtube.com/watch?v=Z9HzVMx2r_0)
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
       - LEFT OFF at: 20:03    
 - PROJECT: RETRO
   - Working on collecting all material in this category together and coming up with a plan
+  - Processed/collected together 
+  - Working on: Making a PLAN
 - Data Camp [DS]
   - Review:
     - Introduction to Statistics
@@ -261,8 +261,11 @@
           - In reading this chapter I believe that Hitler truly believed the things he expounded.
     - In the Garden of Beasts, Erik Larsen
       - Part IV - How the Skeleton Aches
-        - Working on Chapter 25 - The Secret Boris
-        - Current page: 262    
+        - Working on O Tannenbaum
+          - Celebrating Christmas. Interesting story to an American being arrested by the SA because
+            some people falsy accused Erwin Wollstein. 
+          - Martha fancies herself a better writer than she truly is.
+        - Current page: 295    
     - The Oppermanns, by Lion Feuchtwanger
        - Working on Chapter One
         - Sets the stage for the family, business and relationships

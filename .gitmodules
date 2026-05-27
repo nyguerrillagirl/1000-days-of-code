@@ -7,3 +7,6 @@
 [submodule "src/coursera/developing_frontend_apps_with_react/module04/final_project/e-plantShopping"]
 	path = src/coursera/developing_frontend_apps_with_react/module04/final_project/e-plantShopping
 	url = https://github.com/nyguerrillagirl/e-plantShopping.git
+[submodule "src/intellij_projects/AiJavaLabs"]
+	path = src/intellij_projects/AiJavaLabs
+	url = https://github.com/nyguerrillagirl/AiJavaLabs.git
