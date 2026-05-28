@@ -19,7 +19,7 @@
 |           | git push                                                                      |
 |           | 6. Add a link in your README (this)                                           |
 |           |      See details in log1000.md                                                |
-|03/28/2026  Today I decided to cleanup my daily TODO list (see log1000.md)                 |
+|03/28/2026 |Today I decided to cleanup my daily TODO list (see log1000.md)                 |
 |10/31/2025 | My progress has slowed down on Coursera courses, due to concentration on Datacamp|
 |           | and other projects.  My goal is to complete FE course by the end of the year  |
 |           | then resume Cybersecurity specialization and take on Machine Learning         |
@@ -28,6 +28,19 @@
 |           |I will try to create PDF files for all the Microsoft Word document I create. The|
 |           |Word documents have the advantage of being able to display animated gifs!      | 
 |	        |My goal will be to start and complete all coursera courses and datacamp        |
+
+# Links to repositories associated with this 1000-days-of-code
+
+- [Original Daily Dairy - YOU ARE HERE](https://github.com/nyguerrillagirl/1000-days-of-code.git)
+- [OpenGL, C++ Windows Programming](https://github.com/nyguerrillagirl/1000doc-windows-programming.git)
+- [React Projects](https://github.com/nyguerrillagirl/1000doc-react-projects.git)
+- [Python Projects](https://github.com/nyguerrillagirl/1000doc-python-projects.git)
+- [IntelliJ Projects](https://github.com/nyguerrillagirl/1000doc-intellij-projects.git)
+- [HTML, CSS and JavaScript](https://github.com/nyguerrillagirl/1000doc-html-css-javascript-projects.git)
+- [Coursera Course Work](https://github.com/nyguerrillagirl/1000doc-coursera.git)
+- [Brainycode Website](https://github.com/nyguerrillagirl/1000doc-brainycode-website.git)
+- [Documents](https://github.com/nyguerrillagirl/1000doc-docs.git)
+
 
 # GOAL #1: Complete all current Coursera courses
 - Meta Frontend Developer 
@@ -48,38 +61,6 @@
     - Mostly book club reading [Engineering Book Club](https://community.engineeringbookclub.com/feed)
 - Non-tech Reading
 
-Under /src
-- /brainycode_website
-    - have not really started, collecting images to consider
-- coursera
-    - meta_front_end_developer
-        - course_principles_of_ux_ui_design
-    - developing_frontend_apps_with_react
-- docs
-    - 2D_GAME_ENGINE_USING_CPP
-    - CRVG PROJECT
-    - figma
-    - images
-    - OTHER
-        - CREATING_COPY_SCRIPT_NOTES.docx
-            - notes I took in creating a script to copy any changed files
-              from one location to this git area. This is primarily for
-              large files.
-        - SettingWindowsConsoleSize.pdf
-            - my adventure trying to get the window terminal to correctly size
-        - Tiled Map Editor.docx
-            - In progress - note on the tiled map editor program
-- figma_marathon
-- html_css_javascript_projects
-    - my progress on the snake game 
-    - [How to Build a Snake Game using Phaser.js](https://www.freecodecamp.org/news/how-to-build-a-snake-game-using-phaserjs/)
-- intellij_projects
-    - projects built with IntelliJ tool
-- python_projects
-    - datacamp work
-    - other projects
-- react_projects
-- udemy_projects
-- windows_console_projects (using Visual Studio 2022s)
+
 
 - See the document log1000.md for day-to-day progress on tasks and issue.
