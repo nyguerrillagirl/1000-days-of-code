@@ -1,35 +1,37 @@
-### Day 609: May 29, 2026 (Friday)
+### Day 610: May 30, 2026 (Saturday)
 - NOTE FOR THE DAY:
-  - REPO REORG. DAY #2
-    - Create local folder 1000-days-of-code-repos 
-      - clone all 1000doc-<REPO_NAME> there
-      - Create README files for all REPOS
-      - Work on a script to automatically update a repo that has been updated.
+  - REPO REORG. DAY #4
+    - Create Project-based DOCS folder to match other REPOs
+    - Working on updating repo's README.md
   - NO DATACAMP THIS WEEK!
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=3
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 3, 46-50
+    - On page 3, 51-55
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
     - FORMAT: XX_MON_YY_YOUR_COMMODORE
-    - Downloaded 46-50
-  - Investigating using Word or an Open-Source application
-    - How to create a magazine with Microsoft Word
+    - Downloaded 51-55
   - NYT
-    - [My Partner’s Irresponsible Mother Asked Him to Guarantee Her Lease. Help!](https://www.nytimes.com/2026/05/27/style/family-co-sign-lease-guarantor.html)
-    - [Michigan Governor Gretchen Whitmer Will Not Run for President in 2028](https://www.nytimes.com/2026/05/28/us/gretchen-whitmer-rules-out-2028.html)
-    - [Texas School Police Pepper-Sprayed, Tackled and Tasered Students](https://www.nytimes.com/interactive/2026/05/27/us/texas-schools-police-force-students-uvalde.html)
+    - [ICE Agent Charged in Minnesota Shooting Is Arrested in Texas](https://www.nytimes.com/2026/05/29/us/ice-agent-arrested-minnesota-shooting-immigrant.html)
+    - [After China Orders a Times Reporter to Leave the Country, the U.S. Reciprocates](https://www.nytimes.com/2026/05/29/us/politics/china-expels-times-reporter.html)
+    - [The Secret Campaign in China to Save a Woman Chained by the Neck](https://www.nytimes.com/interactive/2025/03/05/world/asia/xuzhou-china-chained-woman-incident-activists.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Trump calls a Situation Room meeting to decide on extending Iran ceasefire](https://www.washingtonpost.com/politics/2026/05/29/trump-calls-situation-room-meeting-decide-extending-iran-ceasefire/)
+    - [Over half of Great American State Fair performers drop out over politics, threats](https://www.washingtonpost.com/style/2026/05/29/great-american-fair-loses-performers-amid-divisive-backlash/)
+    - [He hasn’t been seen in Congress for months. Now Republicans are worried.](https://www.washingtonpost.com/politics/2026/05/29/republicans-fear-tom-kean-jrs-absence-could-cost-them-house-seat/)
   - ARTICLES/VIDEOS
-    - [Secret White House AI rift leaks after Trump’s sudden U-turn]()
-    - [We Accidentally Played Rage Forest On 2 PLAYER Map Size...](https://www.youtube.com/watch?v=vXp8o3zqOuo)
-    - []()
+    - [I Designed Airbnb’s Booking System Live. The Interviewer Stopped Me at Minute 12.](https://medium.com/beyond-localhost/i-designed-airbnbs-booking-system-live-the-interviewer-stopped-me-at-minute-12-1b3228fb6c50)
+    - [Ex-League Pro Beats Extreme AI Within 24 Hours of Learning AoE2](https://www.youtube.com/watch?v=0S-TcX5OSt8)
+    - [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
+    - [The Brutal Truth About Warlords V (And My Future As a Host)](https://www.youtube.com/watch?v=taEWG-TCBQw)
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
       - LEFT OFF at: 20:03    
+- PROJECT: JAVA
+  - Worked on example of Idempotent-Key Spring Boot example. Spent all morning working on "Airbnb" article
+  - Worked on SOAP+REST Spring Boot application
+  - Spent most of the day on these two applications. There are a number of differences between modern Spring Boot
+    and older versions. 
 - PROJECT: RETRO
   - Working on collecting all material in this category together and coming up with a plan
   - Processed/collected together 
