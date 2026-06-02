@@ -1,30 +1,28 @@
-### Day 612: June 1, 2026 (Monday)
+### Day 613: June 2, 2026 (Tuesday)
 - NOTE FOR THE DAY:
-  - REPO REORG. DAY #4
-    - Create Project-based DOCS folder to match other REPOs
-    - Working on updating repo's README.md
-  - NO DATACAMP THIS WEEK!
+  - GOAL FOR THE WEEK:
+    - Get DOS game Abuse to compile and run
+  - RESUME DATACAMP 
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=4
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 3, 56-60
+    - On page 3, 61-65
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
     - FORMAT: XX_MON_YY_YOUR_COMMODORE
-    - Downloaded 56-60
+    - Downloaded 61-65
   - NYT
-    - [Inside the Deal to Drop Trump’s $10 Billion Suit Against the I.R.S.](https://www.nytimes.com/2026/05/30/us/politics/trump-irs-lawsuit-deal.html)
-    - [Trump Urges Canceling Freedom 250 Concerts After Artists Drop Out](https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html)
-    - [Trump Sends Tougher Terms to Iran for Peace Framework, Officials Say](https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html)
+    - [How Long Can Marco Rubio Keep This Up?](https://www.nytimes.com/2026/06/01/opinion/marco-rubio-florida.html)
+    - [They Voted for Trump. Here’s How They Feel About High Gas Prices.](https://www.nytimes.com/2026/06/01/us/politics/trump-gas-prices-iran-war.html)
+    - [As Democrats Worry About Senate Race, Platner Attacks Reports About Sexual Messages](https://www.nytimes.com/2026/05/31/us/politics/booker-platner-democrats-senate-midterms.html)
   - WAPO
-    - [Trump’s Kennedy Center plans were blocked by a judge. What happens next?](https://www.washingtonpost.com/style/2026/05/30/trumps-kennedy-center-plans-were-blocked-by-judge-what-happens-next/)
-    - [Activating this nerve can relieve stress. Here’s how to do it.](https://www.washingtonpost.com/wellness/2026/05/31/what-know-about-vagus-nerve/)
+    - [‘Common Spence’ strikes a chord in Los Angeles](https://www.washingtonpost.com/opinions/2026/06/01/spencer-pratt-los-angeles-mayoral-race-heads-primary-day/)
+    - [Loan rules would gut aid for thousands of low-paying college majors](https://www.washingtonpost.com/education/2026/06/01/loan-rules-would-gut-aid-thousands-low-paying-college-majors/)
     - []()
   - ARTICLES/VIDEOS
-    - [90s side scrolling at it's cruelest - Abuse (1996) Retrospective](https://www.youtube.com/watch?v=C-TSUtSYNcI)
-    - [There’s Nothing Wrong With Wanting Men](https://www.nytimes.com/2026/05/31/opinion/heteropessimism-straight-dating-love.html)
-    - [Abuse, and the unfortunate story of its ambitious developer, Crack dot com](https://www.youtube.com/watch?v=jA_oLrc33LQ)
-    - [Wrong Woman Jailed 13 Days For Triple Fatal Crash](https://www.youtube.com/watch?v=6F_0iIaXGqA)
+    - []()
+    - []()
+    - []()
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
       - LEFT OFF at: 20:03    
 - PROJECT: EDUCATIVE - Grokking the System Design Interview
@@ -43,17 +41,24 @@
 - Data Camp [DS]
   - XP: 1250  (Practice) --> 2675  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
-    - Hypothesis test examples
-    - Data Wisdom
-    - Data Basics
+    - Statistical Thinking in Python (Part 2)
+    - Data Manipulation in SQL
+    - Your first database
+    - Introduction to Data
+    - Large Language Models (LLMs) Concepts
+    - Introduction to Databases in Python
   - Course: Introduction to Relational Databases in SQL
-    - Completed chapter 1/4 - Your First Database
-    - Working on chapter 2/4 - Better data quality with constraints
+     - Completed chapter 2/4 - Better data quality with constraints
   - Course: Developing Python Packages
-    - Working on chapter 1/4 - From Loose Code to Local Package
+    - Completed chapter 2/4 - Install Your Package from Anywhere
+    - Working on chapter 3/4 - Testing your package
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
+  - Course: Understanding Cloud Computing
+    - Working on chapter 1/3 - Introduction to Cloud Computing
+  - Course: Data Warehousing Concepts
+    - Working on chapter 1/4 - Data Warehousing Basics
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
     - review
