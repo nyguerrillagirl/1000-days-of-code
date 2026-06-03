@@ -1,4 +1,4 @@
-### Day 613: June 2, 2026 (Tuesday)
+### Day 614: June 3, 2026 (Wednesday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE WEEK:
     - Get DOS game Abuse to compile and run
@@ -12,12 +12,12 @@
     - FORMAT: XX_MON_YY_YOUR_COMMODORE
     - Downloaded 61-65
   - NYT
-    - [How Long Can Marco Rubio Keep This Up?](https://www.nytimes.com/2026/06/01/opinion/marco-rubio-florida.html)
-    - [They Voted for Trump. Here’s How They Feel About High Gas Prices.](https://www.nytimes.com/2026/06/01/us/politics/trump-gas-prices-iran-war.html)
-    - [As Democrats Worry About Senate Race, Platner Attacks Reports About Sexual Messages](https://www.nytimes.com/2026/05/31/us/politics/booker-platner-democrats-senate-midterms.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [‘Common Spence’ strikes a chord in Los Angeles](https://www.washingtonpost.com/opinions/2026/06/01/spencer-pratt-los-angeles-mayoral-race-heads-primary-day/)
-    - [Loan rules would gut aid for thousands of low-paying college majors](https://www.washingtonpost.com/education/2026/06/01/loan-rules-would-gut-aid-thousands-low-paying-college-majors/)
+    - [Do these words make you sound smarter? The bias is spreading.](https://www.washingtonpost.com/opinions/2026/06/02/what-ai-chatbots-bias-romance-languages-tell-us-about-humanity/)
+    - [Inside the lives of the last Jews in Berlin](https://www.washingtonpost.com/opinions/2026/06/02/jewish-hospital-review-inside-hitler-berlin/)
     - []()
   - ARTICLES/VIDEOS
     - []()
@@ -41,12 +41,12 @@
 - Data Camp [DS]
   - XP: 1250  (Practice) --> 2675  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
+    - Enforce data consistency with attribute constraints
+    - Install Your Package from Anywhere
+    - From Loose Code to Local Package
     - Statistical Thinking in Python (Part 2)
+    - Regular Expressions in Python
     - Data Manipulation in SQL
-    - Your first database
-    - Introduction to Data
-    - Large Language Models (LLMs) Concepts
-    - Introduction to Databases in Python
   - Course: Introduction to Relational Databases in SQL
      - Completed chapter 2/4 - Better data quality with constraints
   - Course: Developing Python Packages
