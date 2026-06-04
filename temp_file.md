@@ -1,23 +1,22 @@
-### Day 614: June 3, 2026 (Wednesday)
+### Day 615: June 4, 2026 (Thursday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE WEEK:
     - Get DOS game Abuse to compile and run
-  - RESUME DATACAMP 
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=4
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 3, 61-65
+    - On page 3, 66-70
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
     - FORMAT: XX_MON_YY_YOUR_COMMODORE
-    - Downloaded 61-65
+    - Downloaded 66-70
   - NYT
     - []()
     - []()
     - []()
   - WAPO
-    - [Do these words make you sound smarter? The bias is spreading.](https://www.washingtonpost.com/opinions/2026/06/02/what-ai-chatbots-bias-romance-languages-tell-us-about-humanity/)
-    - [Inside the lives of the last Jews in Berlin](https://www.washingtonpost.com/opinions/2026/06/02/jewish-hospital-review-inside-hitler-berlin/)
+    - []()
+    - []()
     - []()
   - ARTICLES/VIDEOS
     - []()
@@ -30,8 +29,7 @@
   - Worked on "System Design Interviews: A step by step guide"
   - Working on Designing a URL Shortening Service like TinyURL
 - PROJECT: JAVA
-  - Worked on example of Idempotent-Key Spring Boot example. Spent all morning working on "Airbnb" article
-  - Worked on SOAP+REST Spring Boot application
+  - Reviewing AI O'Reilly Course
   - Spent most of the day on these two applications. There are a number of differences between modern Spring Boot
     and older versions. 
 - PROJECT: RETRO
@@ -41,17 +39,18 @@
 - Data Camp [DS]
   - XP: 1250  (Practice) --> 2675  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
-    - Enforce data consistency with attribute constraints
-    - Install Your Package from Anywhere
-    - From Loose Code to Local Package
-    - Statistical Thinking in Python (Part 2)
-    - Regular Expressions in Python
-    - Data Manipulation in SQL
+    - Data Warehouse Basics
+    - Introduction to Cloud Computing
+    - Analyzing Police Activity with pandas
+    - Introduction to Shell
+    - Web Scraping in Python
+    - Foundations of Probability in Python
   - Course: Introduction to Relational Databases in SQL
-     - Completed chapter 2/4 - Better data quality with constraints
+     - Working on chapter 3/4 - Better data quality with constraints
   - Course: Developing Python Packages
-    - Completed chapter 2/4 - Install Your Package from Anywhere
-    - Working on chapter 3/4 - Testing your package
+    - Completed chapter 3/4 - Testing your package
+    - Completed chapter 4/4 - Faster package development with templates
+    - COMPLETED COURSE!! 
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -59,6 +58,8 @@
     - Working on chapter 1/3 - Introduction to Cloud Computing
   - Course: Data Warehousing Concepts
     - Working on chapter 1/4 - Data Warehousing Basics
+  - Course: Hypothesis Testing in Python
+    - Working on chapter 1/4 - Hypothesis Testing Fundamentals
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
     - review
@@ -106,6 +107,10 @@
 - PROJECT: React
   - Working on O'Reilly Course - The Redux Official Course Tutorial
     - Working on chapter 6/10 - Social Media App with Redux Example
+  - PROJECT: ZENVA
+  - I was considering purchasing a Unreal package 
+  - Worked on Intro to Bite-Sized Courses (Godot)
+    - Completed 4/17 - Introduction
 - Books
  - Tech Reading
    - Manning Publishing
