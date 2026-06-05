@@ -1,33 +1,37 @@
-### Day 615: June 4, 2026 (Thursday)
+### Day 616: June 5, 2026 (Friday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE WEEK:
     - Get DOS game Abuse to compile and run
+  - NOSQL Databases to explore:
+    - MongoDB
+    - Redis
+    - Cassandra
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=4
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 3, 66-70
+    - On page 3, 71-75
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
     - FORMAT: XX_MON_YY_YOUR_COMMODORE
-    - Downloaded 66-70
+    - Downloaded 71-75
   - NYT
-    - []()
-    - []()
-    - []()
+    - [John Bolton Reaches Deal to Plead Guilty Over Classified Information](https://www.nytimes.com/2026/06/04/us/politics/john-bolton-plea-deal.html)
+    - [America’s Farms Depend More Than Ever on a Troubled Visa Program](https://www.nytimes.com/2026/06/04/business/economy/farms-h2a-visas-migrant-workers.html)
+    - [Israel’s Ultra-Orthodox Riot Against Military Draft Outside Judge’s Home](https://www.nytimes.com/2026/06/04/world/middleeast/israel-orthodox-riot-military-draft-judge.html)
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
+    - [CBS chaos will lead to 60 Minutes suffering a slow death: media expert]()
     - []()
     - []()
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
       - LEFT OFF at: 20:03    
 - PROJECT: EDUCATIVE - Grokking the System Design Interview
   - https://www.educative.io/collection/lta/5668639101419520/5649050225344512
-  - Worked on "System Design Interviews: A step by step guide"
-  - Working on Designing a URL Shortening Service like TinyURL
+  - Completed 1/17 - "System Design Interviews: A step by step guide"
+  - Working 2/17 0 "Designing a URL Shortening Service like TinyURL"
 - PROJECT: JAVA
   - Reviewing AI O'Reilly Course
   - Spent most of the day on these two applications. There are a number of differences between modern Spring Boot
@@ -39,23 +43,21 @@
 - Data Camp [DS]
   - XP: 1250  (Practice) --> 2675  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
-    - Data Warehouse Basics
+    - Developing Python Packages
     - Introduction to Cloud Computing
-    - Analyzing Police Activity with pandas
-    - Introduction to Shell
-    - Web Scraping in Python
-    - Foundations of Probability in Python
+    - Introduction to Data Visualization with Matplotlib
+    - Intermediate SQL
+    - AI Ethics
+    - Reshaping Data with pandas
   - Course: Introduction to Relational Databases in SQL
-     - Working on chapter 3/4 - Better data quality with constraints
-  - Course: Developing Python Packages
-    - Completed chapter 3/4 - Testing your package
-    - Completed chapter 4/4 - Faster package development with templates
-    - COMPLETED COURSE!! 
+     - Completed chapter 3/4 - Better data quality with constraints
+     - Working on chapter 4/4 - An overview of providers
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Understanding Cloud Computing
-    - Working on chapter 1/3 - Introduction to Cloud Computing
+    - Completed chapter 2/3 - Cloud Deployment Models
+    - Working on chapter 3/3 - An Overview of Providers
   - Course: Data Warehousing Concepts
     - Working on chapter 1/4 - Data Warehousing Basics
   - Course: Hypothesis Testing in Python
