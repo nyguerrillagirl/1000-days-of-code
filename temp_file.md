@@ -1,4 +1,4 @@
-### Day 616: June 5, 2026 (Friday)
+### Day 617: June 6, 2026 (Saturday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE WEEK:
     - Get DOS game Abuse to compile and run
@@ -15,15 +15,15 @@
     - FORMAT: XX_MON_YY_YOUR_COMMODORE
     - Downloaded 71-75
   - NYT
-    - [John Bolton Reaches Deal to Plead Guilty Over Classified Information](https://www.nytimes.com/2026/06/04/us/politics/john-bolton-plea-deal.html)
-    - [America’s Farms Depend More Than Ever on a Troubled Visa Program](https://www.nytimes.com/2026/06/04/business/economy/farms-h2a-visas-migrant-workers.html)
-    - [Israel’s Ultra-Orthodox Riot Against Military Draft Outside Judge’s Home](https://www.nytimes.com/2026/06/04/world/middleeast/israel-orthodox-riot-military-draft-judge.html)
+    - []()
+    - []()
+    - []()
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [CBS chaos will lead to 60 Minutes suffering a slow death: media expert]()
+    - [Drunk pilot was caught before 108 passengers took off]()
     - []()
     - []()
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
@@ -43,15 +43,16 @@
 - Data Camp [DS]
   - XP: 1250  (Practice) --> 2675  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
-    - Developing Python Packages
+    - Cloud Deployment
+    - Uniquely identify records with key contraints
     - Introduction to Cloud Computing
-    - Introduction to Data Visualization with Matplotlib
-    - Intermediate SQL
-    - AI Ethics
-    - Reshaping Data with pandas
+    - Developing Python Packages
+    - Foundations of Probability in Python
+    - Software Engineering Principles in Python
   - Course: Introduction to Relational Databases in SQL
      - Completed chapter 3/4 - Better data quality with constraints
-     - Working on chapter 4/4 - An overview of providers
+     - Completed chapter 4/4 - Model 1:N relationships with foreign keys
+     - Completed Course!!!
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
