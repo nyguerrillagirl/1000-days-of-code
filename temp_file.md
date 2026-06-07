@@ -1,11 +1,7 @@
-### Day 617: June 6, 2026 (Saturday)
+### Day 618: June 7, 2026 (Sunday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE WEEK:
     - Get DOS game Abuse to compile and run
-  - NOSQL Databases to explore:
-    - MongoDB
-    - Redis
-    - Cassandra
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=4
     - FORMAT: 0xx_LOADSTAR_64
@@ -24,8 +20,8 @@
     - []()
   - ARTICLES/VIDEOS
     - [Drunk pilot was caught before 108 passengers took off]()
-    - []()
-    - []()
+    - [Holy Smokes—Nancy Pelosi Can Still Throw a Punch!](https://www.youtube.com/watch?v=Cz2qcFgiy8c)
+    - [WW2 Historian James Holland Explains Why The Nazis Were Doomed](https://www.youtube.com/watch?v=NUnEOoQtgzI)
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
       - LEFT OFF at: 20:03    
 - PROJECT: EDUCATIVE - Grokking the System Design Interview
@@ -41,24 +37,21 @@
   - Processed/collected together 
   - Working on: Making a PLAN
 - Data Camp [DS]
-  - XP: 1250  (Practice) --> 2675  [Peta - Last week: 18,575 XP (9th in Peta League)]
+  - XP: 1625  (Practice) --> 2675  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
+    - Introduction to Relational Databases in SQL
     - Cloud Deployment
-    - Uniquely identify records with key contraints
     - Introduction to Cloud Computing
     - Developing Python Packages
-    - Foundations of Probability in Python
-    - Software Engineering Principles in Python
-  - Course: Introduction to Relational Databases in SQL
-     - Completed chapter 3/4 - Better data quality with constraints
-     - Completed chapter 4/4 - Model 1:N relationships with foreign keys
-     - Completed Course!!!
+    - Object-Oriented Programming in Python
+    - Working with Dates and Times in Python
+    - Introduction to Testing in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Understanding Cloud Computing
-    - Completed chapter 2/3 - Cloud Deployment Models
-    - Working on chapter 3/3 - An Overview of Providers
+    - Completed chapter 3/3 - An Overview of Providers
+    - Completed Course
   - Course: Data Warehousing Concepts
     - Working on chapter 1/4 - Data Warehousing Basics
   - Course: Hypothesis Testing in Python
@@ -146,9 +139,8 @@
           - In reading this chapter I believe that Hitler truly believed the things he expounded.
     - In the Garden of Beasts, Erik Larsen
       - Part V - Disquiet
-        - Working on Chapter 28 - January 1934
-          - xx
-        - Current page: 305    
+        - Working on Chapter 30 - Premonition
+        - Current page: 319    
     - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
