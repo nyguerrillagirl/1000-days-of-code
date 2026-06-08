@@ -1,15 +1,18 @@
-### Day 618: June 7, 2026 (Sunday)
+### Day 619: June 8, 2026 (Monday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE WEEK:
-    - Get DOS game Abuse to compile and run
+    - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
+      how to use CMake. That is pretty straight forward but given that I don't know
+      how to read a CMakeLists.txt file to make sure I have everything set up for processing.
+      Another issue is that I don't know what version of SDL2 I have on my machine. 
   - Download LOADSTAR Magazines (250 disks)
-    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=4
+    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=5
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 3, 71-75
+    - On page 3, 76-80
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
     - FORMAT: XX_MON_YY_YOUR_COMMODORE
-    - Downloaded 71-75
+    - Downloaded 76-80
   - NYT
     - []()
     - []()
@@ -19,9 +22,9 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Drunk pilot was caught before 108 passengers took off]()
-    - [Holy Smokes—Nancy Pelosi Can Still Throw a Punch!](https://www.youtube.com/watch?v=Cz2qcFgiy8c)
-    - [WW2 Historian James Holland Explains Why The Nazis Were Doomed](https://www.youtube.com/watch?v=NUnEOoQtgzI)
+    - [From Yale to homeless in 30 minutes... one accusation changed it all]()
+    - [Bill Maher issues blunt response to Scott Pelley's '60 Minutes' firing]()
+    - [Trump humiliated as his public plea quickly falls flat]()
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
       - LEFT OFF at: 20:03    
 - PROJECT: EDUCATIVE - Grokking the System Design Interview
@@ -39,13 +42,9 @@
 - Data Camp [DS]
   - XP: 1625  (Practice) --> 2675  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
-    - Introduction to Relational Databases in SQL
-    - Cloud Deployment
-    - Introduction to Cloud Computing
-    - Developing Python Packages
-    - Object-Oriented Programming in Python
-    - Working with Dates and Times in Python
-    - Introduction to Testing in Python
+    - Introduction to R
+    - Dealing with Missing Data in Python
+    - Writing Functions in Python    
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
