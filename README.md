@@ -32,6 +32,7 @@
 # Links to repositories associated with this 1000-days-of-code
 
 - [Original Daily Dairy - YOU ARE HERE](https://github.com/nyguerrillagirl/1000-days-of-code.git)
+    - See: log1000.md for daily log
 - [OpenGL, C++ Windows Programming](https://github.com/nyguerrillagirl/1000doc-windows-programming.git)
 - [React Projects](https://github.com/nyguerrillagirl/1000doc-react-projects.git)
 - [Python Projects](https://github.com/nyguerrillagirl/1000doc-python-projects.git)

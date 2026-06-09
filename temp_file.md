@@ -1,10 +1,15 @@
-### Day 619: June 8, 2026 (Monday)
+### Day 620: June 9, 2026 (Tuesday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE WEEK:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
       how to use CMake. That is pretty straight forward but given that I don't know
       how to read a CMakeLists.txt file to make sure I have everything set up for processing.
       Another issue is that I don't know what version of SDL2 I have on my machine. 
+      1 - Review version of OpenGL [DONE]
+      2 - Review version of SDL (or set it up)
+      3 - Notes located at: C:\1000-days-of-code-repos\1000doc-docs\repo_docs\1000doc-dos-games\abuse
+      4 - Book Reading Location: C:\Users\lorra\OneDrive\Documents\75_2026_B\PROJECTS\08_RETRO\BOOKS_TO_READ 
+        - See PROJECT: RETRO
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=5
     - FORMAT: 0xx_LOADSTAR_64
@@ -14,17 +19,23 @@
     - FORMAT: XX_MON_YY_YOUR_COMMODORE
     - Downloaded 76-80
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Best and Worst Moments From the 2026 Tony Awards](https://www.nytimes.com/2026/06/08/theater/best-worst-tony-awards.html)
+    - [These Trump Voters Are Starting to Sound Like Skeptics](https://www.nytimes.com/2026/06/05/us/politics/trump-voters-iran-economy.html)
+    - [Ken Paxton’s Former Lawyer Endorses His Democratic Opponent](https://www.nytimes.com/2026/06/08/us/paxton-lawyer-endorse-talarico.html)
   - WAPO
-    - []()
-    - []()
+    - [Love coffee? Have the last cup at this time for a better night’s sleep.](https://www.washingtonpost.com/wellness/2026/06/08/love-coffee-have-last-cup-this-time-better-nights-sleep/)
+    - [As El Niño develops, this city is seeing beach weather — during winter](https://www.washingtonpost.com/weather/2026/06/08/el-nio-develops-this-city-is-seeing-beach-weather-during-winter/)
     - []()
   - ARTICLES/VIDEOS
     - [From Yale to homeless in 30 minutes... one accusation changed it all]()
     - [Bill Maher issues blunt response to Scott Pelley's '60 Minutes' firing]()
     - [Trump humiliated as his public plea quickly falls flat]()
+    - [A $100 billion city built for 1,000,000 people - only 9,000 showed up]()
+    - [England vs. Spain | Women's World Cup 2027 Qualifier](https://www.youtube.com/watch?v=hEeP3Tak7ME)
+    - [The Truth About the AoE2 Smurfing Epidemic](https://www.youtube.com/watch?v=jlHAFll7bTg)
+    - [The Overlooked D-Day Story No Film Has Ever Told—Until Now](https://www.youtube.com/watch?v=97AepIrhfrk)
+    - [Forget Zune. Forget Vista. Copilot Is Microsoft's Biggest Failure](https://www.youtube.com/watch?v=ER0jRB3nhK4)
+    - [How to Beat the Extreme AI](https://www.youtube.com/watch?v=nFcmLSbLujU)
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
       - LEFT OFF at: 20:03    
 - PROJECT: EDUCATIVE - Grokking the System Design Interview
@@ -42,19 +53,23 @@
 - Data Camp [DS]
   - XP: 1625  (Practice) --> 2675  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
-    - Introduction to R
-    - Dealing with Missing Data in Python
-    - Writing Functions in Python    
+    - Working with Categorical Data in Python
+    - Joining Data in SQL
+    - Introduction to Importing Data in R
+    - Understanding Cloud Computing
+    - Introduction to Relational Databases in SQL
+    - Developing Python Packages
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
-  - Course: Understanding Cloud Computing
-    - Completed chapter 3/3 - An Overview of Providers
-    - Completed Course
   - Course: Data Warehousing Concepts
     - Working on chapter 1/4 - Data Warehousing Basics
   - Course: Hypothesis Testing in Python
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
+  - Course: Database Design
+    - Working on chapter 1/4 - Processing, Storing, and Organizing Data
+  - Course: Communicating Data Insights
+    - Working on chapter 1/3 - Communicating Information
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
     - review
@@ -107,30 +122,34 @@
   - Worked on Intro to Bite-Sized Courses (Godot)
     - Completed 4/17 - Introduction
 - Books
- - Tech Reading
-   - Manning Publishing
-    - Statistics Every Programmer Needs
-      - Working on Chapter 2/24 - Exploring probability and counting
-      - pages 16-40 
-      - current page: 16
-  - Bayesian Statistics The Fun Way
-    - PART I: Introduction to Probability
-      - Working on chapter 4/18 - Creating a Binomial Probability Distribution
-      - Current page: 33
-      - Answers page: 232
-  - React, The Comprehensive Guide 
-    - Finally resuming my reading
-    - Working chapter 9/21 - Securing a React Application through Testing
-      - start page: 422  end page: 461
-    - GOAL: The goal (to get a C and above) is to complete 10 pages a day
-      - This will allow me to complete the book in 90 days from today
-    - npm install -D sass
-  - Wolf/Doom Reading
-    - The goal is to complete all books in 100-150 days
-    - Elementary Geometry for College Students, 7e
-      - Working on chapter 0/11 - Preliminary Concepts
-        - pages: 1-31
-        - current page: 1
+  - Tech Reading
+    - Professional CMake
+      - Part I: Fundamentals
+        - Reading Chapter 1/28 - Introduction
+        - current page:
+    - Manning Publishing
+      - Statistics Every Programmer Needs
+        - Working on Chapter 2/24 - Exploring probability and counting
+        - pages 16-40 
+        - current page: 16
+    - Bayesian Statistics The Fun Way
+      - PART I: Introduction to Probability
+        - Working on chapter 4/18 - Creating a Binomial Probability Distribution
+        - Current page: 33
+        - Answers page: 232
+    - React, The Comprehensive Guide 
+      - Finally resuming my reading
+      - Working chapter 9/21 - Securing a React Application through Testing
+        - start page: 422  end page: 461
+      - GOAL: The goal (to get a C and above) is to complete 10 pages a day
+        - This will allow me to complete the book in 90 days from today
+      - npm install -D sass
+    - Wolf/Doom Reading
+      - The goal is to complete all books in 100-150 days
+      - Elementary Geometry for College Students, 7e
+        - Working on chapter 0/11 - Preliminary Concepts
+          - pages: 1-31
+          - current page: 1
   - Non-Tech Reading
     - Hitler's People, The Faces of the Third Reich, Richard J. Evans
       - Part I: The Leader
@@ -138,8 +157,10 @@
           - In reading this chapter I believe that Hitler truly believed the things he expounded.
     - In the Garden of Beasts, Erik Larsen
       - Part V - Disquiet
-        - Working on Chapter 30 - Premonition
-        - Current page: 319    
+        - Working on Chapter 38 - Humbugged
+          - A rather unflattering (for Dodd) article details Dodd's circumstances in April 1934 in Fortune magazine. 
+            It made Dodd look poor and stingy.
+      - current page: 378 
     - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
