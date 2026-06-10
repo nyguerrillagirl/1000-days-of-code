@@ -1,4 +1,4 @@
-### Day 620: June 9, 2026 (Tuesday)
+### Day 621: June 10, 2026 (Wednesday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE WEEK:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
@@ -6,7 +6,7 @@
       how to read a CMakeLists.txt file to make sure I have everything set up for processing.
       Another issue is that I don't know what version of SDL2 I have on my machine. 
       1 - Review version of OpenGL [DONE]
-      2 - Review version of SDL (or set it up)
+      2 - Review version of SDL (or set it up) [working on this item today]
       3 - Notes located at: C:\1000-days-of-code-repos\1000doc-docs\repo_docs\1000doc-dos-games\abuse
       4 - Book Reading Location: C:\Users\lorra\OneDrive\Documents\75_2026_B\PROJECTS\08_RETRO\BOOKS_TO_READ 
         - See PROJECT: RETRO
@@ -19,23 +19,17 @@
     - FORMAT: XX_MON_YY_YOUR_COMMODORE
     - Downloaded 76-80
   - NYT
-    - [Best and Worst Moments From the 2026 Tony Awards](https://www.nytimes.com/2026/06/08/theater/best-worst-tony-awards.html)
-    - [These Trump Voters Are Starting to Sound Like Skeptics](https://www.nytimes.com/2026/06/05/us/politics/trump-voters-iran-economy.html)
-    - [Ken Paxton’s Former Lawyer Endorses His Democratic Opponent](https://www.nytimes.com/2026/06/08/us/paxton-lawyer-endorse-talarico.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Love coffee? Have the last cup at this time for a better night’s sleep.](https://www.washingtonpost.com/wellness/2026/06/08/love-coffee-have-last-cup-this-time-better-nights-sleep/)
-    - [As El Niño develops, this city is seeing beach weather — during winter](https://www.washingtonpost.com/weather/2026/06/08/el-nio-develops-this-city-is-seeing-beach-weather-during-winter/)
+    - []()
+    - []()
     - []()
   - ARTICLES/VIDEOS
-    - [From Yale to homeless in 30 minutes... one accusation changed it all]()
-    - [Bill Maher issues blunt response to Scott Pelley's '60 Minutes' firing]()
-    - [Trump humiliated as his public plea quickly falls flat]()
-    - [A $100 billion city built for 1,000,000 people - only 9,000 showed up]()
-    - [England vs. Spain | Women's World Cup 2027 Qualifier](https://www.youtube.com/watch?v=hEeP3Tak7ME)
-    - [The Truth About the AoE2 Smurfing Epidemic](https://www.youtube.com/watch?v=jlHAFll7bTg)
-    - [The Overlooked D-Day Story No Film Has Ever Told—Until Now](https://www.youtube.com/watch?v=97AepIrhfrk)
-    - [Forget Zune. Forget Vista. Copilot Is Microsoft's Biggest Failure](https://www.youtube.com/watch?v=ER0jRB3nhK4)
-    - [How to Beat the Extreme AI](https://www.youtube.com/watch?v=nFcmLSbLujU)
+    - [Trump's MANIACAL Meltdown Is A Sign w/ Rick WIlson](https://www.youtube.com/watch?v=2Sjf4d6pgPs)
+    - [What SS Soldiers Said After Fighting the 101st Airborne — Their Own Officers Tried to Bury It](https://www.youtube.com/watch?v=4vNMFqA29j0)
+    - []()
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
       - LEFT OFF at: 20:03    
 - PROJECT: EDUCATIVE - Grokking the System Design Interview
@@ -51,14 +45,14 @@
   - Processed/collected together 
   - Working on: Making a PLAN
 - Data Camp [DS]
-  - XP: 1625  (Practice) --> 2675  [Peta - Last week: 18,575 XP (9th in Peta League)]
+  - XP: 1500  (Practice) --> 1950  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
-    - Working with Categorical Data in Python
-    - Joining Data in SQL
-    - Introduction to Importing Data in R
-    - Understanding Cloud Computing
-    - Introduction to Relational Databases in SQL
-    - Developing Python Packages
+    - Regular Expressions in Python
+    - Introduction to SQL
+    - Sampling in Python
+    - Introduction to NumPy
+    - Intermediate Python
+    - Statistical Thinking in Python (Part 1)
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -156,11 +150,9 @@
         - Working on chapter 1: The Dictator: Adolf Hitler
           - In reading this chapter I believe that Hitler truly believed the things he expounded.
     - In the Garden of Beasts, Erik Larsen
-      - Part V - Disquiet
-        - Working on Chapter 38 - Humbugged
-          - A rather unflattering (for Dodd) article details Dodd's circumstances in April 1934 in Fortune magazine. 
-            It made Dodd look poor and stingy.
-      - current page: 378 
+      - Part VI - Berlin at Dusk
+        - Working on Chapter 39 - Dangerous Dining
+      - current page: 385
     - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
