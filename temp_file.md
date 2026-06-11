@@ -1,4 +1,4 @@
-### Day 621: June 10, 2026 (Wednesday)
+### Day 622: June 11, 2026 (Thursday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE WEEK:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
@@ -7,13 +7,16 @@
       Another issue is that I don't know what version of SDL2 I have on my machine. 
       1 - Review version of OpenGL [DONE]
       2 - Review version of SDL (or set it up) [working on this item today]
+        - Got minGW version working on Code::Blocks
+        - Work on improving my notes for Code::Blocks
+        - Work on Visual Studio version
       3 - Notes located at: C:\1000-days-of-code-repos\1000doc-docs\repo_docs\1000doc-dos-games\abuse
       4 - Book Reading Location: C:\Users\lorra\OneDrive\Documents\75_2026_B\PROJECTS\08_RETRO\BOOKS_TO_READ 
         - See PROJECT: RETRO
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=5
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 3, 76-80
+    - On page 3, 81-85
   - Download Your Commodore 
     - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
     - FORMAT: XX_MON_YY_YOUR_COMMODORE
@@ -27,8 +30,8 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Trump's MANIACAL Meltdown Is A Sign w/ Rick WIlson](https://www.youtube.com/watch?v=2Sjf4d6pgPs)
-    - [What SS Soldiers Said After Fighting the 101st Airborne — Their Own Officers Tried to Bury It](https://www.youtube.com/watch?v=4vNMFqA29j0)
+    - [USA vs Brazil Gets OUT OF CONTROL!](https://www.youtube.com/watch?v=X0CmKp1XSv8)
+    - [Judge Boyd Faces “STUBBORN DAD” Who Fights the Lawyer and Makes It Worse With a Satisfying Ending](https://www.youtube.com/watch?v=9G9Sg38viEI)
     - []()
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
       - LEFT OFF at: 20:03    
