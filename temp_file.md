@@ -1,4 +1,4 @@
-### Day 622: June 11, 2026 (Thursday)
+### Day 623: June 12, 2026 (Friday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE WEEK:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
@@ -17,21 +17,17 @@
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=5
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
-  - Download Your Commodore 
-    - https://archive.org/details/YourCommodore80Jun91/YourCommodore/YourCommodore00-Jul84/
-    - FORMAT: XX_MON_YY_YOUR_COMMODORE
-    - Downloaded 76-80
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Is There Nothing Voters Won’t Forgive?](https://www.nytimes.com/2026/06/11/opinion/platner-maine-trump-character.html)
+    - [Trump Previews Fall Strategy With Baseless Claims of California Vote Fraud](https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html?searchResultPosition=2)
+    - [‘All Men Are Created Equal’? Not Everyone Agrees.](https://www.nytimes.com/2026/06/11/opinion/inequality-musk-thiel-carvalho-billionaires.html)
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [USA vs Brazil Gets OUT OF CONTROL!](https://www.youtube.com/watch?v=X0CmKp1XSv8)
-    - [Judge Boyd Faces “STUBBORN DAD” Who Fights the Lawyer and Makes It Worse With a Satisfying Ending](https://www.youtube.com/watch?v=9G9Sg38viEI)
+    - []()
+    - []()
     - []()
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
       - LEFT OFF at: 20:03    
@@ -50,12 +46,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1950  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
-    - Regular Expressions in Python
-    - Introduction to SQL
-    - Sampling in Python
-    - Introduction to NumPy
-    - Intermediate Python
-    - Statistical Thinking in Python (Part 1)
+    - Processing, Storing, and Organizing Data
+    - Communicating Information
+    - Data Warehouse Basics
+    - Introduction to Relational Databases in SQL
+    - Developing Python Packages
+    - Intermediate SQL
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -64,9 +60,9 @@
   - Course: Hypothesis Testing in Python
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
   - Course: Database Design
-    - Working on chapter 1/4 - Processing, Storing, and Organizing Data
+    - Working on chapter 2/4 - Processing, Storing, and Organizing Data
   - Course: Communicating Data Insights
-    - Working on chapter 1/3 - Communicating Information
+    - Working on chapter 2/3 - Communicating Information
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
     - review
