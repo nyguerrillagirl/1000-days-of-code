@@ -1,4 +1,4 @@
-### Day 623: June 12, 2026 (Friday)
+### Day 624: June 13, 2026 (Saturday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE WEEK:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
@@ -7,9 +7,9 @@
       Another issue is that I don't know what version of SDL2 I have on my machine. 
       1 - Review version of OpenGL [DONE]
       2 - Review version of SDL (or set it up) [working on this item today]
-        - Got minGW version working on Code::Blocks
-        - Work on improving my notes for Code::Blocks
-        - Work on Visual Studio version
+        - Got minGW version working on Code::Blocks [DONE]
+        - Work on improving my notes for Code::Blocks [DONE]
+        - Work on Visual Studio version [DONE]
       3 - Notes located at: C:\1000-days-of-code-repos\1000doc-docs\repo_docs\1000doc-dos-games\abuse
       4 - Book Reading Location: C:\Users\lorra\OneDrive\Documents\75_2026_B\PROJECTS\08_RETRO\BOOKS_TO_READ 
         - See PROJECT: RETRO
@@ -18,9 +18,9 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - [Is There Nothing Voters Won’t Forgive?](https://www.nytimes.com/2026/06/11/opinion/platner-maine-trump-character.html)
-    - [Trump Previews Fall Strategy With Baseless Claims of California Vote Fraud](https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html?searchResultPosition=2)
-    - [‘All Men Are Created Equal’? Not Everyone Agrees.](https://www.nytimes.com/2026/06/11/opinion/inequality-musk-thiel-carvalho-billionaires.html)
+    - []()
+    - []()
+    - []()
   - WAPO
     - []()
     - []()
@@ -46,12 +46,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1950  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
-    - Processing, Storing, and Organizing Data
     - Communicating Information
-    - Data Warehouse Basics
+    - Statistical Thinking in Python (Part 2)
+    - Introduction to Data Visualization with Plotly in Python
     - Introduction to Relational Databases in SQL
-    - Developing Python Packages
-    - Intermediate SQL
+    - Foundations of Probability in Python
+    - Reshaping Data with pandas
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
