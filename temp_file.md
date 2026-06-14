@@ -1,18 +1,12 @@
-### Day 624: June 13, 2026 (Saturday)
+### Day 625: June 14, 2026 (Sunday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE WEEK:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
       how to use CMake. That is pretty straight forward but given that I don't know
       how to read a CMakeLists.txt file to make sure I have everything set up for processing.
       Another issue is that I don't know what version of SDL2 I have on my machine. 
-      1 - Review version of OpenGL [DONE]
-      2 - Review version of SDL (or set it up) [working on this item today]
-        - Got minGW version working on Code::Blocks [DONE]
-        - Work on improving my notes for Code::Blocks [DONE]
-        - Work on Visual Studio version [DONE]
-      3 - Notes located at: C:\1000-days-of-code-repos\1000doc-docs\repo_docs\1000doc-dos-games\abuse
-      4 - Book Reading Location: C:\Users\lorra\OneDrive\Documents\75_2026_B\PROJECTS\08_RETRO\BOOKS_TO_READ 
-        - See PROJECT: RETRO
+      1 - Automate moving the files in place under DEBUG [DONE]
+      2 - Start working Abuse version on Visual Studio 2022
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=5
     - FORMAT: 0xx_LOADSTAR_64
@@ -26,7 +20,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
+    - [Today’s Really Big Stories | Explainer](https://www.youtube.com/watch?v=ayvJPR2x1bE)
     - []()
     - []()
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
@@ -47,11 +41,11 @@
   - XP: 1500  (Practice) --> 1950  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
     - Communicating Information
-    - Statistical Thinking in Python (Part 2)
-    - Introduction to Data Visualization with Plotly in Python
-    - Introduction to Relational Databases in SQL
-    - Foundations of Probability in Python
-    - Reshaping Data with pandas
+    - Writing Efficient Python Code
+    - Intermediate R
+    - Developing Python Packages
+    - Statistical Thinking in Python (Part 1)
+    - Dealing with Missing Data in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
