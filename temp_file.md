@@ -1,6 +1,6 @@
-### Day 625: June 14, 2026 (Sunday)
+### Day 626: June 15, 2026 (Monday)
 - NOTE FOR THE DAY:
-  - GOAL FOR THE WEEK:
+  - GOAL FOR THE MONTH:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
       how to use CMake. That is pretty straight forward but given that I don't know
       how to read a CMakeLists.txt file to make sure I have everything set up for processing.
@@ -12,15 +12,15 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - []()
+    - [Deadlocked Wars: How Major Powers Misread the Regions They Attacked](https://www.nytimes.com/2026/06/14/world/europe/us-iran-rusisa-ukraine.html)
     - []()
     - []()
   - WAPO
-    - []()
-    - []()
+    - [Pay $50,000 to do her job? This nurse practitioner is suing.](https://www.washingtonpost.com/opinions/2026/06/10/licensing-rules-cost-nurse-practitioners-thousands/)
+    - [How this pyramid scheme scammed 10,000 victims — and what to look out for](https://www.washingtonpost.com/business/2026/06/13/blessings-no-time-stars-sentenced-40-years-each-pyramid-scheme/)
     - []()
   - ARTICLES/VIDEOS
-    - [Today’s Really Big Stories | Explainer](https://www.youtube.com/watch?v=ayvJPR2x1bE)
+    - []()
     - []()
     - []()
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
@@ -38,14 +38,14 @@
   - Processed/collected together 
   - Working on: Making a PLAN
 - Data Camp [DS]
-  - XP: 1500  (Practice) --> 1950  [Peta - Last week: 18,575 XP (9th in Peta League)]
+  - XP: 1500  (Practice) --> 1500  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
     - Communicating Information
-    - Writing Efficient Python Code
-    - Intermediate R
-    - Developing Python Packages
-    - Statistical Thinking in Python (Part 1)
-    - Dealing with Missing Data in Python
+    - Understanding Data Visualization
+    - Introduction to Importing Data in Python
+    - Python Toolbox
+    - Introduction to Statistics
+    - Introduction to NumPy
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -142,10 +142,11 @@
       - Part I: The Leader
         - Working on chapter 1: The Dictator: Adolf Hitler
           - In reading this chapter I believe that Hitler truly believed the things he expounded.
+  - Non-Tech Reading
     - In the Garden of Beasts, Erik Larsen
       - Part VI - Berlin at Dusk
-        - Working on Chapter 39 - Dangerous Dining
-      - current page: 385
+        - Working on Chapter 43 - A Pygmy Speaks
+      - current page: 414
     - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
@@ -153,3 +154,4 @@
        - Working on chapter 11 - Business Decisions (page: 139)
 - GRADE: 
   - NA
+
