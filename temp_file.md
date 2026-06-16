@@ -1,4 +1,4 @@
-### Day 626: June 15, 2026 (Monday)
+### Day 627: June 16, 2026 (Tuesday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE MONTH:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
@@ -12,15 +12,16 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - [Deadlocked Wars: How Major Powers Misread the Regions They Attacked](https://www.nytimes.com/2026/06/14/world/europe/us-iran-rusisa-ukraine.html)
-    - []()
-    - []()
+    - [Richard Pryor’s Daughter Grapples With a Flawed Father and a Hateful Word](https://www.nytimes.com/2026/06/13/books/review/something-we-said-elizabeth-stordeur-pryor.html)
+    - [How a Book Editor and Jazz Musician Lives on $55,000 in West Harlem](https://www.nytimes.com/interactive/2026/06/15/nyregion/nyc-budgeting-affordability-pucillo.html)
+    - [Frustrated by Courts, Trump Weighed Suspending a Constitutional Right](https://www.nytimes.com/2026/06/15/us/politics/trump-scharf-habeas-corpus-insurrection-act.html)
   - WAPO
-    - [Pay $50,000 to do her job? This nurse practitioner is suing.](https://www.washingtonpost.com/opinions/2026/06/10/licensing-rules-cost-nurse-practitioners-thousands/)
-    - [How this pyramid scheme scammed 10,000 victims — and what to look out for](https://www.washingtonpost.com/business/2026/06/13/blessings-no-time-stars-sentenced-40-years-each-pyramid-scheme/)
-    - []()
+    - [Trump sought to break Iran’s regime. He settled for reopening Hormuz.](https://www.washingtonpost.com/politics/2026/06/15/deal-with-iran-trump-settled-much-less-than-he-set-out-get/)
+    - [Israelis denounce Trump’s deal with Iran](https://www.washingtonpost.com/world/2026/06/15/israelis-denounce-trumps-deal-with-iran/)
+    - [Alaska boots second Dan Sullivan from Senate race](https://www.washingtonpost.com/politics/2026/06/15/alaska-boots-second-dan-sullivan-senate-race/)
   - ARTICLES/VIDEOS
-    - []()
+    - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
+      - Tracking in RETRO Section
     - []()
     - []()
     - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
@@ -34,6 +35,8 @@
   - Spent most of the day on these two applications. There are a number of differences between modern Spring Boot
     and older versions. 
 - PROJECT: RETRO
+  - Re-doing SDL notes
+    - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
   - Working on collecting all material in this category together and coming up with a plan
   - Processed/collected together 
   - Working on: Making a PLAN
@@ -41,11 +44,11 @@
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
     - Communicating Information
-    - Understanding Data Visualization
-    - Introduction to Importing Data in Python
-    - Python Toolbox
-    - Introduction to Statistics
-    - Introduction to NumPy
+    - Analyzing Police Activity with pandas
+    - Data Communication Concepts
+    - Foundations of Probability in Python
+    - Introduction to Shell
+    - Understanding ChatGPT
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -54,9 +57,11 @@
   - Course: Hypothesis Testing in Python
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
   - Course: Database Design
-    - Working on chapter 2/4 - Processing, Storing, and Organizing Data
+    - Completed chapter 2/4 - Processing, Storing, and Organizing Data
+    - Working on chapter 3/4 - Database views
   - Course: Communicating Data Insights
-    - Working on chapter 2/3 - Communicating Information
+    - Completed chapter 2/3 - Communicating Information
+    - Working on chapter 3/3 - Data storytelling
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
     - review
@@ -145,8 +150,8 @@
   - Non-Tech Reading
     - In the Garden of Beasts, Erik Larsen
       - Part VI - Berlin at Dusk
-        - Working on Chapter 43 - A Pygmy Speaks
-      - current page: 414
+        - Working on Chapter 45 - Mrs. Cerruti’s Distress
+      - current page: 427
     - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
@@ -154,4 +159,3 @@
        - Working on chapter 11 - Business Decisions (page: 139)
 - GRADE: 
   - NA
-
