@@ -1,4 +1,4 @@
-### Day 627: June 16, 2026 (Tuesday)
+### Day 628: June 17, 2026 (Wednesday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE MONTH:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
@@ -12,20 +12,17 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - [Richard Pryor’s Daughter Grapples With a Flawed Father and a Hateful Word](https://www.nytimes.com/2026/06/13/books/review/something-we-said-elizabeth-stordeur-pryor.html)
-    - [How a Book Editor and Jazz Musician Lives on $55,000 in West Harlem](https://www.nytimes.com/interactive/2026/06/15/nyregion/nyc-budgeting-affordability-pucillo.html)
-    - [Frustrated by Courts, Trump Weighed Suspending a Constitutional Right](https://www.nytimes.com/2026/06/15/us/politics/trump-scharf-habeas-corpus-insurrection-act.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Trump sought to break Iran’s regime. He settled for reopening Hormuz.](https://www.washingtonpost.com/politics/2026/06/15/deal-with-iran-trump-settled-much-less-than-he-set-out-get/)
-    - [Israelis denounce Trump’s deal with Iran](https://www.washingtonpost.com/world/2026/06/15/israelis-denounce-trumps-deal-with-iran/)
-    - [Alaska boots second Dan Sullivan from Senate race](https://www.washingtonpost.com/politics/2026/06/15/alaska-boots-second-dan-sullivan-senate-race/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
-      - Tracking in RETRO Section
     - []()
     - []()
-    - [SQL Subquery (Visually Explained) | Complete Guide with Correlated Subquery | #SQL Course 27](https://www.youtube.com/watch?v=tvBp81WVrCA)
-      - LEFT OFF at: 20:03    
+    - []()
 - PROJECT: EDUCATIVE - Grokking the System Design Interview
   - https://www.educative.io/collection/lta/5668639101419520/5649050225344512
   - Completed 1/17 - "System Design Interviews: A step by step guide"
@@ -38,17 +35,17 @@
   - Re-doing SDL notes
     - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
   - Working on collecting all material in this category together and coming up with a plan
-  - Processed/collected together 
   - Working on: Making a PLAN
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
+    - Database Schemas and Normalization
+    - Effective Data Visuals
     - Communicating Information
-    - Analyzing Police Activity with pandas
-    - Data Communication Concepts
-    - Foundations of Probability in Python
-    - Introduction to Shell
-    - Understanding ChatGPT
+    - Understanding Cloud Computing
+    - Introduction to Relational Databases in SQL
+    - Introduction to Regression with statsmodels in Python
+    - Web Scraping in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -143,16 +140,15 @@
           - pages: 1-31
           - current page: 1
   - Non-Tech Reading
-    - Hitler's People, The Faces of the Third Reich, Richard J. Evans
+    - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part I: The Leader
         - Working on chapter 1: The Dictator: Adolf Hitler
           - In reading this chapter I believe that Hitler truly believed the things he expounded.
-  - Non-Tech Reading
-    - In the Garden of Beasts, Erik Larsen
+    - **In the Garden of Beasts**, Erik Larsen
       - Part VI - Berlin at Dusk
         - Working on Chapter 45 - Mrs. Cerruti’s Distress
       - current page: 427
-    - The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code,
+    - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
       - PART IV - To Prove Its Worth
