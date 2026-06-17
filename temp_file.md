@@ -145,9 +145,9 @@
         - Working on chapter 1: The Dictator: Adolf Hitler
           - In reading this chapter I believe that Hitler truly believed the things he expounded.
     - **In the Garden of Beasts**, Erik Larsen
-      - Part VI - Berlin at Dusk
-        - Working on Chapter 45 - Mrs. Cerruti’s Distress
-      - current page: 427
+      - Part VII - When Everything Changed
+        - Working on Chapter 47 - "Shoot, Shoot!"
+      - current page: 441
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
