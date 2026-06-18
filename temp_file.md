@@ -12,16 +12,16 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Can I Break My Husband’s Restaurant Boycott?](https://www.nytimes.com/interactive/2026/06/16/magazine/restaurant-boycott-hodgman-quiz.html)
+    - [We Just Saw the Limit of American Military Might](https://www.nytimes.com/2026/06/17/opinion/iran-war-us-military-power.html)
+    - [Steven Spielberg on How to Build Suspense in ‘Disclosure Day’](https://www.nytimes.com/2026/06/12/movies/steven-spielberg-disclosure-day-clip.html?searchResultPosition=1)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Trump defends his Iran deal, criticizes longtime ally Israel as G-7 ends](https://www.washingtonpost.com/politics/2026/06/17/trump-defends-iran-deal-white-house-unveils-details/)
+    - [Why fermented foods are so good for your gut, and 5 ways to eat more of them](https://www.washingtonpost.com/wellness/2026/06/17/5-ways-boost-your-gut-health-by-eating-more-fermented-foods/)
+    - [As Arthur comes ashore, season’s first tropical storm may bring worsening rain](https://www.washingtonpost.com/weather/2026/06/17/potential-tropical-storm-may-bring-life-threatening-floods-south-through-friday/)
   - ARTICLES/VIDEOS
-    - []()
-    - []()
+    - [He Called 911 After I Locked MY Pool — But the Cops Took My Side and Shut Him Down!](https://www.youtube.com/watch?v=6Ns2J_OzQLU)
+    - [Referees and coaches were frightened as North Korea played aggressively and inhumanely.](https://www.youtube.com/watch?v=mCmAx5fn8Dk)
     - []()
 - PROJECT: EDUCATIVE - Grokking the System Design Interview
   - https://www.educative.io/collection/lta/5668639101419520/5649050225344512
@@ -39,13 +39,13 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
-    - Database Schemas and Normalization
     - Effective Data Visuals
     - Communicating Information
-    - Understanding Cloud Computing
-    - Introduction to Relational Databases in SQL
-    - Introduction to Regression with statsmodels in Python
-    - Web Scraping in Python
+    - Introduction to Data Visualization with Matplotlib
+    - Large Language Models (LLMs) Concepts
+    - Introduction to Databases in Python
+    - Generative AI Concepts
+    - Cleaning Data in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
