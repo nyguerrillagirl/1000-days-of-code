@@ -1,5 +1,11 @@
-### Day 628: June 17, 2026 (Wednesday)
+### Day 630: June 19, 2026 (Friday)
 - NOTE FOR THE DAY:
+  - REMOVING Projects I am not working on. Will add if and when I actually start working on it
+  - I removed all the projects and books I have not worked on for over a month
+  - GOAL FOR JUNE-JULY:
+    - Complete/Resume Coursera courses
+    - Work on Datacamp daily
+    - Work on SDL/Retro book notes
   - GOAL FOR THE MONTH:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
       how to use CMake. That is pretty straight forward but given that I don't know
@@ -12,40 +18,34 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - [Can I Break My Husband’s Restaurant Boycott?](https://www.nytimes.com/interactive/2026/06/16/magazine/restaurant-boycott-hodgman-quiz.html)
-    - [We Just Saw the Limit of American Military Might](https://www.nytimes.com/2026/06/17/opinion/iran-war-us-military-power.html)
-    - [Steven Spielberg on How to Build Suspense in ‘Disclosure Day’](https://www.nytimes.com/2026/06/12/movies/steven-spielberg-disclosure-day-clip.html?searchResultPosition=1)
+    - [Israel, Stunned by Trump’s Iran Deal, Sees It as a ‘Catastrophic Capitulation’](https://www.nytimes.com/2026/06/18/world/middleeast/israel-iran-deal-reaction-netanyahu.html)
+    - [We Liked Remote Work. Then We Looked at the Data.](https://www.nytimes.com/2026/06/17/opinion/remote-work-depression.html)
+    - [McCarthy Aide’s Tell-All Book Recounts Trump’s Expletive-Filled Threats to G.O.P.](https://www.nytimes.com/2026/06/18/us/politics/mccarthy-trump-speaker-book.html)
   - WAPO
-    - [Trump defends his Iran deal, criticizes longtime ally Israel as G-7 ends](https://www.washingtonpost.com/politics/2026/06/17/trump-defends-iran-deal-white-house-unveils-details/)
-    - [Why fermented foods are so good for your gut, and 5 ways to eat more of them](https://www.washingtonpost.com/wellness/2026/06/17/5-ways-boost-your-gut-health-by-eating-more-fermented-foods/)
-    - [As Arthur comes ashore, season’s first tropical storm may bring worsening rain](https://www.washingtonpost.com/weather/2026/06/17/potential-tropical-storm-may-bring-life-threatening-floods-south-through-friday/)
+    - [Vance slams Israeli reaction to Iran deal as U.S. military lifts blockade](https://www.washingtonpost.com/politics/2026/06/18/us-iran-sign-initial-deal-end-war-open-strait-hormuz/)
+    - [What retirement revealed about my father](https://www.washingtonpost.com/opinions/2026/06/18/father-day-essay-dad-i-almost-missed/)
+    - [‘Yesteryear’ is this summer’s must-discuss book. We have questions.](https://www.washingtonpost.com/style/interactive/2026/06/18/yesteryear-is-this-summers-must-read-book-let-discuss/?itid=hp-top-table-main_p001_f016)
   - ARTICLES/VIDEOS
-    - [He Called 911 After I Locked MY Pool — But the Cops Took My Side and Shut Him Down!](https://www.youtube.com/watch?v=6Ns2J_OzQLU)
-    - [Referees and coaches were frightened as North Korea played aggressively and inhumanely.](https://www.youtube.com/watch?v=mCmAx5fn8Dk)
-    - []()
-- PROJECT: EDUCATIVE - Grokking the System Design Interview
-  - https://www.educative.io/collection/lta/5668639101419520/5649050225344512
-  - Completed 1/17 - "System Design Interviews: A step by step guide"
-  - Working 2/17 0 "Designing a URL Shortening Service like TinyURL"
-- PROJECT: JAVA
-  - Reviewing AI O'Reilly Course
-  - Spent most of the day on these two applications. There are a number of differences between modern Spring Boot
-    and older versions. 
+    - [This tech CEO fired 80% of his workforce over AI resistance. Here’s what he’s learned since then]()
+    - [Trump just signaled his own decline: Op-ed]()
+    - [The bitter truth behind why Brad Pitt’s family turned against him]()
 - PROJECT: RETRO
   - Re-doing SDL notes
     - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
+    - [STB Handmade](https://stb.handmade.network/)
+    - [STB Libraries](https://github.com/nothings/stb)
+    - Current pages: 178 ==> 
   - Working on collecting all material in this category together and coming up with a plan
   - Working on: Making a PLAN
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
     - Effective Data Visuals
-    - Communicating Information
-    - Introduction to Data Visualization with Matplotlib
-    - Large Language Models (LLMs) Concepts
-    - Introduction to Databases in Python
-    - Generative AI Concepts
-    - Cleaning Data in Python
+    - Processing, Storing, and Organizing Data
+    - Data Warehouse Basics
+    - Statistical Thinking in Python (Part 2)
+    - Introduction to Data
+    - Data Manipulation in SQL
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -66,10 +66,6 @@
   - Working on Article #3: Python sockets and struct
   - Working on Article #4: Modern Low-Level Graphics API (Direct GPU Control)
   - Working on Article #5: Dowloading files from a page (using Python)
-- PROJECT: Udemy Course - Computer Graphics with Modern OpenGL and C++
-  - Review Section 1: Introduction
-  - Find previous material - Need to start from scratch - could not find it - ODD!
-  - See: https://glm.g-truc.net/0.9.8/index.html
 - PROJECT: Wolf/Doom
   - Rebuilt classic Donkey Kong in Python using PyGame
     - [Github](https://github.com/plemaster01/PythonDonkeyKong)
@@ -92,12 +88,6 @@
 - PROJECT: REAL PYTHON
   - [Regular Expressions and Building Regexes in Python](https://realpython.com/courses/building-regexes-python/)   
   - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
-- PROJECT: ELECTRONICS
-  - READING: Introductory DC/AC Electronics, 6th Edition by Nigel P. Cook
-    - PART A: The Fundamentals of Electricity
-      - Completed Reading Chapter 2: Resistance and Power
-      - Working on chapter 2 exercises
-      - Do lab
 - PROJECT: Learning Data Science with Python Workbook (LDSPW)
     - Statistics
       - Working on Probability Bootcamp - https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V
@@ -106,7 +96,7 @@
 - PROJECT: React
   - Working on O'Reilly Course - The Redux Official Course Tutorial
     - Working on chapter 6/10 - Social Media App with Redux Example
-  - PROJECT: ZENVA
+- PROJECT: ZENVA
   - I was considering purchasing a Unreal package 
   - Worked on Intro to Bite-Sized Courses (Godot)
     - Completed 4/17 - Introduction
@@ -121,11 +111,6 @@
         - Working on Chapter 2/24 - Exploring probability and counting
         - pages 16-40 
         - current page: 16
-    - Bayesian Statistics The Fun Way
-      - PART I: Introduction to Probability
-        - Working on chapter 4/18 - Creating a Binomial Probability Distribution
-        - Current page: 33
-        - Answers page: 232
     - React, The Comprehensive Guide 
       - Finally resuming my reading
       - Working chapter 9/21 - Securing a React Application through Testing
@@ -133,12 +118,6 @@
       - GOAL: The goal (to get a C and above) is to complete 10 pages a day
         - This will allow me to complete the book in 90 days from today
       - npm install -D sass
-    - Wolf/Doom Reading
-      - The goal is to complete all books in 100-150 days
-      - Elementary Geometry for College Students, 7e
-        - Working on chapter 0/11 - Preliminary Concepts
-          - pages: 1-31
-          - current page: 1
   - Non-Tech Reading
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part I: The Leader
