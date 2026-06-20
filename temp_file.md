@@ -1,4 +1,4 @@
-### Day 630: June 19, 2026 (Friday)
+### Day 631: June 20, 2026 (Saturday)
 - NOTE FOR THE DAY:
   - REMOVING Projects I am not working on. Will add if and when I actually start working on it
   - I removed all the projects and books I have not worked on for over a month
@@ -18,17 +18,19 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - [Israel, Stunned by Trump’s Iran Deal, Sees It as a ‘Catastrophic Capitulation’](https://www.nytimes.com/2026/06/18/world/middleeast/israel-iran-deal-reaction-netanyahu.html)
-    - [We Liked Remote Work. Then We Looked at the Data.](https://www.nytimes.com/2026/06/17/opinion/remote-work-depression.html)
-    - [McCarthy Aide’s Tell-All Book Recounts Trump’s Expletive-Filled Threats to G.O.P.](https://www.nytimes.com/2026/06/18/us/politics/mccarthy-trump-speaker-book.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Vance slams Israeli reaction to Iran deal as U.S. military lifts blockade](https://www.washingtonpost.com/politics/2026/06/18/us-iran-sign-initial-deal-end-war-open-strait-hormuz/)
-    - [What retirement revealed about my father](https://www.washingtonpost.com/opinions/2026/06/18/father-day-essay-dad-i-almost-missed/)
-    - [‘Yesteryear’ is this summer’s must-discuss book. We have questions.](https://www.washingtonpost.com/style/interactive/2026/06/18/yesteryear-is-this-summers-must-read-book-let-discuss/?itid=hp-top-table-main_p001_f016)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [This tech CEO fired 80% of his workforce over AI resistance. Here’s what he’s learned since then]()
-    - [Trump just signaled his own decline: Op-ed]()
-    - [The bitter truth behind why Brad Pitt’s family turned against him]()
+    - [Today in Politics | Explainer](https://www.youtube.com/watch?v=ZkwEE_aiMb0)
+    - [35 programs, zero AI! (Handmade Essentials Jam recap show)](https://www.youtube.com/watch?v=kcQN_uYbyjE)
+    - [LIVE COVERAGE: Peeling Paint at the Reflecting Pool](https://www.youtube.com/watch?v=J81Wx4K-Cro)
+    - [Introducing the NEW 3D Game Engine Series](https://www.youtube.com/watch?v=-paLdjChPxo&t=7s)
+    - [Heather Cox Richardson: What History Predicts Happens Next](https://www.youtube.com/watch?v=BtEJ2BGtXdg)
 - PROJECT: RETRO
   - Re-doing SDL notes
     - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
@@ -41,11 +43,12 @@
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
     - Effective Data Visuals
-    - Processing, Storing, and Organizing Data
-    - Data Warehouse Basics
-    - Statistical Thinking in Python (Part 2)
-    - Introduction to Data
-    - Data Manipulation in SQL
+    - Communicating Information
+    - Intermediate Importing Data in R
+    - Introduction to Databases in Python
+    - Introduction to SQL
+    - Software Engineering Principles in Python
+    - Writing Efficient Python Code
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -125,8 +128,16 @@
           - In reading this chapter I believe that Hitler truly believed the things he expounded.
     - **In the Garden of Beasts**, Erik Larsen
       - Part VII - When Everything Changed
-        - Working on Chapter 47 - "Shoot, Shoot!"
-      - current page: 441
+        - Working on  Chapter 49 - The Dead
+          - Goring gives a press conference
+          - The death of General Schleicher was confirmed he’d been shot seven times,   
+            his body and that of hiswife discovered by their sixteen-year-old daughter.
+            Another general, Ferdinand von Bredow, a member of Schleicher’s 
+            cabinet when he was chancellor, was also shot. Despite these killings, 
+            the army continued to stand aside, its loathing for the SA trumping
+            its distaste for the murder of two of its own.
+          - 500 killed, 1000's arrested
+      - current page: 455
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
