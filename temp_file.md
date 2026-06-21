@@ -1,11 +1,5 @@
-### Day 631: June 20, 2026 (Saturday)
+### Day 632: June 21, 2026 (Sunday)
 - NOTE FOR THE DAY:
-  - REMOVING Projects I am not working on. Will add if and when I actually start working on it
-  - I removed all the projects and books I have not worked on for over a month
-  - GOAL FOR JUNE-JULY:
-    - Complete/Resume Coursera courses
-    - Work on Datacamp daily
-    - Work on SDL/Retro book notes
   - GOAL FOR THE MONTH:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
       how to use CMake. That is pretty straight forward but given that I don't know
@@ -18,19 +12,23 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - []()
-    - []()
-    - []()
+    - [‘The Death of Robin Hood’ Review: Not a Merry Band](https://www.nytimes.com/2026/06/18/movies/the-death-of-robin-hood-review.html?searchResultPosition=1)
+    - [Mideast Live Updates: Iranian Forces Say They Closed Strait of Hormuz](https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon)
+    - [In Atlanta, a Young Family Wanted the Perfect Home to Grow Into](https://www.nytimes.com/interactive/2026/06/18/realestate/atlanta-homes-sale-prices.html)
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Today in Politics | Explainer](https://www.youtube.com/watch?v=ZkwEE_aiMb0)
-    - [35 programs, zero AI! (Handmade Essentials Jam recap show)](https://www.youtube.com/watch?v=kcQN_uYbyjE)
-    - [LIVE COVERAGE: Peeling Paint at the Reflecting Pool](https://www.youtube.com/watch?v=J81Wx4K-Cro)
-    - [Introducing the NEW 3D Game Engine Series](https://www.youtube.com/watch?v=-paLdjChPxo&t=7s)
-    - [Heather Cox Richardson: What History Predicts Happens Next](https://www.youtube.com/watch?v=BtEJ2BGtXdg)
+    - [Franz von Papen](https://en.wikipedia.org/wiki/Franz_von_Papen)
+    - []()
+    - []()
+- PROJECT: C++
+  - BOOK: C++, The Comprehensive Guide
+    - Part I: Fundamentals
+      - Working on chapter 1/30 - C++ The Comprehensive Guide
+  - BOOK: C++20 for Programmers, An Objects-Natural Approach
+    - Working on Preface/18 
 - PROJECT: RETRO
   - Re-doing SDL notes
     - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
@@ -42,13 +40,13 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 18,575 XP (9th in Peta League)]
   - Practice:
+    - Data Schemas and Normalization
     - Effective Data Visuals
     - Communicating Information
-    - Intermediate Importing Data in R
-    - Introduction to Databases in Python
-    - Introduction to SQL
-    - Software Engineering Principles in Python
-    - Writing Efficient Python Code
+    - AI Ethics
+    - Object-Oriented Programming in Python
+    - Introduction to AI for Work
+    - Working with Dates and Times in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -61,7 +59,8 @@
     - Working on chapter 3/4 - Database views
   - Course: Communicating Data Insights
     - Completed chapter 2/3 - Communicating Information
-    - Working on chapter 3/3 - Data storytelling
+    - Completed chapter 3/3 - Data storytelling
+    - Completed Course
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
     - review
@@ -126,18 +125,14 @@
       - Part I: The Leader
         - Working on chapter 1: The Dictator: Adolf Hitler
           - In reading this chapter I believe that Hitler truly believed the things he expounded.
+          - On 30 January 1933 the Nazi leader was duly appointed Reich Chancellor in a coalition cabinet in which 
+            Papen was Vice-Chancellor, and all other posts went to members of his and Hindenburg’s circle, except for 
+            the Ministry of the Interior, to which one of the leading Nazis,
+      - current page: 61
     - **In the Garden of Beasts**, Erik Larsen
       - Part VII - When Everything Changed
-        - Working on  Chapter 49 - The Dead
-          - Goring gives a press conference
-          - The death of General Schleicher was confirmed he’d been shot seven times,   
-            his body and that of hiswife discovered by their sixteen-year-old daughter.
-            Another general, Ferdinand von Bredow, a member of Schleicher’s 
-            cabinet when he was chancellor, was also shot. Despite these killings, 
-            the army continued to stand aside, its loathing for the SA trumping
-            its distaste for the murder of two of its own.
-          - 500 killed, 1000's arrested
-      - current page: 455
+        - Working on Chapter 52 - Only the Horses
+      - current page: 479
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
