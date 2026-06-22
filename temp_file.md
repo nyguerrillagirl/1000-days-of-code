@@ -12,41 +12,41 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - [‘The Death of Robin Hood’ Review: Not a Merry Band](https://www.nytimes.com/2026/06/18/movies/the-death-of-robin-hood-review.html?searchResultPosition=1)
-    - [Mideast Live Updates: Iranian Forces Say They Closed Strait of Hormuz](https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon)
-    - [In Atlanta, a Young Family Wanted the Perfect Home to Grow Into](https://www.nytimes.com/interactive/2026/06/18/realestate/atlanta-homes-sale-prices.html)
+    - [Why Is It So Bad to Let A.I. Do My Thinking for Me?](https://www.nytimes.com/2026/06/20/books/review/the-reverse-centaurs-guide-to-life-after-ai.html)
+    - [Mamdani Burns Allies in Making a Big Bet for Congress and the Left](https://www.nytimes.com/2026/06/21/nyregion/mamdani-burns-allies-in-making-a-big-bet-for-congress-and-the-left.html)
+    - [Memo by Rubio Approved Detention of Immigrant Who Criticized Trump Ally](https://www.nytimes.com/2026/06/19/us/rubio-beto-coral-colombia.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [For cash-strapped farmers, deal to end Iran fighting comes too late](https://www.washingtonpost.com/business/2026/06/21/cash-strapped-farmers-iran-wars-end-comes-too-late/)
+    - [Tulsi Gabbard, her guru and the mysterious messages that helped shape her political career](https://www.washingtonpost.com/investigations/2026/06/21/tulsi-gabbard-her-guru-mysterious-messages-that-helped-shape-her-political-career/)
+    - [This absurd Social Security plan would take down progressives with it](https://www.washingtonpost.com/opinions/2026/06/17/bernie-sanders-is-wrong-taxing-rich-wont-save-social-security/)
   - ARTICLES/VIDEOS
     - [Franz von Papen](https://en.wikipedia.org/wiki/Franz_von_Papen)
-    - []()
+    - [My husband pressured me to sell my grandma’s house after her death — I found out why]()
     - []()
 - PROJECT: C++
   - BOOK: C++, The Comprehensive Guide
     - Part I: Fundamentals
-      - Working on chapter 1/30 - C++ The Comprehensive Guide
+      - Completed chapter 1/30 - C++ The Comprehensive Guide
+      - Completed chapter 2/30 - Programming in C++
+      - Working on chapter 3/30 - C++ for newcomers
   - BOOK: C++20 for Programmers, An Objects-Natural Approach
     - Working on Preface/18 
 - PROJECT: RETRO
   - Re-doing SDL notes
-    - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
+   - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
+      - re-did SDL_C_Template
+      - worked on notes
     - [STB Handmade](https://stb.handmade.network/)
     - [STB Libraries](https://github.com/nothings/stb)
     - Current pages: 178 ==> 
   - Working on collecting all material in this category together and coming up with a plan
   - Working on: Making a PLAN
 - Data Camp [DS]
-  - XP: 1500  (Practice) --> 1500  [Peta - Last week: 18,575 XP (9th in Peta League)]
+  - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Data Schemas and Normalization
-    - Effective Data Visuals
-    - Communicating Information
-    - AI Ethics
-    - Object-Oriented Programming in Python
-    - Introduction to AI for Work
-    - Working with Dates and Times in Python
+    - Joining Data in SQL
+    - Introduction to Importing Data in R
+    - Introduction to Data Science in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -57,10 +57,6 @@
   - Course: Database Design
     - Completed chapter 2/4 - Processing, Storing, and Organizing Data
     - Working on chapter 3/4 - Database views
-  - Course: Communicating Data Insights
-    - Completed chapter 2/3 - Communicating Information
-    - Completed chapter 3/3 - Data storytelling
-    - Completed Course
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
     - review
