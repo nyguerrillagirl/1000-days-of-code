@@ -1,4 +1,4 @@
-### Day 632: June 21, 2026 (Sunday)
+### Day 633: June 22, 2026 (Monday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE MONTH:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
@@ -12,16 +12,16 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - [Why Is It So Bad to Let A.I. Do My Thinking for Me?](https://www.nytimes.com/2026/06/20/books/review/the-reverse-centaurs-guide-to-life-after-ai.html)
-    - [Mamdani Burns Allies in Making a Big Bet for Congress and the Left](https://www.nytimes.com/2026/06/21/nyregion/mamdani-burns-allies-in-making-a-big-bet-for-congress-and-the-left.html)
-    - [Memo by Rubio Approved Detention of Immigrant Who Criticized Trump Ally](https://www.nytimes.com/2026/06/19/us/rubio-beto-coral-colombia.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [For cash-strapped farmers, deal to end Iran fighting comes too late](https://www.washingtonpost.com/business/2026/06/21/cash-strapped-farmers-iran-wars-end-comes-too-late/)
-    - [Tulsi Gabbard, her guru and the mysterious messages that helped shape her political career](https://www.washingtonpost.com/investigations/2026/06/21/tulsi-gabbard-her-guru-mysterious-messages-that-helped-shape-her-political-career/)
-    - [This absurd Social Security plan would take down progressives with it](https://www.washingtonpost.com/opinions/2026/06/17/bernie-sanders-is-wrong-taxing-rich-wont-save-social-security/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Franz von Papen](https://en.wikipedia.org/wiki/Franz_von_Papen)
-    - [My husband pressured me to sell my grandma’s house after her death — I found out why]()
+    - [Trump Just Hung Scott Jennings Out to Dry](https://www.youtube.com/watch?v=xv2zUTXPqL0)
+    - []()
     - []()
 - PROJECT: C++
   - BOOK: C++, The Comprehensive Guide
@@ -44,9 +44,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Joining Data in SQL
-    - Introduction to Importing Data in R
-    - Introduction to Data Science in Python
+    - Data Types in Python
+    - Intermediate Python for Developers
+    - Introduction to the Tidyverse
+    - Cleaning Data in Python
+    - Writing Efficient Python Code
+    - Working with Dates and Times in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -57,6 +60,8 @@
   - Course: Database Design
     - Completed chapter 2/4 - Processing, Storing, and Organizing Data
     - Working on chapter 3/4 - Database views
+  - Course: Introduction to Data Literacy
+    - Working on chapter 1/4 - Data Literacy Basics
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
     - review
@@ -125,10 +130,6 @@
             Papen was Vice-Chancellor, and all other posts went to members of his and Hindenburg’s circle, except for 
             the Ministry of the Interior, to which one of the leading Nazis,
       - current page: 61
-    - **In the Garden of Beasts**, Erik Larsen
-      - Part VII - When Everything Changed
-        - Working on Chapter 52 - Only the Horses
-      - current page: 479
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
