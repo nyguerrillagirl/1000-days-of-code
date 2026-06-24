@@ -1,5 +1,7 @@
-### Day 633: June 22, 2026 (Monday)
+### Day 635: June 24, 2026 (Wednesday)
 - NOTE FOR THE DAY:
+  - Checking out "Linux From Scratch"
+    - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/)
   - GOAL FOR THE MONTH:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
       how to use CMake. That is pretty straight forward but given that I don't know
@@ -12,23 +14,22 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - []()
-    - []()
-    - []()
+    - [I Thought ‘No Child Left Behind’ Would Fix Public Schools. I Was Wrong.](https://www.nytimes.com/2026/06/22/opinion/schools-testing-accountability.html)
+    - [Protesters Accused of Antifa Ties Sentenced to Up to 100 Years in ICE Attack](https://www.nytimes.com/2026/06/23/us/politics/antifa-ice-protesters-sentencing.html)
+    - [If You Love America, Cringe for It](https://www.nytimes.com/2026/06/23/opinion/trump-meloni-america-cringe.html)
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
     - [Trump Just Hung Scott Jennings Out to Dry](https://www.youtube.com/watch?v=xv2zUTXPqL0)
-    - []()
-    - []()
+    - ['CBS Mornings' ratings collapse after Scott Pelley firing]()
+    - [Unc Plays Japanese](https://www.youtube.com/watch?v=HmSdIxuALkQ)
 - PROJECT: C++
   - BOOK: C++, The Comprehensive Guide
     - Part I: Fundamentals
-      - Completed chapter 1/30 - C++ The Comprehensive Guide
-      - Completed chapter 2/30 - Programming in C++
-      - Working on chapter 3/30 - C++ for newcomers
+      - Completed chapter 3/30 - C++ for newcomers
+      - Working on chapter 4 - C++ Fundamentals
   - BOOK: C++20 for Programmers, An Objects-Natural Approach
     - Working on Preface/18 
 - PROJECT: RETRO
@@ -44,12 +45,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Data Types in Python
-    - Intermediate Python for Developers
-    - Introduction to the Tidyverse
-    - Cleaning Data in Python
-    - Writing Efficient Python Code
-    - Working with Dates and Times in Python
+    - Understanding Data Engineering
+    - Introduction to Object-Oriented Programming in Python
+    - Introduction to Functions in Python
+    - Communicating Data Insights
+    - Introduction to Databases in Python
+    - Sampling in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -62,6 +63,8 @@
     - Working on chapter 3/4 - Database views
   - Course: Introduction to Data Literacy
     - Working on chapter 1/4 - Data Literacy Basics
+  - Course: Intermediate Importing Data in Python
+    - Working on chapter 1/3 - Importing data from the Internet    
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
     - review
