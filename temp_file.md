@@ -1,7 +1,5 @@
-### Day 635: June 24, 2026 (Wednesday)
+### Day 636: June 25, 2026 (Thursday)
 - NOTE FOR THE DAY:
-  - Checking out "Linux From Scratch"
-    - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/)
   - GOAL FOR THE MONTH:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
       how to use CMake. That is pretty straight forward but given that I don't know
@@ -14,24 +12,26 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - [I Thought ‘No Child Left Behind’ Would Fix Public Schools. I Was Wrong.](https://www.nytimes.com/2026/06/22/opinion/schools-testing-accountability.html)
-    - [Protesters Accused of Antifa Ties Sentenced to Up to 100 Years in ICE Attack](https://www.nytimes.com/2026/06/23/us/politics/antifa-ice-protesters-sentencing.html)
-    - [If You Love America, Cringe for It](https://www.nytimes.com/2026/06/23/opinion/trump-meloni-america-cringe.html)
+    - []()
+    - []()
+    - []()
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Trump Just Hung Scott Jennings Out to Dry](https://www.youtube.com/watch?v=xv2zUTXPqL0)
-    - ['CBS Mornings' ratings collapse after Scott Pelley firing]()
-    - [Unc Plays Japanese](https://www.youtube.com/watch?v=HmSdIxuALkQ)
+    - []()
+    - []()
+    - []()
 - PROJECT: C++
   - BOOK: C++, The Comprehensive Guide
     - Part I: Fundamentals
       - Completed chapter 3/30 - C++ for newcomers
       - Working on chapter 4 - C++ Fundamentals
   - BOOK: C++20 for Programmers, An Objects-Natural Approach
-    - Working on Preface/18 
+    - Completed Preface/18 
+    - Completed Chapter 1 - Intro and Test-Driving Popular, Free C++ Compilers
+    - Working on Chapter 2 - Intro to C++20 Programming
 - PROJECT: RETRO
   - Re-doing SDL notes
    - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
@@ -45,12 +45,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Understanding Data Engineering
-    - Introduction to Object-Oriented Programming in Python
-    - Introduction to Functions in Python
+    - Introduction to R
+    - Writing Functions in Python
+    - Joining Data with pandas
     - Communicating Data Insights
-    - Introduction to Databases in Python
-    - Sampling in Python
+    - Understanding Cloud Computing
+    - Introduction to Relational Databases in SQL
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -110,8 +110,9 @@
   - Tech Reading
     - Professional CMake
       - Part I: Fundamentals
-        - Reading Chapter 1/28 - Introduction
-        - current page:
+        - Completed Chapter 1/28 - Introduction
+        - Working on Chapter 2/28 - Setting Up A Project
+        - current page:15
     - Manning Publishing
       - Statistics Every Programmer Needs
         - Working on Chapter 2/24 - Exploring probability and counting
