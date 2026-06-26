@@ -1,4 +1,4 @@
-### Day 636: June 25, 2026 (Thursday)
+### Day 637: June 26, 2026 (Friday)
 - NOTE FOR THE DAY:
   - GOAL FOR THE MONTH:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
@@ -12,31 +12,28 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - []()
-    - []()
-    - []()
+    - [More Temperature Records Fall as Deadly Heat Stifles Europe](https://www.nytimes.com/2026/06/25/world/europe/heat-wave.html)
+    - [Tiny Love Stories: ‘She Was Married; I Had a Girlfriend’](https://www.nytimes.com/2026/06/24/style/tiny-modern-love-stories-she-was-married-i-had-a-girlfriend.html)
+    - [Iran Threatens Ships in Strait of Hormuz as Marco Rubio Meets Gulf Leaders](https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [How to make Social Security worse](https://www.washingtonpost.com/opinions/2026/06/25/removing-payroll-tax-cap-would-not-save-social-security/)
+    - [Federal court blocks Trump’s executive order limiting mail ballots](https://www.washingtonpost.com/politics/2026/06/25/court-blocks-trumps-executive-order-limiting-mail-ballots/)
+    - [Having a regular bedtime is key to good sleep. Here’s how to set one.](https://www.washingtonpost.com/wellness/2026/06/24/your-bedtime-can-have-big-impact-your-sleep/)
   - ARTICLES/VIDEOS
-    - []()
+    - [JD Vance Got Caught Playing Both Sides (w/ Andrew Weissmann) | Illegal News](https://www.youtube.com/watch?v=GHzIE4jawcA)
     - []()
     - []()
 - PROJECT: C++
   - BOOK: C++, The Comprehensive Guide
     - Part I: Fundamentals
-      - Completed chapter 3/30 - C++ for newcomers
       - Working on chapter 4 - C++ Fundamentals
   - BOOK: C++20 for Programmers, An Objects-Natural Approach
-    - Completed Preface/18 
-    - Completed Chapter 1 - Intro and Test-Driving Popular, Free C++ Compilers
     - Working on Chapter 2 - Intro to C++20 Programming
 - PROJECT: RETRO
   - Re-doing SDL notes
-   - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
-      - re-did SDL_C_Template
-      - worked on notes
+- [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
+    - re-did SDL_C_Template
+    - worked on notes
     - [STB Handmade](https://stb.handmade.network/)
     - [STB Libraries](https://github.com/nothings/stb)
     - Current pages: 178 ==> 
@@ -45,12 +42,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Introduction to R
-    - Writing Functions in Python
-    - Joining Data with pandas
-    - Communicating Data Insights
-    - Understanding Cloud Computing
-    - Introduction to Relational Databases in SQL
+    - Statistical Thinking in Python (Part 2)
+    - Intermediate R
+    - Working with Categorical Data in Python
+    - Data Manipulation in SQL
+    - Web Scraping in Python
+    - Working with Dates and Times in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
