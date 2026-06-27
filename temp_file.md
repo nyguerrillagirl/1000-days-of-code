@@ -1,6 +1,6 @@
-### Day 637: June 26, 2026 (Friday)
+### Day 638: June 27, 2026 (Saturday)
 - NOTE FOR THE DAY:
-  - GOAL FOR THE MONTH:
+   - GOAL FOR THE MONTH:
     - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
       how to use CMake. That is pretty straight forward but given that I don't know
       how to read a CMakeLists.txt file to make sure I have everything set up for processing.
@@ -12,16 +12,16 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - [More Temperature Records Fall as Deadly Heat Stifles Europe](https://www.nytimes.com/2026/06/25/world/europe/heat-wave.html)
-    - [Tiny Love Stories: ‘She Was Married; I Had a Girlfriend’](https://www.nytimes.com/2026/06/24/style/tiny-modern-love-stories-she-was-married-i-had-a-girlfriend.html)
-    - [Iran Threatens Ships in Strait of Hormuz as Marco Rubio Meets Gulf Leaders](https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html)
-  - WAPO
-    - [How to make Social Security worse](https://www.washingtonpost.com/opinions/2026/06/25/removing-payroll-tax-cap-would-not-save-social-security/)
-    - [Federal court blocks Trump’s executive order limiting mail ballots](https://www.washingtonpost.com/politics/2026/06/25/court-blocks-trumps-executive-order-limiting-mail-ballots/)
-    - [Having a regular bedtime is key to good sleep. Here’s how to set one.](https://www.washingtonpost.com/wellness/2026/06/24/your-bedtime-can-have-big-impact-your-sleep/)
-  - ARTICLES/VIDEOS
-    - [JD Vance Got Caught Playing Both Sides (w/ Andrew Weissmann) | Illegal News](https://www.youtube.com/watch?v=GHzIE4jawcA)
     - []()
+    - []()
+    - []()
+  - WAPO
+    - []()
+    - []()
+    - []()
+  - ARTICLES/VIDEOS
+    - [The Americans Trump Would Rather Not See](https://www.thebulwark.com/p/the-americans-trump-would-rather?utm_campaign=email-post&r=1pe7yq&utm_source=substack&utm_medium=email)
+    - [Sanaa Hides In Plain Sight… Then Starts Dropping Targets | Sniper: Legacy](https://www.youtube.com/watch?v=0H3YBvP1TPs)
     - []()
 - PROJECT: C++
   - BOOK: C++, The Comprehensive Guide
@@ -42,12 +42,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Statistical Thinking in Python (Part 2)
-    - Intermediate R
-    - Working with Categorical Data in Python
-    - Data Manipulation in SQL
-    - Web Scraping in Python
-    - Working with Dates and Times in Python
+    - Intermediate Importing Data in R
+    - Introduction to Statistics in Python
+    - Understanding Machine Learning
+    - Sampling in Python
+    - Understanding Data Engineering
+    - Exploratory Data Analysis in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
