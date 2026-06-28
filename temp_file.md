@@ -1,7 +1,9 @@
-### Day 638: June 27, 2026 (Saturday)
+
+### Day 639: June 28, 2026 (Sunday)
 - NOTE FOR THE DAY:
    - GOAL FOR THE MONTH:
-    - Get DOS game Abuse to compile and run. The builing of Abuse requires knowing
+    - Get DOS game Abuse to compile and run. The build
+    ing of Abuse requires knowing
       how to use CMake. That is pretty straight forward but given that I don't know
       how to read a CMakeLists.txt file to make sure I have everything set up for processing.
       Another issue is that I don't know what version of SDL2 I have on my machine. 
@@ -12,17 +14,17 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Israelis See Their Friendship With the U.S. Slipping Away](https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html)
+    - [It’s Ugly. It Costs $640,000. Everyone Is Mad About It but Me.](https://www.nytimes.com/2026/06/27/opinion/ferrari-electric-vehicle.html)
+    - [Why Europe Is the Fastest-Warming Continent](https://www.nytimes.com/2026/06/24/climate/europe-fastest-warming-continent.html)
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [The Americans Trump Would Rather Not See](https://www.thebulwark.com/p/the-americans-trump-would-rather?utm_campaign=email-post&r=1pe7yq&utm_source=substack&utm_medium=email)
-    - [Sanaa Hides In Plain Sight… Then Starts Dropping Targets | Sniper: Legacy](https://www.youtube.com/watch?v=0H3YBvP1TPs)
-    - []()
+    - [Trump passport screw-up leaves conservative pundit speechless and MS NOW hosts laughing]()
+    - [Inside the Jennifer Pan case: Why a daughter planned the murder of her parents]()
+    - [Scaramucci reveals epiphany he had about Trump followers' psyche]()
 - PROJECT: C++
   - BOOK: C++, The Comprehensive Guide
     - Part I: Fundamentals
@@ -30,8 +32,8 @@
   - BOOK: C++20 for Programmers, An Objects-Natural Approach
     - Working on Chapter 2 - Intro to C++20 Programming
 - PROJECT: RETRO
-  - Re-doing SDL notes
-- [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
+    - SDL Book
+    - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
     - re-did SDL_C_Template
     - worked on notes
     - [STB Handmade](https://stb.handmade.network/)
@@ -42,12 +44,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Intermediate Importing Data in R
-    - Introduction to Statistics in Python
-    - Understanding Machine Learning
-    - Sampling in Python
-    - Understanding Data Engineering
+    - Database Schemas and Normalization
+    - Supervised Learning with scikit-learn
+    - Introduction to Data Visualization with Seaborn
+    - Cleaning Data in Python
     - Exploratory Data Analysis in Python
+    - Data Manipulation with pandas
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
