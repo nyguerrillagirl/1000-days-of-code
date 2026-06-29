@@ -1,5 +1,5 @@
 
-### Day 639: June 28, 2026 (Sunday)
+### Day 640: June 98, 2026 (Monday)
 - NOTE FOR THE DAY:
    - GOAL FOR THE MONTH:
     - Get DOS game Abuse to compile and run. The build
@@ -14,17 +14,17 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 3, 81-85
   - NYT
-    - [Israelis See Their Friendship With the U.S. Slipping Away](https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html)
-    - [It’s Ugly. It Costs $640,000. Everyone Is Mad About It but Me.](https://www.nytimes.com/2026/06/27/opinion/ferrari-electric-vehicle.html)
-    - [Why Europe Is the Fastest-Warming Continent](https://www.nytimes.com/2026/06/24/climate/europe-fastest-warming-continent.html)
+    - []()
+    - []()
+    - []()
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Trump passport screw-up leaves conservative pundit speechless and MS NOW hosts laughing]()
-    - [Inside the Jennifer Pan case: Why a daughter planned the murder of her parents]()
-    - [Scaramucci reveals epiphany he had about Trump followers' psyche]()
+    - [REGIME CHANGE: Katie’s One-on-One with Maggie Haberman](https://www.youtube.com/watch?v=pLwXXp6XEW0)
+    - []()
+    - []()
 - PROJECT: C++
   - BOOK: C++, The Comprehensive Guide
     - Part I: Fundamentals
