@@ -1,41 +1,35 @@
-
-### Day 640: June 98, 2026 (Monday)
+### Day 641: June 30, 2026 (Tuesday)
 - NOTE FOR THE DAY:
-   - GOAL FOR THE MONTH:
-    - Get DOS game Abuse to compile and run. The build
-    ing of Abuse requires knowing
-      how to use CMake. That is pretty straight forward but given that I don't know
-      how to read a CMakeLists.txt file to make sure I have everything set up for processing.
-      Another issue is that I don't know what version of SDL2 I have on my machine. 
-      1 - Automate moving the files in place under DEBUG [DONE]
-      2 - Start working Abuse version on Visual Studio 2022
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=5
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 3, 81-85
+    - On page 3, 86-90
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Supreme Court Lets $5 Million Sex Abuse Verdict Against Trump Stand](https://www.nytimes.com/2026/06/29/us/politics/supreme-court-trump-sexual-assault.html)
+    - [Life Is Better With Siblings](https://www.nytimes.com/2026/06/29/opinion/siblings-families-shrinking.html)
+    - [Supreme Court Upholds Mississippi Late-Arriving Mail-In Ballot Law](https://www.nytimes.com/2026/06/29/us/politics/supreme-court-late-mail-ballots.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [The keys to your life savings might be compromised](https://www.washingtonpost.com/opinions/2026/06/29/china-is-exploiting-us-financial-markets-congress-must-respond/)
+    - [Trump-backed ‘Freedom Trucks’ tell a sanitized story of the country’s founding](https://www.washingtonpost.com/education/2026/06/29/freedom-trucks-offer-simplified-upbeat-story-americas-founding/)
+    - [At the Kennedy Center, a prize for Bill Maher — and a lot of Trump jokes](https://www.washingtonpost.com/style/2026/06/29/bill-maher-gets-twain-prize-kennedy-center-with-lots-trump-jokes/)
   - ARTICLES/VIDEOS
     - [REGIME CHANGE: Katie’s One-on-One with Maggie Haberman](https://www.youtube.com/watch?v=pLwXXp6XEW0)
-    - []()
-    - []()
+    - [Distributed Systems: A Complete Guide for Beginners](https://www.designgurus.io/blog/a-beginners-guide-to-distributed-systems)
+    - [How To Use and Inject a Mounjaro Pen the RIGHT WAY (not what you think)](https://www.youtube.com/watch?v=pWZevIs6t0c)
 - PROJECT: C++
   - BOOK: C++, The Comprehensive Guide
     - Part I: Fundamentals
       - Working on chapter 4 - C++ Fundamentals
+      - current page: 100
   - BOOK: C++20 for Programmers, An Objects-Natural Approach
     - Working on Chapter 2 - Intro to C++20 Programming
+    - current page: 22, e-book: 110
 - PROJECT: RETRO
     - SDL Book
     - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
-    - re-did SDL_C_Template
-    - worked on notes
+      - Working on part 4/15 on Shooter
+    - Abuse_2025
+      - Update to run on Windows with MinGW.
     - [STB Handmade](https://stb.handmade.network/)
     - [STB Libraries](https://github.com/nothings/stb)
     - Current pages: 178 ==> 
@@ -44,12 +38,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Database Schemas and Normalization
-    - Supervised Learning with scikit-learn
-    - Introduction to Data Visualization with Seaborn
-    - Cleaning Data in Python
-    - Exploratory Data Analysis in Python
+    - Introduction to Python
+    - Understanding Data Science
     - Data Manipulation with pandas
+    - Python Toolbox
+    - Supervised Learning with scikit-learn
+    - Introduction to Statistics
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
