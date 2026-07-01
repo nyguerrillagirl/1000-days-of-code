@@ -1,21 +1,22 @@
-### Day 641: June 30, 2026 (Tuesday)
+### Day 642: July 1, 2026 (Wednesday)
 - NOTE FOR THE DAY:
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=5
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 3, 86-90
+    - On page 3, 91-95
   - NYT
-    - [Supreme Court Lets $5 Million Sex Abuse Verdict Against Trump Stand](https://www.nytimes.com/2026/06/29/us/politics/supreme-court-trump-sexual-assault.html)
-    - [Life Is Better With Siblings](https://www.nytimes.com/2026/06/29/opinion/siblings-families-shrinking.html)
-    - [Supreme Court Upholds Mississippi Late-Arriving Mail-In Ballot Law](https://www.nytimes.com/2026/06/29/us/politics/supreme-court-late-mail-ballots.html)
+    - [A Mystery So Good, Our Columnist Read It in One Sitting](https://www.nytimes.com/2026/06/28/books/review/new-mystery-books.html)
+    - [The Generational Force Hollowing Out the Economy](https://www.nytimes.com/2026/06/29/opinion/ai-economy-affordability.html)
+    - [Don’t Send Checks Through the Mail. Just Don’t.](https://www.nytimes.com/2026/06/26/your-money/paper-checks-mail-fraud.html)
   - WAPO
-    - [The keys to your life savings might be compromised](https://www.washingtonpost.com/opinions/2026/06/29/china-is-exploiting-us-financial-markets-congress-must-respond/)
-    - [Trump-backed ‘Freedom Trucks’ tell a sanitized story of the country’s founding](https://www.washingtonpost.com/education/2026/06/29/freedom-trucks-offer-simplified-upbeat-story-americas-founding/)
-    - [At the Kennedy Center, a prize for Bill Maher — and a lot of Trump jokes](https://www.washingtonpost.com/style/2026/06/29/bill-maher-gets-twain-prize-kennedy-center-with-lots-trump-jokes/)
+    - [House GOP defections block move to attach Trump-backed elections measure to defense bill](https://www.washingtonpost.com/business/2026/06/30/congress-considers-bypassing-filibuster-pass-trump-voting-restrictions/)
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [REGIME CHANGE: Katie’s One-on-One with Maggie Haberman](https://www.youtube.com/watch?v=pLwXXp6XEW0)
-    - [Distributed Systems: A Complete Guide for Beginners](https://www.designgurus.io/blog/a-beginners-guide-to-distributed-systems)
-    - [How To Use and Inject a Mounjaro Pen the RIGHT WAY (not what you think)](https://www.youtube.com/watch?v=pWZevIs6t0c)
+    - [7 Foods to Avoid on Ozempic & Mounjaro (Weight Loss Doctor Explains)](https://www.youtube.com/watch?v=8Rc5arKmS4k)
+    - [T90's Uncle Gets Tower Rushed](https://www.youtube.com/watch?v=F1-MPeqPYyQ)
+    - ['Loser!': Trump explodes after Freedom 250 celebration goes off the rails as organizers scramble to delete the evidence, but it was too late]()
+    - [Yt Farmers RUDE AWAKENING As Bankruptcy Hits Hard /They Demand Black Labor Immediately](https://www.youtube.com/watch?v=ChPsg_iPAQs)
 - PROJECT: C++
   - BOOK: C++, The Comprehensive Guide
     - Part I: Fundamentals
@@ -28,6 +29,8 @@
     - SDL Book
     - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
       - Working on part 4/15 on Shooter
+    - [LazyFoo](https://lazyfoo.net/tutorials/SDL/index.php)
+       - Working on[Event Driven Programming](https://lazyfoo.net/tutorials/SDL/03_event_driven_programming/index.php)
     - Abuse_2025
       - Update to run on Windows with MinGW.
     - [STB Handmade](https://stb.handmade.network/)
