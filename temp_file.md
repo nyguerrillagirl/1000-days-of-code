@@ -1,22 +1,28 @@
-### Day 642: July 1, 2026 (Wednesday)
+### Day 643: July 2, 2026 (Thursday)
 - NOTE FOR THE DAY:
+  - Version of LOAD Runner
+    - https://github.com/SimonHung/LodeRunner_TotalRecall
+    - Download zip file and Unzip day into D:\LoadRunner
+    - Navigate to D:\LoadRunner from the Command Prompt
+    - Enter: python -m http.server 8080
+    - Navigate web browser to: http://127.0.0.1:8080/lodeRunner.html
+  - https://www.youtube.com/@TheAdityaVerma/playlists
   - Download LOADSTAR Magazines (250 disks)
-    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=5
+    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=6
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 3, 91-95
+    - On page 5, 95-100
   - NYT
-    - [A Mystery So Good, Our Columnist Read It in One Sitting](https://www.nytimes.com/2026/06/28/books/review/new-mystery-books.html)
-    - [The Generational Force Hollowing Out the Economy](https://www.nytimes.com/2026/06/29/opinion/ai-economy-affordability.html)
-    - [Don’t Send Checks Through the Mail. Just Don’t.](https://www.nytimes.com/2026/06/26/your-money/paper-checks-mail-fraud.html)
+    - [Control of the Senate Is Up for Grabs, Times/Siena Polls Find](https://www.nytimes.com/2026/07/01/us/politics/polls-senate-control.html)
+    - [Heat Wave Trudges East on Wednesday, Putting Millions More at Risk](https://www.nytimes.com/2026/07/01/weather/fourth-of-july-heat-wave-latest-updates.html)
+    - [What Has Chris Rufo Wrought?](https://www.nytimes.com/2026/06/30/opinion/ezra-klein-podcast-chris-rufo.html)
   - WAPO
-    - [House GOP defections block move to attach Trump-backed elections measure to defense bill](https://www.washingtonpost.com/business/2026/06/30/congress-considers-bypassing-filibuster-pass-trump-voting-restrictions/)
-    - []()
-    - []()
+    - [Voters are angry with Washington, and other takeaways from the Colorado primaries](https://www.washingtonpost.com/politics/2026/07/01/voters-are-angry-with-washington-other-takeaways-colorado-primaries/)
+    - [Every food stall is a mystery at the Great American State Fair](https://www.washingtonpost.com/food/2026/06/30/best-worst-most-bizarre-foods-great-american-state-fair/)
+    - [They built the world’s most powerful AI. They’re facing a mystery they can’t explain.](https://www.washingtonpost.com/technology/2026/07/01/biggest-tech-companies-are-considering-whether-chatbots-have-emotions/)
   - ARTICLES/VIDEOS
-    - [7 Foods to Avoid on Ozempic & Mounjaro (Weight Loss Doctor Explains)](https://www.youtube.com/watch?v=8Rc5arKmS4k)
-    - [T90's Uncle Gets Tower Rushed](https://www.youtube.com/watch?v=F1-MPeqPYyQ)
-    - ['Loser!': Trump explodes after Freedom 250 celebration goes off the rails as organizers scramble to delete the evidence, but it was too late]()
-    - [Yt Farmers RUDE AWAKENING As Bankruptcy Hits Hard /They Demand Black Labor Immediately](https://www.youtube.com/watch?v=ChPsg_iPAQs)
+    - [Stephen Miller floats wild idea after crushing SCOTUS ruling]()
+    - [Mike Johnson's 'Save America Act' plan backfires]()
+    - [Putin just ordered his generals to draw up a plan to take Kyiv — and Ukraine’s top commander explained why it won’t happen]()
 - PROJECT: C++
   - BOOK: C++, The Comprehensive Guide
     - Part I: Fundamentals
@@ -122,6 +128,10 @@
         - This will allow me to complete the book in 90 days from today
       - npm install -D sass
   - Non-Tech Reading
+    - **Paper Girl**, Beth Macy
+      - Working on Chapter 1 - Precipice
+        - She describes the changes to her home town - Urbana. Good jobs are gone. The young
+          kids are less skilled, less educated.  
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part I: The Leader
         - Working on chapter 1: The Dictator: Adolf Hitler
