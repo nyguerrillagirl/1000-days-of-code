@@ -1,28 +1,29 @@
-### Day 643: July 2, 2026 (Thursday)
+### Day 644: July 3, 2026 (Friday)
 - NOTE FOR THE DAY:
-  - Version of LOAD Runner
-    - https://github.com/SimonHung/LodeRunner_TotalRecall
-    - Download zip file and Unzip day into D:\LoadRunner
-    - Navigate to D:\LoadRunner from the Command Prompt
-    - Enter: python -m http.server 8080
-    - Navigate web browser to: http://127.0.0.1:8080/lodeRunner.html
-  - https://www.youtube.com/@TheAdityaVerma/playlists
+  - Books to consider
+    - Lean Analytics, by Croll & Yoskovitz
+    - Naked Statistics, Charles Wheelan
+    - Python for Data Analysis by McKinney
+    - R for Everyone: Advanced Analytics and Graphics
+    - Data Science at the Command Line
+    - I heart logs by Jay Kreps
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=6
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 95-100
+    - On page 5, 101-105
   - NYT
-    - [Control of the Senate Is Up for Grabs, Times/Siena Polls Find](https://www.nytimes.com/2026/07/01/us/politics/polls-senate-control.html)
-    - [Heat Wave Trudges East on Wednesday, Putting Millions More at Risk](https://www.nytimes.com/2026/07/01/weather/fourth-of-july-heat-wave-latest-updates.html)
-    - [What Has Chris Rufo Wrought?](https://www.nytimes.com/2026/06/30/opinion/ezra-klein-podcast-chris-rufo.html)
+    - [When Lifelong Runners Are Forced to Quit](https://www.nytimes.com/2026/06/30/well/move/running-loss-grief.html)
+    - [The Transgender Sports Decision Was About Something Deeper Than Law](https://www.nytimes.com/2026/07/02/opinion/trans-athletes-sports-supreme-court.html)
+    - []()
   - WAPO
-    - [Voters are angry with Washington, and other takeaways from the Colorado primaries](https://www.washingtonpost.com/politics/2026/07/01/voters-are-angry-with-washington-other-takeaways-colorado-primaries/)
-    - [Every food stall is a mystery at the Great American State Fair](https://www.washingtonpost.com/food/2026/06/30/best-worst-most-bizarre-foods-great-american-state-fair/)
-    - [They built the world’s most powerful AI. They’re facing a mystery they can’t explain.](https://www.washingtonpost.com/technology/2026/07/01/biggest-tech-companies-are-considering-whether-chatbots-have-emotions/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Stephen Miller floats wild idea after crushing SCOTUS ruling]()
-    - [Mike Johnson's 'Save America Act' plan backfires]()
-    - [Putin just ordered his generals to draw up a plan to take Kyiv — and Ukraine’s top commander explained why it won’t happen]()
+    - [The GOP’s dirty little secret about the SAVE America Act](https://www.politico.com/news/2026/07/02/save-america-act-mail-voting-00985315)
+    - ['Grim picture' for Bari Weiss as CBS News ratings continue to 'crumble': report]()
+    - [Veteran Trump chronicler floored by 'shocking' mental change: 'He could keep a thought']()
+    - [Ariana Grande's true colours shown as live show goes wrong]()
 - PROJECT: C++
   - BOOK: C++, The Comprehensive Guide
     - Part I: Fundamentals
