@@ -1,29 +1,27 @@
-### Day 644: July 3, 2026 (Friday)
+### Day 645: July 4, 2026 (Saturday)
 - NOTE FOR THE DAY:
-  - Books to consider
-    - Lean Analytics, by Croll & Yoskovitz
-    - Naked Statistics, Charles Wheelan
-    - Python for Data Analysis by McKinney
-    - R for Everyone: Advanced Analytics and Graphics
-    - Data Science at the Command Line
-    - I heart logs by Jay Kreps
+  - Watched many matches from Brazilian Dynasty
+    - Predictions
+        - Liereyy v TaToH       3-1 Liereyy
+        - Sebastian v. Yo       3-0 Sebastian
+        - TheViper v. ACCM      3-1 TheViper
+        - Hera v. FreakinAndy   3-2 Hera
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=6
     - FORMAT: 0xx_LOADSTAR_64
     - On page 5, 101-105
   - NYT
-    - [When Lifelong Runners Are Forced to Quit](https://www.nytimes.com/2026/06/30/well/move/running-loss-grief.html)
-    - [The Transgender Sports Decision Was About Something Deeper Than Law](https://www.nytimes.com/2026/07/02/opinion/trans-athletes-sports-supreme-court.html)
+    - []()
+    - []()
     - []()
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [The GOP’s dirty little secret about the SAVE America Act](https://www.politico.com/news/2026/07/02/save-america-act-mail-voting-00985315)
-    - ['Grim picture' for Bari Weiss as CBS News ratings continue to 'crumble': report]()
-    - [Veteran Trump chronicler floored by 'shocking' mental change: 'He could keep a thought']()
-    - [Ariana Grande's true colours shown as live show goes wrong]()
+    - []()
+    - []()
+    - []()
 - PROJECT: C++
   - BOOK: C++, The Comprehensive Guide
     - Part I: Fundamentals
