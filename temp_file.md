@@ -1,17 +1,17 @@
-### Day 645: July 4, 2026 (Saturday)
+### Day 646: July 5, 2026 (Sunday)
 - NOTE FOR THE DAY:
   - Watched many matches from Brazilian Dynasty
     - Predictions
-        - Liereyy v TaToH       3-1 Liereyy
+        - Liereyy v TaToH       3-1 Liereyy   Actual: (3-0)
         - Sebastian v. Yo       3-0 Sebastian
         - TheViper v. ACCM      3-1 TheViper
         - Hera v. FreakinAndy   3-2 Hera
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=6
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 101-105
+    - On page 5, 106-110
   - NYT
-    - []()
+    - [America at 250](https://www.nytimes.com/2026/07/04/opinion/america-at-250.html)
     - []()
     - []()
   - WAPO
@@ -19,9 +19,13 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [Our Duties and Rights Under the Declaration of Independence | Explainer](https://www.youtube.com/watch?v=Qg03joniGQo)
+    - [Shooters attack the school, but a trained 17-year-old girl saves the day](https://www.youtube.com/watch?v=t2LfwhD1Flk)
+    - [What Happened to the Black Argentines? Is Argentina RACIST?!](https://www.youtube.com/watch?v=WYCW1ShlQtQ)
+- PROJECT NeetcodeIO
+  - Completed [Sqrt(x) - Leetcode 69 - Python](https://www.youtube.com/watch?v=zdMhGxRWutQ&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=7)
+    - Looked up (using Copilot) Babylonian method.
+  - Working on [Binary Tree Postorder Traversal (Iterative) - Leetcode 145 - Python](https://www.youtube.com/watch?v=QhszUQhGGlA&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=2)
 - PROJECT: C++
   - BOOK: C++, The Comprehensive Guide
     - Part I: Fundamentals
