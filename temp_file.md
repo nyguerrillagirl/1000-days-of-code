@@ -1,27 +1,25 @@
-### Day 646: July 5, 2026 (Sunday)
+### Day 647: July 6, 2026 (Monday)
 - NOTE FOR THE DAY:
   - Watched many matches from Brazilian Dynasty
     - Predictions
-        - Liereyy v TaToH       3-1 Liereyy   Actual: (3-0)
-        - Sebastian v. Yo       3-0 Sebastian
-        - TheViper v. ACCM      3-1 TheViper
-        - Hera v. FreakinAndy   3-2 Hera
+        - Liereyy v Yo          3-1 Liereyy Actual: 4-2  
+        - Hera v. ACCM          3-1 Hera    This was TOUGH! Actual: 4-3
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=6
     - FORMAT: 0xx_LOADSTAR_64
     - On page 5, 106-110
   - NYT
-    - [America at 250](https://www.nytimes.com/2026/07/04/opinion/america-at-250.html)
-    - []()
+    - [This California Town Banned Fireworks. Then Came the Dogs.](https://www.nytimes.com/2026/07/04/us/politics/this-california-town-banned-fireworks-then-came-the-dogs.html)
+    - [Threads, Meta’s ‘Twitter Killer,’ Finds Its People](https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html)
     - []()
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Our Duties and Rights Under the Declaration of Independence | Explainer](https://www.youtube.com/watch?v=Qg03joniGQo)
-    - [Shooters attack the school, but a trained 17-year-old girl saves the day](https://www.youtube.com/watch?v=t2LfwhD1Flk)
-    - [What Happened to the Black Argentines? Is Argentina RACIST?!](https://www.youtube.com/watch?v=WYCW1ShlQtQ)
+    - [Wrong About Obama: Took Me Years to Admit It!](https://www.youtube.com/watch?v=aH9zj3MTWo4)
+    - [BBC pundit brands Paraguay an 'absolute disgrace' after France World Cup win]()
+    - []()
 - PROJECT NeetcodeIO
   - Completed [Sqrt(x) - Leetcode 69 - Python](https://www.youtube.com/watch?v=zdMhGxRWutQ&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=7)
     - Looked up (using Copilot) Babylonian method.
@@ -50,12 +48,20 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Introduction to Python
-    - Understanding Data Science
-    - Data Manipulation with pandas
-    - Python Toolbox
-    - Supervised Learning with scikit-learn
-    - Introduction to Statistics
+    - Statistical Thinking in Python (Part 2)
+    - Introduction to Importing Data in R
+    - Joining Data in SQL
+    - Communicating Data Insights
+    - Understanding Cloud Computing
+    - Introduction to Relational Databases in SQL
+    - Large Language Models (LLMs) Concepts
+    - Introduction to Data
+    - Data Manipulation in SQL
+    - Introduction to Databases in Python
+    - Web Scraping in Python
+    - Intermediate SQL
+    - Introduction to SQL
+    - AI Ethics
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
