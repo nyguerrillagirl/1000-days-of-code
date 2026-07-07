@@ -1,29 +1,25 @@
-### Day 647: July 6, 2026 (Monday)
+### Day 648: July 7, 2026 (Tuesday)
 - NOTE FOR THE DAY:
-  - Watched many matches from Brazilian Dynasty
-    - Predictions
-        - Liereyy v Yo          3-1 Liereyy Actual: 4-2  
-        - Hera v. ACCM          3-1 Hera    This was TOUGH! Actual: 4-3
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=6
     - FORMAT: 0xx_LOADSTAR_64
     - On page 5, 106-110
   - NYT
-    - [This California Town Banned Fireworks. Then Came the Dogs.](https://www.nytimes.com/2026/07/04/us/politics/this-california-town-banned-fireworks-then-came-the-dogs.html)
-    - [Threads, Meta’s ‘Twitter Killer,’ Finds Its People](https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html)
+    - []()
+    - []()
     - []()
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Wrong About Obama: Took Me Years to Admit It!](https://www.youtube.com/watch?v=aH9zj3MTWo4)
-    - [BBC pundit brands Paraguay an 'absolute disgrace' after France World Cup win]()
+    - []()
+    - []()
     - []()
 - PROJECT NeetcodeIO
-  - Completed [Sqrt(x) - Leetcode 69 - Python](https://www.youtube.com/watch?v=zdMhGxRWutQ&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=7)
-    - Looked up (using Copilot) Babylonian method.
   - Working on [Binary Tree Postorder Traversal (Iterative) - Leetcode 145 - Python](https://www.youtube.com/watch?v=QhszUQhGGlA&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=2)
+- PROJECT Coding Challenge
+  - Working on Challenge #125 - Online Diff Viewer
 - PROJECT: C++
   - BOOK: C++, The Comprehensive Guide
     - Part I: Fundamentals
