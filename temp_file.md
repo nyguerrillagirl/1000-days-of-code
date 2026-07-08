@@ -1,21 +1,23 @@
-### Day 648: July 7, 2026 (Tuesday)
+### Day 649: July 8, 2026 (Wednesday)
 - NOTE FOR THE DAY:
+  - Added 1000doc-coding-challenges to update_all_repos
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=6
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 106-110
+    - On page 5, 111-115
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Threads, Meta’s ‘Twitter Killer,’ Finds Its People](https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html)
+    - [JD Vance Is Worried](https://www.nytimes.com/2026/07/07/opinion/jd-vance-communion-clash-civilizations.html)
+    - [First American Woman Rows Solo From California to Hawaii](https://www.nytimes.com/2026/07/05/us/rowing-record-pacific-kelsey-pfendler.html)
   - WAPO
-    - []()
+    - [New York City high-rise at risk of collapse, forcing evacuations](https://www.washingtonpost.com/nation/2026/07/07/manhattan-high-rise-risk-collapse-after-columns-buckle/)
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [The family where 12 children slowly lost control]()
+    - [In 'Hidden Valley Road,' A Family's Journey Helps Shift The Science Of Mental Illness](https://www.npr.org/2020/04/05/826695581/in-hidden-valley-road-a-familys-journey-helps-shift-the-science-of-mental-illnes)
+    - [Lawyer reveals 'telling' first thing mom of 16 "feral" children rescued from Ohio home said after arrest]()
+    - ['Leaving MAGA': Former Trump supporters reveal why they left]()
 - PROJECT NeetcodeIO
   - Working on [Binary Tree Postorder Traversal (Iterative) - Leetcode 145 - Python](https://www.youtube.com/watch?v=QhszUQhGGlA&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=2)
 - PROJECT Coding Challenge
@@ -47,17 +49,6 @@
     - Statistical Thinking in Python (Part 2)
     - Introduction to Importing Data in R
     - Joining Data in SQL
-    - Communicating Data Insights
-    - Understanding Cloud Computing
-    - Introduction to Relational Databases in SQL
-    - Large Language Models (LLMs) Concepts
-    - Introduction to Data
-    - Data Manipulation in SQL
-    - Introduction to Databases in Python
-    - Web Scraping in Python
-    - Intermediate SQL
-    - Introduction to SQL
-    - AI Ethics
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
