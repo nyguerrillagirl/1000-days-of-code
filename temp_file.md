@@ -1,5 +1,4 @@
-
-### Day 650: July 9, 2026 (Thursday)
+### Day 651: July 10, 2026 (Friday)
 - NOTE FOR THE DAY:
   - NOT WORKING on Datacamp this week.
     - I think I am tired of it!
@@ -8,19 +7,21 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 5, 116-120
   - NYT
-    - []()
-    - []()
-    - []()
+    - [‘A Slow-Rolling Disaster’: Inside the Implosion of the Platner Campaign](https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html)
+    - [My Sister Asked to Crash My Dinner Date With Her Daughter. Help!](https://www.nytimes.com/2026/07/08/style/one-on-one-quality-time.html)
+    - [Inspector of Buckling Building Cited for Missing Problems at Other Sites](https://www.nytimes.com/2026/07/09/nyregion/nyc-building-collapse-inspection.html)
   - WAPO
-    - []()
+    - [Trump reopens the Iran war — and a political problem he can’t shake](https://www.washingtonpost.com/politics/2026/07/08/trump-reopens-iran-war-political-problem-he-cant-shake/)
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [MAGA Voter Gets INSTANT KARMA after Tearing Down Anti-Trump Signs](https://www.youtube.com/watch?v=6GsRNJGPftk)
+    - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
+    - [Lil’ Marco’s invite to allies gets embarrassing reception]()
 - PROJECT NeetcodeIO
   - Working on [Binary Tree Postorder Traversal (Iterative) - Leetcode 145 - Python](https://www.youtube.com/watch?v=QhszUQhGGlA&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=2)
+- PROJECT: Basic Mathematics
+   - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
 - PROJECT Coding Challenge
   - Working on Challenge #125 - Online Diff Viewer
 - PROJECT: C++
