@@ -1,23 +1,24 @@
-### Day 652: July 11, 2026 (Saturday)
+### Day 653: July 12, 2026 (Sunday)
 - NOTE FOR THE DAY:
   - NOT WORKING on Datacamp this week.
     - I think I am tired of it!
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=7
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 121-125
+    - On page 5, 126-130
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Your Cat Is Being Nice? Think Again](https://www.nytimes.com/2026/07/10/science/cat-grooming-licking-research.html)
+    - [Platner’s Rise and Fall Revives Old Questions About ‘Bernie Bros’ and Women](https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html)
+    - [Buckling Manhattan High Rise Becomes Focus of Criminal Investigation](https://www.nytimes.com/2026/07/10/nyregion/nyc-building-conversion-investigation.html)
+    - [Too Many Books?](https://www.nytimes.com/2026/07/09/style/too-many-books-new-york-city-apartment-scholar-landlord.html?searchResultPosition=1)
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [Parents went to Wingstop, leaving 6 kids — including 2 infants — locked in car on 97-degree day for half-hour: Police]()
+    - [Ivanka and Jared’s luxury resort hit by fresh scandal]()
+    - [Meghan McCain's Mall Show Had No Audience—and No Meghan McCain | The Trio](https://www.youtube.com/watch?v=VUah0gIj5mk)
 - PROJECT NeetcodeIO
   - Working on [Binary Tree Postorder Traversal (Iterative) - Leetcode 145 - Python](https://www.youtube.com/watch?v=QhszUQhGGlA&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=2)
 - PROJECT: Basic Mathematics
