@@ -1,26 +1,26 @@
-### Day 653: July 12, 2026 (Sunday)
+
+### Day 655: July 14, 2026 (Tuesday)
 - NOTE FOR THE DAY:
   - NOT WORKING on Datacamp this week.
     - I think I am tired of it!
   - Download LOADSTAR Magazines (250 disks)
-    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=7
+    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=8
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 126-130
+    - On page 5, 136-140
   - NYT
-    - [Your Cat Is Being Nice? Think Again](https://www.nytimes.com/2026/07/10/science/cat-grooming-licking-research.html)
-    - [Platner’s Rise and Fall Revives Old Questions About ‘Bernie Bros’ and Women](https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html)
-    - [Buckling Manhattan High Rise Becomes Focus of Criminal Investigation](https://www.nytimes.com/2026/07/10/nyregion/nyc-building-conversion-investigation.html)
-    - [Too Many Books?](https://www.nytimes.com/2026/07/09/style/too-many-books-new-york-city-apartment-scholar-landlord.html?searchResultPosition=1)
+    - []()
+    - []()
+    - []()
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Parents went to Wingstop, leaving 6 kids — including 2 infants — locked in car on 97-degree day for half-hour: Police]()
-    - [Ivanka and Jared’s luxury resort hit by fresh scandal]()
-    - [Meghan McCain's Mall Show Had No Audience—and No Meghan McCain | The Trio](https://www.youtube.com/watch?v=VUah0gIj5mk)
+    - []()
+    - []()
+    - []()
 - PROJECT NeetcodeIO
-  - Working on [Binary Tree Postorder Traversal (Iterative) - Leetcode 145 - Python](https://www.youtube.com/watch?v=QhszUQhGGlA&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=2)
+  - Completed [Binary Tree Postorder Traversal (Iterative) - Leetcode 145 - Python](https://www.youtube.com/watch?v=QhszUQhGGlA&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=2)
 - PROJECT: Basic Mathematics
    - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
 - PROJECT Coding Challenge
@@ -31,13 +31,21 @@
       - Working on chapter 4 - C++ Fundamentals
       - current page: 100
   - BOOK: C++20 for Programmers, An Objects-Natural Approach
-    - Working on Chapter 2 - Intro to C++20 Programming
-    - current page: 22, e-book: 110
+    - Working on Chapter 3 - Control Statements: Part 1
+    - current page: 52, e-book: 161
 - PROJECT: RETRO
-    - SDL Book
+    - SDL Book Notes
+        - Working/Reviewing in Chapter 1 - Introduction
+    - SDL Games
+      - [Super Mario Clone](https://github.com/jakowskidev/uMario_Jakowski)
+      - [SDL2 Galaga](https://github.com/OneMeanDragon/SDL2-Galaga)
+      - [SDL2 Tetris](https://github.com/howprice/sdl2-tetris)
+      - [Snake Game SDL](https://github.com/eslam69/Snake-Game-SDL)
+      - [SDL2-demo](https://github.com/Ambidextroid/SDL2-demo)
+      - [space Shooter](https://github.com/andreanlay/space-shooter-sdl2)
     - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
       - Working on part 4/15 on Shooter
-    - [LazyFoo](https://lazyfoo.net/tutorials/SDL/index.php)
+    - [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/index.php)
        - Working on[Event Driven Programming](https://lazyfoo.net/tutorials/SDL/03_event_driven_programming/index.php)
     - Abuse_2025
       - Update to run on Windows with MinGW.
