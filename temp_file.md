@@ -1,5 +1,4 @@
-
-### Day 655: July 14, 2026 (Tuesday)
+### Day 656: July 15, 2026 (Wednesday)
 - NOTE FOR THE DAY:
   - NOT WORKING on Datacamp this week.
     - I think I am tired of it!
@@ -8,7 +7,7 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 5, 136-140
   - NYT
-    - []()
+    - [In Iran, Trump Has Found an Opponent He Cannot Easily Dominate](https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html)
     - []()
     - []()
   - WAPO
@@ -16,7 +15,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
+    - ["You scam people for a living" - Heated Paris street confrontation spirals out of control]()
     - []()
     - []()
 - PROJECT NeetcodeIO
@@ -26,6 +25,7 @@
 - PROJECT Coding Challenge
   - Working on Challenge #125 - Online Diff Viewer
 - PROJECT: C++
+  - Playing with [BigNumber](https://github.com/limeoats/BigNumber)
   - BOOK: C++, The Comprehensive Guide
     - Part I: Fundamentals
       - Working on chapter 4 - C++ Fundamentals
