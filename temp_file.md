@@ -1,4 +1,4 @@
-### Day 656: July 15, 2026 (Wednesday)
+### Day 657: July 16, 2026 (Thursday)
 - NOTE FOR THE DAY:
   - NOT WORKING on Datacamp this week.
     - I think I am tired of it!
@@ -7,7 +7,7 @@
     - FORMAT: 0xx_LOADSTAR_64
     - On page 5, 136-140
   - NYT
-    - [In Iran, Trump Has Found an Opponent He Cannot Easily Dominate](https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html)
+    - []()
     - []()
     - []()
   - WAPO
@@ -15,11 +15,13 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - ["You scam people for a living" - Heated Paris street confrontation spirals out of control]()
+    - []()
     - []()
     - []()
 - PROJECT NeetcodeIO
   - Completed [Binary Tree Postorder Traversal (Iterative) - Leetcode 145 - Python](https://www.youtube.com/watch?v=QhszUQhGGlA&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=2)
+    - DSA Notes
+      - Working on Sliding Windows
 - PROJECT: Basic Mathematics
    - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
 - PROJECT Coding Challenge
@@ -35,7 +37,7 @@
     - current page: 52, e-book: 161
 - PROJECT: RETRO
     - SDL Book Notes
-        - Working/Reviewing in Chapter 1 - Introduction
+        - Working/Reviewing in Chapter 2 - Installing SDL
     - SDL Games
       - [Super Mario Clone](https://github.com/jakowskidev/uMario_Jakowski)
       - [SDL2 Galaga](https://github.com/OneMeanDragon/SDL2-Galaga)
