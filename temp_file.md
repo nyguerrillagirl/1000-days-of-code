@@ -1,23 +1,28 @@
-### Day 657: July 16, 2026 (Thursday)
+### Day 658: July 17, 2026 (Friday)
 - NOTE FOR THE DAY:
+	- Going with Q to see the Odyessy today!
   - NOT WORKING on Datacamp this week.
     - I think I am tired of it!
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=8
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 136-140
+    - On page 5, 141-145
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out](https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html)
+    - [‘It’s One Big Club, and We’re Just Not in It’: These 10 Gen Z Trump Voters Want to See More of a Focus on the Middle Class](https://www.nytimes.com/interactive/2026/07/16/opinion/focus-group-young-trump-voters.html)
+    - [The Odyssey, by Donald Trump](https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html)
+      -  And the world has witnessed how poorly President Trump plans 
+        (by which I mean he doesn’t), how little he understands, 
+        how profligate he can be with our country’s (diminished) arsenal 
+        and what a gallery of fools he has assembled and commands.
   - WAPO
-    - []()
+    - [Trump approval stuck in the 30s amid pessimism on Iran and economy, poll finds](https://www.washingtonpost.com/politics/2026/07/16/trump-approval-stuck-30s-post-ipsos-poll-shows/)
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [Girl uses mallet to smash her way out of hot car, grandfather faces charges]()
+    - [Bodycam footage shows Nantucket official fail sobriety tests after alleged DUI crash]()
+    - [Bonnie Tyler - Yes I Can](https://www.youtube.com/watch?v=4E09EWjSI0c)
 - PROJECT NeetcodeIO
   - Completed [Binary Tree Postorder Traversal (Iterative) - Leetcode 145 - Python](https://www.youtube.com/watch?v=QhszUQhGGlA&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=2)
     - DSA Notes
@@ -33,8 +38,8 @@
       - Working on chapter 4 - C++ Fundamentals
       - current page: 100
   - BOOK: C++20 for Programmers, An Objects-Natural Approach
-    - Working on Chapter 3 - Control Statements: Part 1
-    - current page: 52, e-book: 161
+      - Working on chapter 4 - C++ Fundamentals
+      - current page: 70,  e-book: 186
 - PROJECT: RETRO
     - SDL Book Notes
         - Working/Reviewing in Chapter 2 - Installing SDL
@@ -138,9 +143,7 @@
       - npm install -D sass
   - Non-Tech Reading
     - **Paper Girl**, Beth Macy
-      - Working on Chapter 1 - Precipice
-        - She describes the changes to her home town - Urbana. Good jobs are gone. The young
-          kids are less skilled, less educated.  
+      - Working on Chapter 3 - Bubbles
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part I: The Leader
         - Working on chapter 1: The Dictator: Adolf Hitler
