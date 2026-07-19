@@ -1,6 +1,5 @@
-### Day 659: July 18, 2026 (Saturday)
+### Day 660: July 19, 2026 (Sunday)
 - NOTE FOR THE DAY:
-	- Going with Q to see the Odyessy today!
   - NOT WORKING on Datacamp this week.
     - I think I am tired of it!
   - Download LOADSTAR Magazines (250 disks)
@@ -16,8 +15,8 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
+    - [Inflation isn't just a Trumpflation problem any longer -- there's a new culprit, and it has potentially dire implications for Wall Street]()
+    - [Trump goes insane online as inflation spikes]()
     - []()
 - PROJECT NeetcodeIO
   - Completed [Binary Tree Postorder Traversal (Iterative) - Leetcode 145 - Python](https://www.youtube.com/watch?v=QhszUQhGGlA&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=2)
