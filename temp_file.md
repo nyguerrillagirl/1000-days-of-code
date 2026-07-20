@@ -1,5 +1,7 @@
-### Day 660: July 19, 2026 (Sunday)
+### Day 661: July 20, 2026 (Monday)
 - NOTE FOR THE DAY:
+  - Check each github repo for consistency and accuracy since I did not build
+    many correctly.
   - NOT WORKING on Datacamp this week.
     - I think I am tired of it!
   - Download LOADSTAR Magazines (250 disks)
@@ -15,8 +17,8 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Inflation isn't just a Trumpflation problem any longer -- there's a new culprit, and it has potentially dire implications for Wall Street]()
-    - [Trump goes insane online as inflation spikes]()
+    - []()
+    - []()
     - []()
 - PROJECT NeetcodeIO
   - Completed [Binary Tree Postorder Traversal (Iterative) - Leetcode 145 - Python](https://www.youtube.com/watch?v=QhszUQhGGlA&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=2)
@@ -152,4 +154,4 @@
       - PART IV - To Prove Its Worth
        - Working on chapter 11 - Business Decisions (page: 139)
 - GRADE: 
-  - NA
+  - NA  
