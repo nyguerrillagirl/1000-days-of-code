@@ -1,25 +1,34 @@
-### Day 661: July 20, 2026 (Monday)
+### Day 662: July 21, 2026 (Tuesday)
 - NOTE FOR THE DAY:
   - Check each github repo for consistency and accuracy since I did not build
     many correctly.
-  - NOT WORKING on Datacamp this week.
-    - I think I am tired of it!
+    |REPO TO CHECK				            |STATUS|
+    | ------------------------------------- | ---- |
+    |1000doc-dos-games                      | |
+    |1000doc-godot-projects                 | |
+    |1000doc-html-css-javascript-projects   | |
+    |1000doc-intellij-projects              | CORRUPT |
+    |1000doc-react-projects                 | |
+    |1000doc-sdl2-create-games              | |
+    |1000doc-windows-programming            | |
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=8
     - FORMAT: 0xx_LOADSTAR_64
     - On page 5, 146-150
   - NYT
-    - []()
-    - []()
+    - [How a Professor Lives on $130,000 in Marine Park, Brooklyn](https://www.nytimes.com/interactive/2026/07/20/nyregion/nyc-budgeting-affordability-evans.html)
+    - [In Maine Senate Race, Democrats Go From Chaos to Coronation](https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html)
     - []()
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
+    - [Woman Filmed Her Move-In - Landlord Had NO IDEA What Was Coming](https://www.youtube.com/watch?v=DNF5PFz35Jc&t=18s)
     - []()
     - []()
-    - []()
+    - [Keynote: After the AI Hype – What’s Real, and What’s Next - Richard Campbell - 2026](https://www.youtube.com/watch?v=uWnUnMphmPM)
+      - completed this today
 - PROJECT NeetcodeIO
   - Completed [Binary Tree Postorder Traversal (Iterative) - Leetcode 145 - Python](https://www.youtube.com/watch?v=QhszUQhGGlA&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=2)
     - DSA Notes
@@ -62,12 +71,16 @@
   - Practice:
     - Statistical Thinking in Python (Part 2)
     - Introduction to Importing Data in R
-    - Joining Data in SQL
+    - Introduction to Java
+    - Sampling in Python
+    - Communicating Data Insights
+    - Introduction to Relational Databases in SQL
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Data Warehousing Concepts
-    - Working on chapter 1/4 - Data Warehousing Basics
+    - Completed chapter 2/4 - Data Warehousing Basics
+    - Working on Chapter 3/4 - Data Warehouse Data Modeling
   - Course: Hypothesis Testing in Python
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
   - Course: Database Design
