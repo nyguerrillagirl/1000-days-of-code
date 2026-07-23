@@ -1,19 +1,19 @@
-### Day 663: July 22, 2026 (Wednesday)
+### Day 664: July 23, 2026 (Thursday)
 - NOTE FOR THE DAY:
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=8
     - FORMAT: 0xx_LOADSTAR_64
     - On page 5, 146-150
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Texas Book List: See What Students Will Be Required to Read](https://www.nytimes.com/2026/07/20/us/texas-schools-required-reading-books.html)
+    - [Trump’s New Insult Won’t Save Republicans](https://www.nytimes.com/2026/07/22/opinion/trump-red-scare-midterms.html)
+    - [Women Are Too Controlling, She Wrote. Her Message Still Resonates.](https://www.nytimes.com/2026/07/22/us/laura-doyle-surrendered-wife.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Amazon, gig companies see spike in workers on SNAP and Medicaid, study shows](https://www.washingtonpost.com/business/2026/07/22/amazon-gig-companies-see-spike-workers-snap-medicaid-study-shows/)
+    - [GLP-1s benefit women in a way that no one is talking about](https://www.washingtonpost.com/food/2026/07/22/ozempic-wegovy-are-especially-helpful-women-these-reasons/)
+    - [ChatGPT owner says AI acted on its own to hack another tech firm](https://www.washingtonpost.com/technology/2026/07/21/openais-latest-ai-agent-escaped-security-controls-hacked-tech-company/)
   - ARTICLES/VIDEOS
-    - []()
+    - [Something weird is happening beneath the stock market’s surface]()
     - []()
     - []()
 - PROJECT NeetcodeIO
@@ -58,18 +58,15 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Warehouse Architectures and Properties
-    - Database Schemas and Normalization
-    - Intermediate Importing Data in R
-    - Introduction to Data
-    - Data Manipulation in SQL
-    - Introduction to Databases in Python
+    - Data Warehouse Data Modeling
+    - Joining Data in SQL
+    - Working with Categorical Data in Python
+    - Web Scraping in Python
+    - Intermediate SQL
+    - Introduction to SQL
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
-  - Course: Data Warehousing Concepts
-    - Completed Chapter 3/4 - Data Warehouse Data Modeling
-    - Working on Chapter 4/4 - ETL and ELT
   - Course: Hypothesis Testing in Python
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
   - Course: Database Design
@@ -141,15 +138,15 @@
       - npm install -D sass
   - Non-Tech Reading
     - **Paper Girl**, Beth Macy
-      - Working on Chapter 3 - Bubbles
+      - Working on Chapter 4 - ?????
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part I: The Leader
         - Working on chapter 1: The Dictator: Adolf Hitler
-          - In reading this chapter I believe that Hitler truly believed the things he expounded.
-          - On 30 January 1933 the Nazi leader was duly appointed Reich Chancellor in a coalition cabinet in which 
-            Papen was Vice-Chancellor, and all other posts went to members of his and Hindenburg’s circle, except for 
-            the Ministry of the Interior, to which one of the leading Nazis,
-      - current page: 61
+          - as soon as the seizure of power got under way, Hitler, together
+            with the ever-willing Goebbels, began to translate his visceral and obsessive
+            hatred and fear of Jews into action, setting the political and ideological
+            context for waves of seemingly spontaneous antisemitic violence
+      - current page: 77
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
