@@ -1,25 +1,25 @@
-### Day 664: July 23, 2026 (Thursday)
+### Day 665: July 24, 2026 (Friday)
 - NOTE FOR THE DAY:
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=8
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 146-150
+    - On page 5, 151-155
   - NYT
-    - [Texas Book List: See What Students Will Be Required to Read](https://www.nytimes.com/2026/07/20/us/texas-schools-required-reading-books.html)
-    - [Trump’s New Insult Won’t Save Republicans](https://www.nytimes.com/2026/07/22/opinion/trump-red-scare-midterms.html)
-    - [Women Are Too Controlling, She Wrote. Her Message Still Resonates.](https://www.nytimes.com/2026/07/22/us/laura-doyle-surrendered-wife.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Amazon, gig companies see spike in workers on SNAP and Medicaid, study shows](https://www.washingtonpost.com/business/2026/07/22/amazon-gig-companies-see-spike-workers-snap-medicaid-study-shows/)
-    - [GLP-1s benefit women in a way that no one is talking about](https://www.washingtonpost.com/food/2026/07/22/ozempic-wegovy-are-especially-helpful-women-these-reasons/)
-    - [ChatGPT owner says AI acted on its own to hack another tech firm](https://www.washingtonpost.com/technology/2026/07/21/openais-latest-ai-agent-escaped-security-controls-hacked-tech-company/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Something weird is happening beneath the stock market’s surface]()
+    - []()
     - []()
     - []()
 - PROJECT NeetcodeIO
-  - Completed [Binary Tree Postorder Traversal (Iterative) - Leetcode 145 - Python](https://www.youtube.com/watch?v=QhszUQhGGlA&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=2)
-    - [FreeCodeCamp - Design Patterns](https://www.freecodecamp.org/news/tag/design-patterns/)
-      - Explored how to STOP using a God-class/entity to decide what strategy to use.
+  - Working on Leetcode problem [Binary Tree Postorder Traversal (Iterative) - Leetcode 145 - Python](https://www.youtube.com/watch?v=QhszUQhGGlA&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=2)
+    - Submited to Leetcode a recursive solution
+    - Next: non-recursive
     - DSA Notes
       - Working on Sliding Windows
 - PROJECT: Basic Mathematics
@@ -58,12 +58,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Data Warehouse Data Modeling
-    - Joining Data in SQL
-    - Working with Categorical Data in Python
-    - Web Scraping in Python
-    - Intermediate SQL
-    - Introduction to SQL
+    - Data Warehouse Concepts
+    - Working with Dates and Times in Python
+    - Intermediate R
+    - AI Ethics
+    - Generative AI Concepts
+    - Intermediate Python for Developers
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
