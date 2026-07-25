@@ -1,9 +1,9 @@
-### Day 665: July 24, 2026 (Friday)
+### Day 666: July 25, 2026 (Saturday)
 - NOTE FOR THE DAY:
   - Download LOADSTAR Magazines (250 disks)
-    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=8
+    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=9
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 151-155
+    - On page 5, 156-160
   - NYT
     - []()
     - []()
@@ -13,7 +13,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
+    - [What Translator Emily Wilson Thinks of Christopher Nolan’s ‘The Odyssey' | Plain English](https://www.youtube.com/watch?v=ywEJesNh0pY)
     - []()
     - []()
 - PROJECT NeetcodeIO
@@ -21,6 +21,7 @@
     - Submited to Leetcode a recursive solution
     - Next: non-recursive
     - DSA Notes
+      - Strategy Design Pattern 
       - Working on Sliding Windows
 - PROJECT: Basic Mathematics
    - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
@@ -58,12 +59,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Data Warehouse Concepts
+    - Introduction to R
+    - Writing Functions in Python
+    - Introduction to Object-Oriented Programming in Python
+    - Communicating Data Insights
+    - Software Engineering Principles in Python
     - Working with Dates and Times in Python
-    - Intermediate R
-    - AI Ethics
-    - Generative AI Concepts
-    - Intermediate Python for Developers
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -105,6 +106,12 @@
 - PROJECT: REAL PYTHON
   - [Regular Expressions and Building Regexes in Python](https://realpython.com/courses/building-regexes-python/)   
   - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
+  - [Python Best Practices](https://realpython.com/ref/best-practices/)
+    - Completed notes on type checking
+      - Looked up mypy, Pyright, and Ty
+  - [type checking](https://realpython.com/ref/best-practices/type-checking/)
+    - Working on these notes
+  - [Course: Python Type Checking: Overview](https://realpython.com/videos/python-type-checking-overview/)
 - PROJECT: Learning Data Science with Python Workbook (LDSPW)
     - Statistics
       - Working on Probability Bootcamp - https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V
