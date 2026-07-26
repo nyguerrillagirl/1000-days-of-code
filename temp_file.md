@@ -1,9 +1,9 @@
-### Day 666: July 25, 2026 (Saturday)
+### Day 667: July 26, 2026 (Sunday)
 - NOTE FOR THE DAY:
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=9
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 156-160
+    - On page 5, 161-165
   - NYT
     - []()
     - []()
@@ -13,16 +13,16 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [What Translator Emily Wilson Thinks of Christopher Nolan’s ‘The Odyssey' | Plain English](https://www.youtube.com/watch?v=ywEJesNh0pY)
+    - [They PUSHED TOO FAR With This - Dr. Eddie S. Glaude, Jr.](https://www.youtube.com/watch?v=M4HwylrRMuc)
     - []()
     - []()
 - PROJECT NeetcodeIO
-  - Working on Leetcode problem [Binary Tree Postorder Traversal (Iterative) - Leetcode 145 - Python](https://www.youtube.com/watch?v=QhszUQhGGlA&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW&index=2)
-    - Submited to Leetcode a recursive solution
-    - Next: non-recursive
+  - Design Patterns
+    - Started Notes on Design Patterns
     - DSA Notes
       - Strategy Design Pattern 
-      - Working on Sliding Windows
+        - Check Arjan code
+      - Working on Sliding Windows Problem
 - PROJECT: Basic Mathematics
    - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
 - PROJECT Coding Challenge
@@ -59,12 +59,10 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Introduction to R
-    - Writing Functions in Python
-    - Introduction to Object-Oriented Programming in Python
-    - Communicating Data Insights
-    - Software Engineering Principles in Python
-    - Working with Dates and Times in Python
+    - Writing Efficient Python Code
+    - Introduction to the Tidyverse
+    - Introduction to Data Science in Python
+    - Cleaning Data in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
