@@ -13,8 +13,8 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [They PUSHED TOO FAR With This - Dr. Eddie S. Glaude, Jr.](https://www.youtube.com/watch?v=M4HwylrRMuc)
-    - []()
+    - [Report from inside the White House reveals Trump is lashing out over problem he himself started]()
+    - [The Story of Python and how it took over the world | Python: The Documentary](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
     - []()
 - PROJECT NeetcodeIO
   - Design Patterns
@@ -23,6 +23,10 @@
       - Strategy Design Pattern 
         - Check Arjan code
       - Working on Sliding Windows Problem
+- PROJECT: Java
+  - Working on Java Interview Questions
+    - explored "Why is Java String immutable"
+    - read about TOCTOU vulnerability 
 - PROJECT: Basic Mathematics
    - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
 - PROJECT Coding Challenge
