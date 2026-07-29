@@ -1,21 +1,22 @@
-### Day 667: July 26, 2026 (Sunday)
+### Day 670: July 29, 2026 (Wednesday)
 - NOTE FOR THE DAY:
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=9
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 161-165
+    - On page 5, 171-175
   - NYT
     - []()
     - []()
-    - []()
+    - []()  
   - WAPO
     - []()
     - []()
-    - []()
+    - []()  
   - ARTICLES/VIDEOS
-    - [Report from inside the White House reveals Trump is lashing out over problem he himself started]()
     - [The Story of Python and how it took over the world | Python: The Documentary](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
-    - []()
+    - [I was sold for $200 - North Korean woman's escape from hell exposed]()
+    - [Trump ends press conference after exchange with reporter - my analysis]()
+    - []()    
 - PROJECT NeetcodeIO
   - Design Patterns
     - Started Notes on Design Patterns
@@ -63,10 +64,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Writing Efficient Python Code
-    - Introduction to the Tidyverse
-    - Introduction to Data Science in Python
-    - Cleaning Data in Python
+    - Understanding Cloud Computing
+    - Understanding Machine Learning
+    - Object-Oriented Programming in Python
+    - Data Warehousing Concepts
+    - Introduction to Java
+    - Communicating Data Insights
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
