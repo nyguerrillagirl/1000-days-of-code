@@ -1,22 +1,23 @@
-### Day 670: July 29, 2026 (Wednesday)
+### Day 671: July 30, 2026 (Thursday)
 - NOTE FOR THE DAY:
   - Download LOADSTAR Magazines (250 disks)
-    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=9
+    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=10
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 171-175
+    - On page 5, 176-180
   - NYT
-    - []()
-    - []()
-    - []()  
+    - [The Silicon Valley Health Trend Making Doctors Nervous](https://www.nytimes.com/2026/07/29/opinion/health-data-trend-body.html)
+    - [The Art on the Walls Is Challenging. The Menu at Marcel Is Not.](https://www.nytimes.com/2026/07/28/dining/restaurant-review-marcel-nyc.html)
+    - [Trump Administration Live Updates: Fauci Repeatedly Refuses to Answer Senators’ Questions at Volatile Hearing](https://www.nytimes.com/live/2026/07/29/us/trump-news-fauci-hearing)  
+    - [Matt Damon’s Biceps in That ‘Odyssey’ Fight Scene? They’re Hers.](https://www.nytimes.com/2026/07/29/style/devyn-dalton-matt-damon-stuntwoman-odyssey.html)
   - WAPO
-    - []()
+    - [Jacobsen’s ‘Biological War’ is a disturbing summons to seriousness](https://www.washingtonpost.com/opinions/2026/07/29/annie-jacobsen-biological-war-plausibly-describes-catastrophe/)
     - []()
     - []()  
   - ARTICLES/VIDEOS
     - [The Story of Python and how it took over the world | Python: The Documentary](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
     - [I was sold for $200 - North Korean woman's escape from hell exposed]()
     - [Trump ends press conference after exchange with reporter - my analysis]()
-    - []()    
+    - [How I Blew Up—Then Rebuilt—My Life](https://www.vanityfair.com/story/gavin-newsom-ruby-rippey-essay?srsltid=AfmBOooLAW7SsjTnMmJmIfZVWagGLeqvTrl1lZNYVAb2uor1Bx-kiiDt)    
 - PROJECT NeetcodeIO
   - Design Patterns
     - Started Notes on Design Patterns
@@ -26,8 +27,7 @@
       - Working on Sliding Windows Problem
 - PROJECT: Java
   - Working on Java Interview Questions
-    - explored "Why is Java String immutable"
-    - read about TOCTOU vulnerability 
+    - explored "What is the difference between == and .equals()"
 - PROJECT: Basic Mathematics
    - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
 - PROJECT Coding Challenge
@@ -64,12 +64,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Understanding Cloud Computing
-    - Understanding Machine Learning
-    - Object-Oriented Programming in Python
-    - Data Warehousing Concepts
-    - Introduction to Java
-    - Communicating Data Insights
+    - Processing, Storing, and Organizing Data
+    - Introduction to Data Visualizations with Matplotlib
+    - Simple Linear Regression Models
+    - Introduction to Relational Databases in SQL
+    - Large Language Models (LLMs) Concepts
+    - Data Manipulation in SQL
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -150,7 +150,8 @@
       - npm install -D sass
   - Non-Tech Reading
     - **Paper Girl**, Beth Macy
-      - Working on Chapter 4 - ?????
+      - Part II: Silos
+        - Working on chapter 6 - Homecoming
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part I: The Leader
         - Working on chapter 1: The Dictator: Adolf Hitler
