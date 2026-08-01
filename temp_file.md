@@ -1,17 +1,17 @@
-### Day 672: July 31, 2026 (Friday)
+### Day 673: August 1, 2026 (Saturday)
 - NOTE FOR THE DAY:
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=10
     - FORMAT: 0xx_LOADSTAR_64
     - On page 5, 176-180
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Do I Have to Keep Housing My Slovenly, Unemployed Brother-in-Law?](https://www.nytimes.com/2026/07/29/magazine/housing-brother-in-law-ethics.html)
+    - [What to Know About Ceuta](https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html)
+    - [‘The Proximity to Trump Is a Stain at This Point’](https://www.nytimes.com/2026/07/31/opinion/vivek-ramaswamy-ohio-trump.html)
   - WAPO
-    - []()
-    - []()
-    - []() 
+    - [U.S. spy agencies suspect Iran launched cyberattack on Minnesota water facilities](https://www.washingtonpost.com/national-security/2026/07/30/us-spy-agencies-suspect-iran-launched-cyberattack-minnesota-water-facilities/)
+    - [The biggest gamble in the U.S. economy is starting to look riskier](https://www.washingtonpost.com/technology/2026/07/31/tech-giants-burning-cash-ai-create-risks-whole-economy/)
+    - [If you want to keep your relationship strong, do more of this](https://www.washingtonpost.com/wellness/2026/07/27/why-asking-question-is-key-strong-relationship/) 
   - ARTICLES/VIDEOS
     - [The Story of Python and how it took over the world | Python: The Documentary](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
     - [Channel 5's Andrew Callaghan speaks about the lawsuit over "Dear Kelly" documentary]()
@@ -22,6 +22,8 @@
     - Started Notes on Design Patterns
   - DSA Notes
     - Working on Sliding Windows Problem
+      - A program that received a score of 80% yesterday, got 8% today. It appears
+        the leetscore is dynamic and not stable!
 - PROJECT: Java
   - Working on Java Interview Questions
     - explored "What is the difference between == and .equals()"
@@ -61,12 +63,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Understanding ChatGPT
-    - Introduction to NumPy
-    - Introduction to Importing Data in Python
-    - Introduction to Data Science in Python
-    - Data Manipulation in SQL
-    - Introduction to Statistics
+    - Introduction to Python
+    - Understanding Data Visualization
+    - Intermediate Python
+    - Web Scraping in Python
+    - Exploratory Data Analysis in Python
+    - Software Engineering Principles in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -78,7 +80,12 @@
   - Course: Introduction to Data Literacy
     - Working on chapter 1/4 - Data Literacy Basics
   - Course: Intermediate Importing Data in Python
-    - Working on chapter 1/3 - Importing data from the Internet    
+    - Completed chapter 1/3 - Importing data from the Internet  
+    - Completed chapter 2/3 - Introduction to APIs and JSONs
+    - Completed on chapter 3/3 - The Twitter API and Authentication
+    - Completed Course!!!
+  - Course: Introduction to APIs in Python
+    - Setting up
 - PROJECT: Brainycode Magazine
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
     - review
@@ -163,4 +170,4 @@
       - PART IV - To Prove Its Worth
        - Working on chapter 11 - Business Decisions (page: 139)
 - GRADE: 
-  - NA  
+  - NA 
