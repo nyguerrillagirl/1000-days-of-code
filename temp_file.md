@@ -1,22 +1,22 @@
-### Day 673: August 1, 2026 (Saturday)
+### Day 674: August 2, 2026 (Sunday)
 - NOTE FOR THE DAY:
+  - Watched most of the Legaue matches today.
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=10
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 176-180
+    - On page 5, 181-185
   - NYT
-    - [Do I Have to Keep Housing My Slovenly, Unemployed Brother-in-Law?](https://www.nytimes.com/2026/07/29/magazine/housing-brother-in-law-ethics.html)
-    - [What to Know About Ceuta](https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html)
-    - [‘The Proximity to Trump Is a Stain at This Point’](https://www.nytimes.com/2026/07/31/opinion/vivek-ramaswamy-ohio-trump.html)
+    - [Charges Dropped in Reflecting Pool Case as Prosecutors Say Work Was ‘Botched’](https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html)
+    - [Visuals Suggest U.S. Dropped 2,000-Pound Bomb on Home in Iran, Killing 3](https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html)
+    - [She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.](https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html)
   - WAPO
-    - [U.S. spy agencies suspect Iran launched cyberattack on Minnesota water facilities](https://www.washingtonpost.com/national-security/2026/07/30/us-spy-agencies-suspect-iran-launched-cyberattack-minnesota-water-facilities/)
-    - [The biggest gamble in the U.S. economy is starting to look riskier](https://www.washingtonpost.com/technology/2026/07/31/tech-giants-burning-cash-ai-create-risks-whole-economy/)
-    - [If you want to keep your relationship strong, do more of this](https://www.washingtonpost.com/wellness/2026/07/27/why-asking-question-is-key-strong-relationship/) 
+    - [The last day of an American factory](https://www.washingtonpost.com/politics/2026/08/01/conn-selmer-factory-closes-ohio-despite-trumps-manufacturing-push/)
+    - []()
+    - []()
   - ARTICLES/VIDEOS
     - [The Story of Python and how it took over the world | Python: The Documentary](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
-    - [Channel 5's Andrew Callaghan speaks about the lawsuit over "Dear Kelly" documentary]()
-    - [Melania and Donald's awkward moments just keep coming]()
-    - [MAGA congressman and former Trump advisor accused of heinous violence against ex-wife and toddler]()  
+    - [Red-state residents rage at Trump as they sell blood and burst into tears]()
+    - [MS NOW host in disbelief at astounding James Carville Trump prediction]()
 - PROJECT NeetcodeIO
   - Design Patterns
     - Started Notes on Design Patterns
@@ -63,12 +63,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Introduction to Python
-    - Understanding Data Visualization
-    - Intermediate Python
-    - Web Scraping in Python
-    - Exploratory Data Analysis in Python
-    - Software Engineering Principles in Python
+    - Intermediate Importing Data in Python
+    - Introduction to Importing Data in R
+    - Communicating Data Insights
+    - Understanding Cloud Computing
+    - Introduction to Relational Databases in SQL
+    - Large Language Models (LLMs) Concepts
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -79,11 +79,6 @@
     - Working on chapter 3/4 - Database views
   - Course: Introduction to Data Literacy
     - Working on chapter 1/4 - Data Literacy Basics
-  - Course: Intermediate Importing Data in Python
-    - Completed chapter 1/3 - Importing data from the Internet  
-    - Completed chapter 2/3 - Introduction to APIs and JSONs
-    - Completed on chapter 3/3 - The Twitter API and Authentication
-    - Completed Course!!!
   - Course: Introduction to APIs in Python
     - Setting up
 - PROJECT: Brainycode Magazine
@@ -155,15 +150,15 @@
   - Non-Tech Reading
     - **Paper Girl**, Beth Macy
       - Part II: Silos
-        - Working on chapter 6 - Homecoming
+        - Working on chapter 7 - Strangers
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
-      - Part I: The Leader
-        - Working on chapter 1: The Dictator: Adolf Hitler
-          - as soon as the seizure of power got under way, Hitler, together
-            with the ever-willing Goebbels, began to translate his visceral and obsessive
-            hatred and fear of Jews into action, setting the political and ideological
-            context for waves of seemingly spontaneous antisemitic violence
-      - current page: 95, chapter_end: 124
+      - Part II: The Paladins
+        - Working on chapter: Introduction
+          - ‘It would be interesting,’ the historian Christoph Klessmann wrote in 1971,
+            ‘generally to pursue the question of the extent to which fascist systems are
+            particularly and inherently liable to bring deracinated criminals or
+            psychopaths into leadership positions.’        
+      - current page: 126, chapter_end: 130
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
