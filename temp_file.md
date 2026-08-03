@@ -1,22 +1,34 @@
-### Day 674: August 2, 2026 (Sunday)
+### Day 675: August 3, 2026 (Monday)
 - NOTE FOR THE DAY:
-  - Watched most of the Legaue matches today.
+  - Planning on watching most of the League matches
+    - LY v. CNZS    3-0 LY  
+    - DS v. Amigos  3-2 DS
+    - Oni Barbe v. NOC  Oni 3-2
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=10
     - FORMAT: 0xx_LOADSTAR_64
     - On page 5, 181-185
   - NYT
-    - [Charges Dropped in Reflecting Pool Case as Prosecutors Say Work Was ‘Botched’](https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html)
-    - [Visuals Suggest U.S. Dropped 2,000-Pound Bomb on Home in Iran, Killing 3](https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html)
-    - [She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.](https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html)
+    - [Meet the Americans Who Can’t Afford Hair Cuts or Toilet Paper](https://www.nytimes.com/2026/08/01/opinion/poverty-america-oklahoma.html?searchResultPosition=2)
+      - On this trip, I talked to so many people who are losing food stamps and 
+        other benefits and increasingly desperate — and resentful, understandably, 
+        of elites who seem indifferent to their struggles. 
+        A recent Washington Post-Ipsos poll found that two-thirds of Americans 
+        consider groceries unaffordable.
+    - [My Partner Lied About His Marriage, Then Dumped Me. Should I Go Quietly?](https://www.nytimes.com/2026/08/01/magazine/partner-lied-about-his-marriage-ethics.html)
+    - [How a Top Law Firm Went From Standing Up to Trump to Bending the Knee](https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html)
   - WAPO
-    - [The last day of an American factory](https://www.washingtonpost.com/politics/2026/08/01/conn-selmer-factory-closes-ohio-despite-trumps-manufacturing-push/)
-    - []()
-    - []()
+    - [How rogue officers turned a nationwide camera network into a tool for stalking](https://www.washingtonpost.com/technology/2026/08/02/how-police-officers-used-vast-network-cameras-spy-their-exes/)
+    - [The intense pressure facing Fauci, as GOP lawmakers push for his jailing](https://www.washingtonpost.com/politics/2026/08/02/faucis-critics-have-power-theyre-coming-after-his-pandemic-record/)
+    - [Sen. Bernie Moreno says Rep. Max Miller is ‘a danger,’ shouldn’t be in Congress](https://www.washingtonpost.com/politics/2026/08/02/sen-bernie-moreno-says-former-son-in-law-rep-max-miller-is-danger/)
+    - [Abdul El-Sayed, accused of sexism, says his contempt is for most everyone](https://www.washingtonpost.com/politics/2026/08/02/abdul-el-sayed-accused-sexism-michigan-senate-democratic-primary/)
   - ARTICLES/VIDEOS
     - [The Story of Python and how it took over the world | Python: The Documentary](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
     - [Red-state residents rage at Trump as they sell blood and burst into tears]()
     - [MS NOW host in disbelief at astounding James Carville Trump prediction]()
+    - [Lili Taylor says she couldn’t figure out how to portray ‘complicated’ Valerie Solanas until the night before filming “I Shot Andy Warhol”]()
+    - [Valeris Solanas](https://en.wikipedia.org/wiki/Valerie_Solanas)
+    - [I was convinced I was going to meet my soulmate – but I had been lied to in the worst way]()
 - PROJECT NeetcodeIO
   - Design Patterns
     - Started Notes on Design Patterns
@@ -63,12 +75,8 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Intermediate Importing Data in Python
-    - Introduction to Importing Data in R
-    - Communicating Data Insights
-    - Understanding Cloud Computing
-    - Introduction to Relational Databases in SQL
-    - Large Language Models (LLMs) Concepts
+    - Intermediate Importing Data in R
+    - Introduction to Statistics in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -132,9 +140,9 @@
   - Tech Reading
     - Professional CMake
       - Part I: Fundamentals
-        - Completed Chapter 1/28 - Introduction
-        - Working on Chapter 2/28 - Setting Up A Project
-        - current page:15
+        - Completed Chapter 2/28 - Setting Up A Project
+        - Working on Chapter 3/28 - A Minimal Project
+        - current page:19
     - Manning Publishing
       - Statistics Every Programmer Needs
         - Working on Chapter 2/24 - Exploring probability and counting
