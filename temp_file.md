@@ -1,41 +1,35 @@
-### Day 675: August 3, 2026 (Monday)
+### Day 676: August 4, 2026 (Tuesday)
 - NOTE FOR THE DAY:
-  - Planning on watching most of the League matches
-    - LY v. CNZS    3-0 LY  
-    - DS v. Amigos  3-2 DS
-    - Oni Barbe v. NOC  Oni 3-2
+  - Working on organizing my ebook list 
+    - AI
+      - Added new Project section below
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=10
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 181-185
+    - On page 5, 186-190
   - NYT
-    - [Meet the Americans Who Can’t Afford Hair Cuts or Toilet Paper](https://www.nytimes.com/2026/08/01/opinion/poverty-america-oklahoma.html?searchResultPosition=2)
-      - On this trip, I talked to so many people who are losing food stamps and 
-        other benefits and increasingly desperate — and resentful, understandably, 
-        of elites who seem indifferent to their struggles. 
-        A recent Washington Post-Ipsos poll found that two-thirds of Americans 
-        consider groceries unaffordable.
-    - [My Partner Lied About His Marriage, Then Dumped Me. Should I Go Quietly?](https://www.nytimes.com/2026/08/01/magazine/partner-lied-about-his-marriage-ethics.html)
-    - [How a Top Law Firm Went From Standing Up to Trump to Bending the Knee](https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [How rogue officers turned a nationwide camera network into a tool for stalking](https://www.washingtonpost.com/technology/2026/08/02/how-police-officers-used-vast-network-cameras-spy-their-exes/)
-    - [The intense pressure facing Fauci, as GOP lawmakers push for his jailing](https://www.washingtonpost.com/politics/2026/08/02/faucis-critics-have-power-theyre-coming-after-his-pandemic-record/)
-    - [Sen. Bernie Moreno says Rep. Max Miller is ‘a danger,’ shouldn’t be in Congress](https://www.washingtonpost.com/politics/2026/08/02/sen-bernie-moreno-says-former-son-in-law-rep-max-miller-is-danger/)
-    - [Abdul El-Sayed, accused of sexism, says his contempt is for most everyone](https://www.washingtonpost.com/politics/2026/08/02/abdul-el-sayed-accused-sexism-michigan-senate-democratic-primary/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
     - [The Story of Python and how it took over the world | Python: The Documentary](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
-    - [Red-state residents rage at Trump as they sell blood and burst into tears]()
-    - [MS NOW host in disbelief at astounding James Carville Trump prediction]()
-    - [Lili Taylor says she couldn’t figure out how to portray ‘complicated’ Valerie Solanas until the night before filming “I Shot Andy Warhol”]()
-    - [Valeris Solanas](https://en.wikipedia.org/wiki/Valerie_Solanas)
-    - [I was convinced I was going to meet my soulmate – but I had been lied to in the worst way]()
+    - [We Forced Tim to Watch Yet Another Crazy Trump Presser](https://www.youtube.com/watch?v=UyuZ34K_pz0)
+    - []()
+    - []()
 - PROJECT NeetcodeIO
   - Design Patterns
     - Started Notes on Design Patterns
   - DSA Notes
     - Working on Sliding Windows Problem
-      - A program that received a score of 80% yesterday, got 8% today. It appears
-        the leetscore is dynamic and not stable!
+      - working on another sliding window program
+- PROJECT: AI
+  - Grokking Machine Learning
+  - The Hundred Page Machine Learning Book
+  - [The Agentic Systems Series](https://gerred.github.io/building-an-agentic-system/)
 - PROJECT: Java
   - Working on Java Interview Questions
     - explored "What is the difference between == and .equals()"
@@ -140,9 +134,8 @@
   - Tech Reading
     - Professional CMake
       - Part I: Fundamentals
-        - Completed Chapter 2/28 - Setting Up A Project
-        - Working on Chapter 3/28 - A Minimal Project
-        - current page:19
+         - Working on Chapter 3/28 - A Minimal Project
+        - current page:19, last page in working chapter: 23
     - Manning Publishing
       - Statistics Every Programmer Needs
         - Working on Chapter 2/24 - Exploring probability and counting
