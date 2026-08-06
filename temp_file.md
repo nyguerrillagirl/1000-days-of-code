@@ -1,29 +1,34 @@
-### Day 677: August 5, 2026 (Wednesday)
+### Day 678: August 6, 2026 (Thursday)
 - NOTE FOR THE DAY:
+  - PROJECT: REMINDER
+    - Create a Python program that runs at the start of the month to remind me to 
+      schedule payments to cc.
+      - Write design notes
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=10
     - FORMAT: 0xx_LOADSTAR_64
     - On page 5, 191-195
   - NYT
-    - [An Emerging Deal Could Cement Iran’s Control of Strait of Hormuz](https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html)
-    - [This Is What a Desperate Dictatorship Looks Like](https://www.nytimes.com/2026/08/04/opinion/nicaragua-ortega-murillo-elections.html)
-    - [Uber’s Strategy for Fighting Sexual Assault Suits: ‘What Were You Wearing?’](https://www.nytimes.com/2026/08/04/business/uber-sexual-assault-lawsuits.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Trump keeps making threats. The world has stopped flinching.](https://www.washingtonpost.com/world/2026/08/04/trump-keeps-making-threats-washington-world-have-stopped-flinching/)
+    - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [The Story of Python and how it took over the world | Python: The Documentary](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
-    - [We Forced Tim to Watch Yet Another Crazy Trump Presser](https://www.youtube.com/watch?v=UyuZ34K_pz0)
-    - [Donald Trump ridiculed as 'entire head of hair' flies off in viral Marine One moment]()
-    - [19 people in Pennsylvania charged with defrauding US government with reports of fake home health care shifts]()
-    - [Play ZX Spectrum Games On MorphOS - FUSE - 8bit Emulation - Fun Retro Video Games - Retrogaming](https://www.youtube.com/watch?v=s2iJLhZZg1g)
+    - []()
+    - []()
+    - []()
 - PROJECT NeetcodeIO
   - Design Patterns
-    - Started Notes on Design Patterns
+    - Worked on Notes on Design Patterns
+    - Book Reading:
+      - Design Patterns, Elements of Reusable Object-Oriented Software
+        - Working on chapter 1/6 - Introduction
   - DSA Notes
     - Working on Sliding Windows Problem
-      - Completed problem 904. 
+      - Re-visited ideal solution for problem 904. 
 - PROJECT: AI
   - Grokking Machine Learning
   - The Hundred Page Machine Learning Book
