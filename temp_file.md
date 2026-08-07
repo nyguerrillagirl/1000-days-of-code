@@ -1,25 +1,23 @@
-### Day 678: August 6, 2026 (Thursday)
+### Day 679: August 7, 2026 (Friday)
 - NOTE FOR THE DAY:
-  - PROJECT: REMINDER
-    - Create a Python program that runs at the start of the month to remind me to 
-      schedule payments to cc.
-      - Write design notes
   - Download LOADSTAR Magazines (250 disks)
-    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=10
+    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=11
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 191-195
+    - On page 5, 196-200
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Wars, Wildfires and Migrants Leave Europe Straining for Control](https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html)
+    - [The Good List: 6 Things to Add Delight to Your Day](https://www.nytimes.com/2026/08/05/briefing/05-the-good-list-html-day-cookie-queens.html)
+    - [How Fauci Got to This Point and the Legal Peril He Faces](https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html)
   - WAPO
-    - []()
-    - []()
+    - [Trump, Hegseth clashed at Camp David over Iran missile depletion concerns](https://www.washingtonpost.com/national-security/2026/08/05/trump-hegseth-clashed-camp-david-over-iran-missile-depletion-concerns/)
+    - [Why you shouldn’t be surprised if Democrats don’t flip the House](https://www.washingtonpost.com/politics/2026/08/06/how-republicans-can-keep-their-house-majority/)
     - []()
   - ARTICLES/VIDEOS
+    - [LA woman uncovers her therapist’s secret identity years later. Then everything about their sessions starts to make sense: ‘I was like, what?’]()
+    - [Coursera Bets $100 Million That Andrew Ng Can Do What Coursera Can’t](https://www.classcentral.com/report/coursera-andrew-ng-learnvector-investment/?utm_source=newsletter&utm_medium=email&utm_campaign=the-report-august-2026)
     - []()
-    - []()
-    - []()
+- PROJECT: TimeReminder
+  - Working on Design Notes 
 - PROJECT NeetcodeIO
   - Design Patterns
     - Worked on Notes on Design Patterns
@@ -157,12 +155,8 @@
         - Working on chapter 7 - Strangers
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part II: The Paladins
-        - Working on chapter: Introduction
-          - ‘It would be interesting,’ the historian Christoph Klessmann wrote in 1971,
-            ‘generally to pursue the question of the extent to which fascist systems are
-            particularly and inherently liable to bring deracinated criminals or
-            psychopaths into leadership positions.’        
-      - current page: 126, chapter_end: 130
+        - Working on chapter: The Propagandist: Joseph Goebbels    
+      - current page: 156, chapter_end: 173
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
