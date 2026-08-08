@@ -1,20 +1,21 @@
-### Day 679: August 7, 2026 (Friday)
+### Day 680: August 8, 2026 (Saturday)
 - NOTE FOR THE DAY:
+  - https://github.com/tsoding/r8
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=11
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 196-200
+    - On page 5, 201-205
   - NYT
-    - [Wars, Wildfires and Migrants Leave Europe Straining for Control](https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html)
-    - [The Good List: 6 Things to Add Delight to Your Day](https://www.nytimes.com/2026/08/05/briefing/05-the-good-list-html-day-cookie-queens.html)
-    - [How Fauci Got to This Point and the Legal Peril He Faces](https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Trump, Hegseth clashed at Camp David over Iran missile depletion concerns](https://www.washingtonpost.com/national-security/2026/08/05/trump-hegseth-clashed-camp-david-over-iran-missile-depletion-concerns/)
-    - [Why you shouldn’t be surprised if Democrats don’t flip the House](https://www.washingtonpost.com/politics/2026/08/06/how-republicans-can-keep-their-house-majority/)
+    - []()
+    - []()
     - []()
   - ARTICLES/VIDEOS
-    - [LA woman uncovers her therapist’s secret identity years later. Then everything about their sessions starts to make sense: ‘I was like, what?’]()
-    - [Coursera Bets $100 Million That Andrew Ng Can Do What Coursera Can’t](https://www.classcentral.com/report/coursera-andrew-ng-learnvector-investment/?utm_source=newsletter&utm_medium=email&utm_campaign=the-report-august-2026)
+    - [Irate Christian conservative eats her words as journalist rolls tape for all to see]()
+    - []()
     - []()
 - PROJECT: TimeReminder
   - Working on Design Notes 
@@ -155,8 +156,8 @@
         - Working on chapter 7 - Strangers
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part II: The Paladins
-        - Working on chapter: The Propagandist: Joseph Goebbels    
-      - current page: 156, chapter_end: 173
+        - Working on chapter 4:  The Soldier: Ernst Röhm
+      - current page: 174, chapter_end: 189
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
