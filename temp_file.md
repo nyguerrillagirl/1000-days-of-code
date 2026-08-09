@@ -1,24 +1,29 @@
-### Day 680: August 8, 2026 (Saturday)
+### Day 681: August 9, 2026 (Sunday)
 - NOTE FOR THE DAY:
-  - https://github.com/tsoding/r8
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=11
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 201-205
+    - On page 5, 206-210
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms](https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill-shutdown.html)
+    - [New York City Hall Dismisses Haitian Workers After Loss of Protected Status](https://www.nytimes.com/2026/08/07/nyregion/haitian-nyc-workers-tps.html)
+    - [Students Skinned a Bear in a Dorm. Cornell Realized It Should Ban That.](https://www.nytimes.com/2026/08/07/nyregion/cornell-student-bear-meat.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Wisconsin taxpayers will flee if Francesca Hong becomes governor](https://www.washingtonpost.com/opinions/2026/08/07/francesca-hong-tax-hikes-wisconsin-wealthy-would-hurt-state/)
+    - [Why a child’s stuffed bunny is blowing up a political race — and the internet](https://www.washingtonpost.com/nation/2026/08/08/why-childs-blue-bunny-doll-is-blowing-up-political-race-internet/)
+    - [A viral $20 burrito is dividing conservatives online](https://www.washingtonpost.com/business/2026/08/07/viral-20-burrito-is-dividing-conservatives-online/)
   - ARTICLES/VIDEOS
     - [Irate Christian conservative eats her words as journalist rolls tape for all to see]()
-    - []()
-    - []()
+    - [Former police chief rushes in to restrain unruly passenger who allegedly 'lunged' at crew members mid-flight]()
+    - ['They find it off-putting': YouTube plans to tighten its rules around AI slop — bars monetization for three types of 'inauthentic content']()
+    - [Secret Preview: Is This the Most Unsettling Video of the Year?](https://www.youtube.com/watch?v=Qwu9EdsBmX8)
 - PROJECT: TimeReminder
   - Working on Design Notes 
+  - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
+    - Eighth Edition (2023), by Mark J. Price
+    - book repo: https://github.com/markjprice/cs12dotnet8
+    - Working on Chapter 1/15 - Hello, C#! Welcome, .NET!
+    - Current page: 1, last page: 52
 - PROJECT NeetcodeIO
   - Design Patterns
     - Worked on Notes on Design Patterns
