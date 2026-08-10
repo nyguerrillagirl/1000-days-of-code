@@ -1,22 +1,30 @@
-### Day 681: August 9, 2026 (Sunday)
+### Day 682: August 10, 2026 (Monday)
 - NOTE FOR THE DAY:
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=11
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 206-210
+    - On page 5, 211-215
   - NYT
-    - [Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms](https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill-shutdown.html)
-    - [New York City Hall Dismisses Haitian Workers After Loss of Protected Status](https://www.nytimes.com/2026/08/07/nyregion/haitian-nyc-workers-tps.html)
-    - [Students Skinned a Bear in a Dorm. Cornell Realized It Should Ban That.](https://www.nytimes.com/2026/08/07/nyregion/cornell-student-bear-meat.html)
+    - [The Lonely Crew at the Kennedy Center Will Miss Its…Mice](https://www.nytimes.com/2026/08/09/us/politics/kennedy-center-renovation-mice.html)
+    - [Senate Bows to Reality, Leaving Trump’s Voting Bill Undone](https://www.nytimes.com/2026/08/08/us/politics/trump-save-america-act-republican-voting-bill-senate.html)
+    - [How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan](https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html)
   - WAPO
-    - [Wisconsin taxpayers will flee if Francesca Hong becomes governor](https://www.washingtonpost.com/opinions/2026/08/07/francesca-hong-tax-hikes-wisconsin-wealthy-would-hurt-state/)
-    - [Why a child’s stuffed bunny is blowing up a political race — and the internet](https://www.washingtonpost.com/nation/2026/08/08/why-childs-blue-bunny-doll-is-blowing-up-political-race-internet/)
-    - [A viral $20 burrito is dividing conservatives online](https://www.washingtonpost.com/business/2026/08/07/viral-20-burrito-is-dividing-conservatives-online/)
+    - [I study pathogens in sewage. Here’s how cyclospora could be getting into our food.](https://www.washingtonpost.com/health/2026/08/09/microbiologist-explains-how-cyclospora-could-be-getting-into-our-food/)
+    - [What this officer said to a suicidal man to talk him off a bridge’s edge](https://www.washingtonpost.com/lifestyle/2026/08/09/what-this-officer-said-suicidal-man-talk-him-off-bridge/)
+    - []()
   - ARTICLES/VIDEOS
-    - [Irate Christian conservative eats her words as journalist rolls tape for all to see]()
-    - [Former police chief rushes in to restrain unruly passenger who allegedly 'lunged' at crew members mid-flight]()
-    - ['They find it off-putting': YouTube plans to tighten its rules around AI slop — bars monetization for three types of 'inauthentic content']()
-    - [Secret Preview: Is This the Most Unsettling Video of the Year?](https://www.youtube.com/watch?v=Qwu9EdsBmX8)
+    - [The Lincoln Way](https://www.theatlantic.com/magazine/archive/2025/11/abraham-lincoln-revolution-founders-lessons/684332/)
+      - Born in 1809, Lincoln was a product of America’s first great age of Founder worship.
+      - In the country’s 250th year, though, we might well look back at 1776 by 
+        way of 1863. In a year when some will use the Revolution as a bludgeon 
+        of a retrograde politics of restoration, Lincoln offers another way. 
+        He invites us to carry its living ideals forward without denying its 
+        contradictions. The glory of the Revolution, he knew, belonged to those 
+        who’d made it. The test of whether it still lives falls to us.
+    - [Elon Musk labeled 'moron' as he repeats 'dangerous' statement about Hitler]()
+    - [Trump accused of wearing a 'wig' as he looks dramatically different in Las Vegas]()
+    - [Trump’s remarkable private admission leaked by US officials: report]()
+    - []()
 - PROJECT: TimeReminder
   - Working on Design Notes 
   - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
@@ -24,6 +32,10 @@
     - book repo: https://github.com/markjprice/cs12dotnet8
     - Working on Chapter 1/15 - Hello, C#! Welcome, .NET!
     - Current page: 1, last page: 52
+  - Reading: Irresistble APIs by Kirsten L. Hunter
+    - PART 1: Understanding Web APIs
+      - Working on chapter 1/9 - What makes an API irresistible?
+      - Current page: 3   Last page: 26
 - PROJECT NeetcodeIO
   - Design Patterns
     - Worked on Notes on Design Patterns
@@ -161,8 +173,8 @@
         - Working on chapter 7 - Strangers
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part II: The Paladins
-        - Working on chapter 4:  The Soldier: Ernst Röhm
-      - current page: 174, chapter_end: 189
+        - Working on chapter 6: The Diplomat: Joachim von Ribbentrop
+      - current page: 211, chapter_end: 231
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
