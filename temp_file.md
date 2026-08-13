@@ -1,22 +1,21 @@
-### Day 684: August 12, 2026 (Wednesday)
+### Day 685: August 13, 2026 (Thursday)
 - NOTE FOR THE DAY:
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=12
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 216-220
+    - On page 5, 221-225
   - NYT
-    - [Trump Wants to Move On From the Middle East. It’s Not Letting Him.](https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html)
-    - [They Fell in Love Across Two Sides of a Bargaining Table](https://www.nytimes.com/2026/08/07/style/amber-parrish-vikrum-aiyer-wedding.html)
-    - [Miami’s Skyline Is Getting Super Tall](https://www.nytimes.com/2026/08/11/realestate/miami-skyscrapers-supertalls-development.html)
-      - At least 10 new skyscrapers, five of them supertalls, will be built in the next five years. Is that such a good idea?
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Hollywood is hiring ‘slop janitors.’ The price is visible.](https://www.washingtonpost.com/opinions/2026/08/11/how-animation-studios-are-mortgaging-their-future-ai/)
+    - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [The uncomfortable truth about Hitler’s life – from those close to him]()
-    - [Server asks customer if she’s ready for the check. Then she says she already paid it online: ‘And I guess tip whatever’]()
-    - [Wyoming restaurant shames dine-and-dashers who skipped out on $130 bill]()
+    - []()
+    - []()
+    - []()
 - PROJECT: TimeReminder
   - Working on Design Notes 
   - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
@@ -170,8 +169,8 @@
         - Working on chapter 7 - Strangers
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part II: The Paladins
-        - Working on chapter 7: The Philosopher: Alfred Rosenberg
-      - current page: 232, chapter_end: 249
+        - Working on chapter 8: The Architect: Albert Speer
+      - current page: 250, chapter_end: 265
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
