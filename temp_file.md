@@ -1,27 +1,29 @@
-### Day 685: August 13, 2026 (Thursday)
+### Day 686: August 14, 2026 (Friday)
 - NOTE FOR THE DAY:
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=12
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 5, 221-225
+    - On page 12, 226-230
   - NYT
-    - []()
-    - []()
-    - []()
+    - [New Yorkers Who Lost Insurance After Trump Cuts Face Hard Choices](https://www.nytimes.com/2026/08/13/nyregion/new-york-health-insurance-trump-cuts.html)
+    - [Our Son Is Striking Out on Dating Apps. Should We Hire a Matchmaker?](https://www.nytimes.com/2026/08/12/style/son-dating-apps-matchmaker-relationships.html)
+    - [I Tested a Popular A.I. Slop Detector. It Felt Empowering.](https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [U.S. military has lost roughly 25% of its Reaper drones as Iran war depletes arsenal](https://www.washingtonpost.com/national-security/2026/08/13/us-military-has-lost-roughly-25-its-reaper-drones-iran-war-depletes-arsenal/)
+    - [Sizing up the 2028 Democratic presidential contenders](https://www.washingtonpost.com/politics/2026/08/13/sizing-up-2028-democratic-presidential-contenders/)
+    - [Four writers discuss: Is college worth it? ‘It better be.’](https://www.washingtonpost.com/opinions/2026/08/13/college-is-expensive-four-writers-discuss-if-its-worth-cost/)
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [Vinegar or Baking Soda to clean hard-Water Toilet Stains ?](https://www.youtube.com/watch?v=0XPi4dUn3bQ)
+      - 1 liter of vinegar (overnight if you can)
+    - [Former Miss North Carolina USA Brittany Boltinhouse says she’s not sorry for using racial slur]()
+    - [Sweet Revenge (Judit Polgar Beats Garry Kasparov) | Moscow 2002](https://www.youtube.com/watch?v=XZ5gCfRmOsA)
+    - [Politics Chat, August 12, 2026](https://www.youtube.com/watch?v=Ek3Xru1uUmI)
+    - [Texas teacher breaks down in tears during class after his senior students struggled to read, write]()
 - PROJECT: TimeReminder
   - Working on Design Notes 
   - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
     - Eighth Edition (2023), by Mark J. Price
     - book repo: https://github.com/markjprice/cs12dotnet8
-    - Completed Chapter 1/15 - Hello, C#! Welcome, .NET!
     - Working on Chapter 2/15 - Speaking C#
     - Current page: 53, last page: 114
       - min: 9/21   max: 
@@ -48,6 +50,10 @@
 - PROJECT: Java
   - Working on Java Interview Questions
     - explored "What is the difference between == and .equals()"
+  - Working on async equivalent in Java
+    - Created two programs - need to write notes
+- PROJECT: Electronics
+  - Working on [Can you force 3V onto a 2V LED?]()
 - PROJECT: Basic Mathematics
    - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
 - PROJECT Coding Challenge
@@ -125,6 +131,8 @@
 - Coursera Course: Understanding and Visualizing Data with Python
   - Working on Module 2/4 - Univariate Data
 - PROJECT: REAL PYTHON
+  - [Python's asyncio: A Hands-On Walkthrough](https://realpython.com/async-io-python/)
+    - Worked on first part 
   - [Regular Expressions and Building Regexes in Python](https://realpython.com/courses/building-regexes-python/)   
   - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
   - [Python Best Practices](https://realpython.com/ref/best-practices/)
