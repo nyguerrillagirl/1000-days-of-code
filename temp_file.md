@@ -1,24 +1,21 @@
-### Day 686: August 14, 2026 (Friday)
+### Day 687: August 15, 2026 (Saturday)
 - NOTE FOR THE DAY:
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=12
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 12, 226-230
+    - On page 12, 231-235
   - NYT
-    - [New Yorkers Who Lost Insurance After Trump Cuts Face Hard Choices](https://www.nytimes.com/2026/08/13/nyregion/new-york-health-insurance-trump-cuts.html)
-    - [Our Son Is Striking Out on Dating Apps. Should We Hire a Matchmaker?](https://www.nytimes.com/2026/08/12/style/son-dating-apps-matchmaker-relationships.html)
-    - [I Tested a Popular A.I. Slop Detector. It Felt Empowering.](https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [U.S. military has lost roughly 25% of its Reaper drones as Iran war depletes arsenal](https://www.washingtonpost.com/national-security/2026/08/13/us-military-has-lost-roughly-25-its-reaper-drones-iran-war-depletes-arsenal/)
-    - [Sizing up the 2028 Democratic presidential contenders](https://www.washingtonpost.com/politics/2026/08/13/sizing-up-2028-democratic-presidential-contenders/)
-    - [Four writers discuss: Is college worth it? ‘It better be.’](https://www.washingtonpost.com/opinions/2026/08/13/college-is-expensive-four-writers-discuss-if-its-worth-cost/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Vinegar or Baking Soda to clean hard-Water Toilet Stains ?](https://www.youtube.com/watch?v=0XPi4dUn3bQ)
-      - 1 liter of vinegar (overnight if you can)
-    - [Former Miss North Carolina USA Brittany Boltinhouse says she’s not sorry for using racial slur]()
-    - [Sweet Revenge (Judit Polgar Beats Garry Kasparov) | Moscow 2002](https://www.youtube.com/watch?v=XZ5gCfRmOsA)
-    - [Politics Chat, August 12, 2026](https://www.youtube.com/watch?v=Ek3Xru1uUmI)
-    - [Texas teacher breaks down in tears during class after his senior students struggled to read, write]()
+    - [Sarah Paine: America's Allies Are Quietly Preparing for the Worst | [INTERVIEW]](https://www.youtube.com/watch?v=L1tQrW8EMDY)
+    - []()
+    - []()
 - PROJECT: TimeReminder
   - Working on Design Notes 
   - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
