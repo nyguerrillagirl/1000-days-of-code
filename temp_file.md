@@ -1,21 +1,23 @@
-### Day 687: August 15, 2026 (Saturday)
+### Day 688: August 16, 2026 (Sunday)
 - NOTE FOR THE DAY:
+  - Worked on organizing ebook list
   - Download LOADSTAR Magazines (250 disks)
-    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=12
+    - https://loadstarce.com/resources/categories/loadstar-64.3/?page=13
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 12, 231-235
+    - On page 12, 236-240
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial](https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html)
+    - [Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring](https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html)
+    - [‘Slayer Statute’ Blocks Nick Reiner From Trust Fund, Its Steward Says](https://www.nytimes.com/2026/08/14/movies/nick-reiner-slayer-statute-trust-fund-murder-parents.html)
   - WAPO
-    - []()
-    - []()
+    - [Trump stumps in N.Y. suburbs, highlighting a dilemma for his party](https://www.washingtonpost.com/politics/2026/08/14/trump-stumps-ny-suburbs-highlighting-dilemma-his-party/)
+    - [Her childhood photo. Thousands of explicit images. One woman’s nightmare.](https://www.washingtonpost.com/technology/2026/08/15/woman-alleges-grok-made-thousands-sexual-abuse-images-childhood-snap/)
     - []()
   - ARTICLES/VIDEOS
     - [Sarah Paine: America's Allies Are Quietly Preparing for the Worst | [INTERVIEW]](https://www.youtube.com/watch?v=L1tQrW8EMDY)
-    - []()
-    - []()
+    - [Look at this: Applebee’s allegedly snaps a New York customer’s ID. Then they kick her group out]()
+    - [Idaho killer’s unsealed psych report reveals four new diagnoses]()
+    - [College student is forced to do a group project in which nobody does anything so she decides to get revenge]()
 - PROJECT: TimeReminder
   - Working on Design Notes 
   - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
@@ -49,6 +51,15 @@
     - explored "What is the difference between == and .equals()"
   - Working on async equivalent in Java
     - Created two programs - need to write notes
+      - AsyncFetch Project
+      - async-webflux-demo Project
+  - Reactive Streams
+    - Project Reactor
+    - RxJava
+    - SmallRye Mutiny
+  - Reading: Modern Java in Action, by Urma, Fusco, and Mycroft, 2019
+    - Part 1: Fundamentals
+      - Working on chapter 1/21 - Java 8, 9, 10, and 11: what's happening?
 - PROJECT: Electronics
   - Working on [Can you force 3V onto a 2V LED?]()
 - PROJECT: Basic Mathematics
