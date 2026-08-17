@@ -1,30 +1,28 @@
-### Day 688: August 16, 2026 (Sunday)
+### Day 689: August 17, 2026 (Monday)
 - NOTE FOR THE DAY:
-  - Worked on organizing ebook list
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=13
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 12, 236-240
+    - On page 13, 241-245
   - NYT
-    - [Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial](https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html)
-    - [Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring](https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html)
-    - [‘Slayer Statute’ Blocks Nick Reiner From Trust Fund, Its Steward Says](https://www.nytimes.com/2026/08/14/movies/nick-reiner-slayer-statute-trust-fund-murder-parents.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Trump stumps in N.Y. suburbs, highlighting a dilemma for his party](https://www.washingtonpost.com/politics/2026/08/14/trump-stumps-ny-suburbs-highlighting-dilemma-his-party/)
-    - [Her childhood photo. Thousands of explicit images. One woman’s nightmare.](https://www.washingtonpost.com/technology/2026/08/15/woman-alleges-grok-made-thousands-sexual-abuse-images-childhood-snap/)
+    - []()
+    - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Sarah Paine: America's Allies Are Quietly Preparing for the Worst | [INTERVIEW]](https://www.youtube.com/watch?v=L1tQrW8EMDY)
-    - [Look at this: Applebee’s allegedly snaps a New York customer’s ID. Then they kick her group out]()
-    - [Idaho killer’s unsealed psych report reveals four new diagnoses]()
-    - [College student is forced to do a group project in which nobody does anything so she decides to get revenge]()
+    - [MAGA Voters Now Realize They're HATED And NOT WANTED Abroad](https://www.youtube.com/watch?v=0QdaHylwV1E)
+    - []()
+    - []()
 - PROJECT: TimeReminder
   - Working on Design Notes 
   - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
     - Eighth Edition (2023), by Mark J. Price
     - book repo: https://github.com/markjprice/cs12dotnet8
     - Working on Chapter 2/15 - Speaking C#
-    - Current page: 53, last page: 114
+    - Current page: 74, last page: 114
       - min: 9/21   max: 
   - Reading: Irresistble APIs by Kirsten L. Hunter
     - PART 1: Understanding Web APIs
