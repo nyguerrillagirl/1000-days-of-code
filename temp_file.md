@@ -1,28 +1,31 @@
-### Day 689: August 17, 2026 (Monday)
+### Day 690: August 18, 2026 (Tuesday)
 - NOTE FOR THE DAY:
+  - Insert emoji:
+    - Windows key + . (period)
   - Download LOADSTAR Magazines (250 disks)
     - https://loadstarce.com/resources/categories/loadstar-64.3/?page=13
     - FORMAT: 0xx_LOADSTAR_64
-    - On page 13, 241-245
+    - On page 13, 246-250
   - NYT
     - []()
     - []()
-    - []()
+    - []()hayden-panettiere-this-is-me.html)
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [MAGA Voters Now Realize They're HATED And NOT WANTED Abroad](https://www.youtube.com/watch?v=0QdaHylwV1E)
+    - []()
     - []()
     - []()
 - PROJECT: TimeReminder
   - Working on Design Notes 
+    - Obtain notes on setting a timer on the next reminder
   - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
     - Eighth Edition (2023), by Mark J. Price
     - book repo: https://github.com/markjprice/cs12dotnet8
     - Working on Chapter 2/15 - Speaking C#
-    - Current page: 74, last page: 114
+    - Current page: 80, last page: 114
       - min: 9/21   max: 
   - Reading: Irresistble APIs by Kirsten L. Hunter
     - PART 1: Understanding Web APIs
@@ -37,6 +40,9 @@
     - Book Reading:
       - Design Patterns, Elements of Reusable Object-Oriented Software
         - Working on chapter 1/6 - Introduction
+      - Open Source Java Design Patterns by Ilkka Seppala
+        - Working on Abstract Document
+        - see: https://java-design-patterns.com/patterns/abstract-document/#programmatic-example-of-abstract-document-pattern-in-java
   - DSA Notes
     - Working on Sliding Windows Problem
       - Re-visited ideal solution for problem 904. 
@@ -178,13 +184,19 @@
         - This will allow me to complete the book in 90 days from today
       - npm install -D sass
   - Non-Tech Reading
+   - Non-Tech Reading
     - **Paper Girl**, Beth Macy
-      - Part II: Silos
-        - Working on chapter 7 - Strangers
+      - Part III: Showing Up
+        - Working on chapter 10 - Interventions
+          - How to get people to show up to jobs and school?
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
-      - Part II: The Paladins
-        - Working on chapter 8: The Architect: Albert Speer
-      - current page: 250, chapter_end: 265
+      - Part III: The Enforcers
+        - Completed chapter 9: The Deputy: Rudolf Hess
+          - Somewhat short. I did know about his ill-fated plane ride to Britain
+            to see if he could get them to settle with Germany so there was not a
+            two-front war. He angered Hitler. 
+        - Working on chapter 10: The Collaborator: Franz von Papen
+      - current page: 288, chapter_end: 307
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
