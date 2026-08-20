@@ -1,6 +1,20 @@
-### Day 691: August 19, 2026 (Wednesday)
+### Day 692: August 20, 2026 (Thursday)
 - NOTE FOR THE DAY:
+  - Cleaning up DOWNLOADs folder
+    - Goal: Work on at least 5 books a day
+    - Today: Moved all the C64 books into their own folder in EBOOKS
+      - Created a simple Python program to create list of all books in folder
+        - removed suffix of .pdf and converted _ to " " 
+      - Add all books to EBOOK LIST
   - Download LOADSTAR Magazines (250 disks)
+    - Books on the history
+      - Commodore: The People’s Computer — Søren Voss
+      - 16‑bit Stories: Home Computing in the 1980s/1990s — Michael John Nurney, Jim Sachs, Robert Mical, Leonard Tramiel
+      - Commodore International: CBM Hardware, CBM Software, Amiga, Commodore 64… — Books LLC
+    - Reading: Commodore 64 User's Guide
+      - Completed chapter 1/8 - Setup
+      - Working on chapter 2/8 - Getting Started
+      - current page: 29 last_page: 46
     - TODO: Examine 001_LOADSTAR_64 disk
   - NYT
     - []()
@@ -11,7 +25,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
+    - [Why You DO NOT REFUSE to Leave Delta Airlines](https://www.youtube.com/watch?v=xCKO54DLLMc)
     - []()
     - []()
 - PROJECT: TimeReminder
