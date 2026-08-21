@@ -1,21 +1,25 @@
-### Day 692: August 20, 2026 (Thursday)
+
+### Day 693: August 21, 2026 (Friday)
 - NOTE FOR THE DAY:
+  - Check book:
+    - Learn Data Science Using Python: A Quick-Start Guide
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
-    - Today: Moved all the C64 books into their own folder in EBOOKS
-      - Created a simple Python program to create list of all books in folder
-        - removed suffix of .pdf and converted _ to " " 
-      - Add all books to EBOOK LIST
+    - Today: Move folders in Downloads
+      - Check all books for quality 
+      - removed one book - suspect
   - Download LOADSTAR Magazines (250 disks)
     - Books on the history
       - Commodore: The People’s Computer — Søren Voss
       - 16‑bit Stories: Home Computing in the 1980s/1990s — Michael John Nurney, Jim Sachs, Robert Mical, Leonard Tramiel
       - Commodore International: CBM Hardware, CBM Software, Amiga, Commodore 64… — Books LLC
     - Reading: Commodore 64 User's Guide
-      - Completed chapter 1/8 - Setup
       - Working on chapter 2/8 - Getting Started
-      - current page: 29 last_page: 46
+      - current page: 38 last_page: 46
     - TODO: Examine 001_LOADSTAR_64 disk
+      - SET UP DISK #1 
+      - LOAD "*",8
+      - RUN
   - NYT
     - []()
     - []()
@@ -25,7 +29,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Why You DO NOT REFUSE to Leave Delta Airlines](https://www.youtube.com/watch?v=xCKO54DLLMc)
+    - [Would Britain Have Beaten an Invasion in 1940?](https://www.youtube.com/watch?v=NrDNFvUhFGk)
     - []()
     - []()
 - PROJECT: TimeReminder
@@ -35,7 +39,7 @@
     - Eighth Edition (2023), by Mark J. Price
     - book repo: https://github.com/markjprice/cs12dotnet8
     - Working on Chapter 2/15 - Speaking C#
-    - Current page: 80, last page: 114
+    - Current page: 91, last page: 114
       - min: 9/21   max: 
   - Reading: Irresistble APIs by Kirsten L. Hunter
     - PART 1: Understanding Web APIs
@@ -194,7 +198,6 @@
         - This will allow me to complete the book in 90 days from today
       - npm install -D sass
   - Non-Tech Reading
-   - Non-Tech Reading
     - **Paper Girl**, Beth Macy
       - Part III: Showing Up
         - Working on chapter 10 - Interventions
@@ -205,8 +208,8 @@
           - Somewhat short. I did know about his ill-fated plane ride to Britain
             to see if he could get them to settle with Germany so there was not a
             two-front war. He angered Hitler. 
-        - Working on chapter 10: The Collaborator: Franz von Papen
-      - current page: 288, chapter_end: 307
+        - Working on chapter 12: The Schoolmaster: Julius Streicher
+      - current page: 325, chapter_end: 338
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
