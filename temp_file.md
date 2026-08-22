@@ -1,25 +1,13 @@
-
-### Day 693: August 21, 2026 (Friday)
+### Day 694: August 22, 2026 (Saturday)
 - NOTE FOR THE DAY:
-  - Check book:
-    - Learn Data Science Using Python: A Quick-Start Guide
+  - TBD: Read about Franco
+  - TBD: Read about Mussolini
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Today: Move folders in Downloads
       - Check all books for quality 
-      - removed one book - suspect
-  - Download LOADSTAR Magazines (250 disks)
-    - Books on the history
-      - Commodore: The People’s Computer — Søren Voss
-      - 16‑bit Stories: Home Computing in the 1980s/1990s — Michael John Nurney, Jim Sachs, Robert Mical, Leonard Tramiel
-      - Commodore International: CBM Hardware, CBM Software, Amiga, Commodore 64… — Books LLC
-    - Reading: Commodore 64 User's Guide
-      - Working on chapter 2/8 - Getting Started
-      - current page: 38 last_page: 46
-    - TODO: Examine 001_LOADSTAR_64 disk
-      - SET UP DISK #1 
-      - LOAD "*",8
-      - RUN
+      - Moved some books into EBOOKS
+      - Moved some pdfs into Electronics
   - NYT
     - []()
     - []()
@@ -29,9 +17,17 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Would Britain Have Beaten an Invasion in 1940?](https://www.youtube.com/watch?v=NrDNFvUhFGk)
     - []()
     - []()
+    - []()
+- PROJECT C64:
+  - Reading: Commodore 64 User's Guide
+    - Working on chapter 2/8 - Getting Started
+    - current page: 38 last_page: 46
+  - Working on: Examine 001_LOADSTAR_64 disk
+      - SET UP DISK #1 
+      - LOAD "*",8
+      - RUN
 - PROJECT: TimeReminder
   - Working on Design Notes 
     - Obtain notes on setting a timer on the next reminder
@@ -204,10 +200,6 @@
           - How to get people to show up to jobs and school?
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part III: The Enforcers
-        - Completed chapter 9: The Deputy: Rudolf Hess
-          - Somewhat short. I did know about his ill-fated plane ride to Britain
-            to see if he could get them to settle with Germany so there was not a
-            two-front war. He angered Hitler. 
         - Working on chapter 12: The Schoolmaster: Julius Streicher
       - current page: 325, chapter_end: 338
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
