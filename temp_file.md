@@ -17,7 +17,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
+    - [Analyzing report that CNN commentator sent his TV clips to Trump aides - "Show this to the president"]()
     - []()
     - []()
 - PROJECT C64:
