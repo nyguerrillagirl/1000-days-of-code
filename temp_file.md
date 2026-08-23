@@ -1,29 +1,28 @@
-### Day 694: August 22, 2026 (Saturday)
+### Day 695: August 23, 2026 (Sunday)
 - NOTE FOR THE DAY:
-  - TBD: Read about Franco
-  - TBD: Read about Mussolini
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
-    - Today: Move folders in Downloads
-      - Check all books for quality 
-      - Moved some books into EBOOKS
-      - Moved some pdfs into Electronics
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Canada-U.S. Trade War Escalates as Talks Collapse](https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html)
+    - [Postal Service Publishes Finalized Plan to Restrict Mail Ballots](https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html)
+    - [Columnist Ross Barkan Apologizes Amid Plagiarism Scandal(https://www.nytimes.com/2026/08/19/business/media/ross-barkan-plagiarism-apology.html)
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Rare letters from kin of missing soldiers are donated to Gettysburg museum](https://www.washingtonpost.com/dc-md-va/2026/08/22/rare-letters-kin-missing-soldiers-are-donated-gettysburg-museum/)
+    - [Amid an August of mounting danger, a frivolous, oblivious president](https://www.washingtonpost.com/opinions/2026/08/21/trump-south-korea-iran-us-navy-moves-show-frivolous-approach/)
+    ```
+    This August features a stunning divergence. The world becomes more dangerous as U.S. governance becomes more frivolous.
+    ```
+    - [Carolyn Hax chat: Spouse’s grown kids come in and out of home without permission](https://www.washingtonpost.com/advice/2026/08/21/carolyn-hax-live-chat/)
   - ARTICLES/VIDEOS
     - [Analyzing report that CNN commentator sent his TV clips to Trump aides - "Show this to the president"]()
-    - []()
-    - []()
+    - [Trump's 'politically dire' dread leaked by senior official: 'He really could sink']()
+    - [A Hit Author’s Film Adaptation Went Horribly Wrong. What Happened on the Set of Children of Blood and Bone?](https://www.vanityfair.com/story/behind-making-children-of-blood-and-bone-tomi-adeyemi?srsltid=AfmBOopwk-CCNVBrA2tzZNSFvb-sFfP3cbFTSKTHjv5eDLfdhE0gDrzT)
+    - [Trump Fatigue Is Finally Reaching Republican Voters (w/ Amy Walter) | Focus Group](https://www.youtube.com/watch?v=zEX9AMG8XAA)
 - PROJECT C64:
   - Reading: Commodore 64 User's Guide
-    - Working on chapter 2/8 - Getting Started
-    - current page: 38 last_page: 46
+    - Completed chapter 2/8 - Getting Started
+    - Working on chapter 3/8 - Beginning Basic Programming
+    - current page: 47 last_page: 56
   - Working on: Examine 001_LOADSTAR_64 disk
       - SET UP DISK #1 
       - LOAD "*",8
