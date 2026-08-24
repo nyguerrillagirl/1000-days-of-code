@@ -1,23 +1,27 @@
-### Day 695: August 23, 2026 (Sunday)
+### Day 696: August 24, 2026 (Monday)
 - NOTE FOR THE DAY:
+  - Battery Tender Plus 12V 1.25 AMP Car
+  - Will watch 
+    - Rage Forest 6
+      - ACCM v. TaToH   2-3 TaToH is my prediction
+    - The League
+      - TAG v. NOC      3-1 TAG
+      - Oni Van v. VIT  1-3 VIT (otherwise VIT is out)
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
+    - Cleaning up all the math puzzle/history books I downloaded yesterday
   - NYT
-    - [Canada-U.S. Trade War Escalates as Talks Collapse](https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html)
-    - [Postal Service Publishes Finalized Plan to Restrict Mail Ballots](https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html)
-    - [Columnist Ross Barkan Apologizes Amid Plagiarism Scandal(https://www.nytimes.com/2026/08/19/business/media/ross-barkan-plagiarism-apology.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [Rare letters from kin of missing soldiers are donated to Gettysburg museum](https://www.washingtonpost.com/dc-md-va/2026/08/22/rare-letters-kin-missing-soldiers-are-donated-gettysburg-museum/)
-    - [Amid an August of mounting danger, a frivolous, oblivious president](https://www.washingtonpost.com/opinions/2026/08/21/trump-south-korea-iran-us-navy-moves-show-frivolous-approach/)
-    ```
-    This August features a stunning divergence. The world becomes more dangerous as U.S. governance becomes more frivolous.
-    ```
-    - [Carolyn Hax chat: Spouse’s grown kids come in and out of home without permission](https://www.washingtonpost.com/advice/2026/08/21/carolyn-hax-live-chat/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Analyzing report that CNN commentator sent his TV clips to Trump aides - "Show this to the president"]()
-    - [Trump's 'politically dire' dread leaked by senior official: 'He really could sink']()
-    - [A Hit Author’s Film Adaptation Went Horribly Wrong. What Happened on the Set of Children of Blood and Bone?](https://www.vanityfair.com/story/behind-making-children-of-blood-and-bone-tomi-adeyemi?srsltid=AfmBOopwk-CCNVBrA2tzZNSFvb-sFfP3cbFTSKTHjv5eDLfdhE0gDrzT)
-    - [Trump Fatigue Is Finally Reaching Republican Voters (w/ Amy Walter) | Focus Group](https://www.youtube.com/watch?v=zEX9AMG8XAA)
+    - [2 Phoenix police officers face felony charges after alleged unreported traffic stop]()
+    - []()
+    - []()
 - PROJECT C64:
   - Reading: Commodore 64 User's Guide
     - Completed chapter 2/8 - Getting Started
@@ -126,6 +130,7 @@
   - Course: Introduction to APIs in Python
     - Setting up
 - PROJECT: Brainycode Magazine
+  - See https://eev.ee/ for fun looking website
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
     - review
   - Working on Article #2: Why do developers create video games with SDL + OpenGL?
@@ -151,6 +156,27 @@
       - Next up: Module 5 
 - Coursera Course: Understanding and Visualizing Data with Python
   - Working on Module 2/4 - Univariate Data
+- PROJECT: PYTHON GRAPHICS
+  - **Arcade** - Best modern 2D game library
+    - Arcade is widely considered the cleanest, most modern 2D Python game framework. 
+      It uses OpenGL under the hood, supports sprites, physics, particle systems, 
+      and has excellent documentation. Great for learning and for polished 2D games.
+  - **Pygame** - Best for beginners & classic 2D games 
+    - Pygame is the “old reliable” of Python game dev. It’s simple, stable, and 
+      has a huge community. Ideal for learning game loops, input, collisions, 
+      and retro-style games.
+  - **Pyglet** - Best for low-level OpenGL control
+    - If you want to work directly with OpenGL (which fits your interest in 
+      graphics programming), Pyglet gives you more control than Pygame or Arcade. 
+      Good for custom rendering pipelines or experimental graphics.
+  - **Pandas3D** - Best full 3D engine with Python support
+    - Panda3D is a real 3D engine (used by Disney and CMU) with Python bindings. 
+      It supports shaders, physics, large maps, and modern rendering features. 
+      If you want to build a Doom‑like 3D game in Python, this is the strongest option.
+  - **Kivy** - Best for mobile/touch games
+    - If your game needs mobile deployment or touch input, Kivy is the go‑to. 
+      It’s not optimized for high-performance 3D, but great for puzzle games, 
+      UI-heavy games, or cross-platform apps.
 - PROJECT: REAL PYTHON
   - [Python's asyncio: A Hands-On Walkthrough](https://realpython.com/async-io-python/)
     - Worked on first part 
@@ -199,8 +225,11 @@
           - How to get people to show up to jobs and school?
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part III: The Enforcers
-        - Working on chapter 12: The Schoolmaster: Julius Streicher
-      - current page: 325, chapter_end: 338
+        - Completed chapter 12: The Schoolmaster: Julius Streicher
+          - What a creep. This chapter did introduce me to Erika Mann, which
+            I appreciate. 
+        - Working on chapter 13: The Hangman: Reinhard Heydrich
+      - current page: 339, chapter_end: 355
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
