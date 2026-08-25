@@ -1,12 +1,5 @@
-### Day 696: August 24, 2026 (Monday)
+### Day 697: August 25, 2026 (Tuesday)
 - NOTE FOR THE DAY:
-  - Battery Tender Plus 12V 1.25 AMP Car
-  - Will watch 
-    - Rage Forest 6
-      - ACCM v. TaToH   2-3 TaToH is my prediction
-    - The League
-      - TAG v. NOC      3-1 TAG
-      - Oni Van v. VIT  1-3 VIT (otherwise VIT is out)
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Cleaning up all the math puzzle/history books I downloaded yesterday
@@ -19,12 +12,11 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [2 Phoenix police officers face felony charges after alleged unreported traffic stop]()
+    - [Operation Barbarossa: Inside Hitler's Biggest Military Blunder](https://www.youtube.com/watch?v=iq_v6_o7PQc)
     - []()
     - []()
 - PROJECT C64:
   - Reading: Commodore 64 User's Guide
-    - Completed chapter 2/8 - Getting Started
     - Working on chapter 3/8 - Beginning Basic Programming
     - current page: 47 last_page: 56
   - Working on: Examine 001_LOADSTAR_64 disk
@@ -116,7 +108,11 @@
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
     - Intermediate Importing Data in R
-    - Introduction to Statistics in Python
+    - Data Literacy Basics
+    - Understanding Cloud Computing
+    - Intermediate Importing Data in Pythin
+    - Data Warehousing Concepts
+    - Communicating Data Insights
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -158,9 +154,12 @@
   - Working on Module 2/4 - Univariate Data
 - PROJECT: PYTHON GRAPHICS
   - **Arcade** - Best modern 2D game library
-    - Arcade is widely considered the cleanest, most modern 2D Python game framework. 
-      It uses OpenGL under the hood, supports sprites, physics, particle systems, 
-      and has excellent documentation. Great for learning and for polished 2D games.
+    - Working on Arcade Academy - Learn Python book. Creating PDF 
+    - Working on:
+      - [Python Arcade Library](https://www.youtube.com/watch?v=8AGyNz1HzEQ&list=PL1P11yPQAo7qgk8uk_A5UxiTrMt6obCc5&index=4)
+        - Completed 1/24 - Window and View
+        - Completed 2/24 - Drawing shapes
+        - Working on 3/24 - Batch drawing using ShapeElementLists
   - **Pygame** - Best for beginners & classic 2D games 
     - Pygame is the “old reliable” of Python game dev. It’s simple, stable, and 
       has a huge community. Ideal for learning game loops, input, collisions, 
