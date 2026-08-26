@@ -12,25 +12,37 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Operation Barbarossa: Inside Hitler's Biggest Military Blunder](https://www.youtube.com/watch?v=iq_v6_o7PQc)
+    - [Operation Barbarossa: Uncensored Reality Of The Eastern Front](https://www.youtube.com/watch?v=qcg8KTPtHGE)
     - []()
     - []()
 - PROJECT C64:
   - Reading: Commodore 64 User's Guide
-    - Working on chapter 3/8 - Beginning Basic Programming
-    - current page: 47 last_page: 56
+    - Completed chapter 3/8 - Beginning Basic Programming
+    - Working on chapter 4/8 - Advanced Basic
+    - current page: 57 last_page: 70
   - Working on: Examine 001_LOADSTAR_64 disk
       - SET UP DISK #1 
       - LOAD "*",8
       - RUN
 - PROJECT: TimeReminder
+  - IDEA: To make learning C# a bit more fun. I want to check out one of the
+          following:
+    - Beginning C# Game Programming by Ron Penton
+    - Learning C# by Developing Games with Unity by Harrison Ferrone
+    - MonoGame Mastery by Alan Thorn
+    - C# Game Programming Cookbook for Unity 3D by Jeff W. Murray
+    - Game Programming with C# and .NET by Gaston Hillar
+    - Books on Game Architecture and Design
+      - Game Programming Patterns by Robert Nystrom
+      - Design Patterns for Game Programming by John P. Doran
+      - Hands-On Game Development with C# by David McCarter
   - Working on Design Notes 
     - Obtain notes on setting a timer on the next reminder
   - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
     - Eighth Edition (2023), by Mark J. Price
     - book repo: https://github.com/markjprice/cs12dotnet8
     - Working on Chapter 2/15 - Speaking C#
-    - Current page: 91, last page: 114
+    - Current page: 100, last page: 114
       - min: 9/21   max: 
   - Reading: Irresistble APIs by Kirsten L. Hunter
     - PART 1: Understanding Web APIs
@@ -107,12 +119,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
-    - Intermediate Importing Data in R
     - Data Literacy Basics
-    - Understanding Cloud Computing
-    - Intermediate Importing Data in Pythin
-    - Data Warehousing Concepts
-    - Communicating Data Insights
+    - Introduction to Relational Databases in SQL
+    - Introduction to Importing Data in R
+    - Large Language Models (LLMs) Concepts
+    - Introduction to Data
+    - Data Manipulation in SQL
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -224,11 +236,11 @@
           - How to get people to show up to jobs and school?
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part III: The Enforcers
-        - Completed chapter 12: The Schoolmaster: Julius Streicher
-          - What a creep. This chapter did introduce me to Erika Mann, which
-            I appreciate. 
-        - Working on chapter 13: The Hangman: Reinhard Heydrich
-      - current page: 339, chapter_end: 355
+        - Completed chapter 13: The Hangman: Reinhard Heydrich
+          - Why did his wife get away with using slave labor? I don't think this
+            chapter was "meaty" enough. 
+        - Working on chapter 14: The Bureaucrat: Adolf Eichmann
+      - current page: 356, chapter_end: 371
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
