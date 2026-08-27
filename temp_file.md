@@ -1,4 +1,4 @@
-### Day 697: August 25, 2026 (Tuesday)
+### Day 699: August 27, 2026 (Thursday)
 - NOTE FOR THE DAY:
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
@@ -12,7 +12,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Operation Barbarossa: Uncensored Reality Of The Eastern Front](https://www.youtube.com/watch?v=qcg8KTPtHGE)
+    - [One Natalie Harp Detail Has Andrew Weissmann VERY Suspicious (Andrew Weissmann) | Illegal News](https://www.youtube.com/watch?v=zFDJzWHJpZ0)
     - []()
     - []()
 - PROJECT C64:
@@ -42,6 +42,11 @@
     - Eighth Edition (2023), by Mark J. Price
     - book repo: https://github.com/markjprice/cs12dotnet8
     - Working on Chapter 2/15 - Speaking C#
+    ```
+    <ItemGroup>
+		  <Using Include="System.Console" Static="true" />
+	  </ItemGroup>
+    ```
     - Current page: 100, last page: 114
       - min: 9/21   max: 
   - Reading: Irresistble APIs by Kirsten L. Hunter
@@ -167,6 +172,13 @@
 - PROJECT: PYTHON GRAPHICS
   - **Arcade** - Best modern 2D game library
     - Working on Arcade Academy - Learn Python book. Creating PDF 
+      - Completed chapter 8/34 - Creating Function
+      - Completed chapter 9/34 - Drawing With Functions
+        - There was a large defect in the last example in this chapter. I had 
+          to change it (with the help of Copilot) to actually work.  There have
+          been changes to arcade that prevents the example program online from
+          working. The key problem is that the author is showing us a functional style
+          to get animation but that NO LONGER WORKS. 
     - Working on:
       - [Python Arcade Library](https://www.youtube.com/watch?v=8AGyNz1HzEQ&list=PL1P11yPQAo7qgk8uk_A5UxiTrMt6obCc5&index=4)
         - Completed 1/24 - Window and View
@@ -207,6 +219,20 @@
 - PROJECT: React
   - Working on O'Reilly Course - The Redux Official Course Tutorial
     - Working on chapter 6/10 - Social Media App with Redux Example
+  - React Topics to know:
+    - What is REST?
+    - Design an API
+  - React reconciliation
+  - JSX
+  - Infinite scrolling / frontend design
+  - JavaScript related:
+    - Scope
+    - Hoisting
+    - TDZ
+    - Execution context
+    - Scope chain
+    - Shadowing
+    - Closures 
 - PROJECT: ZENVA
   - I was considering purchasing a Unreal package 
   - Worked on Intro to Bite-Sized Courses (Godot)
