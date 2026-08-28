@@ -1,5 +1,7 @@
-### Day 699: August 27, 2026 (Thursday)
+
+### Day 700: August 28, 2026 (Friday)
 - NOTE FOR THE DAY:
+  - [AOE2Insights](https://www.aoe2insights.com/)
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Cleaning up all the math puzzle/history books I downloaded yesterday
@@ -12,9 +14,30 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [One Natalie Harp Detail Has Andrew Weissmann VERY Suspicious (Andrew Weissmann) | Illegal News](https://www.youtube.com/watch?v=zFDJzWHJpZ0)
+    - [The Day Hitler’s Soldiers Realized the War Was Lost](https://www.youtube.com/watch?v=U2QCSq0BuRE)
     - []()
     - []()
+- Data Camp [DS]
+  - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
+  - Practice:
+    - Data Literacy Basics
+    - Simple Linear Regression Modeling
+    - Processing, Storing and Organizing Data
+    - Intermediate Importing Data in Python
+    - Introduction to Databases in Python
+    - Joining Data in SQL
+  - Course: Introduction to Regression with statsmodel in Python
+    - Working on chapter 2/4 - Making predictions
+    - OLS - Ordinary Least Squares
+  - Course: Hypothesis Testing in Python
+    - Working on chapter 1/4 - Hypothesis Testing Fundamentals
+  - Course: Database Design
+    - Completed chapter 2/4 - Processing, Storing, and Organizing Data
+    - Working on chapter 3/4 - Database views
+  - Course: Introduction to Data Literacy
+    - Working on chapter 1/4 - Data Literacy Basics
+  - Course: Introduction to APIs in Python
+    - Setting up
 - PROJECT C64:
   - Reading: Commodore 64 User's Guide
     - Completed chapter 3/8 - Beginning Basic Programming
@@ -101,6 +124,9 @@
       - Working on chapter 4 - C++ Fundamentals
       - current page: 70,  e-book: 186
 - PROJECT: RETRO
+  - The 20 Games Challenge
+    - See notes
+  - SDL
     - SDL Book Notes
         - Working/Reviewing in Chapter 2 - Installing SDL
     - SDL Games
@@ -121,27 +147,6 @@
     - Current pages: 178 ==> 
   - Working on collecting all material in this category together and coming up with a plan
   - Working on: Making a PLAN
-- Data Camp [DS]
-  - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
-  - Practice:
-    - Data Literacy Basics
-    - Introduction to Relational Databases in SQL
-    - Introduction to Importing Data in R
-    - Large Language Models (LLMs) Concepts
-    - Introduction to Data
-    - Data Manipulation in SQL
-  - Course: Introduction to Regression with statsmodel in Python
-    - Working on chapter 2/4 - Making predictions
-    - OLS - Ordinary Least Squares
-  - Course: Hypothesis Testing in Python
-    - Working on chapter 1/4 - Hypothesis Testing Fundamentals
-  - Course: Database Design
-    - Completed chapter 2/4 - Processing, Storing, and Organizing Data
-    - Working on chapter 3/4 - Database views
-  - Course: Introduction to Data Literacy
-    - Working on chapter 1/4 - Data Literacy Basics
-  - Course: Introduction to APIs in Python
-    - Setting up
 - PROJECT: Brainycode Magazine
   - See https://eev.ee/ for fun looking website
   - Working on Article #1: Configuring Your Favorite IDE for OpenGL
@@ -262,11 +267,11 @@
           - How to get people to show up to jobs and school?
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part III: The Enforcers
-        - Completed chapter 13: The Hangman: Reinhard Heydrich
-          - Why did his wife get away with using slave labor? I don't think this
-            chapter was "meaty" enough. 
-        - Working on chapter 14: The Bureaucrat: Adolf Eichmann
-      - current page: 356, chapter_end: 371
+        - Completed chapter 14: The Bureaucrat: Adolf Eichmann
+          - I think he should have been arrested but it should have been an
+            International matter not an Israeli matter.
+        - Working on chapter 15: The Loudmouth: Hans Frank
+      - current page: 372, chapter_end: 390
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
