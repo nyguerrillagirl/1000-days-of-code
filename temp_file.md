@@ -1,10 +1,9 @@
-
-### Day 700: August 28, 2026 (Friday)
+### Day 701: August 29, 2026 (Saturday)
 - NOTE FOR THE DAY:
   - [AOE2Insights](https://www.aoe2insights.com/)
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
-    - Cleaning up all the math puzzle/history books I downloaded yesterday
+    - Moved all React books in place
   - NYT
     - []()
     - []()
@@ -14,7 +13,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [The Day Hitler’s Soldiers Realized the War Was Lost](https://www.youtube.com/watch?v=U2QCSq0BuRE)
+    - []()
     - []()
     - []()
 - Data Camp [DS]
@@ -96,6 +95,9 @@
   - The Hundred Page Machine Learning Book
   - [The Agentic Systems Series](https://gerred.github.io/building-an-agentic-system/)
 - PROJECT: Java
+  - Articles
+    - [REST API Basics - 4 Things you Need to Know](https://mannhowie.com/rest-api)
+    - [GraphQL Vs. REST: All that You Must Know](https://www.wallarm.com/what/graphql-vs-rest-all-that-you-must-know)
   - Working on Java Interview Questions
     - explored "What is the difference between == and .equals()"
   - Working on async equivalent in Java
@@ -206,6 +208,7 @@
       It’s not optimized for high-performance 3D, but great for puzzle games, 
       UI-heavy games, or cross-platform apps.
 - PROJECT: REAL PYTHON
+  - [Episode 309: Exploring Complex Systems & Maintainable Data Science Pipelines](https://realpython.com/podcasts/rpp/309/?utm_source=notification_summary&utm_medium=email&utm_campaign=2026-08-28)
   - [Python's asyncio: A Hands-On Walkthrough](https://realpython.com/async-io-python/)
     - Worked on first part 
   - [Regular Expressions and Building Regexes in Python](https://realpython.com/courses/building-regexes-python/)   
@@ -224,20 +227,9 @@
 - PROJECT: React
   - Working on O'Reilly Course - The Redux Official Course Tutorial
     - Working on chapter 6/10 - Social Media App with Redux Example
-  - React Topics to know:
-    - What is REST?
-    - Design an API
-  - React reconciliation
-  - JSX
-  - Infinite scrolling / frontend design
-  - JavaScript related:
-    - Scope
-    - Hoisting
-    - TDZ
-    - Execution context
-    - Scope chain
-    - Shadowing
-    - Closures 
+  - React Interview Questions
+    - Covered REST
+    - Covered GraphQL
 - PROJECT: ZENVA
   - I was considering purchasing a Unreal package 
   - Worked on Intro to Bite-Sized Courses (Godot)
