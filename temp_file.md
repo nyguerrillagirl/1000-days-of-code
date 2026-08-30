@@ -1,9 +1,8 @@
-### Day 701: August 29, 2026 (Saturday)
+### Day 702: August 30, 2026 (Sunday)
 - NOTE FOR THE DAY:
-  - [AOE2Insights](https://www.aoe2insights.com/)
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
-    - Moved all React books in place
+    - Reorganized 5 books
   - NYT
     - []()
     - []()
@@ -20,11 +19,13 @@
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
     - Data Literacy Basics
-    - Simple Linear Regression Modeling
-    - Processing, Storing and Organizing Data
-    - Intermediate Importing Data in Python
-    - Introduction to Databases in Python
-    - Joining Data in SQL
+    - Introduction to Data Visualization with Matplotlib
+    - Introduction to Java
+    - Web Scraping in Python
+    - Introduction SQL
+    - Intermediate SQL
+  - Course: Intermediate Java
+    - just or xp
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -95,6 +96,8 @@
   - The Hundred Page Machine Learning Book
   - [The Agentic Systems Series](https://gerred.github.io/building-an-agentic-system/)
 - PROJECT: Java
+  - BOOK: Full Stack Development with Spring Boot 3 and React
+    - Working on chapter 1/17 - Setting Up the Environment and Tools - Backend
   - Articles
     - [REST API Basics - 4 Things you Need to Know](https://mannhowie.com/rest-api)
     - [GraphQL Vs. REST: All that You Must Know](https://www.wallarm.com/what/graphql-vs-rest-all-that-you-must-know)
@@ -178,19 +181,11 @@
   - Working on Module 2/4 - Univariate Data
 - PROJECT: PYTHON GRAPHICS
   - **Arcade** - Best modern 2D game library
-    - Working on Arcade Academy - Learn Python book. Creating PDF 
-      - Completed chapter 8/34 - Creating Function
-      - Completed chapter 9/34 - Drawing With Functions
-        - There was a large defect in the last example in this chapter. I had 
-          to change it (with the help of Copilot) to actually work.  There have
-          been changes to arcade that prevents the example program online from
-          working. The key problem is that the author is showing us a functional style
-          to get animation but that NO LONGER WORKS. 
+      - Working on chapter 11/34 - For Loops
     - Working on:
       - [Python Arcade Library](https://www.youtube.com/watch?v=8AGyNz1HzEQ&list=PL1P11yPQAo7qgk8uk_A5UxiTrMt6obCc5&index=4)
-        - Completed 1/24 - Window and View
-        - Completed 2/24 - Drawing shapes
-        - Working on 3/24 - Batch drawing using ShapeElementLists
+        - Completed video 4/24 - 04 - updating and creating a bouncing ball scene
+        - Working on video 5/24 - 05 - creating a parallax scrolling starfield
   - **Pygame** - Best for beginners & classic 2D games 
     - Pygame is the “old reliable” of Python game dev. It’s simple, stable, and 
       has a huge community. Ideal for learning game loops, input, collisions, 
@@ -208,7 +203,6 @@
       It’s not optimized for high-performance 3D, but great for puzzle games, 
       UI-heavy games, or cross-platform apps.
 - PROJECT: REAL PYTHON
-  - [Episode 309: Exploring Complex Systems & Maintainable Data Science Pipelines](https://realpython.com/podcasts/rpp/309/?utm_source=notification_summary&utm_medium=email&utm_campaign=2026-08-28)
   - [Python's asyncio: A Hands-On Walkthrough](https://realpython.com/async-io-python/)
     - Worked on first part 
   - [Regular Expressions and Building Regexes in Python](https://realpython.com/courses/building-regexes-python/)   
@@ -259,9 +253,6 @@
           - How to get people to show up to jobs and school?
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part III: The Enforcers
-        - Completed chapter 14: The Bureaucrat: Adolf Eichmann
-          - I think he should have been arrested but it should have been an
-            International matter not an Israeli matter.
         - Working on chapter 15: The Loudmouth: Hans Frank
       - current page: 372, chapter_end: 390
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
