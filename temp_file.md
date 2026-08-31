@@ -19,13 +19,11 @@
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
     - Data Literacy Basics
-    - Introduction to Data Visualization with Matplotlib
-    - Introduction to Java
-    - Web Scraping in Python
-    - Introduction SQL
-    - Intermediate SQL
-  - Course: Intermediate Java
-    - just or xp
+    - Statistical Thinking in Python (Part 1)
+    - Statistical Thinking in Python (Part 2)
+    - AI Ethics
+    - Generative AI Concepts
+    - Intermediate Python for Developers
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -96,11 +94,12 @@
   - The Hundred Page Machine Learning Book
   - [The Agentic Systems Series](https://gerred.github.io/building-an-agentic-system/)
 - PROJECT: Java
+  - Installed PostgreSQL
+    - Had to add to PATH
   - BOOK: Full Stack Development with Spring Boot 3 and React
-    - Working on chapter 1/17 - Setting Up the Environment and Tools - Backend
-  - Articles
-    - [REST API Basics - 4 Things you Need to Know](https://mannhowie.com/rest-api)
-    - [GraphQL Vs. REST: All that You Must Know](https://www.wallarm.com/what/graphql-vs-rest-all-that-you-must-know)
+    - Completed chapter 1/17 - Setting Up the Environment and Tools - Backend
+    - Working on chapter 2/17 - 
+    - start page:     end page:
   - Working on Java Interview Questions
     - explored "What is the difference between == and .equals()"
   - Working on async equivalent in Java
