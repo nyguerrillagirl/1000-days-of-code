@@ -1,10 +1,18 @@
-### Day 702: August 30, 2026 (Sunday)
+### Day 704: September 1, 2026 (Tuesday)
 - NOTE FOR THE DAY:
+  - Creating your own language: https://pylgen.readthedocs.io/en/latest/ 
+  - Download HelloWorld Magazine
+    - 5 / day
+    - URL: https://www.raspberrypi.org/hello-world/issues
+  - Download Raspberri Pi Magazine
+    - URL: https://magazine.raspberrypi.com/issues
+    - 5/day
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Reorganized 5 books
+      - added Hitchhikers Guide to the Galaxy
   - NYT
-    - []()
+    - [Dear Borrower, Someone Might Be Stealing Your Home, No Big Deal](https://www.nytimes.com/2026/08/30/business/address-change-mortgage-scam.html)
     - []()
     - []()
   - WAPO
@@ -12,18 +20,20 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
+    - [Mark Cuban Things He Could Run as a Republican. Tim Has Some Bad News](https://www.thebulwark.com/p/mark-cuban-thinks-he-could-run-as?utm_campaign=email-post&r=1pe7yq&utm_source=substack&utm_medium=email)
+    - [Mission Accomplished? WTH JUST HAPPENED?](https://www.youtube.com/watch?v=k5JOXyRtgSU)
     - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
     - Data Literacy Basics
-    - Statistical Thinking in Python (Part 1)
-    - Statistical Thinking in Python (Part 2)
-    - AI Ethics
-    - Generative AI Concepts
-    - Intermediate Python for Developers
+    - Introduction to Data Science in Python
+    - Data Communication Concepts
+    - Understanding ChatGPT
+    - Object-Oriented Programming in Python
+    - Software Engineering Principles in Pythons
+  - Course: Introduction to Object-Oriented Programming in Java
+    - Working on chapter 1/3 - Object-Oriented Programming (OOP) in Java
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -35,8 +45,7 @@
   - Course: Introduction to Data Literacy
     - Working on chapter 1/4 - Data Literacy Basics
   - Course: Introduction to APIs in Python
-    - Setting up
-- PROJECT C64:
+     - Working on chapter 2/2 - More API request concepts- PROJECT C64:
   - Reading: Commodore 64 User's Guide
     - Completed chapter 3/8 - Beginning Basic Programming
     - Working on chapter 4/8 - Advanced Basic
@@ -94,12 +103,6 @@
   - The Hundred Page Machine Learning Book
   - [The Agentic Systems Series](https://gerred.github.io/building-an-agentic-system/)
 - PROJECT: Java
-  - Installed PostgreSQL
-    - Had to add to PATH
-  - BOOK: Full Stack Development with Spring Boot 3 and React
-    - Completed chapter 1/17 - Setting Up the Environment and Tools - Backend
-    - Working on chapter 2/17 - 
-    - start page:     end page:
   - Working on Java Interview Questions
     - explored "What is the difference between == and .equals()"
   - Working on async equivalent in Java
@@ -110,6 +113,10 @@
     - Project Reactor
     - RxJava
     - SmallRye Mutiny
+  - Reading: Full Stack Development with Spring Boot 3 and React
+     - Completed chapter 2/17 - Understanding Dependency Injection
+     - Working on chapter 3/17 - Using JPA to Create and Access a Database
+    - start page: 27    end page: 26
   - Reading: Modern Java in Action, by Urma, Fusco, and Mycroft, 2019
     - Part 1: Fundamentals
       - Working on chapter 1/21 - Java 8, 9, 10, and 11: what's happening?
