@@ -1,39 +1,47 @@
-### Day 704: September 1, 2026 (Tuesday)
+### Day 705: September 2, 2026 (Wednesday)
 - NOTE FOR THE DAY:
-  - Creating your own language: https://pylgen.readthedocs.io/en/latest/ 
+  - CANCEL Subscription to:
+    - WAPO or NYT
+    - O'Reilly -> CANCELLED THIS TODAY
+    - Coursera -> CANCELLED THIS TODAY
   - Download HelloWorld Magazine
     - 5 / day
     - URL: https://www.raspberrypi.org/hello-world/issues
+    - LAST MAGAZINE: 21
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues
     - 5/day
+    - 163, 162, X, 160, 159
+    - LAST MAGAZINE: 159 (FORMAT: XXX_RPOM.pdf)
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Reorganized 5 books
       - added Hitchhikers Guide to the Galaxy
   - NYT
-    - [Dear Borrower, Someone Might Be Stealing Your Home, No Big Deal](https://www.nytimes.com/2026/08/30/business/address-change-mortgage-scam.html)
-    - []()
+    - [Secretary of the Army Resigns After Clashing With Hegseth Over Firings](https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html)
+    - [Global Bond Sell-Off Puts Investors on Edge](https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html)
     - []()
   - WAPO
-    - []()
-    - []()
-    - []()
+    - [Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants](https://www.washingtonpost.com/health/2026/09/01/judge-rebukes-hhs-over-ai-use-cutting-teen-pregnancy-prevention-grants/)
+    - [Jury in Lindsay Clancy trial is deadlocked, will continue deliberations](https://www.washingtonpost.com/politics/2026/09/01/jury-lindsay-clancy-trial-is-deadlocked-will-continue-deliberations/)
+    - [As more colleges surpass $100,000 price tag, here’s the true cost](https://www.washingtonpost.com/education/2026/09/01/more-colleges-surpass-100k-price-tag-heres-how-you-can-afford-it/)
   - ARTICLES/VIDEOS
-    - [Mark Cuban Things He Could Run as a Republican. Tim Has Some Bad News](https://www.thebulwark.com/p/mark-cuban-thinks-he-could-run-as?utm_campaign=email-post&r=1pe7yq&utm_source=substack&utm_medium=email)
-    - [Mission Accomplished? WTH JUST HAPPENED?](https://www.youtube.com/watch?v=k5JOXyRtgSU)
+    - [Panic as Trump’s rotten economy sends traders scrambling]()
+    - [A Minnesota dealer faked 'certified' used cars for years — then told the state he's too broke to pay victims back]()
     - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
     - Data Literacy Basics
-    - Introduction to Data Science in Python
-    - Data Communication Concepts
-    - Understanding ChatGPT
-    - Object-Oriented Programming in Python
-    - Software Engineering Principles in Pythons
+    - Making API Requests with Python
+    - Understanding Data Visualization
+    - Introduction to AI for Work
+    - Working with Dates and Times in Python
+    - Writing Efficient Python Code
   - Course: Introduction to Object-Oriented Programming in Java
-    - Working on chapter 1/3 - Object-Oriented Programming (OOP) in Java
+    - Completed chapter 2/3 - Encapsulation & access modifiers
+    - Completed chapter 3/3 - Interfaces in Java
+    - Completed Course
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -45,7 +53,8 @@
   - Course: Introduction to Data Literacy
     - Working on chapter 1/4 - Data Literacy Basics
   - Course: Introduction to APIs in Python
-     - Working on chapter 2/2 - More API request concepts- PROJECT C64:
+     - Working on chapter 2/2 - More API request concepts
+- PROJECT C64:
   - Reading: Commodore 64 User's Guide
     - Completed chapter 3/8 - Beginning Basic Programming
     - Working on chapter 4/8 - Advanced Basic
@@ -55,19 +64,12 @@
       - LOAD "*",8
       - RUN
 - PROJECT: TimeReminder
-  - IDEA: To make learning C# a bit more fun. I want to check out one of the
-          following:
-    - Beginning C# Game Programming by Ron Penton
-    - Learning C# by Developing Games with Unity by Harrison Ferrone
-    - MonoGame Mastery by Alan Thorn
-    - C# Game Programming Cookbook for Unity 3D by Jeff W. Murray
-    - Game Programming with C# and .NET by Gaston Hillar
-    - Books on Game Architecture and Design
-      - Game Programming Patterns by Robert Nystrom
-      - Design Patterns for Game Programming by John P. Doran
-      - Hands-On Game Development with C# by David McCarter
   - Working on Design Notes 
     - Obtain notes on setting a timer on the next reminder
+  - Reading: Learning PostgreSQL, 2nd Edition
+    - Completed chapter 1/19 - Introduction to PostgreSQL
+    - Working on chapter 2/19 - Getting to Know Your Cluster
+    - Current page: 21   End page: 50
   - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
     - Eighth Edition (2023), by Mark J. Price
     - book repo: https://github.com/markjprice/cs12dotnet8
@@ -92,6 +94,7 @@
     - Book Reading:
       - Design Patterns, Elements of Reusable Object-Oriented Software
         - Working on chapter 1/6 - Introduction
+        - start page: 32    end page: 73
       - Open Source Java Design Patterns by Ilkka Seppala
         - Working on Abstract Document
         - see: https://java-design-patterns.com/patterns/abstract-document/#programmatic-example-of-abstract-document-pattern-in-java
