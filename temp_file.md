@@ -1,47 +1,44 @@
-### Day 705: September 2, 2026 (Wednesday)
+### Day 706: September 3, 2026 (Thursday)
 - NOTE FOR THE DAY:
+  - Create new Documents folder: 73_2026_D
+    - this will be the final section for the year
   - CANCEL Subscription to:
     - WAPO or NYT
-    - O'Reilly -> CANCELLED THIS TODAY
-    - Coursera -> CANCELLED THIS TODAY
   - Download HelloWorld Magazine
     - 5 / day
     - URL: https://www.raspberrypi.org/hello-world/issues
-    - LAST MAGAZINE: 21
+    - process 20, 19, 18, 17, 16
+    - LAST MAGAZINE: 16
   - Download Raspberri Pi Magazine
-    - URL: https://magazine.raspberrypi.com/issues
+    - URL: https://magazine.raspberrypi.com/issues?page=2
     - 5/day
-    - 163, 162, X, 160, 159
-    - LAST MAGAZINE: 159 (FORMAT: XXX_RPOM.pdf)
+    - 158, 157, 156, 155, 154
+    - LAST MAGAZINE: 154 (FORMAT: XXX_RPOM.pdf)
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Reorganized 5 books
       - added Hitchhikers Guide to the Galaxy
   - NYT
-    - [Secretary of the Army Resigns After Clashing With Hegseth Over Firings](https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html)
-    - [Global Bond Sell-Off Puts Investors on Edge](https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html)
+    - []()
+    - []()
     - []()
   - WAPO
-    - [Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants](https://www.washingtonpost.com/health/2026/09/01/judge-rebukes-hhs-over-ai-use-cutting-teen-pregnancy-prevention-grants/)
-    - [Jury in Lindsay Clancy trial is deadlocked, will continue deliberations](https://www.washingtonpost.com/politics/2026/09/01/jury-lindsay-clancy-trial-is-deadlocked-will-continue-deliberations/)
-    - [As more colleges surpass $100,000 price tag, here’s the true cost](https://www.washingtonpost.com/education/2026/09/01/more-colleges-surpass-100k-price-tag-heres-how-you-can-afford-it/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Panic as Trump’s rotten economy sends traders scrambling]()
-    - [A Minnesota dealer faked 'certified' used cars for years — then told the state he's too broke to pay victims back]()
+    - [John Fetterman's data center gaffe immediately blows up in his face]()
+    - []()
     - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
     - Data Literacy Basics
-    - Making API Requests with Python
-    - Understanding Data Visualization
-    - Introduction to AI for Work
-    - Working with Dates and Times in Python
-    - Writing Efficient Python Code
-  - Course: Introduction to Object-Oriented Programming in Java
-    - Completed chapter 2/3 - Encapsulation & access modifiers
-    - Completed chapter 3/3 - Interfaces in Java
-    - Completed Course
+    - Understanding Data Engineering
+    - Introduction to the Tidyverse
+    - Cleaning Data in Python
+    - Introduction to Object-Oriented Programming in Python
+    - Writing Functions in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -52,8 +49,6 @@
     - Working on chapter 3/4 - Database views
   - Course: Introduction to Data Literacy
     - Working on chapter 1/4 - Data Literacy Basics
-  - Course: Introduction to APIs in Python
-     - Working on chapter 2/2 - More API request concepts
 - PROJECT C64:
   - Reading: Commodore 64 User's Guide
     - Completed chapter 3/8 - Beginning Basic Programming
@@ -190,8 +185,9 @@
   - Working on Module 2/4 - Univariate Data
 - PROJECT: PYTHON GRAPHICS
   - **Arcade** - Best modern 2D game library
+    - Book: Aracade Academy Learning Python 
       - Working on chapter 11/34 - For Loops
-    - Working on:
+      - Working on:
       - [Python Arcade Library](https://www.youtube.com/watch?v=8AGyNz1HzEQ&list=PL1P11yPQAo7qgk8uk_A5UxiTrMt6obCc5&index=4)
         - Completed video 4/24 - 04 - updating and creating a bouncing ball scene
         - Working on video 5/24 - 05 - creating a parallax scrolling starfield
@@ -224,6 +220,8 @@
   - [Course: Python Type Checking: Overview](https://realpython.com/videos/python-type-checking-overview/)
 - PROJECT: Learning Data Science with Python Workbook (LDSPW)
     - Statistics
+      - Learning Statistics on Datacamp
+        - Working on Introduction
       - Working on Probability Bootcamp - https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V
         - Completed 1/44 - Probability and Statistics Overview
         - Working on MANNING/STATISTICS_EVERY_PROGRAMMER_NEEDS
@@ -262,8 +260,11 @@
           - How to get people to show up to jobs and school?
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
       - Part III: The Enforcers
-        - Working on chapter 15: The Loudmouth: Hans Frank
-      - current page: 372, chapter_end: 390
+        - Completed chapter 15: The Loudmouth: Hans Frank
+      - Part IV: The Instruments
+        - Working on Introduction
+        - Working on chapter 16: The General: Wilhelm Ritter Von Leeb
+      - current page: 392, chapter_end: 396
     - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
       Hunted down russian submarines, & emerged triumphant from two centuries
       of controversy - Sharon Bertsch McGrayne
