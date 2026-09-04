@@ -1,19 +1,22 @@
 ### Day 706: September 3, 2026 (Thursday)
 - NOTE FOR THE DAY:
+  - League Matches
+    - TAG v. Oni Van    Prediction: 3-1 TAG (maybe even 4-0)
+    - NOC v. LY         Prediction: 2-2 
   - Create new Documents folder: 73_2026_D
-    - this will be the final section for the year
+    - Finish the project goal list above. NOTE: ONLY ADD WHAT I ACTUALLY AM WORKING ON!
   - CANCEL Subscription to:
     - WAPO or NYT
   - Download HelloWorld Magazine
     - 5 / day
     - URL: https://www.raspberrypi.org/hello-world/issues
-    - process 20, 19, 18, 17, 16
-    - LAST MAGAZINE: 16
+    - process 15, 14, 13, 12, 11
+    - LAST MAGAZINE: 11
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=2
     - 5/day
-    - 158, 157, 156, 155, 154
-    - LAST MAGAZINE: 154 (FORMAT: XXX_RPOM.pdf)
+    - 153, 152, 151, 150, 149
+    - LAST MAGAZINE: 149 (FORMAT: XXX_RPOM.pdf)
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Reorganized 5 books
@@ -27,42 +30,34 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [John Fetterman's data center gaffe immediately blows up in his face]()
+    - [Ted Lasso parodies viral Delia Smith football moment over 20 years on]()
+    ```
+    Where are you!?
+    ```
     - []()
     - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
   - Practice:
     - Data Literacy Basics
-    - Understanding Data Engineering
-    - Introduction to the Tidyverse
-    - Cleaning Data in Python
-    - Introduction to Object-Oriented Programming in Python
-    - Writing Functions in Python
+    - Introduction to APIs in Python
+    - Understanding Machine Learning
+    - Data Communication Concepts
+    - Statistical Thinking in Python (Part 1)
+    - Sampling in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Hypothesis Testing in Python
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
   - Course: Database Design
-    - Completed chapter 2/4 - Processing, Storing, and Organizing Data
-    - Working on chapter 3/4 - Database views
+     - Working on chapter 3/4 - Database views
   - Course: Introduction to Data Literacy
-    - Working on chapter 1/4 - Data Literacy Basics
-- PROJECT C64:
-  - Reading: Commodore 64 User's Guide
-    - Completed chapter 3/8 - Beginning Basic Programming
-    - Working on chapter 4/8 - Advanced Basic
-    - current page: 57 last_page: 70
-  - Working on: Examine 001_LOADSTAR_64 disk
-      - SET UP DISK #1 
-      - LOAD "*",8
-      - RUN
+    - Completed chapter 2/4 - Data Literacy Basics
 - PROJECT: TimeReminder
   - Working on Design Notes 
     - Obtain notes on setting a timer on the next reminder
   - Reading: Learning PostgreSQL, 2nd Edition
-    - Completed chapter 1/19 - Introduction to PostgreSQL
     - Working on chapter 2/19 - Getting to Know Your Cluster
     - Current page: 21   End page: 50
   - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
@@ -83,7 +78,7 @@
       - Current page: 27   Last page: 48
       - It looks like each chapter will take 2/3 days to complete
         - min:  8/26    max: 10/6
-- PROJECT NeetcodeIO
+- PROJECT: Design Patterns
   - Design Patterns
     - Worked on Notes on Design Patterns
     - Book Reading:
@@ -93,13 +88,10 @@
       - Open Source Java Design Patterns by Ilkka Seppala
         - Working on Abstract Document
         - see: https://java-design-patterns.com/patterns/abstract-document/#programmatic-example-of-abstract-document-pattern-in-java
+- PROJECT: DSA
   - DSA Notes
     - Working on Sliding Windows Problem
       - Re-visited ideal solution for problem 904. 
-- PROJECT: AI
-  - Grokking Machine Learning
-  - The Hundred Page Machine Learning Book
-  - [The Agentic Systems Series](https://gerred.github.io/building-an-agentic-system/)
 - PROJECT: Java
   - Working on Java Interview Questions
     - explored "What is the difference between == and .equals()"
@@ -107,10 +99,6 @@
     - Created two programs - need to write notes
       - AsyncFetch Project
       - async-webflux-demo Project
-  - Reactive Streams
-    - Project Reactor
-    - RxJava
-    - SmallRye Mutiny
   - Reading: Full Stack Development with Spring Boot 3 and React
      - Completed chapter 2/17 - Understanding Dependency Injection
      - Working on chapter 3/17 - Using JPA to Create and Access a Database
@@ -122,17 +110,7 @@
   - Working on [Can you force 3V onto a 2V LED?]()
 - PROJECT: Basic Mathematics
    - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
-- PROJECT Coding Challenge
-  - Working on Challenge #125 - Online Diff Viewer
-- PROJECT: C++
-   - BOOK: C++, The Comprehensive Guide
-    - Part I: Fundamentals
-      - Working on chapter 4 - C++ Fundamentals
-      - current page: 109
-  - BOOK: C++20 for Programmers, An Objects-Natural Approach
-      - Working on chapter 4 - C++ Fundamentals
-      - current page: 70,  e-book: 186
-- PROJECT: RETRO
+- PROJECT: SDL
   - The 20 Games Challenge
     - See notes
   - SDL
@@ -156,33 +134,6 @@
     - Current pages: 178 ==> 
   - Working on collecting all material in this category together and coming up with a plan
   - Working on: Making a PLAN
-- PROJECT: Brainycode Magazine
-  - See https://eev.ee/ for fun looking website
-  - Working on Article #1: Configuring Your Favorite IDE for OpenGL
-    - review
-  - Working on Article #2: Why do developers create video games with SDL + OpenGL?
-  - Working on Article #3: Python sockets and struct
-  - Working on Article #4: Modern Low-Level Graphics API (Direct GPU Control)
-  - Working on Article #5: Dowloading files from a page (using Python)
-- PROJECT: Wolf/Doom
-  - Rebuilt classic Donkey Kong in Python using PyGame
-    - [Github](https://github.com/plemaster01/PythonDonkeyKong)
-    - [How to Make Donkey Kong in Python with PyGame!](https://www.youtube.com/watch?v=u6RV1lkHW8M)
-  - OREILLY COURSE (no notes) - The Art of Doing: Video Game Creation with Python and Pygame
-    - Chapter Chapter 1: Setup and Installation
-    - Working on Chapter 2: Basic Pygame Tutorial
-- FIGMA Marathon
-   - Working on Challenge 9/26 - Grids
-    - I need to watch one more time and be careful about properties changing
-      from Fill to some other value when I make changes
-- Coursera Working on course 7/9 [Principles of UX/UI Design] in  [Meta Front-End Specialization]
-  - Adding a Development Task Section and getting on with it!
-  - Working on Module 4 for  Course 7/9 - Prinicples of UX/UI Design
-    - Designing your UI
-      - Working on Prototyping, Sharing and testing your design
-      - Next up: Module 5 
-- Coursera Course: Understanding and Visualizing Data with Python
-  - Working on Module 2/4 - Univariate Data
 - PROJECT: PYTHON GRAPHICS
   - **Arcade** - Best modern 2D game library
     - Book: Aracade Academy Learning Python 
@@ -195,18 +146,6 @@
     - Pygame is the “old reliable” of Python game dev. It’s simple, stable, and 
       has a huge community. Ideal for learning game loops, input, collisions, 
       and retro-style games.
-  - **Pyglet** - Best for low-level OpenGL control
-    - If you want to work directly with OpenGL (which fits your interest in 
-      graphics programming), Pyglet gives you more control than Pygame or Arcade. 
-      Good for custom rendering pipelines or experimental graphics.
-  - **Pandas3D** - Best full 3D engine with Python support
-    - Panda3D is a real 3D engine (used by Disney and CMU) with Python bindings. 
-      It supports shaders, physics, large maps, and modern rendering features. 
-      If you want to build a Doom‑like 3D game in Python, this is the strongest option.
-  - **Kivy** - Best for mobile/touch games
-    - If your game needs mobile deployment or touch input, Kivy is the go‑to. 
-      It’s not optimized for high-performance 3D, but great for puzzle games, 
-      UI-heavy games, or cross-platform apps.
 - PROJECT: REAL PYTHON
   - [Python's asyncio: A Hands-On Walkthrough](https://realpython.com/async-io-python/)
     - Worked on first part 
@@ -225,34 +164,13 @@
       - Working on Probability Bootcamp - https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V
         - Completed 1/44 - Probability and Statistics Overview
         - Working on MANNING/STATISTICS_EVERY_PROGRAMMER_NEEDS
-- PROJECT: React
-  - Working on O'Reilly Course - The Redux Official Course Tutorial
-    - Working on chapter 6/10 - Social Media App with Redux Example
-  - React Interview Questions
-    - Covered REST
-    - Covered GraphQL
-- PROJECT: ZENVA
-  - I was considering purchasing a Unreal package 
-  - Worked on Intro to Bite-Sized Courses (Godot)
-    - Completed 4/17 - Introduction
 - Books
   - Tech Reading
-    - Professional CMake
-      - Part I: Fundamentals
-         - Working on Chapter 3/28 - A Minimal Project
-        - current page:19, last page in working chapter: 23
     - Manning Publishing
       - Statistics Every Programmer Needs
         - Working on Chapter 2/24 - Exploring probability and counting
         - pages 16-40 
         - current page: 16
-    - React, The Comprehensive Guide 
-      - Finally resuming my reading
-      - Working chapter 9/21 - Securing a React Application through Testing
-        - start page: 422  end page: 461
-      - GOAL: The goal (to get a C and above) is to complete 10 pages a day
-        - This will allow me to complete the book in 90 days from today
-      - npm install -D sass
   - Non-Tech Reading
     - **Paper Girl**, Beth Macy
       - Part III: Showing Up
@@ -265,10 +183,5 @@
         - Working on Introduction
         - Working on chapter 16: The General: Wilhelm Ritter Von Leeb
       - current page: 392, chapter_end: 396
-    - **The Theory that would not Die, How Bayes' Rule Cracked the Enigma Code**,
-      Hunted down russian submarines, & emerged triumphant from two centuries
-      of controversy - Sharon Bertsch McGrayne
-      - PART IV - To Prove Its Worth
-       - Working on chapter 11 - Business Decisions (page: 139)
-- GRADE: 
+ - GRADE: 
   - NA 
