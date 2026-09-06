@@ -1,60 +1,40 @@
-### Day 708: September 5, 2026 (Saturday)
+### Day 709: September 6, 2026 (Sunday)
 - NOTE FOR THE DAY:
   - League Matches
-    - TAG v. Oni Van    Prediction: 3-1 TAG (maybe even 4-0) CALLED IT!
-    - NOC v. LY         Prediction: 2-2 
-  - Create new Documents folder: 73_2026_D
-    - Finish the project goal list above. NOTE: ONLY ADD WHAT I ACTUALLY AM WORKING ON!
-    - MOVING TO NEW Portable Drive the following folders from OneDrive:
-      - 75_2026_B
-      - 76_2026_A
-      - 77_2025_D
-      - 78_2025_C
-      - 79_2025_B
-      - 80_2025_A
-      - 91_2024_D
+    - NOC v. DS     Prediction: 2-2 
+    - LY v. SalzZ   Prediction: 4-0 LY 
   - CANCEL Subscription to:
     - WAPO or NYT
-  - Download HelloWorld Magazine
-    - 5 / day
-    - URL: https://www.raspberrypi.org/hello-world/issues
-    - process 10, 9, 8, 7, 6
-    - LAST MAGAZINE: 6
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=3
     - 5/day
-    - 148, 147, 146, 145, 144
-    - LAST MAGAZINE: 149 (FORMAT: XXX_RPOM.pdf)
+    - 143, 142, 141, 140, 139
+    - LAST MAGAZINE: 139 (FORMAT: XXX_RPOM.pdf)
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Reorganized 5 books
       - added Hitchhikers Guide to the Galaxy
   - NYT
-    - [Something Alarming Is About to Happen in Germany](https://www.nytimes.com/2026/09/04/opinion/afd-germany-saxony-anhalt.html)
-    - [Corporate America Is Getting Hooked on Open-Source A.I.](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)
-    - [‘I Don’t Want to Die This Way’: Stranded for 15 Hours at Sea](https://www.nytimes.com/2026/09/04/us/jetski-stranded-sea.html)
+    - [Judge Orders Trump Officials to Divulge Names of Those Who Set Up $1.8 Billion Fund](https://www.nytimes.com/2026/09/04/us/politics/trump-administration-fund-compensation-jan-6.html)
+    - [Clancy Faces Years of Confinement, No Matter What Comes Next](https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html)
+    - [Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans](https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html)
   - WAPO
-    - [This obscure airport tells you a lot about China](https://www.washingtonpost.com/opinions/2026/09/04/how-china-uses-global-institutions-isolate-taiwan/)
-    - [Missouri candidate charged with conspiring to plant drugs on opponent](https://www.washingtonpost.com/politics/2026/09/04/missouri-candidate-charged-with-conspiring-plant-drugs-opponent/)
-    - [Lindsay Clancy murder trial in limbo as judge says he will declare mistrial; defense appeals](https://www.washingtonpost.com/nation/2026/09/04/judge-lindsay-clancy-trial-declines-remove-juror-deliberations-continue/)
+    - [The mystery behind an audio clip that helped upend a Senate race](https://www.washingtonpost.com/politics/2026/09/05/mystery-behind-an-audio-clip-that-helped-upend-senate-race/)
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Ted Lasso parodies viral Delia Smith football moment over 20 years on]()
-    ```
-    Where are you!?
-    ```
-    - [The GOP’s 2026 Map Is Suddenly Looking Very, Very Ugly (w/ JVL) | Bulwark Daily](https://www.youtube.com/watch?v=IXMGlghSzBY)
-    - [Trump triggers "frightening sign" as billions in gold flee New York vaults: expert]()
-    - [Racist MAGA Woman Gets INSTANTLY HUMBLED By No-Nonsense Cops](https://www.youtube.com/watch?v=59WH2ZH5mwQ)
-    - [Politics Chat, September 3, 2026](https://www.youtube.com/watch?v=PtftkS31u0Q)
+    - [Secret Preview: The Susan Collins Quote You Have to Hear to Believe](https://www.youtube.com/watch?v=GS2iGVGNOe4)
+    - [Cruel Cop Attacks Woman at Hospital](https://www.youtube.com/watch?v=mGDatiw5ZAg)
+    - [More details spill on Maria Bartiromo’s sudden split with Fox News]()
 - Data Camp [DS]
-  - XP: 1500  (Practice) --> 1500  [Peta - Last week: 12050 XP (9th in Peta League)]
+  - XP: 1500  (Practice) --> 2200  [Peta - Last week: TBD XP (9th in Peta League)]
   - Practice:
-    - Data Literacy Basics
-    - Reading Data
-    - Intermediate Importing Data in Python
-    - Understanding Data Engineering    
-    - Understanding Data Visualization
-    - Exploratory Data Analysis in Python
+    - Working with an Analyzing Data
+    - Database Design
+    - Data Warehousing Concepts
+    - Understanding Machine Learning
+    - Understanding Data Science
+    - Working with Categorical Data in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -64,6 +44,8 @@
      - Working on chapter 3/4 - Database views
   - Course: Introduction to Data Literacy
     - Working on chapter 3/4 - Descriptive Analytics
+  - Course: Data Types and Exceptions in Java
+    - Working on  chapter 1/3
 - PROJECT: TimeReminder
   - Working on Design Notes 
     - Obtain notes on setting a timer on the next reminder
@@ -103,8 +85,8 @@
     - Working on Sliding Windows Problem
       - Re-visited ideal solution for problem 904. 
 - PROJECT: Java
-  - Article:
-    - [The Modern Java Developer Roadmap You Need in the AI Era](https://medium.com/javarevisited/the-modern-java-developer-roadmap-you-need-in-the-ai-era-bac60aa24608)
+  - Manning Live Project
+    - Working on Milestone #1
   - Working on Java Interview Questions
     - explored "What is the difference between == and .equals()"
   - Working on async equivalent in Java
@@ -189,10 +171,7 @@
         - Working on chapter 10 - Interventions
           - How to get people to show up to jobs and school?
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
-      - Part III: The Enforcers
-        - Completed chapter 15: The Loudmouth: Hans Frank
       - Part IV: The Instruments
-        - Working on Introduction
         - Working on chapter 16: The General: Wilhelm Ritter Von Leeb
       - current page: 392, chapter_end: 396
  - GRADE: 
