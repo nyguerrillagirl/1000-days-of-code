@@ -1,31 +1,30 @@
-### Day 709: September 6, 2026 (Sunday)
+
+### Day 710: September 7, 2026 (Monday)
 - NOTE FOR THE DAY:
   - League Matches
     - NOC v. DS     Prediction: 2-2 
     - LY v. SalzZ   Prediction: 4-0 LY 
-  - CANCEL Subscription to:
-    - WAPO or NYT
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=3
     - 5/day
-    - 143, 142, 141, 140, 139
-    - LAST MAGAZINE: 139 (FORMAT: XXX_RPOM.pdf)
+    - 138, 137, 136, 135, 134
+    - LAST MAGAZINE: 134 (FORMAT: XXX_RPOM.pdf)
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Reorganized 5 books
       - added Hitchhikers Guide to the Galaxy
   - NYT
-    - [Judge Orders Trump Officials to Divulge Names of Those Who Set Up $1.8 Billion Fund](https://www.nytimes.com/2026/09/04/us/politics/trump-administration-fund-compensation-jan-6.html)
-    - [Clancy Faces Years of Confinement, No Matter What Comes Next](https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html)
-    - [Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans](https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html)
+    - []()
+    - []()
+    - []()
   - WAPO
-    - [The mystery behind an audio clip that helped upend a Senate race](https://www.washingtonpost.com/politics/2026/09/05/mystery-behind-an-audio-clip-that-helped-upend-senate-race/)
+    - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Secret Preview: The Susan Collins Quote You Have to Hear to Believe](https://www.youtube.com/watch?v=GS2iGVGNOe4)
-    - [Cruel Cop Attacks Woman at Hospital](https://www.youtube.com/watch?v=mGDatiw5ZAg)
-    - [More details spill on Maria Bartiromo’s sudden split with Fox News]()
+    - [Starving 5 Kids Wandering Alone Leads Cops to a House of Horrors](https://www.youtube.com/watch?v=VkkRU0SGtXY)
+    - []()
+    - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 2200  [Peta - Last week: TBD XP (9th in Peta League)]
   - Practice:
@@ -87,6 +86,10 @@
 - PROJECT: Java
   - Manning Live Project
     - Working on Milestone #1
+      - Take notes on how to use Mustache
+      - Start a set of notes on templating html frameworks to use with Spring Boot
+    - Reading: Master Bootstrap 5, Zero to Hero by Rishi Ray
+      - Working on chapter 1/24: Understanding the Web Development Essentials
   - Working on Java Interview Questions
     - explored "What is the difference between == and .equals()"
   - Working on async equivalent in Java
