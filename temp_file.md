@@ -1,14 +1,10 @@
-
-### Day 710: September 7, 2026 (Monday)
+### Day 711: September 8, 2026 (Tuesday)
 - NOTE FOR THE DAY:
-  - League Matches
-    - NOC v. DS     Prediction: 2-2 
-    - LY v. SalzZ   Prediction: 4-0 LY 
   - Download Raspberri Pi Magazine
-    - URL: https://magazine.raspberrypi.com/issues?page=3
+    - URL: https://magazine.raspberrypi.com/issues?page=4
     - 5/day
-    - 138, 137, 136, 135, 134
-    - LAST MAGAZINE: 134 (FORMAT: XXX_RPOM.pdf)
+    - 133, 132, 131, 130, 129
+    - LAST MAGAZINE: 134 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Reorganized 5 books
@@ -22,7 +18,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Starving 5 Kids Wandering Alone Leads Cops to a House of Horrors](https://www.youtube.com/watch?v=VkkRU0SGtXY)
+    - []()
     - []()
     - []()
 - Data Camp [DS]
@@ -84,6 +80,9 @@
     - Working on Sliding Windows Problem
       - Re-visited ideal solution for problem 904. 
 - PROJECT: Java
+  - Articles:
+    - [Spring Boot and HTMX - The Boring App](https://www.codecentric.de/en/knowledge-hub/blog/spring-boot-and-htmx-the-boring-app)
+    - [Server-Side Templating with Mustache in Spring Boot: A Practical Guide](https://thecodeforge.io/java/spring-boot-mustache/?utm_source=copilot.com)
   - Manning Live Project
     - Working on Milestone #1
       - Take notes on how to use Mustache
