@@ -1,10 +1,10 @@
-### Day 711: September 8, 2026 (Tuesday)
+### Day 712: September 9, 2026 (Wednesday)
 - NOTE FOR THE DAY:
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=4
     - 5/day
-    - 133, 132, 131, 130, 129
-    - LAST MAGAZINE: 134 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)
+    - 128, 127, 126, 125, 124
+    - LAST MAGAZINE: 124 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)    
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Reorganized 5 books
@@ -18,7 +18,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
+    - [Sabine Hossenfelder: More Exposed Than Ever! (Racism Edition)](https://www.youtube.com/watch?v=BdB79BUcLV0)
     - []()
     - []()
 - Data Camp [DS]
@@ -81,11 +81,10 @@
       - Re-visited ideal solution for problem 904. 
 - PROJECT: Java
   - Articles:
-    - [Spring Boot and HTMX - The Boring App](https://www.codecentric.de/en/knowledge-hub/blog/spring-boot-and-htmx-the-boring-app)
-    - [Server-Side Templating with Mustache in Spring Boot: A Practical Guide](https://thecodeforge.io/java/spring-boot-mustache/?utm_source=copilot.com)
+    - [Guide to Mustache with Spring Boot](https://www.javathinking.com/blog/guide-to-mustache-with-spring-boot/?utm_source=copilot.com)
   - Manning Live Project
     - Working on Milestone #1
-      - Take notes on how to use Mustache
+      - Created sample Mustache project
       - Start a set of notes on templating html frameworks to use with Spring Boot
     - Reading: Master Bootstrap 5, Zero to Hero by Rishi Ray
       - Working on chapter 1/24: Understanding the Web Development Essentials
@@ -105,7 +104,8 @@
 - PROJECT: Electronics
   - Working on [Can you force 3V onto a 2V LED?]()
 - PROJECT: Basic Mathematics
-   - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
+  - Check out book: I.N. Herstein’s “Topics in Algebra,” 
+  - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
 - PROJECT: SDL
   - The 20 Games Challenge
     - See notes
@@ -173,8 +173,10 @@
         - Working on chapter 10 - Interventions
           - How to get people to show up to jobs and school?
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
-      - Part IV: The Instruments
-        - Working on chapter 16: The General: Wilhelm Ritter Von Leeb
-      - current page: 392, chapter_end: 396
+       - Part IV: The Instruments
+         - Working on chapter 18: The Killers: Paul Zapp and Agon Zill
+           - The book is exploring how ordinary people could participate 
+             at the camps and/or killings.
+       - current page: 427, chapter_end: 440
  - GRADE: 
   - NA 
