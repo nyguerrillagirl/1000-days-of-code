@@ -1,10 +1,10 @@
-### Day 712: September 9, 2026 (Wednesday)
+### Day 713: September 10, 2026 (Thursday)
 - NOTE FOR THE DAY:
   - Download Raspberri Pi Magazine
-    - URL: https://magazine.raspberrypi.com/issues?page=4
+    - URL: https://magazine.raspberrypi.com/issues?page=5 
     - 5/day
-    - 128, 127, 126, 125, 124
-    - LAST MAGAZINE: 124 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)    
+    - 123, 122, 121, 120, 119
+    - LAST MAGAZINE: 119 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)    
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Reorganized 5 books
@@ -18,7 +18,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Sabine Hossenfelder: More Exposed Than Ever! (Racism Edition)](https://www.youtube.com/watch?v=BdB79BUcLV0)
+    - ['Why are you driving my vehicle?': A Boston woman brought her car in for repairs — then she saw a stranger driving it around town]()
     - []()
     - []()
 - Data Camp [DS]
@@ -46,18 +46,12 @@
     - Obtain notes on setting a timer on the next reminder
   - Reading: Learning PostgreSQL, 2nd Edition
     - Working on chapter 2/19 - Getting to Know Your Cluster
-    - Current page: 21   End page: 50
+    - Current page: 32   End page: 50
   - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
     - Eighth Edition (2023), by Mark J. Price
     - book repo: https://github.com/markjprice/cs12dotnet8
     - Working on Chapter 2/15 - Speaking C#
-    ```
-    <ItemGroup>
-		  <Using Include="System.Console" Static="true" />
-	  </ItemGroup>
-    ```
     - Current page: 100, last page: 114
-      - min: 9/21   max: 
   - Reading: Irresistble APIs by Kirsten L. Hunter
     - PART 1: Understanding Web APIs
       - Completed chapter 1/9 - What makes an API irresistible?
@@ -174,9 +168,10 @@
           - How to get people to show up to jobs and school?
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
        - Part IV: The Instruments
-         - Working on chapter 18: The Killers: Paul Zapp and Agon Zill
-           - The book is exploring how ordinary people could participate 
-             at the camps and/or killings.
-       - current page: 427, chapter_end: 440
+         - Working on chapter 19: The "Witch" and the "Beast": Ilse Koch and Irma Grese
+           - I think they deserved their reputation however trumped up some of the
+              more terrible stories. They knowingly participated and believed 
+              they did nothing wrong. Grese was probably crazy.
+       - current page: 441, chapter_end: 455
  - GRADE: 
   - NA 
