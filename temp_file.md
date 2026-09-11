@@ -1,26 +1,31 @@
-### Day 713: September 10, 2026 (Thursday)
+### Day 714: September 11, 2026 (Friday)
 - NOTE FOR THE DAY:
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=5 
     - 5/day
-    - 123, 122, 121, 120, 119
-    - LAST MAGAZINE: 119 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)    
+    - 118, 117, 116, 115, 114
+    - LAST MAGAZINE: 114 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)    
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Reorganized 5 books
       - added Hitchhikers Guide to the Galaxy
   - NYT
-    - []()
-    - []()
-    - []()
+    - [‘Pretend That I Am Running’: 7 Takeaways From the G.O.P. Midterm Convention](https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-takeaways.html)
+    - [Heard About the Super Godzilla Monster El Niño? Here’s How It Could Actually Affect You.](https://www.nytimes.com/2026/09/09/weather/el-nino-weather-forecast-facts.html)
+    ```
+    El Niño is a natural weather pattern that comes around every few years. It typically develops in the spring or summer, gets stronger through the fall, and peaks in the winter. It doesn’t, by itself, mean a wetter winter in California or a warmer Christmas in New York, but more often than not, when El Niño arrives, that’s what tends to happen. A stronger El Niño like this one can make it more likely.
+    ```
+    - [Help! We Canceled a Vacation Rental 2 Years Ago. Where’s Our $13,000?](https://www.nytimes.com/2026/09/10/travel/vacation-rental-cancellation-refund.html)
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
     - ['Why are you driving my vehicle?': A Boston woman brought her car in for repairs — then she saw a stranger driving it around town]()
-    - []()
-    - []()
+    - [Mom to monster... her 9-year-old daughter vanished on their road trip - then she returned the rental car]()
+    - [Her card was hit with 1,700 unauthorized charges — then the bank said she’d approved them. Here’s what it took to get her money back]()
+    - [Kidnapped Daughters Realize Police Are There To Rescue Them](https://www.youtube.com/watch?v=ik2wzzviT-U)
+    - [Former MAGA Insider Confronts the Things He Said—and Why He Left (w/ Pedro Gonzalez) | Bulwark Daily](https://www.youtube.com/watch?v=1cPiIN21sjw)
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 2200  [Peta - Last week: TBD XP (9th in Peta League)]
   - Practice:
@@ -45,18 +50,19 @@
   - Working on Design Notes 
     - Obtain notes on setting a timer on the next reminder
   - Reading: Learning PostgreSQL, 2nd Edition
+    - Spent the time learning how to start and access/view a Docker DB instance
     - Working on chapter 2/19 - Getting to Know Your Cluster
-    - Current page: 32   End page: 50
+    - Current page: 33   End page: 50
   - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
     - Eighth Edition (2023), by Mark J. Price
     - book repo: https://github.com/markjprice/cs12dotnet8
-    - Working on Chapter 2/15 - Speaking C#
-    - Current page: 100, last page: 114
+    - Completed Chapter 2/15 - Speaking C#
+    - Working on Chapter 3/15 - Controlling Flow, Converting Types, and Handling Exceptions
+    - Current page: 115, last page: 167
   - Reading: Irresistble APIs by Kirsten L. Hunter
     - PART 1: Understanding Web APIs
-      - Completed chapter 1/9 - What makes an API irresistible?
       - Working on chapter 2/9 - Working with Web APIs
-      - Current page: 27   Last page: 48
+      - Current page: 38   Last page: 48
       - It looks like each chapter will take 2/3 days to complete
         - min:  8/26    max: 10/6
 - PROJECT: Design Patterns
