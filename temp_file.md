@@ -1,0 +1,178 @@
+### Day 715: September 12, 2026 (Saturday)
+- NOTE FOR THE DAY:
+  - Download Raspberri Pi Magazine
+    - URL: https://magazine.raspberrypi.com/issues?page=6
+    - 5/day
+    - 113, 112, 111, 110, 109
+    - LAST MAGAZINE: 109 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)    
+  - Cleaning up DOWNLOADs folder
+    - Goal: Work on at least 5 books a day
+    - Reorganized 5 books
+      - added Hitchhikers Guide to the Galaxy
+  - NYT
+    - []()
+    - []()
+    - []()
+  - WAPO
+    - []()
+    - []()
+    - []()
+  - ARTICLES/VIDEOS
+    - []()
+    - []()
+    - []()
+- Data Camp [DS]
+  - XP: 1500  (Practice) --> 2200  [Peta - Last week: TBD XP (9th in Peta League)]
+  - Practice:
+    - Working with an Analyzing Data
+    - Database Design
+    - Data Warehousing Concepts
+    - Understanding Machine Learning
+    - Understanding Data Science
+    - Working with Categorical Data in Python
+  - Course: Introduction to Regression with statsmodel in Python
+    - Working on chapter 2/4 - Making predictions
+    - OLS - Ordinary Least Squares
+  - Course: Hypothesis Testing in Python
+    - Working on chapter 1/4 - Hypothesis Testing Fundamentals
+  - Course: Database Design
+     - Working on chapter 3/4 - Database views
+  - Course: Introduction to Data Literacy
+    - Working on chapter 3/4 - Descriptive Analytics
+  - Course: Data Types and Exceptions in Java
+    - Working on  chapter 1/3
+- PROJECT: TimeReminder
+  - Working on Design Notes 
+    - Obtain notes on setting a timer on the next reminder
+  - Reading: Learning PostgreSQL, 2nd Edition
+    - Spent the time learning how to start and access/view a Docker DB instance
+    - Working on chapter 2/19 - Getting to Know Your Cluster
+    - Current page: 33   End page: 50
+  - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
+    - Eighth Edition (2023), by Mark J. Price
+    - book repo: https://github.com/markjprice/cs12dotnet8
+    - Completed Chapter 2/15 - Speaking C#
+    - Working on Chapter 3/15 - Controlling Flow, Converting Types, and Handling Exceptions
+    - Current page: 115, last page: 167
+  - Reading: Irresistble APIs by Kirsten L. Hunter
+    - PART 1: Understanding Web APIs
+      - Working on chapter 2/9 - Working with Web APIs
+      - Current page: 38   Last page: 48
+      - It looks like each chapter will take 2/3 days to complete
+        - min:  8/26    max: 10/6
+- PROJECT: Design Patterns
+  - Design Patterns
+    - Worked on Notes on Design Patterns
+    - Book Reading:
+      - Design Patterns, Elements of Reusable Object-Oriented Software
+        - Working on chapter 1/6 - Introduction
+        - start page: 32    end page: 73
+      - Open Source Java Design Patterns by Ilkka Seppala
+        - Working on Abstract Document
+        - see: https://java-design-patterns.com/patterns/abstract-document/#programmatic-example-of-abstract-document-pattern-in-java
+- PROJECT: DSA
+  - DSA Notes
+    - Working on Sliding Windows Problem
+      - Re-visited ideal solution for problem 904. 
+- PROJECT: Java
+  - Manning Live Project
+    - Submitted Milestone #1
+      - Fixed all the issues:
+        - Using Bootstrap in <link> rather than having the entire set in styles.css
+        - Replace favicon.ico
+        - Organized the contents of index.mustache into three new layout pages
+        - Added milestone #1 test cases.
+        - Creating new project for submission: manning-ecommerce-liveproject
+    - Reading: Master Bootstrap 5, Zero to Hero by Rishi Ray
+      - Working on chapter 1/24: Understanding the Web Development Essentials
+  - Working on Java Interview Questions
+    - explored "What is the difference between == and .equals()"
+  - Working on async equivalent in Java
+    - Created two programs - need to write notes
+      - AsyncFetch Project
+      - async-webflux-demo Project
+  - Reading: Full Stack Development with Spring Boot 3 and React
+     - Completed chapter 2/17 - Understanding Dependency Injection
+     - Working on chapter 3/17 - Using JPA to Create and Access a Database
+    - start page: 27    end page: 26
+  - Reading: Modern Java in Action, by Urma, Fusco, and Mycroft, 2019
+    - Part 1: Fundamentals
+      - Working on chapter 1/21 - Java 8, 9, 10, and 11: what's happening?
+- PROJECT: Electronics
+  - Working on [Can you force 3V onto a 2V LED?]()
+- PROJECT: Basic Mathematics
+  - Check out book: I.N. Herstein’s “Topics in Algebra,” 
+  - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
+- PROJECT: SDL
+  - The 20 Games Challenge
+    - See notes
+  - SDL
+    - SDL Book Notes
+        - Working/Reviewing in Chapter 2 - Installing SDL
+    - SDL Games
+      - [Super Mario Clone](https://github.com/jakowskidev/uMario_Jakowski)
+      - [SDL2 Galaga](https://github.com/OneMeanDragon/SDL2-Galaga)
+      - [SDL2 Tetris](https://github.com/howprice/sdl2-tetris)
+      - [Snake Game SDL](https://github.com/eslam69/Snake-Game-SDL)
+      - [SDL2-demo](https://github.com/Ambidextroid/SDL2-demo)
+      - [space Shooter](https://github.com/andreanlay/space-shooter-sdl2)
+    - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
+      - Working on part 4/15 on Shooter
+    - [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/index.php)
+       - Working on[Event Driven Programming](https://lazyfoo.net/tutorials/SDL/03_event_driven_programming/index.php)
+    - Abuse_2025
+      - Update to run on Windows with MinGW.
+    - [STB Handmade](https://stb.handmade.network/)
+    - [STB Libraries](https://github.com/nothings/stb)
+    - Current pages: 178 ==> 
+  - Working on collecting all material in this category together and coming up with a plan
+  - Working on: Making a PLAN
+- PROJECT: PYTHON GRAPHICS
+  - **Arcade** - Best modern 2D game library
+    - Book: Aracade Academy Learning Python 
+      - Working on chapter 11/34 - For Loops
+      - Working on:
+      - [Python Arcade Library](https://www.youtube.com/watch?v=8AGyNz1HzEQ&list=PL1P11yPQAo7qgk8uk_A5UxiTrMt6obCc5&index=4)
+        - Completed video 4/24 - 04 - updating and creating a bouncing ball scene
+        - Working on video 5/24 - 05 - creating a parallax scrolling starfield
+  - **Pygame** - Best for beginners & classic 2D games 
+    - Pygame is the “old reliable” of Python game dev. It’s simple, stable, and 
+      has a huge community. Ideal for learning game loops, input, collisions, 
+      and retro-style games.
+- PROJECT: REAL PYTHON
+  - [Python's asyncio: A Hands-On Walkthrough](https://realpython.com/async-io-python/)
+    - Worked on first part 
+  - [Regular Expressions and Building Regexes in Python](https://realpython.com/courses/building-regexes-python/)   
+  - [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
+  - [Python Best Practices](https://realpython.com/ref/best-practices/)
+    - Completed notes on type checking
+      - Looked up mypy, Pyright, and Ty
+  - [type checking](https://realpython.com/ref/best-practices/type-checking/)
+    - Working on these notes
+  - [Course: Python Type Checking: Overview](https://realpython.com/videos/python-type-checking-overview/)
+- PROJECT: Learning Data Science with Python Workbook (LDSPW)
+    - Statistics
+      - Learning Statistics on Datacamp
+        - Working on notes **Student's Guide to Statistics and Probability**
+          - worked on notes
+      - Working on Probability Bootcamp - https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V
+        - Completed 1/44 - Probability and Statistics Overview
+        - Working on MANNING/STATISTICS_EVERY_PROGRAMMER_NEEDS
+- Books
+  - Tech Reading
+    - Manning Publishing
+      - Statistics Every Programmer Needs
+        - Working on Chapter 2/24 - Exploring probability and counting
+        - pages 16-40 
+        - current page: 16
+  - Non-Tech Reading
+    - **Paper Girl**, Beth Macy
+      - Part III: Showing Up
+        - Working on chapter 10 - Interventions
+          - How to get people to show up to jobs and school?
+    - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
+       - Part IV: The Instruments
+        - Working on chapter 20: The Mother: Gertrud Scholtz-Klink
+       - current page: 456, chapter_end: 470
+ - GRADE: 
+  - NA 
