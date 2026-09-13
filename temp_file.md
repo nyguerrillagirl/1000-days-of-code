@@ -1,10 +1,16 @@
-### Day 715: September 12, 2026 (Saturday)
+### Day 716: September 13, 2026 (Sunday)
 - NOTE FOR THE DAY:
+  - Watching "The League" today
+    - Matches:
+      - wR v. VIT         Prediction: VIT 3-1
+      - NOC v. Oni Capi   Prediction: Oni Capi 3-1
+    - Given the current standings, I don't expect any changes. I expect to see
+      LY v. TAG (LY winning 4-2) and Oni Capy v. VIT with VIT winninw (4-2)
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=6
     - 5/day
-    - 113, 112, 111, 110, 109
-    - LAST MAGAZINE: 109 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)    
+    - 108, 107, 106, 105, 104
+    - LAST MAGAZINE: 104 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)    
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Reorganized 5 books
