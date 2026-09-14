@@ -1,5 +1,9 @@
-### Day 716: September 13, 2026 (Sunday)
+### Day 717: September 14, 2026 (Monday)
 - NOTE FOR THE DAY:
+  - Check out the author Kristen Hannah
+    - The Nightingale
+    - The Great Alone: A Novel
+    - Winter Garden
   - Watching "The League" today
     - Matches:
       - wR v. VIT         Prediction: VIT 3-1
@@ -9,8 +13,8 @@
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=6
     - 5/day
-    - 108, 107, 106, 105, 104
-    - LAST MAGAZINE: 104 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)    
+    - 103, 102, 101, 100, 99
+    - LAST MAGAZINE: 99 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)    
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Reorganized 5 books
@@ -24,7 +28,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
+    - [The One Villager Castle](https://www.youtube.com/watch?v=g1RGapGOlzc)
     - []()
     - []()
 - Data Camp [DS]
@@ -82,13 +86,13 @@
       - Re-visited ideal solution for problem 904. 
 - PROJECT: Java
   - Manning Live Project
-    - Submitted Milestone #1
-      - Fixed all the issues:
-        - Using Bootstrap in <link> rather than having the entire set in styles.css
-        - Replace favicon.ico
-        - Organized the contents of index.mustache into three new layout pages
-        - Added milestone #1 test cases.
-        - Creating new project for submission: manning-ecommerce-liveproject
+    - Working on Milestone #2
+      - Updated build.gradle - added all dependencies
+      - Create dev, test, prod application.yml files
+      - Set IntelliJ to dev config (H2)
+      - Updated products.mustache to display placeholder items for the categories
+        - breads, Pastries, Pies, Cakes
+      - Learning about using Flyway
     - Reading: Master Bootstrap 5, Zero to Hero by Rishi Ray
       - Working on chapter 1/24: Understanding the Web Development Essentials
   - Working on Java Interview Questions
