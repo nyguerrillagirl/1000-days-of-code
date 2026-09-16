@@ -1,10 +1,10 @@
-### Day 718: September 15, 2026 (Tuesday)
+### Day 719: September 16, 2026 (Wednesday)
 - NOTE FOR THE DAY:
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=7
     - 5/day
-    - 98, 97, 96, 95, 94
-    - LAST MAGAZINE: 94 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)    
+    - 93, 92, 91, 90, 89
+    - LAST MAGAZINE: 89 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)    
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Reorganized 5 books
@@ -12,25 +12,25 @@
     - Obtained Set of books from Pragmatic Programmer
   - NYT
     - []()
-    - []()
+    - []()  
     - []()
   - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [MAGA’s Dumbest Grifters Just Got Caught in a 60 Minutes Sting | MAGA Mondays](https://www.youtube.com/watch?v=NAZ55g38CsA)
+    - []()
     - []()
     - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 2750  [Peta - Last week: TBD XP (7th in Peta League)]
   - Practice:
-    - Working with an Analyzing Data
-    - Intermediate Importing Data in Python
-    - Introduction to APIs in Python
-    - Introduction to Statistics in Python
-    - Data Types in Python 
-    - Python Toolbox
+    - Statistical Thinking in Python (Part 2)
+    - Introduction to Data Visualization with Matplotlib
+    - Joining Data in SQL
+    - Supervised Learning with scikit-learn    
+    - Joining Data with pandas   
+    - Introduction to Statistics
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -39,9 +39,13 @@
   - Course: Database Design
      - Working on chapter 3/4 - Database views
   - Course: Data Types and Exceptions in Java
-    - Working on  chapter 1/3
+    - Completed chapter 2/3 - Collections
   - Course: Introduction to Data Culture
     - Working on chapter 1/2 - What is data culture?
+- PROJECT: Frontend Development
+  - Reading: Creating Responsive Websites Using HTML5 and CSS3
+    - Working on chapter 1/9 - Introduction to Web Development
+    - current page: 1    end_chapter_page: 32
 - PROJECT: TimeReminder
   - Working on Design Notes 
     - Obtain notes on setting a timer on the next reminder
