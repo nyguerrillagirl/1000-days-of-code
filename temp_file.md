@@ -1,10 +1,10 @@
-### Day 719: September 16, 2026 (Wednesday)
+### Day 720: September 17, 2026 (Thursday)
 - NOTE FOR THE DAY:
   - Download Raspberri Pi Magazine
-    - URL: https://magazine.raspberrypi.com/issues?page=7
+    - URL: https://magazine.raspberrypi.com/issues?page=8
     - 5/day
-    - 93, 92, 91, 90, 89
-    - LAST MAGAZINE: 89 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)    
+    - 88, 87, 86, 85, 84
+    - LAST MAGAZINE: 84 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)    
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Reorganized 5 books
@@ -12,7 +12,7 @@
     - Obtained Set of books from Pragmatic Programmer
   - NYT
     - []()
-    - []()  
+    - []()
     - []()
   - WAPO
     - []()
@@ -25,12 +25,12 @@
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 2750  [Peta - Last week: TBD XP (7th in Peta League)]
   - Practice:
-    - Statistical Thinking in Python (Part 2)
-    - Introduction to Data Visualization with Matplotlib
-    - Joining Data in SQL
-    - Supervised Learning with scikit-learn    
-    - Joining Data with pandas   
-    - Introduction to Statistics
+    - Getting to Know Data Culture
+    - Simple Linear Regression Modeling
+    - Introduction to Relational Databases in SQL
+    - Introduction to Data Visualization with Seaborn   
+    - Introduction to Importing Data in Python
+    - Introduction to Functions in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -40,8 +40,10 @@
      - Working on chapter 3/4 - Database views
   - Course: Data Types and Exceptions in Java
     - Completed chapter 2/3 - Collections
-  - Course: Introduction to Data Culture
-    - Working on chapter 1/2 - What is data culture?
+  - Course: Forming Analytical Questions
+    - Working on chapter 1/3 - Delivering value through data
+  - Course: Data Strategy
+    - Working on chapter 1/3 - The Foundations and Framework of Data Strategy
 - PROJECT: Frontend Development
   - Reading: Creating Responsive Websites Using HTML5 and CSS3
     - Working on chapter 1/9 - Introduction to Web Development
@@ -83,12 +85,14 @@
 - PROJECT: Java
   - Manning Live Project
     - Working on Milestone #2
-      - Updated build.gradle - added all dependencies
-      - Create dev, test, prod application.yml files
-      - Set IntelliJ to dev config (H2)
-      - Updated products.mustache to display placeholder items for the categories
-        - breads, Pastries, Pies, Cakes
-      - Learning about using Flyway
+      - Create schema.sql (for database tables)
+      - Create data.sql (for initial data)
+      - Create JPA files
+      - Create test cases
+      - Have mustache display initial set of data
+    - Reading: Spring in Action, 6th Edition
+      - Working on chapter 1/18 - Getting Started with Spring
+      - Current page: 3   last_page: 28
     - Reading: Master Bootstrap 5, Zero to Hero by Rishi Ray
       - Working on chapter 1/24: Understanding the Web Development Essentials
   - Working on Java Interview Questions
