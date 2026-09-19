@@ -1,4 +1,4 @@
-### Day 721: September 18, 2026 (Friday)
+### Day 722: September 19, 2026 (Saturday)
 - NOTE FOR THE DAY:
   - GOALS:
     - Read Spring in Action
@@ -13,35 +13,34 @@
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=8
     - 5/day
-    - 83, 82, 81, 80, 79
-    - LAST MAGAZINE: 79 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
+    - 78, 77, 76, 75, 74
+    - LAST MAGAZINE: 74 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Set up Jakarta books
   - NYT
-    - [Republicans Reel on the Midterm Map as Deep-Red Areas Come Into Play](https://www.nytimes.com/2026/09/17/us/politics/midterms-map-republicans-democrats.html)
-    - [OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html)
-    ```
-    OpenAI on Wednesday disclosed six new instances in which artificial intelligence systems hid mistakes, made up data and moved files onto the open internet without permission, amid an ongoing industrywide debate about A.I. safety.
-    ```
+    - [At Gettysburg, a Reporter Captured a Nation’s Loss, and His Own](https://www.nytimes.com/2026/09/17/us/gettysburg-samuel-wilkeson-175.html)
+    - []()
     - []()
   - WAPO
-    - [Microsoft exec called AI the ‘largest theft of labor’ in history, court records show](https://www.washingtonpost.com/business/2026/09/17/microsoft-exec-called-ai-largest-theft-labor-history-court-records-show/)
-    - [Gas prices are about to take a big jump, analysts say, with the worst still to come](https://www.washingtonpost.com/world/2026/09/16/analysts-predict-gas-price-jump-long-disruption-damaged-pipeline/)
+    - []()
+    - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Introduction to Spring Boot](https://www.geeksforgeeks.org/springboot/introduction-to-spring-boot/)
-    - [Mark Zuckerberg has a warning for anyone screenshotting disappearing Messenger chats]()
+    - [Learn Flink: Hands-On Trainin](https://nightlies.apache.org/flink/flink-docs-stable/docs/learn-flink/overview/)
+    - [Colorado Hitman Caught On Camera Moments Before Executing Her Target](https://www.youtube.com/watch?v=mdtpekmG0y8)
+    - [Desperate for a job, I applied at a sandwich shop. The response I got was soul-crushing.]()
     - [History Is Running Backwards](https://www.theatlantic.com/magazine/2026/05/reactionary-traditionalism-worldview/686597/)
+    - [Naked rage: Sexually charged Sydney Sweeney sports ad gets hostile response from women athletes](https://www.youtube.com/watch?v=Dr6yYgEzLAc)
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 2750  [Peta - Last week: TBD XP (7th in Peta League)]
   - Practice:
-    - Processing, Storing, and Organizing Data
-    - Data Manipulation in SQL
+    - Intermediate Importing Data in R
+    - Introduction to Python
+    - Introduction to NumPy
     - Introduction to Importing Data in R
-    - Introduction to Data Visualization with Matplotlib 
-    - Data Manipulation with pandas
-    - Intermediate Python
+    - Introduction to Data Science in Python   
+    - Introduction to the Tidyverse
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -107,8 +106,8 @@
       - Create test cases
       - Have mustache display initial set of data
     - Reading: Spring in Action, 6th Edition
-      - Working on chapter 1/18 - Getting Started with Spring
-      - Current page: 15   last_page: 28
+      - Working on chapter 2/18 - Developing Web Applications
+      - Current page: 29   last_page: 60
     - Reading: Master Bootstrap 5, Zero to Hero by Rishi Ray
       - Working on chapter 1/24: Understanding the Web Development Essentials
   - Working on Java Interview Questions
