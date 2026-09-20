@@ -1,4 +1,4 @@
-### Day 722: September 19, 2026 (Saturday)
+### Day 723: September 20, 2026 (Sunday)
 - NOTE FOR THE DAY:
   - GOALS:
     - Read Spring in Action
@@ -11,10 +11,10 @@
     - Apache Kafka
     - Reactive Programming
   - Download Raspberri Pi Magazine
-    - URL: https://magazine.raspberrypi.com/issues?page=8
+    - URL: https://magazine.raspberrypi.com/issues?page=9
     - 5/day
-    - 78, 77, 76, 75, 74
-    - LAST MAGAZINE: 74 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
+    - 73, 72, 71, 70, 69
+    - LAST MAGAZINE: 69 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Set up Jakarta books
@@ -22,38 +22,40 @@
     - [At Gettysburg, a Reporter Captured a Nation’s Loss, and His Own](https://www.nytimes.com/2026/09/17/us/gettysburg-samuel-wilkeson-175.html)
     - []()
     - []()
+    - []()
   - WAPO
     - []()
     - []()
     - []()
+    - [LY vs Oni Capybaras UB FINAL | TAG vs Vitality LB SEMIFINAL | The League Playoffs road to Germany!!!](https://www.youtube.com/watch?v=pbN4POJoy8Q)
   - ARTICLES/VIDEOS
-    - [Learn Flink: Hands-On Trainin](https://nightlies.apache.org/flink/flink-docs-stable/docs/learn-flink/overview/)
-    - [Colorado Hitman Caught On Camera Moments Before Executing Her Target](https://www.youtube.com/watch?v=mdtpekmG0y8)
-    - [Desperate for a job, I applied at a sandwich shop. The response I got was soul-crushing.]()
+    - []()
+    - []()
+    - []()
     - [History Is Running Backwards](https://www.theatlantic.com/magazine/2026/05/reactionary-traditionalism-worldview/686597/)
-    - [Naked rage: Sexually charged Sydney Sweeney sports ad gets hostile response from women athletes](https://www.youtube.com/watch?v=Dr6yYgEzLAc)
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 2750  [Peta - Last week: TBD XP (7th in Peta League)]
   - Practice:
-    - Intermediate Importing Data in R
-    - Introduction to Python
-    - Introduction to NumPy
-    - Introduction to Importing Data in R
-    - Introduction to Data Science in Python   
-    - Introduction to the Tidyverse
+    - Database Views
+    - Writing Functions in Python
+    - Introduction to R
+    - Introduction to Data Culture  
+    - Introduction to Data Literacy
+    - Introduction to APIs in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Hypothesis Testing in Python
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
-  - Course: Database Design
-     - Working on chapter 3/4 - Database views
   - Course: Forming Analytical Questions
     - Working on chapter 1/3 - Delivering value through data
   - Course: Data Strategy
     - Working on chapter 1/3 - The Foundations and Framework of Data Strategy
   - Course: Input/Output and Streams in Java
     - Working on chapter 1/3 - Introduction to Input/Output Operations
+  - Course: Creating PostgreSQL Databases
+    - Completed chapter 1/4 - Structure of PostgreSQL Databases
+    - Working on chapter 2/4 - Introduction to PostgreSQL data types
 - PROJECT: Frontend Development
   - Reading: Creating Responsive Websites Using HTML5 and CSS3
     - Working on chapter 1/9 - Introduction to Web Development
@@ -197,7 +199,7 @@
           - How to get people to show up to jobs and school?
     - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
        - Part IV: The Instruments
-        - Working on chapter 20: The Mother: Gertrud Scholtz-Klink
-       - current page: 456, chapter_end: 470
+        - Working on chapter 22: The Denunciator: Luise Solmitz
+       - current page: 489, chapter_end: 508
  - GRADE: 
   - NA 
