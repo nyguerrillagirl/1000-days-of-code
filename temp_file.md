@@ -1,11 +1,8 @@
-### Day 723: September 20, 2026 (Sunday)
+### Day 724: September 21, 2026 (Monday)
 - NOTE FOR THE DAY:
-  - GOALS:
-    - Read Spring in Action
-    - Read on Jakarta
-    - Do C# stuff
-    - Do python (RealPython)
-    - Check Freecodecamp
+  - WATCH:
+    - The League:
+      - LY (2nd place) v. VIT (4th place)   Prediction: 4-2 (VIT)
   - LOOK UP:
     - Apache Flink
     - Apache Kafka
@@ -13,8 +10,8 @@
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=9
     - 5/day
-    - 73, 72, 71, 70, 69
-    - LAST MAGAZINE: 69 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
+    - 68, 67, 66, 65, 64
+    - LAST MAGAZINE: 64 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Set up Jakarta books
@@ -27,28 +24,28 @@
     - []()
     - []()
     - []()
-    - [LY vs Oni Capybaras UB FINAL | TAG vs Vitality LB SEMIFINAL | The League Playoffs road to Germany!!!](https://www.youtube.com/watch?v=pbN4POJoy8Q)
   - ARTICLES/VIDEOS
-    - []()
+    - [Trump KNOCKED OUT After He's EXPOSED For SECRET FASCIST AGENDA!](https://www.youtube.com/watch?v=rgVQYbfbHdM)
     - []()
     - []()
     - [History Is Running Backwards](https://www.theatlantic.com/magazine/2026/05/reactionary-traditionalism-worldview/686597/)
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 2750  [Peta - Last week: TBD XP (7th in Peta League)]
   - Practice:
-    - Database Views
-    - Writing Functions in Python
-    - Introduction to R
-    - Introduction to Data Culture  
-    - Introduction to Data Literacy
-    - Introduction to APIs in Python
+    - Database Design
+    - Introduction to Java
+    - Understanding Cloud Computing
+    - Intermediate Importing Data in Python    
+    - Data Warehousing Concepts
+    - Communicating Data Insights
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Hypothesis Testing in Python
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
   - Course: Forming Analytical Questions
-    - Working on chapter 1/3 - Delivering value through data
+    - Completed chapter 1/3 - Delivering value through data
+    - Working on chapter 2/3 - Understanding the business question
   - Course: Data Strategy
     - Working on chapter 1/3 - The Foundations and Framework of Data Strategy
   - Course: Input/Output and Streams in Java
