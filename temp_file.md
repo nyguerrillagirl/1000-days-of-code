@@ -1,16 +1,18 @@
-### Day 724: September 21, 2026 (Monday)
+### Day 725: September 22, 2026 (Tuesday)
 - NOTE FOR THE DAY:
-  - WATCH:
-    - The League:
-      - LY (2nd place) v. VIT (4th place)   Prediction: 4-2 (VIT)
+  - GOALS:
+    - Datacamp
+    - FE Development
+    - TimeReminder
+    - Read: Spring in Action
   - LOOK UP:
     - Apache Flink
     - Apache Kafka
     - Reactive Programming
   - Download Raspberri Pi Magazine
-    - URL: https://magazine.raspberrypi.com/issues?page=9
+    - URL: https://magazine.raspberrypi.com/issues?page=10
     - 5/day
-    - 68, 67, 66, 65, 64
+    - 63, 62, 61, 60, 59
     - LAST MAGAZINE: 64 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
@@ -25,19 +27,19 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Trump KNOCKED OUT After He's EXPOSED For SECRET FASCIST AGENDA!](https://www.youtube.com/watch?v=rgVQYbfbHdM)
+    - []()
     - []()
     - []()
     - [History Is Running Backwards](https://www.theatlantic.com/magazine/2026/05/reactionary-traditionalism-worldview/686597/)
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 2750  [Peta - Last week: TBD XP (7th in Peta League)]
   - Practice:
-    - Database Design
-    - Introduction to Java
+    - Delivering value through data
+    - Intermediate Python for Developers
+    - Intermediate R
     - Understanding Cloud Computing
-    - Intermediate Importing Data in Python    
-    - Data Warehousing Concepts
-    - Communicating Data Insights
+    - Introduction to Relational Databases in SQL
+    - Large Language Models (LLMs) Concepts
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -54,9 +56,11 @@
     - Completed chapter 1/4 - Structure of PostgreSQL Databases
     - Working on chapter 2/4 - Introduction to PostgreSQL data types
 - PROJECT: Frontend Development
+  - Interesting URLS:
+    - [HTML 5 Cheatsheet](https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html)
   - Reading: Creating Responsive Websites Using HTML5 and CSS3
     - Working on chapter 1/9 - Introduction to Web Development
-    - current page: 1    end_chapter_page: 32
+    - current page: 15    end_chapter_page: 32
 - PROJECT: TimeReminder
   - Working on Design Notes 
     - Obtain notes on setting a timer on the next reminder
