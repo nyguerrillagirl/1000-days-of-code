@@ -1,4 +1,5 @@
-### Day 725: September 22, 2026 (Tuesday)
+
+### Day 726: September 23, 2026 (Wednesday)
 - NOTE FOR THE DAY:
   - GOALS:
     - Datacamp
@@ -12,17 +13,16 @@
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=10
     - 5/day
-    - 63, 62, 61, 60, 59
-    - LAST MAGAZINE: 64 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
+    - 58, 57, 56, 55, 54
+    - LAST MAGAZINE: 54 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Set up Jakarta books
   - NYT
-    - [At Gettysburg, a Reporter Captured a Nation’s Loss, and His Own](https://www.nytimes.com/2026/09/17/us/gettysburg-samuel-wilkeson-175.html)
     - []()
     - []()
-    - []()
-  - WAPO
+    - []()  
+- WAPO
     - []()
     - []()
     - []()
@@ -30,16 +30,15 @@
     - []()
     - []()
     - []()
-    - [History Is Running Backwards](https://www.theatlantic.com/magazine/2026/05/reactionary-traditionalism-worldview/686597/)
 - Data Camp [DS]
-  - XP: 1500  (Practice) --> 2750  [Peta - Last week: TBD XP (7th in Peta League)]
+  - XP: 1500  (Practice) --> 4000  [Peta - Last week: TBD XP (7th in Peta League)]
   - Practice:
     - Delivering value through data
-    - Intermediate Python for Developers
-    - Intermediate R
-    - Understanding Cloud Computing
-    - Introduction to Relational Databases in SQL
-    - Large Language Models (LLMs) Concepts
+    - Statistical Thinking in Python (Part 2)
+    - Introduction to Data
+    - Data Manipulation in SQL
+    - Introduction to Databases in Python
+    - Joining Data in SQL
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -48,13 +47,10 @@
   - Course: Forming Analytical Questions
     - Completed chapter 1/3 - Delivering value through data
     - Working on chapter 2/3 - Understanding the business question
-  - Course: Data Strategy
-    - Working on chapter 1/3 - The Foundations and Framework of Data Strategy
   - Course: Input/Output and Streams in Java
-    - Working on chapter 1/3 - Introduction to Input/Output Operations
+    - Working on chapter 2/3 - Iterators and Streams
   - Course: Creating PostgreSQL Databases
-    - Completed chapter 1/4 - Structure of PostgreSQL Databases
-    - Working on chapter 2/4 - Introduction to PostgreSQL data types
+    - Working on chapter 4/4 - Introduciton to access control
 - PROJECT: Frontend Development
   - Interesting URLS:
     - [HTML 5 Cheatsheet](https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html)
@@ -95,11 +91,6 @@
   - DSA Notes
     - Working on Sliding Windows Problem
       - Re-visited ideal solution for problem 904. 
-- PROJECT: Jakarta
-  - Create notes: The Student's Guide to Jakarta EE Development
-  - Reading: Beginning Jakarta EE by Peter Spath (2019)
-    - Working on chapter 1: Java Development, Enterprise Needs
-    - current page: 1   last_page: 14
 - PROJECT: Java
   - Manning Live Project
     - Working on Milestone #2
@@ -198,9 +189,5 @@
       - Part III: Showing Up
         - Working on chapter 10 - Interventions
           - How to get people to show up to jobs and school?
-    - **Hitler's People, The Faces of the Third Reich**, Richard J. Evans
-       - Part IV: The Instruments
-        - Working on chapter 22: The Denunciator: Luise Solmitz
-       - current page: 489, chapter_end: 508
  - GRADE: 
   - NA 
