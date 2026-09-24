@@ -1,5 +1,5 @@
 
-### Day 726: September 23, 2026 (Wednesday)
+### Day 727: September 24, 2026 (Thursday)
 - NOTE FOR THE DAY:
   - GOALS:
     - Datacamp
@@ -11,17 +11,17 @@
     - Apache Kafka
     - Reactive Programming
   - Download Raspberri Pi Magazine
-    - URL: https://magazine.raspberrypi.com/issues?page=10
+    - URL: https://magazine.raspberrypi.com/issues?page=11
     - 5/day
-    - 58, 57, 56, 55, 54
-    - LAST MAGAZINE: 54 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
+    - 53, 52, 51, 50, 49
+    - LAST MAGAZINE: 49 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Set up Jakarta books
   - NYT
     - []()
     - []()
-    - []()  
+    - []()
 - WAPO
     - []()
     - []()
@@ -34,11 +34,11 @@
   - XP: 1500  (Practice) --> 4000  [Peta - Last week: TBD XP (7th in Peta League)]
   - Practice:
     - Delivering value through data
-    - Statistical Thinking in Python (Part 2)
-    - Introduction to Data
-    - Data Manipulation in SQL
-    - Introduction to Databases in Python
-    - Joining Data in SQL
+    - Writing Efficient Python Code
+    - Web Scraping in Python    
+    - Intermediate SQL
+    - Introduction to SQL
+    - AI Ethics
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -49,8 +49,10 @@
     - Working on chapter 2/3 - Understanding the business question
   - Course: Input/Output and Streams in Java
     - Working on chapter 2/3 - Iterators and Streams
-  - Course: Creating PostgreSQL Databases
-    - Working on chapter 4/4 - Introduciton to access control
+  - Course: Streamlined Data Ingestion with pandas
+    - Working on chapter 1/4 - Importing Data from Flat Files
+  - Course: Data Structures and Algorithms in Python
+    - Working on chapter 1/4 - Work with Linked Lists and Stacks and Understand Big O Notation
 - PROJECT: Frontend Development
   - Interesting URLS:
     - [HTML 5 Cheatsheet](https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html)
@@ -189,5 +191,8 @@
       - Part III: Showing Up
         - Working on chapter 10 - Interventions
           - How to get people to show up to jobs and school?
+    - **Tiny Blunders, BIG DISASTERS**, by Jared Knott
+      - Read about the Butterfly Effect
+      - Working on chapter 1/30 - The Unopened Letter that Saved America
  - GRADE: 
   - NA 
