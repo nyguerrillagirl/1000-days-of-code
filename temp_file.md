@@ -1,5 +1,4 @@
-
-### Day 727: September 24, 2026 (Thursday)
+### Day 728: September 25, 2026 (Friday)
 - NOTE FOR THE DAY:
   - GOALS:
     - Datacamp
@@ -34,25 +33,26 @@
   - XP: 1500  (Practice) --> 4000  [Peta - Last week: TBD XP (7th in Peta League)]
   - Practice:
     - Delivering value through data
-    - Writing Efficient Python Code
-    - Web Scraping in Python    
-    - Intermediate SQL
-    - Introduction to SQL
-    - AI Ethics
+    - Database Design
+    - Generative AI Concepts
+    - Introduction to Python for Developers
+    - Intermediate Python for Developers
+    - Understanding ChatGPT
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Hypothesis Testing in Python
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
   - Course: Forming Analytical Questions
-    - Completed chapter 1/3 - Delivering value through data
-    - Working on chapter 2/3 - Understanding the business question
-  - Course: Input/Output and Streams in Java
-    - Working on chapter 2/3 - Iterators and Streams
+    - Completed chapter 2/3 - Understanding the business question
+    - Working on chapter 3/3 - What happened?
   - Course: Streamlined Data Ingestion with pandas
     - Working on chapter 1/4 - Importing Data from Flat Files
   - Course: Data Structures and Algorithms in Python
     - Working on chapter 1/4 - Work with Linked Lists and Stacks and Understand Big O Notation
+  - Course: Introduction to Testing in Java
+    - Completed chapter 1/3 - Foundations of Testing
+    - Working on chapter 2/3 - Testing with Dependencies
 - PROJECT: Frontend Development
   - Interesting URLS:
     - [HTML 5 Cheatsheet](https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html)
@@ -106,6 +106,7 @@
       - Current page: 29   last_page: 60
     - Reading: Master Bootstrap 5, Zero to Hero by Rishi Ray
       - Working on chapter 1/24: Understanding the Web Development Essentials
+  - [Datacamp Java Project](https://www.datacamp.com/blog/java-projects-for-all-levels)
   - Working on Java Interview Questions
     - explored "What is the difference between == and .equals()"
   - Working on async equivalent in Java
