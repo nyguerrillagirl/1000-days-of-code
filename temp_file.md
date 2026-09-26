@@ -31,21 +31,22 @@
     - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Peta - Last week: TBD XP (7th in Peta League)]
+  - Project: ANALZING STUDENTS MENTAL HEALTH
+    - Creating new database and user for all datacamp PostgreSQL tables
+      - Connect to psql as superuser
   - Practice:
+    - Impactful solutions need the right questions
     - Delivering value through data
+    - Sampling in Python    
+    - Object-Oriented Programming in Python    
+    - Software Engineering Principles in Python   
+    - Introduction to AI for Work
     - Database Design
-    - Generative AI Concepts
-    - Introduction to Python for Developers
-    - Intermediate Python for Developers
-    - Understanding ChatGPT
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Hypothesis Testing in Python
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
-  - Course: Forming Analytical Questions
-    - Completed chapter 2/3 - Understanding the business question
-    - Working on chapter 3/3 - What happened?
   - Course: Streamlined Data Ingestion with pandas
     - Working on chapter 1/4 - Importing Data from Flat Files
   - Course: Data Structures and Algorithms in Python
@@ -64,7 +65,6 @@
     - Obtain notes on setting a timer on the next reminder
   - Reading: Learning PostgreSQL, 2nd Edition
     - Spent the time learning how to start and access/view a Docker DB instance
-    - Completed chapter 2/19 - Getting to Know Your Cluster
     - Working on chapter 3/19 - Managing Users and Connections
     - Current page: 51   End page: 70
   - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
