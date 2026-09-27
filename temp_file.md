@@ -1,4 +1,4 @@
-### Day 728: September 25, 2026 (Friday)
+### Day 730: September 27, 2026 (Sunday)
 - NOTE FOR THE DAY:
   - GOALS:
     - Datacamp
@@ -18,30 +18,28 @@
     - Goal: Work on at least 5 books a day
     - Set up Jakarta books
   - NYT
-    - []()
-    - []()
-    - []()
+    - [‘Zombified’ C.D.C., Hobbled by Cuts, Struggles to Fulfill Scientific Mission](https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html)
+    - [What Happens if the A.I. Bubble Bursts](https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html)
+    - [In Fighting for Every Black Child, Did I Betray My Own?](https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html)
 - WAPO
-    - []()
-    - []()
-    - []()
+    - [Bond markets are a canary. Trump isn’t listening.](https://www.washingtonpost.com/opinions/2026/09/24/britains-high-bond-yields-are-warning-america/)
+    - [A lesson from the Amish could help society cope with the future](https://www.washingtonpost.com/opinions/2026/09/25/spiritual-response-ai-learn-amish/)
+    - [The ‘magic’ of Celsius has athletes buzzing — and nutritionists fretting](https://www.washingtonpost.com/sports/2026/09/26/athletes-love-celsius-should-they/)
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [Republicans are not beating the cult allegations this week]()
+    - [Kyle Shanahan miffed over Robert Saleh spilling Cam Skattebo secret]()
+    - [Laid off at 57, woman struggled to find a job for 20 months, losing her apartment in the process. What she learned, and how to bolster your finances]()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Peta - Last week: TBD XP (7th in Peta League)]
-  - Project: ANALZING STUDENTS MENTAL HEALTH
+  - Project: DATA DRIVEN PRODUCT MANAGEMENT
     - Creating new database and user for all datacamp PostgreSQL tables
       - Connect to psql as superuser
   - Practice:
-    - Impactful solutions need the right questions
-    - Delivering value through data
-    - Sampling in Python    
-    - Object-Oriented Programming in Python    
-    - Software Engineering Principles in Python   
-    - Introduction to AI for Work
-    - Database Design
+    - Introduction to APIs in Python
+    - Introduction to Data Culture   
+    - Working with Dates and Times in Python
+    - Writing Efficient Python Code   
+    - Cleaning Data in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
