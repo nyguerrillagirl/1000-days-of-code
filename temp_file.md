@@ -1,4 +1,4 @@
-### Day 730: September 27, 2026 (Sunday)
+### Day 731: September 28, 2026 (Monday)
 - NOTE FOR THE DAY:
   - GOALS:
     - Datacamp
@@ -12,34 +12,35 @@
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=11
     - 5/day
-    - 53, 52, 51, 50, 49
-    - LAST MAGAZINE: 49 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
+    - 48, 47, 46, 45, 44
+    - LAST MAGAZINE: 44 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Set up Jakarta books
   - NYT
-    - [‘Zombified’ C.D.C., Hobbled by Cuts, Struggles to Fulfill Scientific Mission](https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html)
-    - [What Happens if the A.I. Bubble Bursts](https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html)
-    - [In Fighting for Every Black Child, Did I Betray My Own?](https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html)
+    - []()
+    - []()
+    - []()
 - WAPO
-    - [Bond markets are a canary. Trump isn’t listening.](https://www.washingtonpost.com/opinions/2026/09/24/britains-high-bond-yields-are-warning-america/)
-    - [A lesson from the Amish could help society cope with the future](https://www.washingtonpost.com/opinions/2026/09/25/spiritual-response-ai-learn-amish/)
-    - [The ‘magic’ of Celsius has athletes buzzing — and nutritionists fretting](https://www.washingtonpost.com/sports/2026/09/26/athletes-love-celsius-should-they/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Republicans are not beating the cult allegations this week]()
-    - [Kyle Shanahan miffed over Robert Saleh spilling Cam Skattebo secret]()
-    - [Laid off at 57, woman struggled to find a job for 20 months, losing her apartment in the process. What she learned, and how to bolster your finances]()
+    - []()
+    - []()
+    - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Peta - Last week: TBD XP (7th in Peta League)]
   - Project: DATA DRIVEN PRODUCT MANAGEMENT
     - Creating new database and user for all datacamp PostgreSQL tables
       - Connect to psql as superuser
   - Practice:
-    - Introduction to APIs in Python
-    - Introduction to Data Culture   
-    - Working with Dates and Times in Python
-    - Writing Efficient Python Code   
-    - Cleaning Data in Python
+    - Forming Analytical Question
+    - Working with Categorical Data in Python   
+    - Introduction to Object-Oriented Programming in Python   
+    - Writing Functions in Python   
+    - Data Communications Concepts
+    - Statistical Thinking in Python (Part 1)
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
