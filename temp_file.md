@@ -1,4 +1,4 @@
-### Day 731: September 28, 2026 (Monday)
+### Day 732: September 29, 2026 (Tuesday)
 - NOTE FOR THE DAY:
   - GOALS:
     - Datacamp
@@ -12,35 +12,36 @@
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=11
     - 5/day
-    - 48, 47, 46, 45, 44
-    - LAST MAGAZINE: 44 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
+    - 43, 42, 41, 40, 39
+    - LAST MAGAZINE: 39 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Set up Jakarta books
   - NYT
-    - []()
-    - []()
+    - [What Russians Who Lost Sons in Ukraine Think About the War Now](https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html)
+    - [Embarrassing Breach at F.B.I. Fuels Fears of Harm to Its Employees](https://www.nytimes.com/2026/09/28/us/politics/fbi-shinyhunters-damage.html)
     - []()
 - WAPO
-    - []()
-    - []()
+    - [Senate Republicans make a final legislative push ahead of the midterms](https://www.washingtonpost.com/politics/2026/09/28/senate-republicans-make-final-legislative-push-ahead-midterms/)
+    - [After mistrial, Pirro says she’ll bring Trayon White bribery case to new jury](https://www.washingtonpost.com/dc-md-va/2026/09/28/mistrial-declared-bribery-case-dc-council-member-trayon-white-sr/)
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [The Trump show is OVER! Here’s why people are 'SICK OF HIM'](https://www.youtube.com/watch?v=UZ2cql7DfIA)
+    - [Liereyy Joined The Dark Side Of Rage Forest And We Dominated! | 4v4 Rage Forest](https://www.youtube.com/watch?v=w8T_PcwyEeE)
+    - [Stalker Blames His Victim…Judge West Sentences Him to 7 YEARS](https://www.youtube.com/watch?v=UgkmGc7AFqU)
+    - [The Most perfectly Executed Ambush in all of military history! - Battle of Lechfeld 910](https://www.youtube.com/watch?v=Y5sBMl6_uqo)
 - Data Camp [DS]
-  - XP: 1500  (Practice) --> 4000  [Peta - Last week: TBD XP (7th in Peta League)]
+  - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Project: DATA DRIVEN PRODUCT MANAGEMENT
     - Creating new database and user for all datacamp PostgreSQL tables
       - Connect to psql as superuser
   - Practice:
-    - Forming Analytical Question
-    - Working with Categorical Data in Python   
-    - Introduction to Object-Oriented Programming in Python   
-    - Writing Functions in Python   
-    - Data Communications Concepts
-    - Statistical Thinking in Python (Part 1)
+    - Sampling in Python
+    - Understanding Data Engineering
+    - Understanding Data Visualization    
+    - Exploratory Data Analysis in Python    
+    - Understanding Machine Learning   
+    - Understanding Data Science
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -53,13 +54,21 @@
   - Course: Introduction to Testing in Java
     - Completed chapter 1/3 - Foundations of Testing
     - Working on chapter 2/3 - Testing with Dependencies
+  - Course: Improving Query Performance in PostgreSQL
+    - Working on chapter 1/4 - Bringing Together the Data
+  - Course: PostgreSQL Summary Stats and Window Functions
+    - Working on chapter 1/4 - Introduction to window functions
 - PROJECT: Frontend Development
   - Interesting URLS:
     - [HTML 5 Cheatsheet](https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html)
   - Reading: Creating Responsive Websites Using HTML5 and CSS3
-    - Working on chapter 1/9 - Introduction to Web Development
-    - current page: 15    end_chapter_page: 32
+    - Completed chapter 1/9 - Introduction to Web Development
+    - Working on chapter 2/9 - HTML5 and Responsive Web Design
+    - current page: 23    end_chapter_page: 60
 - PROJECT: TimeReminder
+  - I already know how to create a database in my cluster, create tables, etc. 
+    so I will basically work today on checking out the design and implementing
+    the database + table
   - Working on Design Notes 
     - Obtain notes on setting a timer on the next reminder
   - Reading: Learning PostgreSQL, 2nd Edition
@@ -192,7 +201,7 @@
         - Working on chapter 10 - Interventions
           - How to get people to show up to jobs and school?
     - **Tiny Blunders, BIG DISASTERS**, by Jared Knott
-      - Read about the Butterfly Effect
-      - Working on chapter 1/30 - The Unopened Letter that Saved America
+      - Working on chapter 7/30 - VICTORY DISEASE ON THE TEXAS FRONTIER: THE BATTLE OF SAN JACINTO
+      - Current page: 79  last chapter: 89
  - GRADE: 
   - NA 
