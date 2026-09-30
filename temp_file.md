@@ -1,5 +1,11 @@
-### Day 732: September 29, 2026 (Tuesday)
+### Day 733: September 30, 2026 (Wednesday)
 - NOTE FOR THE DAY:
+  - WHAT TO WATCH
+    - Marco Polo
+    - Black Sails
+    - The Crown
+    - Verailles
+    - Rise of Empires: Ottoman
   - GOALS:
     - Datacamp
     - FE Development
@@ -18,42 +24,42 @@
     - Goal: Work on at least 5 books a day
     - Set up Jakarta books
   - NYT
-    - [What Russians Who Lost Sons in Ukraine Think About the War Now](https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html)
-    - [Embarrassing Breach at F.B.I. Fuels Fears of Harm to Its Employees](https://www.nytimes.com/2026/09/28/us/politics/fbi-shinyhunters-damage.html)
+    - []()
+    - []()
     - []()
 - WAPO
-    - [Senate Republicans make a final legislative push ahead of the midterms](https://www.washingtonpost.com/politics/2026/09/28/senate-republicans-make-final-legislative-push-ahead-midterms/)
-    - [After mistrial, Pirro says she’ll bring Trayon White bribery case to new jury](https://www.washingtonpost.com/dc-md-va/2026/09/28/mistrial-declared-bribery-case-dc-council-member-trayon-white-sr/)
+    - []()
+    - []()
     - []()
   - ARTICLES/VIDEOS
-    - [The Trump show is OVER! Here’s why people are 'SICK OF HIM'](https://www.youtube.com/watch?v=UZ2cql7DfIA)
-    - [Liereyy Joined The Dark Side Of Rage Forest And We Dominated! | 4v4 Rage Forest](https://www.youtube.com/watch?v=w8T_PcwyEeE)
-    - [Stalker Blames His Victim…Judge West Sentences Him to 7 YEARS](https://www.youtube.com/watch?v=UgkmGc7AFqU)
-    - [The Most perfectly Executed Ambush in all of military history! - Battle of Lechfeld 910](https://www.youtube.com/watch?v=Y5sBMl6_uqo)
+    - []()
+    - []()
+    - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
-  - Project: DATA DRIVEN PRODUCT MANAGEMENT
-    - Creating new database and user for all datacamp PostgreSQL tables
-      - Connect to psql as superuser
+  - Project: Predictive Modeling for Agriculture
+    - Review scikit-learn notes
   - Practice:
-    - Sampling in Python
-    - Understanding Data Engineering
-    - Understanding Data Visualization    
-    - Exploratory Data Analysis in Python    
-    - Understanding Machine Learning   
-    - Understanding Data Science
+    - Working with Categorical Data in Python
+    - Introduction to Statistics in Python    
+    - Data Types in Python
+    - Python Toolbox
+    - Supervised Learning with scikit-learn
+    - Joining Data with pandas
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Hypothesis Testing in Python
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
   - Course: Streamlined Data Ingestion with pandas
-    - Working on chapter 1/4 - Importing Data from Flat Files
+    - Completed chapter 2/4 - Introduction to Spreadsheets
+    - Working on chapter 3/4 - Introduction to databases
   - Course: Data Structures and Algorithms in Python
-    - Working on chapter 1/4 - Work with Linked Lists and Stacks and Understand Big O Notation
+    - Completed chapter 1/4 - Work with Linked Lists and Stacks and Understand Big O Notation
   - Course: Introduction to Testing in Java
     - Completed chapter 1/3 - Foundations of Testing
-    - Working on chapter 2/3 - Testing with Dependencies
+    - Completed chapter 2/3 - Testing with Dependencies
+    - Working on chapter 3/3 - Further techniques and annotations
   - Course: Improving Query Performance in PostgreSQL
     - Working on chapter 1/4 - Bringing Together the Data
   - Course: PostgreSQL Summary Stats and Window Functions
