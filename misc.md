@@ -1,3 +1,21 @@
+
+https://scikit-learn.org/1.5/auto_examples/datasets/plot_iris_dataset.html
+
+https://levelup.gitconnected.com/applying-logistic-regression-in-python-using-scikit-learn-with-iris-dataset-3fdfc0ce7d4a
+
+https://superml.org/tutorials/bdl-multiclass-logistic-regression?utm_source=copilot.com
+
+https://www.youtube.com/watch?v=sQqniayndb4&list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V&index=6
+
+https://medium.com/@yashbatra11111/the-two-hardest-problems-in-computer-science-3a246772bbb8
+
+https://www.youtube.com/watch?v=HIJ38pdrq4Y&list=PL1P11yPQAo7qgk8uk_A5UxiTrMt6obCc5&index=43
+
+https://www.theatlantic.com/magazine/2026/05/reactionary-traditionalism-worldview/686597/
+
+https://nightlies.apache.org/flink/flink-docs-release-2.3/docs/getting-started/datastream/
+
+
 # OLD NOTES and THINGS
   - Start learning R
   - Checkout: 

@@ -1,11 +1,5 @@
-### Day 733: September 30, 2026 (Wednesday)
+### Day 734: October 1, 2026 (Thursday)
 - NOTE FOR THE DAY:
-  - WHAT TO WATCH
-    - Marco Polo
-    - Black Sails
-    - The Crown
-    - Verailles
-    - Rise of Empires: Ottoman
   - GOALS:
     - Datacamp
     - FE Development
@@ -16,10 +10,10 @@
     - Apache Kafka
     - Reactive Programming
   - Download Raspberri Pi Magazine
-    - URL: https://magazine.raspberrypi.com/issues?page=11
+    - URL: https://magazine.raspberrypi.com/issues?page=12
     - 5/day
-    - 43, 42, 41, 40, 39
-    - LAST MAGAZINE: 39 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
+    - 38, 37, 36, 35, 34
+    - LAST MAGAZINE: 34 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Set up Jakarta books
@@ -32,20 +26,21 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [Humiliated GOP senator makes cringe comeback to botched moment]()
+    - [NYU doctor: 'No treatment' for rare eye condition tied to GLP-1 drugs]()
+    - [Olympic athlete kidnapped in Montana by survivalists who wanted 'shared bride']()
+    - [He applied for a job, then started counting. The number got a state involved]()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Project: Predictive Modeling for Agriculture
     - Review scikit-learn notes
   - Practice:
-    - Working with Categorical Data in Python
-    - Introduction to Statistics in Python    
-    - Data Types in Python
-    - Python Toolbox
-    - Supervised Learning with scikit-learn
-    - Joining Data with pandas
+    - Work with Linked Lists and Stacks and Understand Big O Notation
+    - Introduction to Importing Data in R
+    - Introduction to Statistics
+    - Introduction to Data Visualization with Seaborn   
+    - Introduction to Importing Data in Python
+    - Introduction to Functions in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -57,11 +52,11 @@
   - Course: Data Structures and Algorithms in Python
     - Completed chapter 1/4 - Work with Linked Lists and Stacks and Understand Big O Notation
   - Course: Introduction to Testing in Java
-    - Completed chapter 1/3 - Foundations of Testing
-    - Completed chapter 2/3 - Testing with Dependencies
-    - Working on chapter 3/3 - Further techniques and annotations
+    - Completed chapter 3/3 - Further techniques and annotations
+    - COMPLETED COURSE
   - Course: Improving Query Performance in PostgreSQL
-    - Working on chapter 1/4 - Bringing Together the Data
+    - Completed chapter 1/4 - Bringing Together the Data
+    - Working on chapter 2/4 - What you write is not what SQL sees
   - Course: PostgreSQL Summary Stats and Window Functions
     - Working on chapter 1/4 - Introduction to window functions
 - PROJECT: Frontend Development
@@ -70,7 +65,7 @@
   - Reading: Creating Responsive Websites Using HTML5 and CSS3
     - Completed chapter 1/9 - Introduction to Web Development
     - Working on chapter 2/9 - HTML5 and Responsive Web Design
-    - current page: 23    end_chapter_page: 60
+    - current page: 39    end_chapter_page: 60
 - PROJECT: TimeReminder
   - I already know how to create a database in my cluster, create tables, etc. 
     so I will basically work today on checking out the design and implementing
@@ -207,7 +202,13 @@
         - Working on chapter 10 - Interventions
           - How to get people to show up to jobs and school?
     - **Tiny Blunders, BIG DISASTERS**, by Jared Knott
-      - Working on chapter 7/30 - VICTORY DISEASE ON THE TEXAS FRONTIER: THE BATTLE OF SAN JACINTO
-      - Current page: 79  last chapter: 89
+      - Working on chapter 10/30 - The Lost Treasure of Bad King John
+      - Current page: 102  last chapter: 106
+    - **The Boys in the Lights**, Nina Willner
+      - An Extraordinary World War II Story of Survival, Faith, and Brotherhood
+       - Working on chapter 2/38 - A German Jewish Boy
+        - In Mönchengladbach (MG), near Cologne, Eddie Willner, was growing up. His
+          family have been in Germany for seven generations. He lived in a close-knit
+          and communal. They got along quite well with their non-Jewish neighbors.      
  - GRADE: 
   - NA 

@@ -13,6 +13,7 @@ src/window_console_projects/ConsoleApplication2/.vs/ConsoleApplication2/v17/ipch
 *.userosscache
 *.sln.docstates
 *.env
+temp_file.md
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
