@@ -1,4 +1,4 @@
-### Day 734: October 1, 2026 (Thursday)
+### Day 735: October 2, 2026 (Friday)
 - NOTE FOR THE DAY:
   - GOALS:
     - Datacamp
@@ -12,7 +12,7 @@
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=12
     - 5/day
-    - 38, 37, 36, 35, 34
+    - 33, 32, 31, 30, 29
     - LAST MAGAZINE: 34 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
@@ -26,39 +26,43 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Humiliated GOP senator makes cringe comeback to botched moment]()
-    - [NYU doctor: 'No treatment' for rare eye condition tied to GLP-1 drugs]()
-    - [Olympic athlete kidnapped in Montana by survivalists who wanted 'shared bride']()
-    - [He applied for a job, then started counting. The number got a state involved]()
+    - []()
+    - []()
+    - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Project: Predictive Modeling for Agriculture
     - Review scikit-learn notes
+  - Check:
+    - Data Manipulation with pandas (Practice)
+    - Data Wrangling with pandas (Practice)
+    - Cleaning Data in Python (Practice)
+    - Exploratory Data Analysis in Python (Practice)
   - Practice:
-    - Work with Linked Lists and Stacks and Understand Big O Notation
+    - Introduction to Data Visualization with Matplotlib   
+    - Data Manipulation with pandas   
+    - Intermediate Python  
+    - Introduction to Numpy
     - Introduction to Importing Data in R
-    - Introduction to Statistics
-    - Introduction to Data Visualization with Seaborn   
-    - Introduction to Importing Data in Python
-    - Introduction to Functions in Python
+    - Introduction to Data Science in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Hypothesis Testing in Python
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
   - Course: Streamlined Data Ingestion with pandas
-    - Completed chapter 2/4 - Introduction to Spreadsheets
-    - Working on chapter 3/4 - Introduction to databases
+    - Completed chapter 3/4 - Introduction to databases
   - Course: Data Structures and Algorithms in Python
-    - Completed chapter 1/4 - Work with Linked Lists and Stacks and Understand Big O Notation
-  - Course: Introduction to Testing in Java
-    - Completed chapter 3/3 - Further techniques and annotations
-    - COMPLETED COURSE
+    - Working on chapter 2/4 - Working with queues
   - Course: Improving Query Performance in PostgreSQL
     - Completed chapter 1/4 - Bringing Together the Data
     - Working on chapter 2/4 - What you write is not what SQL sees
   - Course: PostgreSQL Summary Stats and Window Functions
     - Working on chapter 1/4 - Introduction to window functions
+  - Course: Optimizing Code in Java
+    - Working on chapter 1/3 - Fundamentals of Software Performance
+  - Course: Writing Efficient Code with pandas
+    - Working on chapter 1/4 - Selecting columns and rows efficiently
 - PROJECT: Frontend Development
   - Interesting URLS:
     - [HTML 5 Cheatsheet](https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html)
