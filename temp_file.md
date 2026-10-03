@@ -1,4 +1,4 @@
-### Day 735: October 2, 2026 (Friday)
+### Day 736: October 3, 2026 (Saturday)
 - NOTE FOR THE DAY:
   - GOALS:
     - Datacamp
@@ -10,13 +10,14 @@
     - Apache Kafka
     - Reactive Programming
   - Download Raspberri Pi Magazine
-    - URL: https://magazine.raspberrypi.com/issues?page=12
+    - URL: https://magazine.raspberrypi.com/issues?page=13
     - 5/day
-    - 33, 32, 31, 30, 29
-    - LAST MAGAZINE: 34 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
+    - 28, 27, 26, 25, 24
+    - LAST MAGAZINE: 24 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
-    - Set up Jakarta books
+    - Need to move MISC computer books into MISC - COMPUTER SCIENCE
+    - Need to move all AI related books a copy into MISC - AI
   - NYT
     - []()
     - []()
@@ -31,6 +32,8 @@
     - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
+  - SKILL TRACK: Python for Software Engineering
+    - Need to finish up course - Data Structures and Algorithms in Python
   - Project: Predictive Modeling for Agriculture
     - Review scikit-learn notes
   - Check:
@@ -39,19 +42,19 @@
     - Cleaning Data in Python (Practice)
     - Exploratory Data Analysis in Python (Practice)
   - Practice:
-    - Introduction to Data Visualization with Matplotlib   
-    - Data Manipulation with pandas   
-    - Intermediate Python  
-    - Introduction to Numpy
-    - Introduction to Importing Data in R
-    - Introduction to Data Science in Python
+    - Intermediate Importing Data in Python    
+    - Introduction to Python 
+    - Intermediate Importing Data in R
+    - Introduction to the Tidyverse   
+    - Introduction to R
+    - Intermediate R
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Hypothesis Testing in Python
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
   - Course: Streamlined Data Ingestion with pandas
-    - Completed chapter 3/4 - Introduction to databases
+    - Working on chapter 4/4 - Importing JSON Data and Working with APIs
   - Course: Data Structures and Algorithms in Python
     - Working on chapter 2/4 - Working with queues
   - Course: Improving Query Performance in PostgreSQL
@@ -63,6 +66,8 @@
     - Working on chapter 1/3 - Fundamentals of Software Performance
   - Course: Writing Efficient Code with pandas
     - Working on chapter 1/4 - Selecting columns and rows efficiently
+  - Course: Introduction to AI Agents
+    - Working on chapter 1/3 - Foundations of AI Agents
 - PROJECT: Frontend Development
   - Interesting URLS:
     - [HTML 5 Cheatsheet](https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html)
@@ -206,13 +211,10 @@
         - Working on chapter 10 - Interventions
           - How to get people to show up to jobs and school?
     - **Tiny Blunders, BIG DISASTERS**, by Jared Knott
-      - Working on chapter 10/30 - The Lost Treasure of Bad King John
-      - Current page: 102  last chapter: 106
+      - Working on chapter 11/30 - Medical Mistakes
+      - Current page: 107  last chapter: 121
     - **The Boys in the Lights**, Nina Willner
       - An Extraordinary World War II Story of Survival, Faith, and Brotherhood
-       - Working on chapter 2/38 - A German Jewish Boy
-        - In Mönchengladbach (MG), near Cologne, Eddie Willner, was growing up. His
-          family have been in Germany for seven generations. He lived in a close-knit
-          and communal. They got along quite well with their non-Jewish neighbors.      
+       - Working on chapter 3/38 - Patriots and Parasites
  - GRADE: 
-  - NA 
+  - NA
