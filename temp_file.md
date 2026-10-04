@@ -1,4 +1,4 @@
-### Day 736: October 3, 2026 (Saturday)
+### Day 737: October 4, 2026 (Sunday)
 - NOTE FOR THE DAY:
   - GOALS:
     - Datacamp
@@ -12,7 +12,7 @@
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=13
     - 5/day
-    - 28, 27, 26, 25, 24
+    - 23, 22, 21, 20, 19
     - LAST MAGAZINE: 24 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
@@ -27,9 +27,12 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [Paige Bueckers, Arike Ogunbowale Playoffs Game 3 Postgame - | Wings vs Valkyries | WNBA | 10.02.2026](https://www.youtube.com/watch?v=KmKCX3sSz5w)
+    - [Okay, What Is Going On With Trump’s Legs? (w/ Tommy Vietor) | Bulwark Daily](https://www.youtube.com/watch?v=x-V1qoTb1eE)
+    - [Apparently we're all going to be hearing more from Jared Kushner]()
+    - [This critique of capitalism actually makes sense to me](https://www.youtube.com/watch?v=pFyVFrLbOK8)
+    - [Charles Barkley Goes NUCLEAR On Olivia Miles After Her TERRIBLE Caitlin Clark Take](https://www.youtube.com/watch?v=RJqhLM5G9hM)
+    - [JD Vance Sounds Like He Already Knows What’s Coming | Secret Preview](https://www.youtube.com/watch?v=lfVSJJXi-hI)
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
@@ -42,19 +45,17 @@
     - Cleaning Data in Python (Practice)
     - Exploratory Data Analysis in Python (Practice)
   - Practice:
-    - Intermediate Importing Data in Python    
-    - Introduction to Python 
-    - Intermediate Importing Data in R
-    - Introduction to the Tidyverse   
-    - Introduction to R
-    - Intermediate R
+    - Foundations of AI Agents 
+    - Database Design
+    - Forming Analytical Questions
+    - Introduction to Data Culture
+    - Introduction to Data Literacy
+    - Introduction to APIs in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Hypothesis Testing in Python
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
-  - Course: Streamlined Data Ingestion with pandas
-    - Working on chapter 4/4 - Importing JSON Data and Working with APIs
   - Course: Data Structures and Algorithms in Python
     - Working on chapter 2/4 - Working with queues
   - Course: Improving Query Performance in PostgreSQL
@@ -69,16 +70,12 @@
   - Course: Introduction to AI Agents
     - Working on chapter 1/3 - Foundations of AI Agents
 - PROJECT: Frontend Development
-  - Interesting URLS:
-    - [HTML 5 Cheatsheet](https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html)
   - Reading: Creating Responsive Websites Using HTML5 and CSS3
-    - Completed chapter 1/9 - Introduction to Web Development
-    - Working on chapter 2/9 - HTML5 and Responsive Web Design
-    - current page: 39    end_chapter_page: 60
+    - Working on chapter 3/9 - Cascading Style Sheets and Layouts
+    - current page: 61    end_chapter_page: 104
 - PROJECT: TimeReminder
-  - I already know how to create a database in my cluster, create tables, etc. 
-    so I will basically work today on checking out the design and implementing
-    the database + table
+  - Database tasks
+    - Write code to check for the existence of tables and create if missing
   - Working on Design Notes 
     - Obtain notes on setting a timer on the next reminder
   - Reading: Learning PostgreSQL, 2nd Edition
@@ -97,16 +94,6 @@
       - Current page: 38   Last page: 48
       - It looks like each chapter will take 2/3 days to complete
         - min:  8/26    max: 10/6
-- PROJECT: Design Patterns
-  - Design Patterns
-    - Worked on Notes on Design Patterns
-    - Book Reading:
-      - Design Patterns, Elements of Reusable Object-Oriented Software
-        - Working on chapter 1/6 - Introduction
-        - start page: 39    end page: 73
-      - Open Source Java Design Patterns by Ilkka Seppala
-        - Working on Abstract Document
-        - see: https://java-design-patterns.com/patterns/abstract-document/#programmatic-example-of-abstract-document-pattern-in-java
 - PROJECT: DSA
   - DSA Notes
     - Working on Sliding Windows Problem
@@ -149,25 +136,7 @@
   - SDL
     - SDL Book Notes
         - Working/Reviewing in Chapter 2 - Installing SDL
-    - SDL Games
-      - [Super Mario Clone](https://github.com/jakowskidev/uMario_Jakowski)
-      - [SDL2 Galaga](https://github.com/OneMeanDragon/SDL2-Galaga)
-      - [SDL2 Tetris](https://github.com/howprice/sdl2-tetris)
-      - [Snake Game SDL](https://github.com/eslam69/Snake-Game-SDL)
-      - [SDL2-demo](https://github.com/Ambidextroid/SDL2-demo)
-      - [space Shooter](https://github.com/andreanlay/space-shooter-sdl2)
-    - [Parallel Realities](https://www.parallelrealities.co.uk/tutorials/)
-      - Working on part 4/15 on Shooter
-    - [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/index.php)
-       - Working on[Event Driven Programming](https://lazyfoo.net/tutorials/SDL/03_event_driven_programming/index.php)
-    - Abuse_2025
-      - Update to run on Windows with MinGW.
-    - [STB Handmade](https://stb.handmade.network/)
-    - [STB Libraries](https://github.com/nothings/stb)
-    - Current pages: 178 ==> 
-  - Working on collecting all material in this category together and coming up with a plan
-  - Working on: Making a PLAN
-- PROJECT: PYTHON GRAPHICS
+ - PROJECT: PYTHON GRAPHICS
   - **Arcade** - Best modern 2D game library
     - Book: Aracade Academy Learning Python 
       - Working on chapter 11/34 - For Loops
