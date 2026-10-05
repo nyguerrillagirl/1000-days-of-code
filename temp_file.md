@@ -1,5 +1,11 @@
-### Day 737: October 4, 2026 (Sunday)
+### Day 738: October 5, 2026 (Monday)
 - NOTE FOR THE DAY:
+  - The Garrison Qualifier
+    - Sebastian v. Lewis    4-2 (Sebastian)
+      - CALLED IT ON THE MONEY!!!! 
+    - Sitaux v. Ciskhan     4-3 (Sitaux)
+      - CALLED IT ON THE MONEY!!!!
+    - TaToH v. Hearttt      4-3 (TaToH)
   - GOALS:
     - Datacamp
     - FE Development
@@ -12,8 +18,8 @@
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=13
     - 5/day
-    - 23, 22, 21, 20, 19
-    - LAST MAGAZINE: 24 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
+    - 18, 17, 16, 15, 14
+    - LAST MAGAZINE: 14 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Need to move MISC computer books into MISC - COMPUTER SCIENCE
@@ -27,12 +33,9 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Paige Bueckers, Arike Ogunbowale Playoffs Game 3 Postgame - | Wings vs Valkyries | WNBA | 10.02.2026](https://www.youtube.com/watch?v=KmKCX3sSz5w)
-    - [Okay, What Is Going On With Trump’s Legs? (w/ Tommy Vietor) | Bulwark Daily](https://www.youtube.com/watch?v=x-V1qoTb1eE)
-    - [Apparently we're all going to be hearing more from Jared Kushner]()
-    - [This critique of capitalism actually makes sense to me](https://www.youtube.com/watch?v=pFyVFrLbOK8)
-    - [Charles Barkley Goes NUCLEAR On Olivia Miles After Her TERRIBLE Caitlin Clark Take](https://www.youtube.com/watch?v=RJqhLM5G9hM)
-    - [JD Vance Sounds Like He Already Knows What’s Coming | Secret Preview](https://www.youtube.com/watch?v=lfVSJJXi-hI)
+    - []()
+    - []()
+    - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
@@ -45,12 +48,12 @@
     - Cleaning Data in Python (Practice)
     - Exploratory Data Analysis in Python (Practice)
   - Practice:
-    - Foundations of AI Agents 
-    - Database Design
-    - Forming Analytical Questions
-    - Introduction to Data Culture
-    - Introduction to Data Literacy
-    - Introduction to APIs in Python
+    - Work with Linked Lists and Stacks and Understand Big O Notation
+    - Intermediate Importing Data in Python
+    - Data Warehousing Concepts
+    - Introduction to Java
+    - Communicating Data Insights   
+    - Understanding Cloud Computing
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -73,6 +76,17 @@
   - Reading: Creating Responsive Websites Using HTML5 and CSS3
     - Working on chapter 3/9 - Cascading Style Sheets and Layouts
     - current page: 61    end_chapter_page: 104
+  - Reading: Guide to Flexbox
+    - Created example of book "Introduction to CSS"
+    - Working on Example 1/7 - How to Make a Photo Gallery with Flexbox
+    - REVIEW: I am dropping this book. It starts off with misinformation on how
+          Flexbox works on images. It is very frustrating when you are reading and following
+          instructions but "seeing" what the book says you should see, then you look
+          things up and see that there are exceptions for image, videos and canvas 
+          when it comes to stretching (the default) but the author appears not to know this 
+          fact! 
+  - Reading: Flexbox Explained: Your Step-by-Step Guide to Flexbox
+    - Working on chapter 1/12 - Introduction to CSS Flexbox
 - PROJECT: TimeReminder
   - Database tasks
     - Write code to check for the existence of tables and create if missing
@@ -87,13 +101,11 @@
     - book repo: https://github.com/markjprice/cs12dotnet8
     - Completed Chapter 2/15 - Speaking C#
     - Working on Chapter 3/15 - Controlling Flow, Converting Types, and Handling Exceptions
-    - Current page: 115, last page: 167
+    - Current page: 126, last page: 167
   - Reading: Irresistble APIs by Kirsten L. Hunter
     - PART 1: Understanding Web APIs
       - Working on chapter 2/9 - Working with Web APIs
       - Current page: 38   Last page: 48
-      - It looks like each chapter will take 2/3 days to complete
-        - min:  8/26    max: 10/6
 - PROJECT: DSA
   - DSA Notes
     - Working on Sliding Windows Problem
