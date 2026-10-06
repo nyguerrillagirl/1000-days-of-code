@@ -1,13 +1,7 @@
-### Day 738: October 5, 2026 (Monday)
-- NOTE FOR THE DAY:
-  - The Garrison Qualifier
-    - Sebastian v. Lewis    4-2 (Sebastian)
-      - CALLED IT ON THE MONEY!!!! 
-    - Sitaux v. Ciskhan     4-3 (Sitaux)
-      - CALLED IT ON THE MONEY!!!!
-    - TaToH v. Hearttt      4-3 (TaToH)
+### Day 739: October 6, 2026 (Tuesday)
+- NOTES FOR THE DAY:
   - GOALS:
-    - Datacamp
+    - Datacamp [NO DATACAMP THIS WEEK, trying to get other work attention]
     - FE Development
     - TimeReminder
     - Read: Spring in Action
@@ -15,17 +9,19 @@
     - Apache Flink
     - Apache Kafka
     - Reactive Programming
+    - draw.io
+    - creating a copy entity A on machine X to machine Y  
   - Download Raspberri Pi Magazine
-    - URL: https://magazine.raspberrypi.com/issues?page=13
+    - URL: https://magazine.raspberrypi.com/issues?page=14
     - 5/day
-    - 18, 17, 16, 15, 14
-    - LAST MAGAZINE: 14 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
+    - 13, 12, 11, 10, 9
+    - LAST MAGAZINE: 9 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Need to move MISC computer books into MISC - COMPUTER SCIENCE
     - Need to move all AI related books a copy into MISC - AI
   - NYT
-    - []()
+    - [U.S. Citizen Accused of Surveilling Taiwanese Family on China’s Behalf](https://www.nytimes.com/2026/10/05/us/wanying-zhang-china-spy-arrest.html)
     - []()
     - []()
 - WAPO
@@ -76,22 +72,14 @@
   - Reading: Creating Responsive Websites Using HTML5 and CSS3
     - Working on chapter 3/9 - Cascading Style Sheets and Layouts
     - current page: 61    end_chapter_page: 104
-  - Reading: Guide to Flexbox
-    - Created example of book "Introduction to CSS"
-    - Working on Example 1/7 - How to Make a Photo Gallery with Flexbox
-    - REVIEW: I am dropping this book. It starts off with misinformation on how
-          Flexbox works on images. It is very frustrating when you are reading and following
-          instructions but "seeing" what the book says you should see, then you look
-          things up and see that there are exceptions for image, videos and canvas 
-          when it comes to stretching (the default) but the author appears not to know this 
-          fact! 
   - Reading: Flexbox Explained: Your Step-by-Step Guide to Flexbox
     - Working on chapter 1/12 - Introduction to CSS Flexbox
 - PROJECT: TimeReminder
   - Database tasks
     - Write code to check for the existence of tables and create if missing
   - Working on Design Notes 
-    - Obtain notes on setting a timer on the next reminder
+    - Obtained notes on overall architecture. I found I don't know enough to really
+      get started. 
   - Reading: Learning PostgreSQL, 2nd Edition
     - Spent the time learning how to start and access/view a Docker DB instance
     - Working on chapter 3/19 - Managing Users and Connections
