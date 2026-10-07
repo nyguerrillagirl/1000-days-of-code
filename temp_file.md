@@ -1,4 +1,4 @@
-### Day 739: October 6, 2026 (Tuesday)
+### Day 740: October 7, 2026 (Wednesday)
 - NOTES FOR THE DAY:
   - GOALS:
     - Datacamp [NO DATACAMP THIS WEEK, trying to get other work attention]
@@ -14,24 +14,25 @@
   - Download Raspberri Pi Magazine
     - URL: https://magazine.raspberrypi.com/issues?page=14
     - 5/day
-    - 13, 12, 11, 10, 9
-    - LAST MAGAZINE: 9 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
+    - 8, 7, 6, 5, 4
+    - LAST MAGAZINE: 4 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Need to move MISC computer books into MISC - COMPUTER SCIENCE
     - Need to move all AI related books a copy into MISC - AI
   - NYT
     - [U.S. Citizen Accused of Surveilling Taiwanese Family on China’s Behalf](https://www.nytimes.com/2026/10/05/us/wanying-zhang-china-spy-arrest.html)
-    - []()
+    - [Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France](https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html)
     - []()
 - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [WTF?! THIS is His WORST NIGHTMARE Come TRUE!](https://www.youtube.com/watch?v=d31IYR6F6O4)
+    - [Gauff defends rule-based call after racist abuse in China Open]()
+    - [Cornell students protest, buildings sprayed with graffiti as backlash grows]()
+    - [MAGA senator squirms when asked to defend statement about Democrats]()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
@@ -73,17 +74,20 @@
     - Working on chapter 3/9 - Cascading Style Sheets and Layouts
     - current page: 61    end_chapter_page: 104
   - Reading: Flexbox Explained: Your Step-by-Step Guide to Flexbox
-    - Working on chapter 1/12 - Introduction to CSS Flexbox
+    - Completed chapter 3/12 - The Justify-Content Property
+    - Working on chapter 4/12 - The align-items property
+  - Reading: Master Bootstrap 5, Zero to Hero
+    - Completed chapter 0 - Introduction
+    - Working on chapter 1/24 - Understanding the Web Development Essentials
 - PROJECT: TimeReminder
+  - Completed initial application project + sub-projects
+  - Created README.md for the project
+  - Moved PostgreSQL book out of this project and into technical reading. 
   - Database tasks
     - Write code to check for the existence of tables and create if missing
   - Working on Design Notes 
     - Obtained notes on overall architecture. I found I don't know enough to really
       get started. 
-  - Reading: Learning PostgreSQL, 2nd Edition
-    - Spent the time learning how to start and access/view a Docker DB instance
-    - Working on chapter 3/19 - Managing Users and Connections
-    - Current page: 51   End page: 70
   - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
     - Eighth Edition (2023), by Mark J. Price
     - book repo: https://github.com/markjprice/cs12dotnet8
@@ -94,6 +98,9 @@
     - PART 1: Understanding Web APIs
       - Working on chapter 2/9 - Working with Web APIs
       - Current page: 38   Last page: 48
+  - Reading: :earn WinUI 3, Alvin Ashcraft
+    - Working on chapter 1/14 - Introduction to WinUI
+    - current page:     last page:
 - PROJECT: DSA
   - DSA Notes
     - Working on Sliding Windows Problem
@@ -174,14 +181,19 @@
         - Working on Chapter 2/24 - Exploring probability and counting
         - pages 16-40 
         - current page: 16
+    - Reading: Learning PostgreSQL, 2nd Edition
+      - Spent the time learning how to start and access/view a Docker DB instance
+      - Working on chapter 3/19 - Managing Users and Connections
+      - Current page: 51   End page: 70
   - Non-Tech Reading
     - **Paper Girl**, Beth Macy
       - Part III: Showing Up
         - Working on chapter 10 - Interventions
           - How to get people to show up to jobs and school?
     - **Tiny Blunders, BIG DISASTERS**, by Jared Knott
-      - Working on chapter 11/30 - Medical Mistakes
-      - Current page: 107  last chapter: 121
+      - Working on chapter 12/30 - Murphy's Law Run Amok
+        - This chapter covered the Johnstown Flood and other events. 
+      - Current page: 122  last chapter: 141
     - **The Boys in the Lights**, Nina Willner
       - An Extraordinary World War II Story of Survival, Faith, and Brotherhood
        - Working on chapter 3/38 - Patriots and Parasites
