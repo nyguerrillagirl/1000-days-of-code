@@ -1,4 +1,5 @@
-### Day 740: October 7, 2026 (Wednesday)
+
+### Day 741: October 8, 2026 (Thursday)
 - NOTES FOR THE DAY:
   - GOALS:
     - Datacamp [NO DATACAMP THIS WEEK, trying to get other work attention]
@@ -12,27 +13,26 @@
     - draw.io
     - creating a copy entity A on machine X to machine Y  
   - Download Raspberri Pi Magazine
-    - URL: https://magazine.raspberrypi.com/issues?page=14
-    - 5/day
-    - 8, 7, 6, 5, 4
-    - LAST MAGAZINE: 4 (FORMAT: XXX_RPOM.pdf or XXX_MAGPI.pdf)   
+    - URL: https://magazine.raspberrypi.com/issues?page=15
+    - Completed download of all magazine from 1-present
+    - Need to check once a month (Great to add to my TimeReminder tool)
+    - Need to create/check if I own a Raspberry Pi and start working on this
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Need to move MISC computer books into MISC - COMPUTER SCIENCE
     - Need to move all AI related books a copy into MISC - AI
   - NYT
-    - [U.S. Citizen Accused of Surveilling Taiwanese Family on China’s Behalf](https://www.nytimes.com/2026/10/05/us/wanying-zhang-china-spy-arrest.html)
-    - [Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France](https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html)
-    - []()
+    - [Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France](https://www.nytimes.com/2026/10/06/world/europe/france-protests-social-welfare-election.html)
+    - [Billionaires Love This School Policy. Many Regular Parents Hate It.](https://www.nytimes.com/2026/10/07/opinion/school-vouchers-midterms.html)
+    - [A Hasidic Jew Protested Against an Israeli Flag. He May Be Deported.](https://www.nytimes.com/2026/09/30/nyregion/anti-israel-protest-ice-detention.html)
 - WAPO
-    - []()
-    - []()
-    - []()
+    - [Takeaways from the Maine Senate debate between Susan Collins, Troy Jackson](https://www.washingtonpost.com/politics/2026/10/06/takeaways-maine-senate-debate-between-susan-collins-troy-jackson/)
+    - [Is society growing stupider? The clues are simple and repeated.](https://www.washingtonpost.com/opinions/2026/10/07/culture-is-getting-simpler-that-should-worry-you/)
+    - [Why mocking romance-fraud victims only keeps more people in silence](https://www.washingtonpost.com/business/2026/10/07/why-mocking-romance-fraud-victims-only-keeps-more-people-silence/)
   - ARTICLES/VIDEOS
-    - [WTF?! THIS is His WORST NIGHTMARE Come TRUE!](https://www.youtube.com/watch?v=d31IYR6F6O4)
-    - [Gauff defends rule-based call after racist abuse in China Open]()
-    - [Cornell students protest, buildings sprayed with graffiti as backlash grows]()
-    - [MAGA senator squirms when asked to defend statement about Democrats]()
+    - [One of nation's most prolific Flockers sent to prison for misuse]()
+    - [Maga racism](https://www.thebulwark.com/p/magas-racism-is-blowing-up-its-own?utm_campaign=email-post&r=1pe7yq&utm_source=substack&utm_medium=email)
+    - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
@@ -77,8 +77,8 @@
     - Completed chapter 3/12 - The Justify-Content Property
     - Working on chapter 4/12 - The align-items property
   - Reading: Master Bootstrap 5, Zero to Hero
-    - Completed chapter 0 - Introduction
     - Working on chapter 1/24 - Understanding the Web Development Essentials
+      - Worked on exercises
 - PROJECT: TimeReminder
   - Completed initial application project + sub-projects
   - Created README.md for the project
@@ -101,6 +101,8 @@
   - Reading: :earn WinUI 3, Alvin Ashcraft
     - Working on chapter 1/14 - Introduction to WinUI
     - current page:     last page:
+  - LINKS:
+    - https://learn.microsoft.com/en-us/windows/apps/
 - PROJECT: DSA
   - DSA Notes
     - Working on Sliding Windows Problem
