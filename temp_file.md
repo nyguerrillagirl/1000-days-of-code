@@ -1,5 +1,4 @@
-
-### Day 741: October 8, 2026 (Thursday)
+### Day 742: October 9, 2026 (Friday)
 - NOTES FOR THE DAY:
   - GOALS:
     - Datacamp [NO DATACAMP THIS WEEK, trying to get other work attention]
@@ -22,16 +21,16 @@
     - Need to move MISC computer books into MISC - COMPUTER SCIENCE
     - Need to move all AI related books a copy into MISC - AI
   - NYT
-    - [Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France](https://www.nytimes.com/2026/10/06/world/europe/france-protests-social-welfare-election.html)
-    - [Billionaires Love This School Policy. Many Regular Parents Hate It.](https://www.nytimes.com/2026/10/07/opinion/school-vouchers-midterms.html)
-    - [A Hasidic Jew Protested Against an Israeli Flag. He May Be Deported.](https://www.nytimes.com/2026/09/30/nyregion/anti-israel-protest-ice-detention.html)
+    - []()
+    - []()
+    - []()
 - WAPO
-    - [Takeaways from the Maine Senate debate between Susan Collins, Troy Jackson](https://www.washingtonpost.com/politics/2026/10/06/takeaways-maine-senate-debate-between-susan-collins-troy-jackson/)
-    - [Is society growing stupider? The clues are simple and repeated.](https://www.washingtonpost.com/opinions/2026/10/07/culture-is-getting-simpler-that-should-worry-you/)
-    - [Why mocking romance-fraud victims only keeps more people in silence](https://www.washingtonpost.com/business/2026/10/07/why-mocking-romance-fraud-victims-only-keeps-more-people-silence/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [One of nation's most prolific Flockers sent to prison for misuse]()
-    - [Maga racism](https://www.thebulwark.com/p/magas-racism-is-blowing-up-its-own?utm_campaign=email-post&r=1pe7yq&utm_source=substack&utm_medium=email)
+    - []()
+    - []()
     - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
@@ -70,19 +69,23 @@
   - Course: Introduction to AI Agents
     - Working on chapter 1/3 - Foundations of AI Agents
 - PROJECT: Frontend Development
+  - Started brainycode.com project
+    - Set it up with npm
+    - Added basic structure
+    - TODO: Plan out topics
+    - TODO: Work on logo and Nav bar
   - Reading: Creating Responsive Websites Using HTML5 and CSS3
     - Working on chapter 3/9 - Cascading Style Sheets and Layouts
     - current page: 61    end_chapter_page: 104
   - Reading: Flexbox Explained: Your Step-by-Step Guide to Flexbox
-    - Completed chapter 3/12 - The Justify-Content Property
-    - Working on chapter 4/12 - The align-items property
+     - Completed chapter 4/12 - The align-items property
+     - Working on chapter 5/12 - The FLEX-GROW Property
   - Reading: Master Bootstrap 5, Zero to Hero
-    - Working on chapter 1/24 - Understanding the Web Development Essentials
-      - Worked on exercises
+    - Completed chapter 1/24 - Understanding the Web Development Essentials
+    - Completed chapter 2/24 - Setting Up Your Development Environment
+    - Working on Chapter 3/24 - HTML and CSS Refresher for Bootstrap
+    - current page: 36
 - PROJECT: TimeReminder
-  - Completed initial application project + sub-projects
-  - Created README.md for the project
-  - Moved PostgreSQL book out of this project and into technical reading. 
   - Database tasks
     - Write code to check for the existence of tables and create if missing
   - Working on Design Notes 
@@ -98,7 +101,7 @@
     - PART 1: Understanding Web APIs
       - Working on chapter 2/9 - Working with Web APIs
       - Current page: 38   Last page: 48
-  - Reading: :earn WinUI 3, Alvin Ashcraft
+  - Reading: Learn WinUI 3, Alvin Ashcraft
     - Working on chapter 1/14 - Introduction to WinUI
     - current page:     last page:
   - LINKS:
@@ -198,6 +201,8 @@
       - Current page: 122  last chapter: 141
     - **The Boys in the Lights**, Nina Willner
       - An Extraordinary World War II Story of Survival, Faith, and Brotherhood
-       - Working on chapter 3/38 - Patriots and Parasites
+      - Working on chapter 7/28 - Blue Ribbon America
+        - This chapter discusses America in 1939. This was the era of a blue ribbon American Spirit!
+      - page: 51
  - GRADE: 
   - NA
