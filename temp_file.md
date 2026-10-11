@@ -1,5 +1,4 @@
-### Day 743: October 10, 2026 (Saturday)
-
+### Day 744: October 11, 2026 (Sunday)
 - NOTES FOR THE DAY:
   - GOALS:
     - Datacamp [NO DATACAMP THIS WEEK, trying to get other work attention]
@@ -21,6 +20,8 @@
     - Goal: Work on at least 5 books a day
     - Need to move MISC computer books into MISC - COMPUTER SCIENCE
     - Need to move all AI related books a copy into MISC - AI
+    - Need to finish up AMS Pure and Applied Undergraduate Text:
+      - https://bookstore.ams.org/amstext
   - NYT
     - []()
     - []()
@@ -33,7 +34,6 @@
     - []()
     - []()
     - []()
-    - [Sophie Scholl – The Soul of the Resistance ](https://www.youtube.com/watch?v=UYZAlS_q9d4)
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
@@ -71,6 +71,8 @@
   - Course: Introduction to AI Agents
     - Working on chapter 1/3 - Foundations of AI Agents
 - PROJECT: Frontend Development
+  - Worked on "The Box Model" article
+    - page: 11/27
   - Started brainycode.com project
     - Set it up with npm
     - Added basic structure
@@ -86,24 +88,6 @@
     - Working on Chapter 3/24 - HTML and CSS Refresher for Bootstrap
     - current page: 39
 - PROJECT: TimeReminder
-  - Fixed WinUI on Visual Studio 2022
-    - Fact: In the latest version of VS2022 they renamed/simplified from 
-      "Blank App (WinUI 3 Desktop)" to "WinUI Blank App (Packaged)"
-    - I did a lot of things before finally getting to the source of the issue. 
-      - On command prompt entered: dotnet new install Microsoft.WindowsAppSDK.WinUI.CSharp.Templates
-      - Open VS 2022 and Terminal and entered: devenv /InstallVSTemplates
-      - Restarted VS2022 - still not working
-      - Go go: %localappdata%\Microsoft\VisualStudio and 17.0_*
-        - delete the folders ComponentModelCache, ProjectTemplatesCache_{00000000-0000-0000-0000-000000000000}, ItemTemplatesCache_{00000000-0000-0000-0000-000000000000}
-      - Still do not see "Blank App (WinUI 3 in Desktop)" or "Blank App, Packaged (WinUI 3)" 
-      Did not realize this was not EVER going to be found!
-      - Tested by using WinUI Blank App (Packaged) and got the same error:
-      "The project needs to be deployed before we can debug. Please enable Deploy in the Configuration Manager."
-      - FOUND ISSUE: Checked Error List and found the following issue:
-      "DEP1000: Cannot copy file "C:\Users\lorra\.nuget\packages\microsoft.windowsappsdk.foundation\2.3.12\lib\net6.0-windows10.0.17763.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll" to layout "C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\books\winui_3\chapter01\WinUI.SimpleSample\WinUI.SimpleSample\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppX\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll". DirectoryNotFoundException - Could not find a part of the path 'C:\1000-days-of-code-repos\1000doc-project-time-reminder\learning_csharp_projects\books\winui_3\chapter01\WinUI.SimpleSample\WinUI.SimpleSample\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppX\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll'. [0x80070003]"
-      - EUREKA - Problem is the PATH is TOO LONG. All this time - this was the REAL problem!! 
-        - Solution: shorten the path name
-        - Note: Windows has a historical maximum limit of 260 characters for file paths. Your destination path is clocking in at a massive 267 characters long.
   - Database tasks
     - Write code to check for the existence of tables and create if missing
   - Working on Design Notes 
@@ -211,14 +195,16 @@
   - Non-Tech Reading
     - **Paper Girl**, Beth Macy
       - Part III: Showing Up
-        - Working on chapter 12 - Ascension
+        - Working on chapter 14 - Grace
      - **Tiny Blunders, BIG DISASTERS**, by Jared Knott
       - Working on chapter 13/30 - Military Miscommunication
       - Current page: 142  last chapter: 161
     - **The Boys in the Lights**, Nina Willner
       - An Extraordinary World War II Story of Survival, Faith, and Brotherhood
-      - Working on chapter 7/28 - Blue Ribbon America
-        - This chapter discusses America in 1939. This was the era of a blue ribbon American Spirit!
-      - page: 51
+      - Working on chapter 17/28 - Baptism
+        - The adjustments the American tankers had to make when their Shermans encountered
+          the Nazi's Panzers. They took a hit on their confidence when they saw
+          they were outgunned and out armoured by the German tanks. 
+      - page: 111
  - GRADE: 
   - NA
