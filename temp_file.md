@@ -1,4 +1,4 @@
-### Day 744: October 11, 2026 (Sunday)
+### Day 745: October 12, 2026 (Monday)
 - NOTES FOR THE DAY:
   - GOALS:
     - Datacamp [NO DATACAMP THIS WEEK, trying to get other work attention]
@@ -72,7 +72,7 @@
     - Working on chapter 1/3 - Foundations of AI Agents
 - PROJECT: Frontend Development
   - Worked on "The Box Model" article
-    - page: 11/27
+    - page: 21/27
   - Started brainycode.com project
     - Set it up with npm
     - Added basic structure
@@ -85,8 +85,9 @@
      - Completed chapter 5/12 - The FLEX-GROW Property
      - Working on chapter 6/12 - The FLEX-SHRINK Property
   - Reading: Master Bootstrap 5, Zero to Hero
-    - Working on Chapter 3/24 - HTML and CSS Refresher for Bootstrap
-    - current page: 39
+    - Completed Chapter 3/24 - HTML and CSS Refresher for Bootstrap
+    - Working on chapter 4/24 - The Bootstrap Grid System in Depth
+    - current page: 49
 - PROJECT: TimeReminder
   - Database tasks
     - Write code to check for the existence of tables and create if missing
@@ -96,7 +97,6 @@
   - Reading: C#12 and .NET 8 - Modern Cross-Platform Development Fundamentals
     - Eighth Edition (2023), by Mark J. Price
     - book repo: https://github.com/markjprice/cs12dotnet8
-    - Completed Chapter 2/15 - Speaking C#
     - Working on Chapter 3/15 - Controlling Flow, Converting Types, and Handling Exceptions
     - Current page: 126, last page: 167
   - Reading: Irresistble APIs by Kirsten L. Hunter
@@ -193,9 +193,6 @@
       - Working on chapter 3/19 - Managing Users and Connections
       - Current page: 51   End page: 70
   - Non-Tech Reading
-    - **Paper Girl**, Beth Macy
-      - Part III: Showing Up
-        - Working on chapter 14 - Grace
      - **Tiny Blunders, BIG DISASTERS**, by Jared Knott
       - Working on chapter 13/30 - Military Miscommunication
       - Current page: 142  last chapter: 161
