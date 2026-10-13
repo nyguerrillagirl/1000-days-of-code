@@ -1,7 +1,8 @@
-### Day 745: October 12, 2026 (Monday)
+
+### Day 746: October 13, 2026 (Tuesday)
 - NOTES FOR THE DAY:
   - GOALS:
-    - Datacamp [NO DATACAMP THIS WEEK, trying to get other work attention]
+    - Datacamp [NO DATACAMP THIS WEEK - AGAIN, trying to get other work attention]
     - FE Development
     - TimeReminder
     - Read: Spring in Action
@@ -98,7 +99,7 @@
     - Eighth Edition (2023), by Mark J. Price
     - book repo: https://github.com/markjprice/cs12dotnet8
     - Working on Chapter 3/15 - Controlling Flow, Converting Types, and Handling Exceptions
-    - Current page: 126, last page: 167
+    - Current page: 131, last page: 167
   - Reading: Irresistble APIs by Kirsten L. Hunter
     - PART 1: Understanding Web APIs
       - Working on chapter 2/9 - Working with Web APIs
@@ -196,12 +197,5 @@
      - **Tiny Blunders, BIG DISASTERS**, by Jared Knott
       - Working on chapter 13/30 - Military Miscommunication
       - Current page: 142  last chapter: 161
-    - **The Boys in the Lights**, Nina Willner
-      - An Extraordinary World War II Story of Survival, Faith, and Brotherhood
-      - Working on chapter 17/28 - Baptism
-        - The adjustments the American tankers had to make when their Shermans encountered
-          the Nazi's Panzers. They took a hit on their confidence when they saw
-          they were outgunned and out armoured by the German tanks. 
-      - page: 111
  - GRADE: 
   - NA
