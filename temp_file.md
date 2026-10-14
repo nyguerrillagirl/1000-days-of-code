@@ -1,5 +1,4 @@
-
-### Day 746: October 13, 2026 (Tuesday)
+### Day 747: October 14, 2026 (Wednesday)
 - NOTES FOR THE DAY:
   - GOALS:
     - Datacamp [NO DATACAMP THIS WEEK - AGAIN, trying to get other work attention]
@@ -24,16 +23,16 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Kimberly Guilfoyle Resigns as Ambassador to Greece](https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html)
+    - [Top G.O.P. Groups Pull Support From First House Incumbents](https://www.nytimes.com/2026/10/13/us/politics/top-gop-groups-pull-support-from-first-house-incumbents.html)
+    - [Rising Interest Rates Bite Some Wall Street Banks](https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html)
 - WAPO
-    - []()
-    - []()
+    - [U.K. intelligence chief warns Iran is shifting plots to ‘harder targets’](https://www.washingtonpost.com/world/2026/10/13/uk-intelligence-chief-warns-iran-is-shifting-plots-harder-targets/)
+    - [Elon Musk’s megaphone propels conspiracy theory about James Talarico](https://www.washingtonpost.com/technology/2026/10/13/fringe-theory-about-james-talarico-went-viral-then-elon-musk-weighed/)
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
+    - [Debate ended after UT guest speaker uses racist and homophobic slurs, creating backlash]()
+    - [Sotomayor, Gorsuch condemn immigrant’s prosecution, citing ‘constitutional absurdity’]()
     - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
@@ -197,5 +196,8 @@
      - **Tiny Blunders, BIG DISASTERS**, by Jared Knott
       - Working on chapter 13/30 - Military Miscommunication
       - Current page: 142  last chapter: 161
+    - **Undiluted Hocus-Pocus, The Autobiography of Martin Gardner**
+      - Working on chapter 1/21 - Earliest Memories
+        page: 
  - GRADE: 
   - NA
