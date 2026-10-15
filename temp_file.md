@@ -1,4 +1,4 @@
-### Day 747: October 14, 2026 (Wednesday)
+### Day 748: October 15, 2026 (Thursday)
 - NOTES FOR THE DAY:
   - GOALS:
     - Datacamp [NO DATACAMP THIS WEEK - AGAIN, trying to get other work attention]
@@ -23,16 +23,16 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - [Kimberly Guilfoyle Resigns as Ambassador to Greece](https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html)
-    - [Top G.O.P. Groups Pull Support From First House Incumbents](https://www.nytimes.com/2026/10/13/us/politics/top-gop-groups-pull-support-from-first-house-incumbents.html)
-    - [Rising Interest Rates Bite Some Wall Street Banks](https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html)
+    - []()
+    - []()
+    - []()
 - WAPO
-    - [U.K. intelligence chief warns Iran is shifting plots to ‘harder targets’](https://www.washingtonpost.com/world/2026/10/13/uk-intelligence-chief-warns-iran-is-shifting-plots-harder-targets/)
-    - [Elon Musk’s megaphone propels conspiracy theory about James Talarico](https://www.washingtonpost.com/technology/2026/10/13/fringe-theory-about-james-talarico-went-viral-then-elon-musk-weighed/)
+    - []()
+    - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Debate ended after UT guest speaker uses racist and homophobic slurs, creating backlash]()
-    - [Sotomayor, Gorsuch condemn immigrant’s prosecution, citing ‘constitutional absurdity’]()
+    - []()
+    - []()
     - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
@@ -71,13 +71,10 @@
   - Course: Introduction to AI Agents
     - Working on chapter 1/3 - Foundations of AI Agents
 - PROJECT: Frontend Development
-  - Worked on "The Box Model" article
-    - page: 21/27
   - Started brainycode.com project
-    - Set it up with npm
-    - Added basic structure
-    - TODO: Plan out topics
-    - TODO: Work on logo and Nav bar
+    - TODO: Worked on design
+      - Started <nav-bar> section. 
+      TODO: select the right font
   - Reading: Creating Responsive Websites Using HTML5 and CSS3
     - Working on chapter 3/9 - Cascading Style Sheets and Layouts
     - current page: 61    end_chapter_page: 104
@@ -89,8 +86,6 @@
     - Working on chapter 4/24 - The Bootstrap Grid System in Depth
     - current page: 49
 - PROJECT: TimeReminder
-  - Database tasks
-    - Write code to check for the existence of tables and create if missing
   - Working on Design Notes 
     - Obtained notes on overall architecture. I found I don't know enough to really
       get started. 
@@ -192,6 +187,9 @@
       - Spent the time learning how to start and access/view a Docker DB instance
       - Working on chapter 3/19 - Managing Users and Connections
       - Current page: 51   End page: 70
+    - Reading: Building Agentic AI Systems
+      - Reading chapter 1/11 - Fundamentals of Generative AI
+      - current page: 3 last page: 26
   - Non-Tech Reading
      - **Tiny Blunders, BIG DISASTERS**, by Jared Knott
       - Working on chapter 13/30 - Military Miscommunication
