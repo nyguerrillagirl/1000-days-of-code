@@ -1,4 +1,4 @@
-### Day 748: October 15, 2026 (Thursday)
+### Day 749: October 16, 2026 (Friday)
 - NOTES FOR THE DAY:
   - GOALS:
     - Datacamp [NO DATACAMP THIS WEEK - AGAIN, trying to get other work attention]
@@ -8,6 +8,8 @@
   - LOOK UP:
     - Apache Flink
     - Apache Kafka
+    - Redis
+    - Fallback/Circuit Breakers
     - Reactive Programming
     - draw.io
     - creating a copy entity A on machine X to machine Y  
@@ -23,15 +25,15 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - []()
-    - []()
-    - []()
+    - [The Disappearing Women of the Trump Administration](https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html)
+    - [White supremacist’s attempted mass shooting plot thwarted]()
+    - [Trump Cancels Planned Livestream of Fort Hood Shooter’s Execution](https://www.nytimes.com/2026/10/15/us/trump-hasan-fort-hood-execution-livestream.html)
 - WAPO
-    - []()
-    - []()
+    - [Secret documents reveal donors behind $330 million for Trump’s ballroom](https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/)
+    - [An FBI arrest revives fears that U.S. tech companies are hiring spies](https://www.washingtonpost.com/technology/2026/10/15/arrest-openai-worker-triggers-debate-over-silicon-valey-spying/)
     - []()
   - ARTICLES/VIDEOS
-    - []()
+    - [I Failed Uber’s System Design Interview Last Month. Here’s Every Question They Asked.](https://medium.com/@emilyhustlenyc/i-failed-ubers-system-design-interview-last-month-here-s-every-question-they-asked-bdaf1bd6e64b)
     - []()
     - []()
 - Data Camp [DS]
