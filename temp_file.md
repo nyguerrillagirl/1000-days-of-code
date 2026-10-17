@@ -1,10 +1,12 @@
-### Day 749: October 16, 2026 (Friday)
+### Day 750: October 17, 2026 (Saturday)
 - NOTES FOR THE DAY:
   - GOALS:
     - Datacamp [NO DATACAMP THIS WEEK - AGAIN, trying to get other work attention]
     - FE Development
     - TimeReminder
     - Read: Spring in Action
+  - Manning
+    - Entity Framework Core in Action (checkout code: slsmith5)
   - LOOK UP:
     - Apache Flink
     - Apache Kafka
@@ -25,15 +27,15 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - [The Disappearing Women of the Trump Administration](https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html)
-    - [White supremacist’s attempted mass shooting plot thwarted]()
-    - [Trump Cancels Planned Livestream of Fort Hood Shooter’s Execution](https://www.nytimes.com/2026/10/15/us/trump-hasan-fort-hood-execution-livestream.html)
+    - [Katie Zacharia Is Ousted After 5 Days as White House Press Secretary](https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html)
+    - [Behind a White House Feud That Is Bitter Even by Trump-Era Standards](https://www.nytimes.com/2026/10/15/us/politics/alina-habba-mildon-richard-grenell-trump.html)
+    - [‘You Can See Everything’ Review: The Slippery Mind of Elizabeth Holmes](https://www.nytimes.com/2026/10/15/movies/you-can-see-everything-review-elizabeth-holmes.html)
 - WAPO
-    - [Secret documents reveal donors behind $330 million for Trump’s ballroom](https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/)
-    - [An FBI arrest revives fears that U.S. tech companies are hiring spies](https://www.washingtonpost.com/technology/2026/10/15/arrest-openai-worker-triggers-debate-over-silicon-valey-spying/)
-    - []()
+    - [Power struggle erupts in Trump’s White House as midterm losses loom](https://www.washingtonpost.com/politics/2026/10/16/trump-aides-brace-white-house-turmoil-midterm-losses-loom/)
+    - [These words talked their way into the dictionary. Do you know their meaning?](https://www.washingtonpost.com/education/interactive/2026/10/16/these-words-talked-their-way-into-dictionary-do-you-know-their-meaning/?itid=hp_more-top-stories_p002_f002)
+    - [Sen. Susan Collins struggles to name a time she stopped Trump](https://www.washingtonpost.com/politics/2026/10/16/sen-susan-collins-struggles-name-time-she-stopped-trump/?itid=hp_the-7-live_p001_f004_2)
   - ARTICLES/VIDEOS
-    - [I Failed Uber’s System Design Interview Last Month. Here’s Every Question They Asked.](https://medium.com/@emilyhustlenyc/i-failed-ubers-system-design-interview-last-month-here-s-every-question-they-asked-bdaf1bd6e64b)
+    - [Natalie Harp prompted Trump freakout with White House shake-up rumors: Politico]()
     - []()
     - []()
 - Data Camp [DS]
@@ -88,6 +90,8 @@
     - Working on chapter 4/24 - The Bootstrap Grid System in Depth
     - current page: 49
 - PROJECT: TimeReminder
+  - Working on EF Core Notes
+    - Utilized it to create Users table in trdb.
   - Working on Design Notes 
     - Obtained notes on overall architecture. I found I don't know enough to really
       get started. 
@@ -103,6 +107,8 @@
   - Reading: Learn WinUI 3, Alvin Ashcraft
     - Working on chapter 1/14 - Introduction to WinUI
     - current page:     last page:
+  - Reading: Entity Framework Core in Action, 2nd Edition (Jon P Smith)
+    - Working on chapter 1/17 - Introduction to Entity Framework Core
   - LINKS:
     - https://learn.microsoft.com/en-us/windows/apps/
 - PROJECT: DSA
@@ -197,6 +203,7 @@
       - Working on chapter 13/30 - Military Miscommunication
       - Current page: 142  last chapter: 161
     - **Undiluted Hocus-Pocus, The Autobiography of Martin Gardner**
+      - Working on forward
       - Working on chapter 1/21 - Earliest Memories
         page: 
  - GRADE: 
