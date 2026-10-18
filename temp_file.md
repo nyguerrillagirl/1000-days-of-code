@@ -1,12 +1,10 @@
-### Day 750: October 17, 2026 (Saturday)
+### Day 751: October 18, 2026 (Sunday)
 - NOTES FOR THE DAY:
   - GOALS:
     - Datacamp [NO DATACAMP THIS WEEK - AGAIN, trying to get other work attention]
     - FE Development
     - TimeReminder
     - Read: Spring in Action
-  - Manning
-    - Entity Framework Core in Action (checkout code: slsmith5)
   - LOOK UP:
     - Apache Flink
     - Apache Kafka
@@ -27,15 +25,15 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - [Katie Zacharia Is Ousted After 5 Days as White House Press Secretary](https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html)
-    - [Behind a White House Feud That Is Bitter Even by Trump-Era Standards](https://www.nytimes.com/2026/10/15/us/politics/alina-habba-mildon-richard-grenell-trump.html)
-    - [‘You Can See Everything’ Review: The Slippery Mind of Elizabeth Holmes](https://www.nytimes.com/2026/10/15/movies/you-can-see-everything-review-elizabeth-holmes.html)
+    - []()
+    - []()
+    - []()
 - WAPO
-    - [Power struggle erupts in Trump’s White House as midterm losses loom](https://www.washingtonpost.com/politics/2026/10/16/trump-aides-brace-white-house-turmoil-midterm-losses-loom/)
-    - [These words talked their way into the dictionary. Do you know their meaning?](https://www.washingtonpost.com/education/interactive/2026/10/16/these-words-talked-their-way-into-dictionary-do-you-know-their-meaning/?itid=hp_more-top-stories_p002_f002)
-    - [Sen. Susan Collins struggles to name a time she stopped Trump](https://www.washingtonpost.com/politics/2026/10/16/sen-susan-collins-struggles-name-time-she-stopped-trump/?itid=hp_the-7-live_p001_f004_2)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Natalie Harp prompted Trump freakout with White House shake-up rumors: Politico]()
+    - [Duke football player may be in serious trouble after swatting female medical staffer's arm today]()
     - []()
     - []()
 - Data Camp [DS]
