@@ -1,4 +1,4 @@
-### Day 751: October 18, 2026 (Sunday)
+### Day 752: October 19, 2026 (Monday)
 - NOTES FOR THE DAY:
   - GOALS:
     - Datacamp [NO DATACAMP THIS WEEK - AGAIN, trying to get other work attention]
@@ -25,17 +25,19 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - []()
-    - []()
-    - []()
+    - [France Reels After Largest Riots in Years
+    ](https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html)
+    - [O.J. Simpson, a Secret Informant and a Decades-Old Mystery](https://www.nytimes.com/2026/10/18/us/oj-simpson-ippolito-informant-accomplice.html)
+    - [This Is What America’s Utility Bill Crisis Looks Like](https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html)
 - WAPO
-    - []()
-    - []()
+    - [‘Revolutionary’: GLP-1s’ most interesting side effects](https://www.washingtonpost.com/opinions/2026/10/15/revolutionary-three-writers-share-glp-1s-most-interesting-side-effects/)
+    - [Customer berates teen over 20-cent error. Strangers rally with $5K in tips.](https://www.washingtonpost.com/lifestyle/2026/10/15/customer-berates-teen-over-20-cent-error-strangers-rally-with-5k-tips/)
     - []()
   - ARTICLES/VIDEOS
     - [Duke football player may be in serious trouble after swatting female medical staffer's arm today]()
-    - []()
-    - []()
+    - [Trump’s first pick for press sec revealed after 5-day fiasco]()
+    - [Ukraine strikes St Petersburg with over 1,000 drones]()
+    - [Donald Trump’s White House is finally falling apart]()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
