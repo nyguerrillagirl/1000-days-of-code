@@ -1,5 +1,4 @@
-### Day 752: October 19, 2026 (Monday)
-- NOTES FOR THE DAY:
+### Day 753: October 20, 2026 (Tuesday)
   - GOALS:
     - Datacamp [NO DATACAMP THIS WEEK - AGAIN, trying to get other work attention]
     - FE Development
@@ -25,19 +24,17 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - [France Reels After Largest Riots in Years
-    ](https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html)
-    - [O.J. Simpson, a Secret Informant and a Decades-Old Mystery](https://www.nytimes.com/2026/10/18/us/oj-simpson-ippolito-informant-accomplice.html)
-    - [This Is What America’s Utility Bill Crisis Looks Like](https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html)
+    - []()
+    - []()
+    - []()
 - WAPO
-    - [‘Revolutionary’: GLP-1s’ most interesting side effects](https://www.washingtonpost.com/opinions/2026/10/15/revolutionary-three-writers-share-glp-1s-most-interesting-side-effects/)
-    - [Customer berates teen over 20-cent error. Strangers rally with $5K in tips.](https://www.washingtonpost.com/lifestyle/2026/10/15/customer-berates-teen-over-20-cent-error-strangers-rally-with-5k-tips/)
+    - []()
+    - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Duke football player may be in serious trouble after swatting female medical staffer's arm today]()
-    - [Trump’s first pick for press sec revealed after 5-day fiasco]()
-    - [Ukraine strikes St Petersburg with over 1,000 drones]()
-    - [Donald Trump’s White House is finally falling apart]()
+    - []()
+    - []()
+    - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
@@ -148,11 +145,38 @@
   - Check out book: I.N. Herstein’s “Topics in Algebra,” 
   - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
 - PROJECT: SDL
-  - The 20 Games Challenge
-    - See notes
-  - SDL
-    - SDL Book Notes
+  - Working on fixing this section today, comments:
+    - This was my #1 project in the previous section (74_2026_C) but I have not 
+      touched it in yet in 75_2026_D. Probably because I wanted to learn Modern C
+      while I went through a book and read all the material/tutorials on the Internet.
+      Unfortunately, my TimeReminder project has thrown this into a hold pattern because
+      I am learning Windows development that requires learning C#, WinUI and how to 
+      create a complex Windows application. Today I would like to plan my approach to 
+      start moving forward on SDL project.
+    - I don't see any notes on the 20 Game Challege. I found this document under 
+      C:\1000-days-of-code-repos\1000doc-docs\repo_docs\1000doc-python-projects\python_graphics\the_20_game_challenge. The document is based on the repo: https://20_games_challenge.gitlab.io/ 
+      the document is called - THE_20_GAME_CHALLENGE.docx. I am not sure why it was placed
+      under the python_graphics are and then referenced here!!! I will move reference to the 
+      Python Graphics challenge. Note: It would be something to pursue here.
+    - Examine the "SDL Book Notes" 
+      - The SDL Book notes are located in Open Drive
+    - Work on lazy_foo_tutorials and parallel_realities. Does not run from command line, it seems 
+      to run from Code::Blocks project. 
+    - Creating a post-build step in Code::Blocks
+   ```
+   xcopy "$(PROJECT_DIR)\assets" "$(TARGET_OUTPUT_DIR)\assets" /E /Y
+   ``` 
+   This copies your entire assets folder (images, fonts, sounds) into the same directory as you .exe
+   everytime you build
+   "Would you like me to show you how to set up a simple CMake configuration for your SDL2 project that automatically copies assets?"
+    - Recommendation: Work ONLY on tutorials
+  - SDL Book Notes - 01_LEARNING_SDL2_TO_CREATE_GAMES.docx
         - Working/Reviewing in Chapter 2 - Installing SDL
+    - Tutorial: Lazy Foo Tutorials
+      - https://lazyfoo.net/tutorials/SDL/index.php 
+      - Completed Hello SDL
+      - Completed 02_getting_image_on_screen
+    - Tutorial: Parallel Realities
  - PROJECT: PYTHON GRAPHICS
   - **Arcade** - Best modern 2D game library
     - Book: Aracade Academy Learning Python 
@@ -165,6 +189,8 @@
     - Pygame is the “old reliable” of Python game dev. It’s simple, stable, and 
       has a huge community. Ideal for learning game loops, input, collisions, 
       and retro-style games.
+  - The 20 Games Challenge
+    - See notes at C:\1000-days-of-code-repos\1000doc-docs\repo_docs\1000doc-python-projects\python_graphics\the_20_game_challenge from 
 - PROJECT: REAL PYTHON
   - [Python's asyncio: A Hands-On Walkthrough](https://realpython.com/async-io-python/)
     - Worked on first part 
