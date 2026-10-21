@@ -1,4 +1,4 @@
-### Day 753: October 20, 2026 (Tuesday)
+### Day 754: October 21, 2026 (Wednesday)
   - GOALS:
     - Datacamp [NO DATACAMP THIS WEEK - AGAIN, trying to get other work attention]
     - FE Development
@@ -145,38 +145,13 @@
   - Check out book: I.N. Herstein’s “Topics in Algebra,” 
   - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
 - PROJECT: SDL
-  - Working on fixing this section today, comments:
-    - This was my #1 project in the previous section (74_2026_C) but I have not 
-      touched it in yet in 75_2026_D. Probably because I wanted to learn Modern C
-      while I went through a book and read all the material/tutorials on the Internet.
-      Unfortunately, my TimeReminder project has thrown this into a hold pattern because
-      I am learning Windows development that requires learning C#, WinUI and how to 
-      create a complex Windows application. Today I would like to plan my approach to 
-      start moving forward on SDL project.
-    - I don't see any notes on the 20 Game Challege. I found this document under 
-      C:\1000-days-of-code-repos\1000doc-docs\repo_docs\1000doc-python-projects\python_graphics\the_20_game_challenge. The document is based on the repo: https://20_games_challenge.gitlab.io/ 
-      the document is called - THE_20_GAME_CHALLENGE.docx. I am not sure why it was placed
-      under the python_graphics are and then referenced here!!! I will move reference to the 
-      Python Graphics challenge. Note: It would be something to pursue here.
-    - Examine the "SDL Book Notes" 
-      - The SDL Book notes are located in Open Drive
-    - Work on lazy_foo_tutorials and parallel_realities. Does not run from command line, it seems 
-      to run from Code::Blocks project. 
-    - Creating a post-build step in Code::Blocks
-   ```
-   xcopy "$(PROJECT_DIR)\assets" "$(TARGET_OUTPUT_DIR)\assets" /E /Y
-   ``` 
-   This copies your entire assets folder (images, fonts, sounds) into the same directory as you .exe
-   everytime you build
-   "Would you like me to show you how to set up a simple CMake configuration for your SDL2 project that automatically copies assets?"
-    - Recommendation: Work ONLY on tutorials
   - SDL Book Notes - 01_LEARNING_SDL2_TO_CREATE_GAMES.docx
-        - Working/Reviewing in Chapter 2 - Installing SDL
-    - Tutorial: Lazy Foo Tutorials
+    - Working/Reviewing in Chapter 2 - Installing SDL
+  - Tutorial: Lazy Foo Tutorials
       - https://lazyfoo.net/tutorials/SDL/index.php 
       - Completed Hello SDL
       - Completed 02_getting_image_on_screen
-    - Tutorial: Parallel Realities
+  - Tutorial: Parallel Realities
  - PROJECT: PYTHON GRAPHICS
   - **Arcade** - Best modern 2D game library
     - Book: Aracade Academy Learning Python 
