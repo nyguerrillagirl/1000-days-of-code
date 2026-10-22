@@ -1,22 +1,20 @@
-### Day 754: October 21, 2026 (Wednesday)
+### Day 755: October 22, 2026 (Thursday)
   - GOALS:
+    - Health Insurance Goals
+    - FI 
+    - Call for blood work appointment
     - Datacamp [NO DATACAMP THIS WEEK - AGAIN, trying to get other work attention]
     - FE Development
     - TimeReminder
     - Read: Spring in Action
   - LOOK UP:
-    - Apache Flink
-    - Apache Kafka
-    - Redis
+     - Redis
     - Fallback/Circuit Breakers
-    - Reactive Programming
-    - draw.io
+     - draw.io
     - creating a copy entity A on machine X to machine Y  
-  - Download Raspberri Pi Magazine
-    - URL: https://magazine.raspberrypi.com/issues?page=15
-    - Completed download of all magazine from 1-present
-    - Need to check once a month (Great to add to my TimeReminder tool)
-    - Need to create/check if I own a Raspberry Pi and start working on this
+   - Download Raspberri Pi Magazine
+    - Working on first magazine 
+    - Check for Raspberry Pi kit 
   - Cleaning up DOWNLOADs folder
     - Goal: Work on at least 5 books a day
     - Need to move MISC computer books into MISC - COMPUTER SCIENCE
