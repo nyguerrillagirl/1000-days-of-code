@@ -15,6 +15,8 @@ https://www.theatlantic.com/magazine/2026/05/reactionary-traditionalism-worldvie
 
 https://nightlies.apache.org/flink/flink-docs-release-2.3/docs/getting-started/datastream/
 
+https://developer.nvidia.com/topics/ai/agentic-ai-learning-path/?ncid=pa-srch-goog-306292&_bt=824976110305&_bk=agentic%20ai&_bm=b&_bn=g&_bg=199927629243&gad_source=1&gad_campaignid=24265456783&gbraid=0AAAAAD4XAoHxN3sVQCT0Z55x8cEV6PGjf&gclid=Cj0KCQjw8ofWBhCHARIsANBj4LvFfJBJw06WOZe1-YRaii2D9fqziXTyhDaci__n7sqe0QUJsvLIQPAaAkq9EALw_wcB
+
 
 # OLD NOTES and THINGS
   - Start learning R

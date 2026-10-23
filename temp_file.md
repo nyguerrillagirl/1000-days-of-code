@@ -1,8 +1,7 @@
-### Day 755: October 22, 2026 (Thursday)
+### Day 756: October 23, 2026 (Friday)
   - GOALS:
     - Health Insurance Goals
     - FI 
-    - Call for blood work appointment
     - Datacamp [NO DATACAMP THIS WEEK - AGAIN, trying to get other work attention]
     - FE Development
     - TimeReminder
@@ -30,9 +29,9 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [Voices: Trump’s attack on The Independent’s man shows how rattled he truly is]()
+    - [Officer who found man dead in Florida home allegedly moved in, renovated and assumed his identity for years]()
+    - [Brad Pitt and Angelina Jolie's daughter Shiloh, 20, reveals edgy new look in rare outing without famous parents]()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
@@ -111,7 +110,11 @@
     - Working on Sliding Windows Problem
       - Re-visited ideal solution for problem 904. 
 - PROJECT: Java
-  - Manning Live Project
+  - Notes on Advanced Java Topics
+    - Started notebook with list of topics to learn
+    - Working on topic #1 - lambda
+    - Working on [Java 8 Features](https://blog.devops-monk.com/tutorials/java8/java8-overview/)
+    - Working on [The Java Tutorials](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)  - Manning Live Project
     - Working on Milestone #2
       - Create schema.sql (for database tables)
       - Create data.sql (for initial data)
@@ -144,13 +147,14 @@
   - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
 - PROJECT: SDL
   - SDL Book Notes - 01_LEARNING_SDL2_TO_CREATE_GAMES.docx
-    - Working/Reviewing in Chapter 2 - Installing SDL
+    - Completed review of current material in Chapter 2 - Installing SDL
+      - TODO: Complete simple example using SOFTWARE ARCHITECTURE NOTES
   - Tutorial: Lazy Foo Tutorials
       - https://lazyfoo.net/tutorials/SDL/index.php 
       - Completed Hello SDL
       - Completed 02_getting_image_on_screen
   - Tutorial: Parallel Realities
- - PROJECT: PYTHON GRAPHICS
+- PROJECT: PYTHON GRAPHICS
   - **Arcade** - Best modern 2D game library
     - Book: Aracade Academy Learning Python 
       - Working on chapter 11/34 - For Loops
