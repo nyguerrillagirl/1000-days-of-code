@@ -1,10 +1,5 @@
-### Day 757: October 24, 2026 (Saturday)
+### Day 758: October 25, 2026 (Sunday)
 - NOTES FOR THE DAY:
-  - Working on epub -> pdf Python conversion script
-  - SUDDEN DESSASTER 3:
-    - Sora Kuma v. Nicov      Sora Kuma 3-2 => 3-1, Got the winner!
-    - TaToH v. NeoZz          TaToH 3-1 => UPSET, Reverse Sweep 2-3 NeoZz. WOW!
-    - Sebastian v. AntagonisT Sebastian 3-0 => GOT IT!
   - GOALS:
     - Health Insurance Goals
     - Datacamp [NO DATACAMP THIS WEEK - AGAIN, trying to get other work attention]
@@ -28,18 +23,17 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - [There May Be More Peril in the U.S. Markets Than Meets the Eye](https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html)
-    - [Chimps Steal Less Often From Their Friends, Even When Offered Pineapple](https://www.nytimes.com/2026/10/23/science/stealing-chimps-friends.html)
-    - [Covert Russian Group Injects Baseless Claim Into the Texas Senate Race](https://www.nytimes.com/2026/10/22/us/texas-senate-race-russia-influence.html)
+    - []()
+    - []()
+    - []()
 - WAPO
-    - [Former FBI officials charged with lying to Congress about Hunter Biden laptop inquiry](https://www.washingtonpost.com/national-security/2026/10/23/former-fbi-officials-charged-with-lying-congress-about-hunter-biden-laptop-inquiry/)
-    - [This landmark experiment was horrifying. Why is Netflix performing it again?](https://www.washingtonpost.com/style/2026/10/23/this-landmark-experiment-was-horrifying-why-is-netflix-performing-it-again/)
-    - [As Republicans brace for election losses, Musk prepares for war](https://www.washingtonpost.com/technology/2026/10/23/musk-says-he-will-fight-back-if-congressional-democrats-investigate-doge/)
-    - [1978 court documents shed light on explosive Ohio political ad](https://www.washingtonpost.com/politics/2026/10/23/1978-court-documents-shed-light-explosive-ohio-political-ad/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [GOP candidate confronted about begging supporters for gas money and her answer says a lot]()
-    - [Musk reveals he fired Austin shooter from Tesla – man 'assaulted' woman who walked over Islamic 'prayer rug' at work]()
-    - [‘Actions have consequences,’ ‘He denied it?’ — fans back Florida bar’s firing of Kade McLendon over racist DMs to Miami DL]()
+    - [Lambda expressions in modern C++ (in depth step by step tutorial)](https://www.youtube.com/watch?v=MH8mLFqj-n8)
+    - [1978 court documents shed light on explosive Ohio political ad]()
+    - [So Why Is Elon Musk Going After Kara Swisher This Time?](https://www.youtube.com/watch?v=KmwJy5_1nOw)
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
@@ -88,9 +82,9 @@
      - Completed chapter 5/12 - The FLEX-GROW Property
      - Working on chapter 6/12 - The FLEX-SHRINK Property
   - Reading: Master Bootstrap 5, Zero to Hero
-    - Completed Chapter 3/24 - HTML and CSS Refresher for Bootstrap
     - Working on chapter 4/24 - The Bootstrap Grid System in Depth
-    - current page: 49
+      - on last mini project
+    - current page: 56
 - PROJECT: TimeReminder
   - Working on EF Core Notes
     - Utilized it to create Users table in trdb.
@@ -214,8 +208,8 @@
       - current page: 3 last page: 26
   - Non-Tech Reading
      - **Tiny Blunders, BIG DISASTERS**, by Jared Knott
-      - Working on chapter 13/30 - Military Miscommunication
-      - Current page: 142  last chapter: 161
+      - Working on chapter 18/30 - The Great Chicago Fire      
+      - Current page: 259  last chapter: 445
     - **Undiluted Hocus-Pocus, The Autobiography of Martin Gardner**
       - Working on forward
       - Working on chapter 1/21 - Earliest Memories
