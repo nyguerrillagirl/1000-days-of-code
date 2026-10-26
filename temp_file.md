@@ -1,4 +1,4 @@
-### Day 758: October 25, 2026 (Sunday)
+### Day 759: October 26, 2026 (Monday)
 - NOTES FOR THE DAY:
   - GOALS:
     - Health Insurance Goals
@@ -31,9 +31,9 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Lambda expressions in modern C++ (in depth step by step tutorial)](https://www.youtube.com/watch?v=MH8mLFqj-n8)
-    - [1978 court documents shed light on explosive Ohio political ad]()
-    - [So Why Is Elon Musk Going After Kara Swisher This Time?](https://www.youtube.com/watch?v=KmwJy5_1nOw)
+    - [Desperate MAGA candidate Vivek Ramaswamy hit by new embarrassment over vile ad]()
+    - []()
+    - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
@@ -82,9 +82,10 @@
      - Completed chapter 5/12 - The FLEX-GROW Property
      - Working on chapter 6/12 - The FLEX-SHRINK Property
   - Reading: Master Bootstrap 5, Zero to Hero
-    - Working on chapter 4/24 - The Bootstrap Grid System in Depth
+    - Completed chapter 4/24 - The Bootstrap Grid System in Depth
       - on last mini project
-    - current page: 56
+    - Working on chapter 5/24 - Bootstrap Utilities and Helpers
+    - current page: 59
 - PROJECT: TimeReminder
   - Working on EF Core Notes
     - Utilized it to create Users table in trdb.
@@ -116,6 +117,8 @@
     - Started notebook with list of topics to learn
     - Working on topic #1 - lambda
     - Working on [Java 8 Features](https://blog.devops-monk.com/tutorials/java8/java8-overview/)
+      - Completed chapter 1/9 - Java 8 Overview: The Most Important Java Release Ever
+      - Working on chapter 2/9 - Setting Up Java 8: JDK Options, Maven/Gradle, IDE Configuration
     - Working on [The Java Tutorials](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)  
   - Manning Live Project
     - Working on Milestone #2
