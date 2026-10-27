@@ -1,8 +1,8 @@
-### Day 759: October 26, 2026 (Monday)
+### Day 760: October 27, 2026 (Tuesday)
 - NOTES FOR THE DAY:
   - GOALS:
     - Health Insurance Goals
-    - Datacamp [NO DATACAMP THIS WEEK - AGAIN, trying to get other work attention]
+    - Datacamp - WE RESUME THIS WEEK!
     - Java
     - SDL
     - FE Development
@@ -31,11 +31,11 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Desperate MAGA candidate Vivek Ramaswamy hit by new embarrassment over vile ad]()
+    - []()
     - []()
     - []()
 - Data Camp [DS]
-  - XP: 1500  (Practice) --> 4000  [Exa - Last week: TBD XP (TBD in Exa League)]
+  - XP: 1500  (Practice) --> 2800  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
     - Need to finish up course - Data Structures and Algorithms in Python
   - Project: Predictive Modeling for Agriculture
@@ -46,12 +46,12 @@
     - Cleaning Data in Python (Practice)
     - Exploratory Data Analysis in Python (Practice)
   - Practice:
-    - Work with Linked Lists and Stacks and Understand Big O Notation
-    - Intermediate Importing Data in Python
     - Data Warehousing Concepts
-    - Introduction to Java
-    - Communicating Data Insights   
-    - Understanding Cloud Computing
+    - Intermediate Importing Data in Python
+    - Work with Linked Lists and Stacks and Understand Big O Notation
+    - Forming Analytical Questions
+    - Database Design
+    - Introduction to Data Culture
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -117,8 +117,7 @@
     - Started notebook with list of topics to learn
     - Working on topic #1 - lambda
     - Working on [Java 8 Features](https://blog.devops-monk.com/tutorials/java8/java8-overview/)
-      - Completed chapter 1/9 - Java 8 Overview: The Most Important Java Release Ever
-      - Working on chapter 2/9 - Setting Up Java 8: JDK Options, Maven/Gradle, IDE Configuration
+      - Working on chapter 3/9 - Lambdas Expressions (JEP 126): Syntax, Closures, and Target TypingConfiguration
     - Working on [The Java Tutorials](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)  
   - Manning Live Project
     - Working on Milestone #2
