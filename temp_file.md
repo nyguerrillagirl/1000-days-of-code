@@ -1,4 +1,4 @@
-### Day 760: October 27, 2026 (Tuesday)
+### Day 761: October 28, 2026 (Wednesday)
 - NOTES FOR THE DAY:
   - GOALS:
     - Health Insurance Goals
@@ -31,9 +31,9 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [Sitaux vs Vinchester | Sudden Dessaster Round of 16](https://www.youtube.com/watch?v=Gh_mGqvNmzQ)
+    - [Black couple goes to view NYC apartment, but a racist text from the estate agent has them heading to court]()
+    - [Secret: Elon Musk Is About to Face Something He Can’t Buy His Way Out O](https://www.youtube.com/watch?v=mjAEU4KGnjI)
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 2800  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
@@ -46,12 +46,12 @@
     - Cleaning Data in Python (Practice)
     - Exploratory Data Analysis in Python (Practice)
   - Practice:
+    - Agentic Design Patterns & Architectures
+    - Introduction to APIs in Python
+    - Foundations of AI Agents
+    - Introduction to Data Literacy
+    - Intemediate Importing Data in Python
     - Data Warehousing Concepts
-    - Intermediate Importing Data in Python
-    - Work with Linked Lists and Stacks and Understand Big O Notation
-    - Forming Analytical Questions
-    - Database Design
-    - Introduction to Data Culture
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -108,6 +108,8 @@
     - Working on chapter 1/17 - Introduction to Entity Framework Core
   - LINKS:
     - https://learn.microsoft.com/en-us/windows/apps/
+  - Working on Film/Series App 
+    - [Part 3: Building a Multi-Layered Architecture in C# .NET Core for a Film/Series Review Application](https://kaanceliker.medium.com/part-3-building-a-multi-layered-architecture-in-c-net-core-for-a-film-series-review-application-d131d8b23a3e)
 - PROJECT: DSA
   - DSA Notes
     - Working on Sliding Windows Problem
