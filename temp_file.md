@@ -1,5 +1,9 @@
-### Day 761: October 28, 2026 (Wednesday)
+### Day 762: October 29, 2026 (Thursday)
 - NOTES FOR THE DAY:
+  - Got mail that Manning MEAP book: Testing Spring Boot Applications
+    - did not process replacement yet
+  - NFW today. The Covid+Flu vaccines is making me tired. Also, probably
+    got Low Blood Sugar because Labcorp visit failed. 
   - GOALS:
     - Health Insurance Goals
     - Datacamp - WE RESUME THIS WEEK!
@@ -23,17 +27,17 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - []()
+    - [Nate Silver on What the Polls Say — and What His Gut’s Telling Him](https://www.nytimes.com/2026/10/27/opinion/ezra-klein-podcast-nate-silver.html)
     - []()
     - []()
 - WAPO
-    - []()
-    - []()
+    - [This viral gaffe is just one reason candidates won’t debate](https://www.washingtonpost.com/opinions/2026/10/28/what-ohios-race-governor-says-about-political-debates/)
+    - [Trump has a lot to say about men’s looks. Can you tell whom he considers attractive?](https://www.washingtonpost.com/politics/interactive/2026/10/28/trump-has-lot-say-about-mens-looks-can-you-tell-whom-he-considers-attractive/?itid=hp-top-table-main_p001_f019)
     - []()
   - ARTICLES/VIDEOS
-    - [Sitaux vs Vinchester | Sudden Dessaster Round of 16](https://www.youtube.com/watch?v=Gh_mGqvNmzQ)
-    - [Black couple goes to view NYC apartment, but a racist text from the estate agent has them heading to court]()
-    - [Secret: Elon Musk Is About to Face Something He Can’t Buy His Way Out O](https://www.youtube.com/watch?v=mjAEU4KGnjI)
+    - [Alaska soldier who killed wife after 21st birthday party is jailed for 59 years]()
+    - [My Uncle Gets Aggressive!](https://www.youtube.com/watch?v=Hre9hHREUDQ)
+    - [NYC native who became ISIS teen bride faces decade in prison as she’s found guilty of training with terror group]()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> 2800  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
@@ -46,12 +50,12 @@
     - Cleaning Data in Python (Practice)
     - Exploratory Data Analysis in Python (Practice)
   - Practice:
-    - Agentic Design Patterns & Architectures
-    - Introduction to APIs in Python
-    - Foundations of AI Agents
-    - Introduction to Data Literacy
-    - Intemediate Importing Data in Python
-    - Data Warehousing Concepts
+    - Introduction to R
+    - Intermediate R
+    - Itermediate Importing Data in R
+    - Introduction to Java
+    - Communicating Data Insights
+    - Understanding Cloud Computing
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
