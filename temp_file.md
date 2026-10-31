@@ -1,4 +1,4 @@
-### Day 763: October 30, 2026 (Friday)
+### Day 764: October 31, 2026 (Saturday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -33,7 +33,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Joy-Ann Reid Reveals What Really Happened at MSNBC—and Why She Believes She Was Fired](https://www.youtube.com/watch?v=EPOt2EKSOgQ)
+    - []()
     - []()
     - []()
 - Data Camp [DS]
@@ -48,12 +48,12 @@
     - Cleaning Data in Python (Practice)
     - Exploratory Data Analysis in Python (Practice)
   - Practice:
-    - Introduction to the Tidyverse
-    - Introduction to Data Visualization with Matplotlib
-    - Introduction to Importing Data in R
-    - Inttroduction to Relational Databases in SQL
-    - Large Language Models (LLMs) Concepts
-    - Statistical Thinking in Python (Part 2)
+    - Working with Categorical Data in Python
+    - Sampling in Python
+    - Statistical Thinking in Python (Part 1)
+    - Introduction to Data
+    - Data Manipulation in SQL
+    - Introduction to Databases in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -70,8 +70,6 @@
     - Working on chapter 1/3 - Fundamentals of Software Performance
   - Course: Writing Efficient Code with pandas
     - Working on chapter 1/4 - Selecting columns and rows efficiently
-  - Course: Introduction to AI Agents
-    - Working on chapter 1/3 - Foundations of AI Agents
 - PROJECT: Frontend Development
   - Started brainycode.com project
     - TODO: Worked on design
