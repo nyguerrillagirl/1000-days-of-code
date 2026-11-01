@@ -1,4 +1,4 @@
-### Day 764: October 31, 2026 (Saturday)
+### Day 765: November 1, 2026 (Sunday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -25,12 +25,12 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - []()
-    - []()
-    - []()
+    - [How Trump Is Dismantling America’s Scientific Research Machine](https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html)
+    - [Why Haley Stevens Can’t Stop Talking About Abdul El-Sayed](https://www.nytimes.com/2026/10/31/us/haley-stevens-abdul-el-sayed.html)
+    - [Trump’s Arch Faces New Legal Challenge From Virginia and D.C.](https://www.nytimes.com/2026/10/31/us/politics/trump-arch-virginia-dc.html)
 - WAPO
-    - []()
-    - []()
+    - [El-Sayed asks Stevens to stay away as Democrats’ attempt at unity blows up](https://www.washingtonpost.com/politics/2026/10/30/early-voting-surpasses-2022-levels-pope-has-cast-his-ballot/)
+    - [How suspected North Korean hackers swiped billions in crypto in only minutes](https://www.washingtonpost.com/technology/2026/10/31/how-suspected-north-korean-hackers-swiped-billions-crypto-only-minutes/)
     - []()
   - ARTICLES/VIDEOS
     - []()
@@ -48,12 +48,14 @@
     - Cleaning Data in Python (Practice)
     - Exploratory Data Analysis in Python (Practice)
   - Practice:
-    - Working with Categorical Data in Python
-    - Sampling in Python
-    - Statistical Thinking in Python (Part 1)
-    - Introduction to Data
-    - Data Manipulation in SQL
-    - Introduction to Databases in Python
+    - Introduction to AI Agents
+    - Data Communication Concepts
+    - Writing Functions in Python
+    - Joining Data in SQL
+    - Web Scraping in Python
+    - Introduction to SQL
+    - Intermediate SQL
+    - AI Ethics
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -70,6 +72,8 @@
     - Working on chapter 1/3 - Fundamentals of Software Performance
   - Course: Writing Efficient Code with pandas
     - Working on chapter 1/4 - Selecting columns and rows efficiently
+  - Course: Introduction to Git
+    - Completed chapter 1/2 - Introduction to Version control
 - PROJECT: Frontend Development
   - Started brainycode.com project
     - TODO: Worked on design
