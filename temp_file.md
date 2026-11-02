@@ -1,4 +1,4 @@
-### Day 765: November 1, 2026 (Sunday)
+### Day 766: November 2, 2026 (Monday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -25,19 +25,19 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - [How Trump Is Dismantling America’s Scientific Research Machine](https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html)
-    - [Why Haley Stevens Can’t Stop Talking About Abdul El-Sayed](https://www.nytimes.com/2026/10/31/us/haley-stevens-abdul-el-sayed.html)
-    - [Trump’s Arch Faces New Legal Challenge From Virginia and D.C.](https://www.nytimes.com/2026/10/31/us/politics/trump-arch-virginia-dc.html)
+    - []()
+    - []()
+    - []()
 - WAPO
-    - [El-Sayed asks Stevens to stay away as Democrats’ attempt at unity blows up](https://www.washingtonpost.com/politics/2026/10/30/early-voting-surpasses-2022-levels-pope-has-cast-his-ballot/)
-    - [How suspected North Korean hackers swiped billions in crypto in only minutes](https://www.washingtonpost.com/technology/2026/10/31/how-suspected-north-korean-hackers-swiped-billions-crypto-only-minutes/)
+    - []()
+    - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
-    - []()
-    - []()
+    - [Man drove across the country to kidnap a former classmate and killed Girl Scout who died protecting her friend, police and family say]()
+    - [A black man putting up Halloween decorations has a seizure and is tased seven times by a police sergeant]()
+    - [17 theme park employees among 281 arrested in Florida sting, sheriff says]()
 - Data Camp [DS]
-  - XP: 1500  (Practice) --> 2800  [Exa - Last week: TBD XP (TBD in Exa League)]
+  - XP: 5500  (Practice) --> 6800  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
     - Need to finish up course - Data Structures and Algorithms in Python
   - Project: Predictive Modeling for Agriculture
@@ -48,14 +48,7 @@
     - Cleaning Data in Python (Practice)
     - Exploratory Data Analysis in Python (Practice)
   - Practice:
-    - Introduction to AI Agents
-    - Data Communication Concepts
-    - Writing Functions in Python
-    - Joining Data in SQL
-    - Web Scraping in Python
-    - Introduction to SQL
-    - Intermediate SQL
-    - AI Ethics
+    - Sampling in Python
   - Course: Introduction to Regression with statsmodel in Python
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
@@ -72,8 +65,8 @@
     - Working on chapter 1/3 - Fundamentals of Software Performance
   - Course: Writing Efficient Code with pandas
     - Working on chapter 1/4 - Selecting columns and rows efficiently
-  - Course: Introduction to Git
-    - Completed chapter 1/2 - Introduction to Version control
+  - Course: Intermediate Git
+    - Working on chapter 1/2 - Working with Branches
 - PROJECT: Frontend Development
   - Started brainycode.com project
     - TODO: Worked on design
@@ -216,8 +209,10 @@
       - current page: 3 last page: 26
   - Non-Tech Reading
      - **Tiny Blunders, BIG DISASTERS**, by Jared Knott
-      - Working on chapter 18/30 - The Great Chicago Fire      
-      - Current page: 259  last chapter: 445
+      - Completed chapter 19/30 - The Forgotten Fire That Sunk a Great Ship     
+      - Completed chapter 20/30 - The Hindenburg: The Fiery End to an Era     
+      - Working on chapter 21/30 - A Murder in Bosnia: The Accidental Beginning of WWI     
+     - Current page: 283  last chapter: 445
     - **Undiluted Hocus-Pocus, The Autobiography of Martin Gardner**
       - Working on forward
       - Working on chapter 1/21 - Earliest Memories
