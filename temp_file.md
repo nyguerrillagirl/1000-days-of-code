@@ -3,8 +3,8 @@
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
   - GOALS:
-    - Health Insurance Goals
-    - Datacamp - WE RESUME THIS WEEK!
+     - Datacamp - WE DO NOT DO THIS MONTH DUE TO XP Issues!!
+    - Statistics (see Statistics Every Programmer Needs)
     - Java
     - SDL
     - FE Development
@@ -33,9 +33,9 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Man drove across the country to kidnap a former classmate and killed Girl Scout who died protecting her friend, police and family say]()
-    - [A black man putting up Halloween decorations has a seizure and is tased seven times by a police sergeant]()
-    - [17 theme park employees among 281 arrested in Florida sting, sheriff says]()
+    - [Babylon Berlin - Series Ending](https://www.youtube.com/watch?v=Ly7EvcqY4tM)
+    - []()
+    - []()
 - Data Camp [DS]
   - XP: 5500  (Practice) --> 6800  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
@@ -199,7 +199,10 @@
       - Statistics Every Programmer Needs
         - Working on Chapter 2/24 - Exploring probability and counting
         - pages 16-40 
-        - current page: 16
+        - current page: 26
+    - Head First Statistics
+      - Working on chapter 1/15 - Visualizing Information
+      - current page: 12   last page: 43
     - Reading: Learning PostgreSQL, 2nd Edition
       - Spent the time learning how to start and access/view a Docker DB instance
       - Working on chapter 3/19 - Managing Users and Connections
