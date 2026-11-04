@@ -1,4 +1,4 @@
-### Day 766: November 2, 2026 (Monday)
+### Day 768: November 4, 2026 (Wednesday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -25,17 +25,18 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - []()
-    - []()
+    - [Trump Says U.S. to End $4 Billion in Aid to Israel in Favor of New Deal](https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html)
+    - [The Brain Injury that made Edward Freytag A Musical Genius](https://www.nytimes.com/interactive/2026/11/02/magazine/brain-injury-music-perfect-pitch-edward-freytag.html)
     - []()
 - WAPO
-    - []()
+    - [Google to turn off search for schools that don’t want students using AI](https://www.washingtonpost.com/education/2026/11/03/google-turn-off-search-schools-that-dont-want-students-using-ai/)
     - []()
     - []()
   - ARTICLES/VIDEOS
     - [Babylon Berlin - Series Ending](https://www.youtube.com/watch?v=Ly7EvcqY4tM)
-    - []()
-    - []()
+    - [Heather Cox Richardson: ‘VERY optimistic’ about a political TIDAL SHIFT and Trump accountability](https://www.youtube.com/watch?v=LCa6CmuQqNY)
+    - [AoE2’s next big Tournament could be a key piece of its History](https://www.youtube.com/watch?v=Wb0iARD0I8U)
+    - [Police admit unlawful home entry and assault of couple]()
 - Data Camp [DS]
   - XP: 5500  (Practice) --> 6800  [Exa - Last week: TBD XP (TBD in Exa League)]
   - SKILL TRACK: Python for Software Engineering
