@@ -1,9 +1,10 @@
-### Day 768: November 4, 2026 (Wednesday)
+### Day 769: November 5, 2026 (Thursday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
   - GOALS:
-     - Datacamp - WE DO NOT DO THIS MONTH DUE TO XP Issues!!
+    - Datacamp - WE DO NOT DO THIS MONTH DUE TO XP Issues!!
+      - DO REVIEW of outstanding courses!
     - Statistics (see Statistics Every Programmer Needs)
     - Java
     - SDL
@@ -25,29 +26,26 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - [Trump Says U.S. to End $4 Billion in Aid to Israel in Favor of New Deal](https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html)
-    - [The Brain Injury that made Edward Freytag A Musical Genius](https://www.nytimes.com/interactive/2026/11/02/magazine/brain-injury-music-perfect-pitch-edward-freytag.html)
+    - [Every Major Demographic Group Swung Left Amid Trump Backlash](https://www.nytimes.com/interactive/2026/11/04/us/elections/midterms-swing-voters-democrats.html)
+    - [For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America](https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html)
     - []()
 - WAPO
-    - [Google to turn off search for schools that don’t want students using AI](https://www.washingtonpost.com/education/2026/11/03/google-turn-off-search-schools-that-dont-want-students-using-ai/)
+    - [North Carolina Republicans might have had the worst night of all](https://www.washingtonpost.com/politics/2026/11/04/formerly-red-north-carolina-goes-blue-almost-every-level/)
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Babylon Berlin - Series Ending](https://www.youtube.com/watch?v=Ly7EvcqY4tM)
-    - [Heather Cox Richardson: ‘VERY optimistic’ about a political TIDAL SHIFT and Trump accountability](https://www.youtube.com/watch?v=LCa6CmuQqNY)
-    - [AoE2’s next big Tournament could be a key piece of its History](https://www.youtube.com/watch?v=Wb0iARD0I8U)
-    - [Police admit unlawful home entry and assault of couple]()
+    - [Police Surprise Dine & Dash Couple After Skipping Their 4th Bil](https://www.youtube.com/watch?v=9GNWr_9Iukw)
+    - [Fox host bites back after Trump rant at network live on-air]()
+    - [Democrats in This Moment and What’s Next | Explainer](https://www.youtube.com/watch?v=amt-Zmf7N1g)
+    - [Republicans Are Cornered and Pulling Away From Trump | Explainer](https://www.youtube.com/watch?v=DoxM6BiE3yY)
+    - [Katie Miller blames MAGA moms for midterms massacre]()
+    - [BurntPeanut Brought 7 Players to Beat Me in Age of Empires 2](https://www.youtube.com/watch?v=5dtVYRk-ZQk)
+    - [Police Surprise Dine & Dash Sisters After Skipping a $137 Restaurant Bill](https://www.youtube.com/watch?v=HQKnp0RwKTw)
+    - [JD Vance Makes His Move as Trump’s Power Crumbles | Bulwark Daily ](https://www.youtube.com/watch?v=umgxf_CSWTk)
 - Data Camp [DS]
   - XP: 5500  (Practice) --> 6800  [Exa - Last week: TBD XP (TBD in Exa League)]
-  - SKILL TRACK: Python for Software Engineering
-    - Need to finish up course - Data Structures and Algorithms in Python
-  - Project: Predictive Modeling for Agriculture
-    - Review scikit-learn notes
-  - Check:
-    - Data Manipulation with pandas (Practice)
-    - Data Wrangling with pandas (Practice)
-    - Cleaning Data in Python (Practice)
-    - Exploratory Data Analysis in Python (Practice)
+  - Review: Introduction to Regression with statsmodel in Python
+  - Review: Hypothesis Testing in Python
   - Practice:
     - Sampling in Python
   - Course: Introduction to Regression with statsmodel in Python
@@ -108,12 +106,11 @@
     - https://learn.microsoft.com/en-us/windows/apps/
   - Working on Film/Series App 
     - [Part 3: Building a Multi-Layered Architecture in C# .NET Core for a Film/Series Review Application](https://kaanceliker.medium.com/part-3-building-a-multi-layered-architecture-in-c-net-core-for-a-film-series-review-application-d131d8b23a3e)
-- PROJECT: DSA
-  - DSA Notes
-    - Working on Sliding Windows Problem
-      - Re-visited ideal solution for problem 904. 
 - PROJECT: Java
   - Notes on Advanced Java Topics
+    - educative.io
+      - Course: Java Multithreading for Sr. Engineering Interviews
+        - Working on 1/8 - The Basics  
     - Started notebook with list of topics to learn
     - Working on topic #1 - lambda
     - Working on [Java 8 Features](https://blog.devops-monk.com/tutorials/java8/java8-overview/)
@@ -145,11 +142,6 @@
   - Reading: Modern Java in Action, by Urma, Fusco, and Mycroft, 2019
     - Part 1: Fundamentals
       - Working on chapter 1/21 - Java 8, 9, 10, and 11: what's happening?
-- PROJECT: Electronics
-  - Working on [Can you force 3V onto a 2V LED?]()
-- PROJECT: Basic Mathematics
-  - Check out book: I.N. Herstein’s “Topics in Algebra,” 
-  - [New series! Intro to Pure Math](https://www.youtube.com/watch?v=aG5mJKh6zbM)
 - PROJECT: SDL
   - SDL Book Notes - 01_LEARNING_SDL2_TO_CREATE_GAMES.docx
     - Completed review of current material in Chapter 2 - Installing SDL
