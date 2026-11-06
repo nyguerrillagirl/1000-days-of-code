@@ -1,7 +1,12 @@
-### Day 769: November 5, 2026 (Thursday)
+### Day 770: November 6, 2026 (Friday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
+  - SEARCHING For a book with a phrase/word - creating project to build program for that chore
+  - BOOKS to CONSIDER to LEARN AI Agents
+    - An Illustrated Guide to AI Agents by Maarten Grootendorst and Jay Almmar (O'Reilly)
+    - 30 Agents Every AI Engineer Must Build (Packtpub)
+    - Hands-On Large Language Models
   - GOALS:
     - Datacamp - WE DO NOT DO THIS MONTH DUE TO XP Issues!!
       - DO REVIEW of outstanding courses!
@@ -26,22 +31,17 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - [Every Major Demographic Group Swung Left Amid Trump Backlash](https://www.nytimes.com/interactive/2026/11/04/us/elections/midterms-swing-voters-democrats.html)
-    - [For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America](https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html)
-    - []()
+    - [‘I Have Seen the Enemy, and It Is Us’: Inside Team Trump’s Historic Collapse](https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html)
+    - [Inside Our Phone Call With Trump During the Election Night Shellacking](https://www.nytimes.com/2026/11/05/insider/trump-midterms-elections-results-tyler-pager-erica-green.html)
+    - [Russell Brand Is Found Guilty of Rape and Sexual Assault](https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html)
 - WAPO
-    - [North Carolina Republicans might have had the worst night of all](https://www.washingtonpost.com/politics/2026/11/04/formerly-red-north-carolina-goes-blue-almost-every-level/)
-    - []()
+    - [Harmeet Dhillon resigns as head of Justice Dept.’s civil rights division](https://www.washingtonpost.com/national-security/2026/11/05/harmeet-dhillon-resigns-head-justice-depts-civil-rights-division/)
+    - [The Republican missteps that laid the groundwork for a historic midterm rebuke](https://www.washingtonpost.com/politics/2026/11/04/republican-missteps-that-laid-groundwork-historic-midterm-rebuke/)
     - []()
   - ARTICLES/VIDEOS
-    - [Police Surprise Dine & Dash Couple After Skipping Their 4th Bil](https://www.youtube.com/watch?v=9GNWr_9Iukw)
-    - [Fox host bites back after Trump rant at network live on-air]()
-    - [Democrats in This Moment and What’s Next | Explainer](https://www.youtube.com/watch?v=amt-Zmf7N1g)
-    - [Republicans Are Cornered and Pulling Away From Trump | Explainer](https://www.youtube.com/watch?v=DoxM6BiE3yY)
-    - [Katie Miller blames MAGA moms for midterms massacre]()
-    - [BurntPeanut Brought 7 Players to Beat Me in Age of Empires 2](https://www.youtube.com/watch?v=5dtVYRk-ZQk)
-    - [Police Surprise Dine & Dash Sisters After Skipping a $137 Restaurant Bill](https://www.youtube.com/watch?v=HQKnp0RwKTw)
-    - [JD Vance Makes His Move as Trump’s Power Crumbles | Bulwark Daily ](https://www.youtube.com/watch?v=umgxf_CSWTk)
+    - [Elon Musk reacts to GOP’s stunning midterms loss after spending over $474M on Republican races]()
+    - [Dem loser resurfaces for one last swipe and gets torched]()
+    - [Jimmy Kimmel Breaks Down Midterm Election Results](https://www.nytimes.com/2026/11/04/arts/television/jimmy-kimmel-midterm-election-blue-wave.html)
 - Data Camp [DS]
   - XP: 5500  (Practice) --> 6800  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Review: Introduction to Regression with statsmodel in Python
@@ -66,6 +66,12 @@
     - Working on chapter 1/4 - Selecting columns and rows efficiently
   - Course: Intermediate Git
     - Working on chapter 1/2 - Working with Branches
+- PROJECT: Book Search Tool
+  - Started notes on this new Java project, the goal is to create a utility/tool
+    that will allow me to search all my EBOOKS (and word documents) for a word or
+    phrase. The project will be a Java project.
+    - Week #1 goal: Learning PDFBox
+    - Working on Tutorialspoint article 
 - PROJECT: Frontend Development
   - Started brainycode.com project
     - TODO: Worked on design
@@ -186,6 +192,10 @@
       - Working on Probability Bootcamp - https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V
         - Completed 1/44 - Probability and Statistics Overview
         - Working on MANNING/STATISTICS_EVERY_PROGRAMMER_NEEDS
+- PROJECT: AI
+  - Book: An Illustrated Guide to AI Agents, Concepts and Code for Building Agents with LLMs, Tools and Memory
+    - PART I: The Anatomy of an AI Agent
+      - Working on chapter 1/10 - Introduction
 - Books
   - Tech Reading
     - Manning Publishing
@@ -205,10 +215,8 @@
       - current page: 3 last page: 26
   - Non-Tech Reading
      - **Tiny Blunders, BIG DISASTERS**, by Jared Knott
-      - Completed chapter 19/30 - The Forgotten Fire That Sunk a Great Ship     
-      - Completed chapter 20/30 - The Hindenburg: The Fiery End to an Era     
-      - Working on chapter 21/30 - A Murder in Bosnia: The Accidental Beginning of WWI     
-     - Current page: 283  last chapter: 445
+      - Working on chapter 22/30 -  Falling Stars: The Deaths of Admirals, Generals, and Presidents
+     - Current page: 290  last chapter: 445  
     - **Undiluted Hocus-Pocus, The Autobiography of Martin Gardner**
       - Working on forward
       - Working on chapter 1/21 - Earliest Memories
