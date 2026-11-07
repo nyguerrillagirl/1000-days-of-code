@@ -1,13 +1,28 @@
-### Day 770: November 6, 2026 (Friday)
+### Day 771: November 7, 2026 (Saturday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
-  - SEARCHING For a book with a phrase/word - creating project to build program for that chore
-  - BOOKS to CONSIDER to LEARN AI Agents
-    - An Illustrated Guide to AI Agents by Maarten Grootendorst and Jay Almmar (O'Reilly)
-    - 30 Agents Every AI Engineer Must Build (Packtpub)
-    - Hands-On Large Language Models
+  - Books with Linear Regression
+    - Statistics-WEB.pdf
+      - Reading chapter 12 - Linear Regression and Correlation
+    - Statistics.pdf
+    - headfirststatistics_ebook.pdf
+    - Statistics_Every_Programmer_Needs.pdf
+    - SCIPY_LECTURE_NOTES.pdf
+    - AN_INTRODUCTION_TO_STATISTICS_WITH_PYTHON.pdf
+    - Grokking_Statistics_v5.pdf
+    - Online_Statistics_Education.pdf
+    - MINIMALIST_DATA_WRANGLING.pdf
+    - PANDAS_FOR_EVERYONE.pdf
+    - PRACTICAL_PYTHON_PROGRAMMING_FOR_DATA_SCIENTISTS.pdf
+    - STATISTICS_FOR_DATA_SCIENTISTS_AND_ANALYSTS.pdf
+    - THE_DATA_SCIENCE_DESIGN_MANUAL.pdf
+    - THE_HISTORY_OF_STATISTICS.pdf
+    - 9781800209763-THE_STATISTICS_AND_CALCULUS_WITH_PYTHON_WORKSHOP.pdf
+    - thinkstats.pdf
+    - ULTIMATE_MACHINE_LEARNING_WITH_SCIKIT_LEARN.pdf
   - GOALS:
+    - PDFBox 
     - Datacamp - WE DO NOT DO THIS MONTH DUE TO XP Issues!!
       - DO REVIEW of outstanding courses!
     - Statistics (see Statistics Every Programmer Needs)
@@ -31,17 +46,21 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - [‘I Have Seen the Enemy, and It Is Us’: Inside Team Trump’s Historic Collapse](https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html)
-    - [Inside Our Phone Call With Trump During the Election Night Shellacking](https://www.nytimes.com/2026/11/05/insider/trump-midterms-elections-results-tyler-pager-erica-green.html)
-    - [Russell Brand Is Found Guilty of Rape and Sexual Assault](https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html)
+    - [JD Vance Is Probably Toast](https://www.nytimes.com/2026/11/06/opinion/jd-vance-midterms.html)
+    - [Republicans’ Losses in New York Were Bad. Then Came Their Freakout.](https://www.nytimes.com/2026/11/06/nyregion/new-york-election-midterms-republicans-blakeman-stefanik.html)
+    - [Why Doctors in Thailand Fear KFC](https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html)
 - WAPO
-    - [Harmeet Dhillon resigns as head of Justice Dept.’s civil rights division](https://www.washingtonpost.com/national-security/2026/11/05/harmeet-dhillon-resigns-head-justice-depts-civil-rights-division/)
-    - [The Republican missteps that laid the groundwork for a historic midterm rebuke](https://www.washingtonpost.com/politics/2026/11/04/republican-missteps-that-laid-groundwork-historic-midterm-rebuke/)
-    - []()
+    - [President JD Vance? More slogging through a sewer of odious politics.](https://www.washingtonpost.com/opinions/2026/11/06/jd-vance-presidential-ambitions-must-be-stymied-by-temperate-americans/)
+    - [I have found the most perimenopausal show on television](https://www.washingtonpost.com/style/2026/11/06/the-gilded-age-is-television-most-perimenopausal-show/)
+    - [This midterm election just burst Republicans’ 2028 bubble](https://www.washingtonpost.com/ripple/2026/11/05/this-midterm-election-just-burst-republicans-2028-bubble/)
   - ARTICLES/VIDEOS
-    - [Elon Musk reacts to GOP’s stunning midterms loss after spending over $474M on Republican races]()
-    - [Dem loser resurfaces for one last swipe and gets torched]()
-    - [Jimmy Kimmel Breaks Down Midterm Election Results](https://www.nytimes.com/2026/11/04/arts/television/jimmy-kimmel-midterm-election-blue-wave.html)
+    - [Jon Stewart exposes source of Megyn Kelly’s unhinged cruelty]()
+    - [Abusive Boyfriend Meets No-Nonsense Officer](https://www.youtube.com/watch?v=5C-yRPx47zE)
+    - [Infighting, Resignations, and Heads Are Rolling on the MAGA Front | Explainer](https://www.youtube.com/watch?v=whAa16Jq7f8)
+    - [MAGA pundit erupts over comparison to political streamer]()
+    - [Expert predicts the US future after midterms: Trump won't need to be impeached - he will leave on his own]()
+    - [Secret: JVL Connects the Dots on a Stunning Plot to Push Trump Aside](https://www.youtube.com/watch?v=WwGHwmDWvuc)
+    - [The Trio: Laura Loomer Is Not Taking This Election Well ](https://www.youtube.com/watch?v=r4CgFmerWaY)
 - Data Camp [DS]
   - XP: 5500  (Practice) --> 6800  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Review: Introduction to Regression with statsmodel in Python
@@ -67,10 +86,9 @@
   - Course: Intermediate Git
     - Working on chapter 1/2 - Working with Branches
 - PROJECT: Book Search Tool
-  - Started notes on this new Java project, the goal is to create a utility/tool
-    that will allow me to search all my EBOOKS (and word documents) for a word or
-    phrase. The project will be a Java project.
-    - Week #1 goal: Learning PDFBox
+    - Completed Step #1: Created simple console program to search a folder recursively for
+      all pdf files containing a phrase/term.
+    - Working on notes
     - Working on Tutorialspoint article 
 - PROJECT: Frontend Development
   - Started brainycode.com project
