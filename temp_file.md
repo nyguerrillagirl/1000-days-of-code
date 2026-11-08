@@ -1,4 +1,4 @@
-### Day 771: November 7, 2026 (Saturday)
+### Day 772: November 8, 2026 (Sunday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -46,21 +46,17 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - [JD Vance Is Probably Toast](https://www.nytimes.com/2026/11/06/opinion/jd-vance-midterms.html)
-    - [Republicans’ Losses in New York Were Bad. Then Came Their Freakout.](https://www.nytimes.com/2026/11/06/nyregion/new-york-election-midterms-republicans-blakeman-stefanik.html)
-    - [Why Doctors in Thailand Fear KFC](https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html)
+    - []()
+    - []()
+    - []()
 - WAPO
-    - [President JD Vance? More slogging through a sewer of odious politics.](https://www.washingtonpost.com/opinions/2026/11/06/jd-vance-presidential-ambitions-must-be-stymied-by-temperate-americans/)
-    - [I have found the most perimenopausal show on television](https://www.washingtonpost.com/style/2026/11/06/the-gilded-age-is-television-most-perimenopausal-show/)
-    - [This midterm election just burst Republicans’ 2028 bubble](https://www.washingtonpost.com/ripple/2026/11/05/this-midterm-election-just-burst-republicans-2028-bubble/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Jon Stewart exposes source of Megyn Kelly’s unhinged cruelty]()
-    - [Abusive Boyfriend Meets No-Nonsense Officer](https://www.youtube.com/watch?v=5C-yRPx47zE)
-    - [Infighting, Resignations, and Heads Are Rolling on the MAGA Front | Explainer](https://www.youtube.com/watch?v=whAa16Jq7f8)
-    - [MAGA pundit erupts over comparison to political streamer]()
-    - [Expert predicts the US future after midterms: Trump won't need to be impeached - he will leave on his own]()
-    - [Secret: JVL Connects the Dots on a Stunning Plot to Push Trump Aside](https://www.youtube.com/watch?v=WwGHwmDWvuc)
-    - [The Trio: Laura Loomer Is Not Taking This Election Well ](https://www.youtube.com/watch?v=r4CgFmerWaY)
+    - [He finally did it..](https://www.youtube.com/watch?v=brgj2YiCeoE)
+    - []()
+    - []()
 - Data Camp [DS]
   - XP: 5500  (Practice) --> 6800  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Review: Introduction to Regression with statsmodel in Python
@@ -86,10 +82,8 @@
   - Course: Intermediate Git
     - Working on chapter 1/2 - Working with Branches
 - PROJECT: Book Search Tool
-    - Completed Step #1: Created simple console program to search a folder recursively for
-      all pdf files containing a phrase/term.
-    - Working on notes
-    - Working on Tutorialspoint article 
+    - Working on completing explanation of Part #1 code used
+    - Continued working on Tutorialspoint article 
 - PROJECT: Frontend Development
   - Started brainycode.com project
     - TODO: Worked on design
