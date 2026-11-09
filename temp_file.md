@@ -1,10 +1,11 @@
-### Day 772: November 8, 2026 (Sunday)
+### Day 773: November 9, 2026 (Monday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
   - Books with Linear Regression
     - Statistics-WEB.pdf
-      - Reading chapter 12 - Linear Regression and Correlation
+      - Continiue Reading chapter 12 - Linear Regression and Correlation
+      - current page: 707    end page: 736
     - Statistics.pdf
     - headfirststatistics_ebook.pdf
     - Statistics_Every_Programmer_Needs.pdf
@@ -46,17 +47,18 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - []()
-    - []()
-    - []()
+    - [For Trump and America, a Clear Election Verdict Leaves a Murky Future](https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html)
+    - [Democrats Now Have a Path to Sidestep the Electoral College. Would It Work?](https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html)
+    - [Medicare Advantage vs. Traditional Medicare: What You Need to Know](https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html)
 - WAPO
-    - []()
+    - [How a Mississippi election came down to the clerk’s office](https://www.washingtonpost.com/politics/2026/11/08/mississippi-delta-fight-make-every-vote-count/)
     - []()
     - []()
   - ARTICLES/VIDEOS
     - [He finally did it..](https://www.youtube.com/watch?v=brgj2YiCeoE)
-    - []()
-    - []()
+    - [Trump Gets SCHLONGED and Michael Steele is Enjoying Every Second | Bulwark Daily](https://www.youtube.com/watch?v=KV2Lln09Pw4)
+    - [TAP the MFing Root & Reimagine THIS B*tch!](https://www.youtube.com/watch?v=qx8ecoxXDzo)
+    - [om Thinks Her Kids Can Steal From Target—Has No Idea Security Is Watching](https://www.youtube.com/watch?v=v_KD4tBAf3w)
 - Data Camp [DS]
   - XP: 5500  (Practice) --> 6800  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Review: Introduction to Regression with statsmodel in Python
