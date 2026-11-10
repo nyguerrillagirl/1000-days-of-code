@@ -1,4 +1,4 @@
-### Day 773: November 9, 2026 (Monday)
+### Day 774: November 10, 2026 (Tuesday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -47,18 +47,23 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - [For Trump and America, a Clear Election Verdict Leaves a Murky Future](https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html)
-    - [Democrats Now Have a Path to Sidestep the Electoral College. Would It Work?](https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html)
-    - [Medicare Advantage vs. Traditional Medicare: What You Need to Know](https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html)
+    - [Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html)
+    - [Trump Veers Back Into Claims of Rigged Election](https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html)
+    - [Russell Brand Sentenced to 10 and a Half Years in Prison for Rape](https://www.nytimes.com/2026/11/09/arts/russell-brand-prison-sentence-rape.html)
 - WAPO
-    - [How a Mississippi election came down to the clerk’s office](https://www.washingtonpost.com/politics/2026/11/08/mississippi-delta-fight-make-every-vote-count/)
-    - []()
-    - []()
+    - [How to keep your brain sharp after retirement](https://www.washingtonpost.com/wellness/2026/11/07/how-keep-your-brain-sharp-after-retirement/)
+    ```
+    “People who rely heavily on work for purpose, daily structure, and social connections may experience a more disruptive transition,” she added.
+    ```
+    - [White House staff gave Trump bad advice, treated him ‘like a baby,’ ex-aide says](https://www.washingtonpost.com/health/2026/11/08/ex-trump-aide-calley-means-says-white-house-aides-treated-president-like-baby/)
+    - [Your stroke risk is 72 percent higher during these 3 hours of the day](https://www.washingtonpost.com/wellness/2026/11/09/your-stroke-risk-is-72-percent-higher-during-these-3-hours-day/)
+    ```
+    A meta-analysis of almost 12,000 adult stroke patients found that people were 72 percent more likely to have a stroke between 6 and 9 a.m. compared with the remaining 21 hours of the day. Every type of stroke studied saw a morning spike 
+    ```
   - ARTICLES/VIDEOS
-    - [He finally did it..](https://www.youtube.com/watch?v=brgj2YiCeoE)
-    - [Trump Gets SCHLONGED and Michael Steele is Enjoying Every Second | Bulwark Daily](https://www.youtube.com/watch?v=KV2Lln09Pw4)
-    - [TAP the MFing Root & Reimagine THIS B*tch!](https://www.youtube.com/watch?v=qx8ecoxXDzo)
-    - [om Thinks Her Kids Can Steal From Target—Has No Idea Security Is Watching](https://www.youtube.com/watch?v=v_KD4tBAf3w)
+    - [Timex Harlequin 2048 'ZX Spectrum' clone DIY build](https://www.youtube.com/watch?v=9JzukbOr6ZM)
+    - [This is: Miyu 🇮🇩 | HIPHOP | Freestyle Dance Battle Compilation](https://www.youtube.com/watch?v=zlhwLI9oVt4)
+    - [How Did Greek Fire Work? And 6 Other Lost Inventions.](https://www.nytimes.com/2026/11/09/science/lost-inventions-to-time-greek-fire-antikythera.html)
 - Data Camp [DS]
   - XP: 5500  (Practice) --> 6800  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Review: Introduction to Regression with statsmodel in Python
@@ -86,6 +91,9 @@
 - PROJECT: Book Search Tool
     - Working on completing explanation of Part #1 code used
     - Continued working on Tutorialspoint article 
+    - Reading: Tutorialspoint SQLite 
+      - Completed chapter 1/50 - SQLite ─ Overview
+      - Working on chapter 2/50 - SQLite - Installation
 - PROJECT: Frontend Development
   - Started brainycode.com project
     - TODO: Worked on design
@@ -186,8 +194,13 @@
   - The 20 Games Challenge
     - See notes at C:\1000-days-of-code-repos\1000doc-docs\repo_docs\1000doc-python-projects\python_graphics\the_20_game_challenge from 
 - PROJECT: REAL PYTHON
-  - Build python script to convert all *.epub books to *.pdf 
-    - Notes on project: convert_epub_to_pdf
+  - [NumPy, SciPy, and pandas: Correlation With Python](https://realpython.com/numpy-scipy-pandas-correlation-python/)
+  - Consider:
+    - [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
+    - [Python Machine Learning Tutorials](https://realpython.com/tutorials/machine-learning/)
+    - [p values](https://www.statsdirect.com/help/basics/p_values.htm)
+    - [P-values Explained By Data Scientist](https://towardsdatascience.com/p-values-explained-by-data-scientist-f40a746cfc8/)
+    - [Python Statistics Fundamentals: How to Describe Your Data](https://realpython.com/python-statistics/)
   - [Python's asyncio: A Hands-On Walkthrough](https://realpython.com/async-io-python/)
     - Worked on first part 
   - [Regular Expressions and Building Regexes in Python](https://realpython.com/courses/building-regexes-python/)   
