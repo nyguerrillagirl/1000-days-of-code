@@ -1,4 +1,4 @@
-### Day 774: November 10, 2026 (Tuesday)
+### Day 775: November 11, 2026 (Wednesday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -23,6 +23,8 @@
     - thinkstats.pdf
     - ULTIMATE_MACHINE_LEARNING_WITH_SCIKIT_LEARN.pdf
   - GOALS:
+    - O'Reilly
+    - educative course
     - PDFBox 
     - Datacamp - WE DO NOT DO THIS MONTH DUE TO XP Issues!!
       - DO REVIEW of outstanding courses!
@@ -47,23 +49,17 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - [Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html)
-    - [Trump Veers Back Into Claims of Rigged Election](https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html)
-    - [Russell Brand Sentenced to 10 and a Half Years in Prison for Rape](https://www.nytimes.com/2026/11/09/arts/russell-brand-prison-sentence-rape.html)
+    - []()
+    - []()
+    - []()
 - WAPO
-    - [How to keep your brain sharp after retirement](https://www.washingtonpost.com/wellness/2026/11/07/how-keep-your-brain-sharp-after-retirement/)
-    ```
-    “People who rely heavily on work for purpose, daily structure, and social connections may experience a more disruptive transition,” she added.
-    ```
-    - [White House staff gave Trump bad advice, treated him ‘like a baby,’ ex-aide says](https://www.washingtonpost.com/health/2026/11/08/ex-trump-aide-calley-means-says-white-house-aides-treated-president-like-baby/)
-    - [Your stroke risk is 72 percent higher during these 3 hours of the day](https://www.washingtonpost.com/wellness/2026/11/09/your-stroke-risk-is-72-percent-higher-during-these-3-hours-day/)
-    ```
-    A meta-analysis of almost 12,000 adult stroke patients found that people were 72 percent more likely to have a stroke between 6 and 9 a.m. compared with the remaining 21 hours of the day. Every type of stroke studied saw a morning spike 
-    ```
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Timex Harlequin 2048 'ZX Spectrum' clone DIY build](https://www.youtube.com/watch?v=9JzukbOr6ZM)
-    - [This is: Miyu 🇮🇩 | HIPHOP | Freestyle Dance Battle Compilation](https://www.youtube.com/watch?v=zlhwLI9oVt4)
-    - [How Did Greek Fire Work? And 6 Other Lost Inventions.](https://www.nytimes.com/2026/11/09/science/lost-inventions-to-time-greek-fire-antikythera.html)
+    - [I read the 1,200 page book about the N@zis](https://www.youtube.com/watch?v=Wox12RYtydE)
+    - []()
+    - []()
 - Data Camp [DS]
   - XP: 5500  (Practice) --> 6800  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Review: Introduction to Regression with statsmodel in Python
@@ -92,8 +88,9 @@
     - Working on completing explanation of Part #1 code used
     - Continued working on Tutorialspoint article 
     - Reading: Tutorialspoint SQLite 
-      - Completed chapter 1/50 - SQLite ─ Overview
-      - Working on chapter 2/50 - SQLite - Installation
+      - Completed chapter 2/50 - SQLite - Installation
+      - Completed chapter 3/50 - SQlite - Commands
+      - Completed chapter 4/50 - SQLite - Syntax
 - PROJECT: Frontend Development
   - Started brainycode.com project
     - TODO: Worked on design
@@ -223,6 +220,9 @@
   - Book: An Illustrated Guide to AI Agents, Concepts and Code for Building Agents with LLMs, Tools and Memory
     - PART I: The Anatomy of an AI Agent
       - Working on chapter 1/10 - Introduction
+  - Book: Build a Large Language Model (From Scratch)
+    - Working on chapter 1/7 - Understanding larget language models
+    - I need to know PyTorch
 - Books
   - Tech Reading
     - Manning Publishing
