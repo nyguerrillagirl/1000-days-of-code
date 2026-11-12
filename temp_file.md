@@ -1,4 +1,4 @@
-### Day 775: November 11, 2026 (Wednesday)
+### Day 776: November 12, 2026 (Thursday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -57,7 +57,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [I read the 1,200 page book about the N@zis](https://www.youtube.com/watch?v=Wox12RYtydE)
+    - [A Note About Notebooks](https://www.youtube.com/watch?v=-vD1NisQxyY)
     - []()
     - []()
 - Data Camp [DS]
@@ -85,7 +85,11 @@
   - Course: Intermediate Git
     - Working on chapter 1/2 - Working with Branches
 - PROJECT: Book Search Tool
-    - Working on completing explanation of Part #1 code used
+    - Adding two new tables: 
+      - BOOKS_TO_PROCESS
+      - SAITOOL_PROPERTIES
+    - Add code to process property values, need to add code to my Java program to open and read 
+      my SQLite database - SAITOOLDB.
     - Continued working on Tutorialspoint article 
     - Reading: Tutorialspoint SQLite 
       - Completed chapter 2/50 - SQLite - Installation
