@@ -1,11 +1,11 @@
-### Day 776: November 12, 2026 (Thursday)
+### Day 777: November 13, 2026 (Friday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
   - Books with Linear Regression
     - Statistics-WEB.pdf
       - Continiue Reading chapter 12 - Linear Regression and Correlation
-      - current page: 707    end page: 736
+      - current page: 718    end page: 736
     - Statistics.pdf
     - headfirststatistics_ebook.pdf
     - Statistics_Every_Programmer_Needs.pdf
@@ -57,7 +57,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [A Note About Notebooks](https://www.youtube.com/watch?v=-vD1NisQxyY)
+    - [MAGA Is Starting to Collapse, and Trump Can’t Stop It](https://www.youtube.com/watch?v=nvBY3cVFuxg)
     - []()
     - []()
 - Data Camp [DS]
