@@ -1,7 +1,9 @@
-### Day 777: November 13, 2026 (Friday)
+### Day 778: November 14, 2026 (Saturday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
+  - ARTICLES (on System Design)
+    - Rereading: [Our Senior Java Candidate Used synchronized to Prevent Double Payments](https://medium.com/engineering-playbook/our-senior-java-candidate-used-synchronized-to-prevent-double-payments-we-added-a-second-server-934b48626960)
   - Books with Linear Regression
     - Statistics-WEB.pdf
       - Continiue Reading chapter 12 - Linear Regression and Correlation
@@ -57,7 +59,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [MAGA Is Starting to Collapse, and Trump Can’t Stop It](https://www.youtube.com/watch?v=nvBY3cVFuxg)
+    - [Black Ole Miss students say woman in viral video continued making racist gestures after being confronted: 'A slap in the face']()
     - []()
     - []()
 - Data Camp [DS]
@@ -140,6 +142,7 @@
     - educative.io
       - Course: Java Multithreading for Sr. Engineering Interviews
         - Working on 1/8 - The Basics  
+        - Worked on notes of Java implementation of mutex using sychronized, ReentrantLock and Semaphores
     - Started notebook with list of topics to learn
     - Working on topic #1 - lambda
     - Working on [Java 8 Features](https://blog.devops-monk.com/tutorials/java8/java8-overview/)
