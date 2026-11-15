@@ -1,4 +1,4 @@
-### Day 778: November 14, 2026 (Saturday)
+### Day 779: November 15, 2026 (Sunday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -60,8 +60,8 @@
     - []()
   - ARTICLES/VIDEOS
     - [Black Ole Miss students say woman in viral video continued making racist gestures after being confronted: 'A slap in the face']()
-    - []()
-    - []()
+    - ['Shock arrest': Trump DOJ brings felony charge against son of Obama's CIA chief]()
+    - [Lauren Boebert made one last ridiculous mistake on her way out of Congress]()
 - Data Camp [DS]
   - XP: 5500  (Practice) --> 6800  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Review: Introduction to Regression with statsmodel in Python
@@ -255,5 +255,7 @@
       - Working on forward
       - Working on chapter 1/21 - Earliest Memories
         page: 
+    - **Department of Fate**
+      - Working on Prolouge
  - GRADE: 
   - NA
