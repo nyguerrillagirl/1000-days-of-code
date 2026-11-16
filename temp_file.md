@@ -1,4 +1,4 @@
-### Day 779: November 15, 2026 (Sunday)
+### Day 780: November 16, 2026 (Monday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -51,17 +51,20 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - []()
-    - []()
-    - []()
+    - [After Relative Silence, Joe Rogan Said Trump’s Policies Have Lost the ‘Podcast Bros’](https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html)
+    - [Key Witness in Comey Case Attests to Justice Dept.’s Aggressive Tactics](https://www.nytimes.com/2026/11/14/us/politics/comey-witness-justice-dept-aggressive-tactics.html)
+    - [The Flaw at the Heart of Anthropic’s I.P.O.](https://www.nytimes.com/2026/11/15/opinion/anthropic-ipo-ai-investors.html)
 - WAPO
-    - []()
-    - []()
-    - []()
+    - [Better than Trump’s Jones Act waiver would be deep-sixing the law](https://www.washingtonpost.com/opinions/2026/11/14/trumps-jones-act-waiver-shows-why-congress-needs-repeal-law/)
+    - [Tulane granted him a diploma while investigating him for rape](https://www.washingtonpost.com/investigations/2026/11/15/tulane-university-gave-tate-weston-diploma-while-investigating-him-rape/)
+    - [A potential 2028 candidate takes himself out of the running, as others gear up](https://www.washingtonpost.com/politics/2026/11/14/potential-2028-candidate-is-out-running-others-gear-up/)
   - ARTICLES/VIDEOS
-    - [Black Ole Miss students say woman in viral video continued making racist gestures after being confronted: 'A slap in the face']()
-    - ['Shock arrest': Trump DOJ brings felony charge against son of Obama's CIA chief]()
-    - [Lauren Boebert made one last ridiculous mistake on her way out of Congress]()
+    - [Trump has retreated to his 'bunker' as nation turns on him: leaker]()
+    - [Are Trump officials living in an alternate reality?](POLITICO)
+    - [Republicans abandoning 'suicide mission' 2028 presidential plans]()
+    - [Bored Teens Push Log Off Cliff, Kill a Mom](https://www.youtube.com/watch?v=OIDEGRAcqVY)
+    - [Passenger finds woman in assigned plane seat—then comes her six-word question]()
+    - [Biden reveals what Angela Merkel really thought of Donald Trump]()
 - Data Camp [DS]
   - XP: 5500  (Practice) --> 6800  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Review: Introduction to Regression with statsmodel in Python
@@ -138,6 +141,8 @@
   - Working on Film/Series App 
     - [Part 3: Building a Multi-Layered Architecture in C# .NET Core for a Film/Series Review Application](https://kaanceliker.medium.com/part-3-building-a-multi-layered-architecture-in-c-net-core-for-a-film-series-review-application-d131d8b23a3e)
 - PROJECT: Java
+  - Article:
+    - [Java Collections Framework: The Complete Map](https://www.codebegun.com/learn/java/collections/collections-framework?utm_source=copilot.com)
   - Notes on Advanced Java Topics
     - educative.io
       - Course: Java Multithreading for Sr. Engineering Interviews
