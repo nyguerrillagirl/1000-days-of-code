@@ -1,4 +1,4 @@
-### Day 780: November 16, 2026 (Monday)
+### Day 781: November 17, 2026 (Tuesday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -51,30 +51,35 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - [After Relative Silence, Joe Rogan Said Trump’s Policies Have Lost the ‘Podcast Bros’](https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html)
-    - [Key Witness in Comey Case Attests to Justice Dept.’s Aggressive Tactics](https://www.nytimes.com/2026/11/14/us/politics/comey-witness-justice-dept-aggressive-tactics.html)
-    - [The Flaw at the Heart of Anthropic’s I.P.O.](https://www.nytimes.com/2026/11/15/opinion/anthropic-ipo-ai-investors.html)
+    - []()
+    - []()
+    - []()
 - WAPO
-    - [Better than Trump’s Jones Act waiver would be deep-sixing the law](https://www.washingtonpost.com/opinions/2026/11/14/trumps-jones-act-waiver-shows-why-congress-needs-repeal-law/)
-    - [Tulane granted him a diploma while investigating him for rape](https://www.washingtonpost.com/investigations/2026/11/15/tulane-university-gave-tate-weston-diploma-while-investigating-him-rape/)
-    - [A potential 2028 candidate takes himself out of the running, as others gear up](https://www.washingtonpost.com/politics/2026/11/14/potential-2028-candidate-is-out-running-others-gear-up/)
+    - []()
+    - []()
+    - []()
   - ARTICLES/VIDEOS
-    - [Trump has retreated to his 'bunker' as nation turns on him: leaker]()
-    - [Are Trump officials living in an alternate reality?](POLITICO)
-    - [Republicans abandoning 'suicide mission' 2028 presidential plans]()
-    - [Bored Teens Push Log Off Cliff, Kill a Mom](https://www.youtube.com/watch?v=OIDEGRAcqVY)
-    - [Passenger finds woman in assigned plane seat—then comes her six-word question]()
-    - [Biden reveals what Angela Merkel really thought of Donald Trump]()
+    - [Pyscho Ex Stalker Plants GPS & Shows Up on Her Date](https://www.youtube.com/watch?v=Rri731tculA)
+    - [Fetterman's poll collapse has no historical match as he threatens to quit Dems: data guru]()
+    - ['Today' star Willie Geist announces major new career move: 'Bittersweet goodbye']()
+    - [America's Greatest High School Runner Ever... What Went Wrong?]()
 - Data Camp [DS]
   - XP: 5500  (Practice) --> 6800  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Review: Introduction to Regression with statsmodel in Python
   - Review: Hypothesis Testing in Python
   - Practice:
-    - Sampling in Python
+    - Introduction to APIs in Python
+    - Introduction to Git
+    - Database Design
+    - Introduction to AI Agents 
+    - Forming Analytical Questions
+    - Introduction to Data Culture
   - Course: Introduction to Regression with statsmodel in Python
+    - Reviewed Chapter 1 (Simple Linear Regression Model), Part 1/3 - A tale of two variables
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Hypothesis Testing in Python
+    - Reviewing chapter 1, part 1/3: Hypothesis tests and z-scores
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
   - Course: Data Structures and Algorithms in Python
     - Working on chapter 2/4 - Working with queues
