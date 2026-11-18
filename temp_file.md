@@ -1,4 +1,4 @@
-### Day 781: November 17, 2026 (Tuesday)
+### Day 782: November 18, 2026 (Wednesday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -51,35 +51,49 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - []()
-    - []()
-    - []()
+    - [Emboldened by G.O.P. Election Losses, Iran Digs In, Officials Say](https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html)
+    - [A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet](https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html)
+    - [Ten Days That Changed the World](https://www.nytimes.com/interactive/2026/11/16/magazine/ten-days-175-years.html)
+    - [Nov. 24, 1859: Darwin's 'On the Origin of the Species' is published](https://www.nytimes.com/interactive/2026/11/16/magazine/charles-darwin-origin-species-evolution.html)
+```
+1. On the Origin of Species (Darwin)
+2. Why Evolution Is True (Coyne)
+3. The Beak of the Finch (Weiner)
+4. The Selfish Gene (Dawkins)
+5. The Descent of Man (Darwin)
+
+That sequence lets you see:
+Darwin's original argument,
+the modern evidence,
+evolution observed in nature,
+the genetic foundation Darwin lacked,
+and the application to humans.
+
+Given your tendency to enjoy understanding how systems work from the inside, I suspect you'd particularly enjoy Why Evolution Is True and then a deeper dive into population genetics, which is the mathematical engine underneath Darwin's ideas. It's the evolutionary equivalent of learning how a Java HashMap works internally rather than merely using one.
+```
 - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Pyscho Ex Stalker Plants GPS & Shows Up on Her Date](https://www.youtube.com/watch?v=Rri731tculA)
-    - [Fetterman's poll collapse has no historical match as he threatens to quit Dems: data guru]()
-    - ['Today' star Willie Geist announces major new career move: 'Bittersweet goodbye']()
-    - [America's Greatest High School Runner Ever... What Went Wrong?]()
+    - [The Real Turning Point of WWII — It Wasn’t Stalingrad](https://www.youtube.com/watch?v=17OaGuAJebU)
+    - [Kushner's Trump hotel dream dies an unceremonious death as Serbia deep-sixes deal]()
+    - [Woman puts baby in car seat in Walmart parking lot, then she's punched in the face by a 77-year-old man]()
 - Data Camp [DS]
-  - XP: 5500  (Practice) --> 6800  [Exa - Last week: TBD XP (TBD in Exa League)]
-  - Review: Introduction to Regression with statsmodel in Python
-  - Review: Hypothesis Testing in Python
+  - XP: 1500  (Practice) --> TBD  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Practice:
-    - Introduction to APIs in Python
+    - Introduction to Importing Data in R
+    - Introduction to R
+    - Work with Linked Lists and Stacks and Understand Big O Notation
     - Introduction to Git
     - Database Design
-    - Introduction to AI Agents 
-    - Forming Analytical Questions
-    - Introduction to Data Culture
+    - Introduction to Data Literacy
   - Course: Introduction to Regression with statsmodel in Python
     - Reviewed Chapter 1 (Simple Linear Regression Model), Part 1/3 - A tale of two variables
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Hypothesis Testing in Python
-    - Reviewing chapter 1, part 1/3: Hypothesis tests and z-scores
+    - I need to read a statistics book on Type I and Type II errors, p-values and z-scores!
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
   - Course: Data Structures and Algorithms in Python
     - Working on chapter 2/4 - Working with queues
@@ -88,8 +102,6 @@
     - Working on chapter 2/4 - What you write is not what SQL sees
   - Course: PostgreSQL Summary Stats and Window Functions
     - Working on chapter 1/4 - Introduction to window functions
-  - Course: Optimizing Code in Java
-    - Working on chapter 1/3 - Fundamentals of Software Performance
   - Course: Writing Efficient Code with pandas
     - Working on chapter 1/4 - Selecting columns and rows efficiently
   - Course: Intermediate Git
@@ -168,8 +180,6 @@
     - Reading: Spring in Action, 6th Edition
       - Working on chapter 2/18 - Developing Web Applications
       - Current page: 29   last_page: 60
-    - Reading: Master Bootstrap 5, Zero to Hero by Rishi Ray
-      - Working on chapter 1/24: Understanding the Web Development Essentials
   - [Datacamp Java Project](https://www.datacamp.com/blog/java-projects-for-all-levels)
   - Working on Java Interview Questions
     - explored "What is the difference between == and .equals()"
