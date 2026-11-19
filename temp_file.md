@@ -1,4 +1,5 @@
-### Day 782: November 18, 2026 (Wednesday)
+
+### Day 783: November 19, 2026 (Thursday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -51,45 +52,53 @@
     - Need to finish up AMS Pure and Applied Undergraduate Text:
       - https://bookstore.ams.org/amstext
   - NYT
-    - [Emboldened by G.O.P. Election Losses, Iran Digs In, Officials Say](https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html)
-    - [A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet](https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html)
     - [Ten Days That Changed the World](https://www.nytimes.com/interactive/2026/11/16/magazine/ten-days-175-years.html)
     - [Nov. 24, 1859: Darwin's 'On the Origin of the Species' is published](https://www.nytimes.com/interactive/2026/11/16/magazine/charles-darwin-origin-species-evolution.html)
-```
-1. On the Origin of Species (Darwin)
-2. Why Evolution Is True (Coyne)
-3. The Beak of the Finch (Weiner)
-4. The Selfish Gene (Dawkins)
-5. The Descent of Man (Darwin)
-
-That sequence lets you see:
-Darwin's original argument,
-the modern evidence,
-evolution observed in nature,
-the genetic foundation Darwin lacked,
-and the application to humans.
-
-Given your tendency to enjoy understanding how systems work from the inside, I suspect you'd particularly enjoy Why Evolution Is True and then a deeper dive into population genetics, which is the mathematical engine underneath Darwin's ideas. It's the evolutionary equivalent of learning how a Java HashMap works internally rather than merely using one.
-```
+    - []()
+    - []()
+    - []()
 - WAPO
     - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [The Real Turning Point of WWII — It Wasn’t Stalingrad](https://www.youtube.com/watch?v=17OaGuAJebU)
-    - [Kushner's Trump hotel dream dies an unceremonious death as Serbia deep-sixes deal]()
-    - [Woman puts baby in car seat in Walmart parking lot, then she's punched in the face by a 77-year-old man]()
+    - [Hungover Markwayne Mullin gets knifed by mystery GOP foe | Opinion]()
+    - [Fury as Republican senator blocks Trump’s conservative judge nomination]()
+    - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> TBD  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Practice:
-    - Introduction to Importing Data in R
-    - Introduction to R
-    - Work with Linked Lists and Stacks and Understand Big O Notation
-    - Introduction to Git
-    - Database Design
-    - Introduction to Data Literacy
+    - Hypothesis Testing Fundamentals
+    - Data Warehousing Concepts
+    - Introduction to Python
+    - Introduction to APIs in Python
+    - Intermediate Importing Data in Python   
+    - Introduction to Java
+    - Communicating Data Insights
+    - Understanding Cloud Computing
   - Course: Introduction to Regression with statsmodel in Python
     - Reviewed Chapter 1 (Simple Linear Regression Model), Part 1/3 - A tale of two variables
+    - Terms:
+      - response variable, dependent, or y
+      - explanatory variable, independent, x
+      - linear regression - used when response variable is numeric
+      - linear regression vs. logistic regression
+      - visualize dataset using a scatter plot
+      - use regplot() to view trend lines (e.g. sns.regplot(x='n_claims', y='total_payment_sek', data=SOMEDATAFRAME, ci=None))
+      - We will use import statsmodels.api as sm
+      ```
+      1. import statsmodels.api as sm
+      2. X = sm.add_constant(X)   # adds intercept term
+      3. model = sm.OLS(y, X)
+      4. results = model.fit()
+      ```
+      - OLS => Ordinary Least Squares
+      - Or use the formular interface:
+      ```
+      1. import statsmodels.formula.api as smf
+      2. results = smf.ols("y ~ x1 + x2 + x3", data=df).fit()
+      ```
+      - Straight lines are defined by a slope and an intercept: y = intercept + slope * x
     - Working on chapter 2/4 - Making predictions
     - OLS - Ordinary Least Squares
   - Course: Hypothesis Testing in Python
