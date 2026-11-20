@@ -1,5 +1,5 @@
 
-### Day 783: November 19, 2026 (Thursday)
+### Day 784: November 20, 2026 (Friday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -9,6 +9,8 @@
     - Statistics-WEB.pdf
       - Continiue Reading chapter 12 - Linear Regression and Correlation
       - current page: 718    end page: 736
+      - TODO: Read Chapter 9 -Hypothesis Testing with One Sample
+      - TODO: Read Chapter 10 - Hypothesis Testing with Two Samples
     - Statistics.pdf
     - headfirststatistics_ebook.pdf
     - Statistics_Every_Programmer_Needs.pdf
@@ -62,45 +64,22 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Hungover Markwayne Mullin gets knifed by mystery GOP foe | Opinion]()
-    - [Fury as Republican senator blocks Trump’s conservative judge nomination]()
+    - [Professional Player vs 4 Google Employees | AoE2](https://www.youtube.com/watch?v=fZeCXQTfdZ4)
+    - []()
     - []()
 - Data Camp [DS]
   - XP: 1500  (Practice) --> TBD  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Practice:
-    - Hypothesis Testing Fundamentals
-    - Data Warehousing Concepts
-    - Introduction to Python
-    - Introduction to APIs in Python
-    - Intermediate Importing Data in Python   
-    - Introduction to Java
-    - Communicating Data Insights
-    - Understanding Cloud Computing
+    - Working with branches
+    - Intermediate Importing Data in R
+    - Introduction to Data Science in Python
+    - Introduction to Relational Databases in SQL
+    - Large Language Models (LLMs) Concepts
+    - Statistical Thinking in Python (Part 2)
+    - Introduction to Data - COMPLETED
+    - Data Manipulation in SQL - COMPLETED
   - Course: Introduction to Regression with statsmodel in Python
     - Reviewed Chapter 1 (Simple Linear Regression Model), Part 1/3 - A tale of two variables
-    - Terms:
-      - response variable, dependent, or y
-      - explanatory variable, independent, x
-      - linear regression - used when response variable is numeric
-      - linear regression vs. logistic regression
-      - visualize dataset using a scatter plot
-      - use regplot() to view trend lines (e.g. sns.regplot(x='n_claims', y='total_payment_sek', data=SOMEDATAFRAME, ci=None))
-      - We will use import statsmodels.api as sm
-      ```
-      1. import statsmodels.api as sm
-      2. X = sm.add_constant(X)   # adds intercept term
-      3. model = sm.OLS(y, X)
-      4. results = model.fit()
-      ```
-      - OLS => Ordinary Least Squares
-      - Or use the formular interface:
-      ```
-      1. import statsmodels.formula.api as smf
-      2. results = smf.ols("y ~ x1 + x2 + x3", data=df).fit()
-      ```
-      - Straight lines are defined by a slope and an intercept: y = intercept + slope * x
-    - Working on chapter 2/4 - Making predictions
-    - OLS - Ordinary Least Squares
   - Course: Hypothesis Testing in Python
     - I need to read a statistics book on Type I and Type II errors, p-values and z-scores!
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
@@ -112,9 +91,8 @@
   - Course: PostgreSQL Summary Stats and Window Functions
     - Working on chapter 1/4 - Introduction to window functions
   - Course: Writing Efficient Code with pandas
-    - Working on chapter 1/4 - Selecting columns and rows efficiently
-  - Course: Intermediate Git
-    - Working on chapter 1/2 - Working with Branches
+    - Completed chapter 2/4 - Replacing values in DataFrame
+    - Working on chapter 3/4 - Efficient iterating
 - PROJECT: Book Search Tool
     - Adding two new tables: 
       - BOOKS_TO_PROCESS
