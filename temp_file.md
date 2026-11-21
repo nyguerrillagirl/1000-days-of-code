@@ -1,5 +1,5 @@
 
-### Day 784: November 20, 2026 (Friday)
+### Day 785: November 21, 2026 (Saturday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -60,26 +60,29 @@
     - []()
     - []()
 - WAPO
-    - []()
+    - [White House replaces top cybersecurity official after string of outages](https://www.washingtonpost.com/politics/2026/11/19/white-house-replaces-top-cybersecurity-official/)
     - []()
     - []()
   - ARTICLES/VIDEOS
     - [Professional Player vs 4 Google Employees | AoE2](https://www.youtube.com/watch?v=fZeCXQTfdZ4)
-    - []()
-    - []()
+    - [MAGA Bigot SHOCKED to Learn Her Racism Has Consequences](https://www.youtube.com/watch?v=rMPz3ptAQYs)
+    - [Fox’s Brian Kilmeade Absolutely LAYS INTO JD Vance](https://www.youtube.com/watch?v=4KsH7eTdQuM)
+    - [Elon Musk Has Half a Billion Regrets (w/ Patrick Gaspard) | Bulwark Daily](https://www.youtube.com/watch?v=hFeBIm6HYTQ)
+    - [What Will Trump Do When He Runs Out of Women to Fire?](https://www.vanityfair.com/story/trump-fires-women-susie-wiles?srsltid=AYCX9vL5Y10bNb2FceOOTT_-5ekYlziO6y9outByss9ORcoWHxArjLE_)
 - Data Camp [DS]
-  - XP: 1500  (Practice) --> TBD  [Exa - Last week: TBD XP (TBD in Exa League)]
+  - XP: 2000  (Practice) --> TBD  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Practice:
-    - Working with branches
-    - Intermediate Importing Data in R
-    - Introduction to Data Science in Python
-    - Introduction to Relational Databases in SQL
-    - Large Language Models (LLMs) Concepts
-    - Statistical Thinking in Python (Part 2)
-    - Introduction to Data - COMPLETED
-    - Data Manipulation in SQL - COMPLETED
+    - Intermediate Git
+    - Introduction to Data Visualization with Matplotlib
+    - Intermediate Python
+    - Introduction to Databases in Python
+    - Joining Data in SQL
+    - Web Scraping in Python
+    - Introductions SQL
+    - Intermediate SQL
   - Course: Introduction to Regression with statsmodel in Python
-    - Reviewed Chapter 1 (Simple Linear Regression Model), Part 1/3 - A tale of two variables
+    - Completed Reviewed Chapter 1 (Simple Linear Regression Model), Part 1/3 - A tale of two variables
+    - Working on review in Part 2/3 - Predictions and model objectsW
   - Course: Hypothesis Testing in Python
     - I need to read a statistics book on Type I and Type II errors, p-values and z-scores!
     - Working on chapter 1/4 - Hypothesis Testing Fundamentals
@@ -91,8 +94,11 @@
   - Course: PostgreSQL Summary Stats and Window Functions
     - Working on chapter 1/4 - Introduction to window functions
   - Course: Writing Efficient Code with pandas
-    - Completed chapter 2/4 - Replacing values in DataFrame
     - Working on chapter 3/4 - Efficient iterating
+  - Course: Querying a PostgreSQL Database in Java
+     - Working on chapter 1/3 - Connecting Java to PostgreSQL
+  - Course: Importing Data in Java
+    - Working on chapter 1/3 - Introduction to Data Management in Java
 - PROJECT: Book Search Tool
     - Adding two new tables: 
       - BOOKS_TO_PROCESS
@@ -263,6 +269,10 @@
       - Working on chapter 1/21 - Earliest Memories
         page: 
     - **Department of Fate**
-      - Working on Prolouge
+      - Completed -  Prolouge - Never a Crusader
+        - This chapter presented an article written by Robert H. Jackson. It is still
+          used and references by both sides of Justice - prosecutors and defendant lawyers.
+      - Part I: 1870-1871
+        - Working on chapter 1/33 - On Behalf of Lady Justice 
  - GRADE: 
   - NA
