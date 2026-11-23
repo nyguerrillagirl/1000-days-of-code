@@ -1,5 +1,4 @@
-
-### Day 785: November 21, 2026 (Saturday)
+### Day 787: November 23, 2026 (Monday)
 - NOTES FOR THE DAY:
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -60,26 +59,24 @@
     - []()
     - []()
 - WAPO
-    - [White House replaces top cybersecurity official after string of outages](https://www.washingtonpost.com/politics/2026/11/19/white-house-replaces-top-cybersecurity-official/)
+    - []()
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Professional Player vs 4 Google Employees | AoE2](https://www.youtube.com/watch?v=fZeCXQTfdZ4)
-    - [MAGA Bigot SHOCKED to Learn Her Racism Has Consequences](https://www.youtube.com/watch?v=rMPz3ptAQYs)
-    - [Fox’s Brian Kilmeade Absolutely LAYS INTO JD Vance](https://www.youtube.com/watch?v=4KsH7eTdQuM)
-    - [Elon Musk Has Half a Billion Regrets (w/ Patrick Gaspard) | Bulwark Daily](https://www.youtube.com/watch?v=hFeBIm6HYTQ)
-    - [What Will Trump Do When He Runs Out of Women to Fire?](https://www.vanityfair.com/story/trump-fires-women-susie-wiles?srsltid=AYCX9vL5Y10bNb2FceOOTT_-5ekYlziO6y9outByss9ORcoWHxArjLE_)
+    - []()
+    - []()
+    - []()
 - Data Camp [DS]
   - XP: 2000  (Practice) --> TBD  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Practice:
-    - Intermediate Git
-    - Introduction to Data Visualization with Matplotlib
-    - Intermediate Python
-    - Introduction to Databases in Python
-    - Joining Data in SQL
-    - Web Scraping in Python
-    - Introductions SQL
-    - Intermediate SQL
+    - Working with Categorical Data in Python
+    - Introduction to NumPy
+    - Data Manipulation with pandas
+    - AI Ethics
+    - Generative AI Concepts
+    - Introduction to Python for Developers
+    - Intermediate Python for Developers
+    - Understanding ChatGPT
   - Course: Introduction to Regression with statsmodel in Python
     - Completed Reviewed Chapter 1 (Simple Linear Regression Model), Part 1/3 - A tale of two variables
     - Working on review in Part 2/3 - Predictions and model objectsW
