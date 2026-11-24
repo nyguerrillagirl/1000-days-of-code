@@ -1,9 +1,12 @@
-### Day 787: November 23, 2026 (Monday)
+### Day 788: November 24, 2026 (Tuesday)
 - NOTES FOR THE DAY:
+  - NO DATACAMP THIS WEEK! Continue review of all courses open but not visited.
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
   - ARTICLES (on System Design)
     - Rereading: [Our Senior Java Candidate Used synchronized to Prevent Double Payments](https://medium.com/engineering-playbook/our-senior-java-candidate-used-synchronized-to-prevent-double-payments-we-added-a-second-server-934b48626960)
+      - COMPLETED REVIEWING THIS ARTICLE. Solidied my understanding of the interaction of
+        Java constructs and database locking.
   - Books with Linear Regression
     - Statistics-WEB.pdf
       - Continiue Reading chapter 12 - Linear Regression and Correlation
@@ -63,7 +66,7 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - []()
+    - [Humiliated Trump gets awkward reality check at crypto dinner]()
     - []()
     - []()
 - Data Camp [DS]
@@ -226,13 +229,14 @@
     - Working on these notes
   - [Course: Python Type Checking: Overview](https://realpython.com/videos/python-type-checking-overview/)
 - PROJECT: Learning Data Science with Python Workbook (LDSPW)
-    - Statistics
-      - Learning Statistics on Datacamp
-        - Working on notes **Student's Guide to Statistics and Probability**
-          - worked on notes
-      - Working on Probability Bootcamp - https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V
-        - Completed 1/44 - Probability and Statistics Overview
-        - Working on MANNING/STATISTICS_EVERY_PROGRAMMER_NEEDS
+  - Exploring Linear Regression
+  - Statistics
+    - Learning Statistics on Datacamp
+      - Working on notes **Student's Guide to Statistics and Probability**
+        - worked on notes
+    - Working on Probability Bootcamp - https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V
+      - Completed 1/44 - Probability and Statistics Overview
+      - Working on MANNING/STATISTICS_EVERY_PROGRAMMER_NEEDS
 - PROJECT: AI
   - Book: An Illustrated Guide to AI Agents, Concepts and Code for Building Agents with LLMs, Tools and Memory
     - PART I: The Anatomy of an AI Agent
