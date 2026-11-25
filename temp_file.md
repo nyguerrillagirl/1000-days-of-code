@@ -1,16 +1,15 @@
-### Day 788: November 24, 2026 (Tuesday)
+
+### Day 789: November 25, 2026 (Wednesday)
 - NOTES FOR THE DAY:
+  - Work on program to update all folders (except those on EXCEPTION_LIST) to today's date
   - NO DATACAMP THIS WEEK! Continue review of all courses open but not visited.
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
-  - ARTICLES (on System Design)
-    - Rereading: [Our Senior Java Candidate Used synchronized to Prevent Double Payments](https://medium.com/engineering-playbook/our-senior-java-candidate-used-synchronized-to-prevent-double-payments-we-added-a-second-server-934b48626960)
-      - COMPLETED REVIEWING THIS ARTICLE. Solidied my understanding of the interaction of
-        Java constructs and database locking.
   - Books with Linear Regression
     - Statistics-WEB.pdf
       - Continiue Reading chapter 12 - Linear Regression and Correlation
-      - current page: 718    end page: 736
+        - Worked on using 95 Percent Critical Values of the Sample Correlation Coefficient Table
+      - current page: 719    end page: 736
       - TODO: Read Chapter 9 -Hypothesis Testing with One Sample
       - TODO: Read Chapter 10 - Hypothesis Testing with Two Samples
     - Statistics.pdf
@@ -66,9 +65,10 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Humiliated Trump gets awkward reality check at crypto dinner]()
-    - []()
-    - []()
+    - [Racist Karen & Husband Harass Family Buying House—Now Both Careers are Gone!](https://www.youtube.com/watch?v=eTF_S0_1dYQ)
+    - [Inside MAGA’s Wildest Feud (Highly NSFW!)](https://www.youtube.com/watch?v=2wyhwB8VFTc)
+    - [The Science of Learning New Things | Tania Lombrozo | TED](https://www.youtube.com/watch?v=4qxROUatTzk)
+    - [Racism Ended This Team's Season, and Potentially Their Careers](https://www.youtube.com/watch?v=tYwH4CO_0_M)
 - Data Camp [DS]
   - XP: 2000  (Practice) --> TBD  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Practice:
