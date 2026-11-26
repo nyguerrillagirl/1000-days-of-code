@@ -1,7 +1,14 @@
-
 ### Day 789: November 25, 2026 (Wednesday)
 - NOTES FOR THE DAY:
+  - Garrison:
+      MATCH               PREDICTION    ACTUAL      COMMENT
+    - Yo v. Sitauz        3-1           
+    - TaToH v. ACCM       3-2           
+    - Lieryy v. Sebastian 2-3           
+    - Hera v. Vinchester  3-1
   - Work on program to update all folders (except those on EXCEPTION_LIST) to today's date
+    - Created Python program that updates the timestamps of all folders in Downloads that
+      are not on the exception list.
   - NO DATACAMP THIS WEEK! Continue review of all courses open but not visited.
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -56,7 +63,7 @@
       - https://bookstore.ams.org/amstext
   - NYT
     - [Ten Days That Changed the World](https://www.nytimes.com/interactive/2026/11/16/magazine/ten-days-175-years.html)
-    - [Nov. 24, 1859: Darwin's 'On the Origin of the Species' is published](https://www.nytimes.com/interactive/2026/11/16/magazine/charles-darwin-origin-species-evolution.html)
+        - [Nov. 24, 1859: Darwin's 'On the Origin of the Species' is published](https://www.nytimes.com/interactive/2026/11/16/magazine/charles-darwin-origin-species-evolution.html)
     - []()
     - []()
     - []()
@@ -65,10 +72,9 @@
     - []()
     - []()
   - ARTICLES/VIDEOS
-    - [Racist Karen & Husband Harass Family Buying House—Now Both Careers are Gone!](https://www.youtube.com/watch?v=eTF_S0_1dYQ)
-    - [Inside MAGA’s Wildest Feud (Highly NSFW!)](https://www.youtube.com/watch?v=2wyhwB8VFTc)
-    - [The Science of Learning New Things | Tania Lombrozo | TED](https://www.youtube.com/watch?v=4qxROUatTzk)
-    - [Racism Ended This Team's Season, and Potentially Their Careers](https://www.youtube.com/watch?v=tYwH4CO_0_M)
+    - [Dave Rubin Watches Helplessly as Blue Tsunami Obliterates His Reputation](https://www.youtube.com/watch?v=dnsR2m9_ybo)
+    - []()
+    - []()
 - Data Camp [DS]
   - XP: 2000  (Practice) --> TBD  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Practice:
