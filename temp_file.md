@@ -1,9 +1,9 @@
-### Day 789: November 25, 2026 (Wednesday)
+### Day 791: November 27, 2026 (Friday)
 - NOTES FOR THE DAY:
   - Garrison:
       MATCH               PREDICTION    ACTUAL      COMMENT
-    - Yo v. Sitauz        3-1           
-    - TaToH v. ACCM       3-2           
+    - Yo v. Sitauz        3-1           3-1         Called It!         
+    - TaToH v. ACCM       3-2           1-3         ACCM won. I am disappointed.       
     - Lieryy v. Sebastian 2-3           
     - Hera v. Vinchester  3-1
   - Work on program to update all folders (except those on EXCEPTION_LIST) to today's date
@@ -70,11 +70,12 @@
 - WAPO
     - []()
     - []()
-    - []()
+    - [Britain’s half-hearted Brexit is becoming half-baked reentry](https://www.washingtonpost.com/opinions/2026/11/26/andy-burnhams-eu-reset-wont-solve-britains-post-brexit-problems/)
   - ARTICLES/VIDEOS
     - [Dave Rubin Watches Helplessly as Blue Tsunami Obliterates His Reputation](https://www.youtube.com/watch?v=dnsR2m9_ybo)
-    - []()
-    - []()
+    - [Aaron Rodgers vs. Mike McCarthy: Steelers EXPOSED](https://www.youtube.com/watch?v=XvDE2NBWgI4)
+    - [Jensen Huang Isn’t Worried. But You Should Be.](https://www.theatlantic.com/ideas/2026/11/nvidia-stock-market-crisis/689557/)
+    - [Republican election guru delivers savage verdict on Trump]()
 - Data Camp [DS]
   - XP: 2000  (Practice) --> TBD  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Practice:
@@ -162,8 +163,8 @@
   - Notes on Advanced Java Topics
     - educative.io
       - Course: Java Multithreading for Sr. Engineering Interviews
-        - Working on 1/8 - The Basics  
-        - Worked on notes of Java implementation of mutex using sychronized, ReentrantLock and Semaphores
+        - Completed 1/8 - The Basics  
+        - Working on 2/8 - Multithreading in Java
     - Started notebook with list of topics to learn
     - Working on topic #1 - lambda
     - Working on [Java 8 Features](https://blog.devops-monk.com/tutorials/java8/java8-overview/)
@@ -246,7 +247,9 @@
 - PROJECT: AI
   - Book: An Illustrated Guide to AI Agents, Concepts and Code for Building Agents with LLMs, Tools and Memory
     - PART I: The Anatomy of an AI Agent
-      - Working on chapter 1/10 - Introduction
+      - Completed chapter 1/10 - Introduction
+      - Working on chapter 2/10 - Large Language Models
+      - Created initial TinyAgent Python project
   - Book: Build a Large Language Model (From Scratch)
     - Working on chapter 1/7 - Understanding larget language models
     - I need to know PyTorch
