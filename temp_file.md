@@ -1,14 +1,11 @@
-### Day 791: November 27, 2026 (Friday)
+### Day 792: November 28, 2026 (Saturday)
 - NOTES FOR THE DAY:
   - Garrison:
       MATCH               PREDICTION    ACTUAL      COMMENT
-    - Yo v. Sitauz        3-1           3-1         Called It!         
-    - TaToH v. ACCM       3-2           1-3         ACCM won. I am disappointed.       
-    - Lieryy v. Sebastian 2-3           
-    - Hera v. Vinchester  3-1
-  - Work on program to update all folders (except those on EXCEPTION_LIST) to today's date
-    - Created Python program that updates the timestamps of all folders in Downloads that
-      are not on the exception list.
+    - Yo v. Lieryy        1-3           1-3         Called It!              
+    - Vinchester v. ACCM  3-2           2-3         ACCM won. Darn.           
+    - Hera v. Sebastian   3-2           3-1         Hera 
+    - Lieryy v. ACCM      3-1           3-1         Called It!  
   - NO DATACAMP THIS WEEK! Continue review of all courses open but not visited.
   - Got mail that Manning MEAP book: Testing Spring Boot Applications
     - did not process replacement yet
@@ -64,18 +61,18 @@
   - NYT
     - [Ten Days That Changed the World](https://www.nytimes.com/interactive/2026/11/16/magazine/ten-days-175-years.html)
         - [Nov. 24, 1859: Darwin's 'On the Origin of the Species' is published](https://www.nytimes.com/interactive/2026/11/16/magazine/charles-darwin-origin-species-evolution.html)
-    - []()
-    - []()
-    - []()
+    - [Five Big Questions for the 2028 Presidential Race](https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html)
+    - [The Society Page Reporter Who Outraged the Jet Set](https://www.nytimes.com/2026/11/27/style/charlotte-curtis-black-panthers.html)
+    - [4 Easy Ways to Eat More Fiber](https://www.nytimes.com/2026/01/05/well/eat/tips-for-getting-more-fiber.html)
 - WAPO
-    - []()
-    - []()
-    - [Britain’s half-hearted Brexit is becoming half-baked reentry](https://www.washingtonpost.com/opinions/2026/11/26/andy-burnhams-eu-reset-wont-solve-britains-post-brexit-problems/)
+    - [This campus movement is battling the decay of American civic life](https://www.washingtonpost.com/opinions/2026/11/27/college-civics-education-programs-are-bolstering-democratic-values/)
+    - [Virginia sheriff’s office ends agreement with ICE after court ruling](https://www.washingtonpost.com/dc-md-va/2026/11/27/loudoun-county-virginia-sheriffs-office-ends-agreement-with-ice-after-ruling/)
+    - [Denials soar for ‘extraordinary ability’ visa in program once used by Melania Trump](https://www.washingtonpost.com/business/2026/11/27/trump-administration-has-escalated-denials-einstein-visa/)
   - ARTICLES/VIDEOS
-    - [Dave Rubin Watches Helplessly as Blue Tsunami Obliterates His Reputation](https://www.youtube.com/watch?v=dnsR2m9_ybo)
-    - [Aaron Rodgers vs. Mike McCarthy: Steelers EXPOSED](https://www.youtube.com/watch?v=XvDE2NBWgI4)
-    - [Jensen Huang Isn’t Worried. But You Should Be.](https://www.theatlantic.com/ideas/2026/11/nvidia-stock-market-crisis/689557/)
-    - [Republican election guru delivers savage verdict on Trump]()
+    - [Ex-GOP strategist predicts how long Trump’s GOP will pay for MAGA]()
+    - [Trump condemned over 'gutter racism' in shocking Truth Social post]()
+    - [Nate Silver predicts 'entirely reasonable' end to Trump's White House reign]()
+    - [AI helped solve my favorite math problem. Why can’t I celebrate?](https://www.scientificamerican.com/article/why-ais-proof-of-the-riemann-hypothesis-is-so-bittersweet/)    
 - Data Camp [DS]
   - XP: 2000  (Practice) --> TBD  [Exa - Last week: TBD XP (TBD in Exa League)]
   - Practice:
